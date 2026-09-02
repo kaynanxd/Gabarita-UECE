@@ -1,0 +1,188 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// -------------------------------------------------------------
+// 1. Usuários & Perfil de Estudos
+// -------------------------------------------------------------
+model User {
+  id            String    @id @default(cuid())
+  name          String
+  email         String    @unique
+  passwordHash  String?
+  image         String?
+  
+  // Perfil do Vestibulando
+  targetCourse  String?   // Ex: Medicina, Ciência da Computação, Direito
+  targetPhase   Phase     @default(FASE_1)
+  
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  // Relações
+  attempts      QuestionAttempt[]
+  essays        EssaySubmission[]
+
+  @@map("users")
+}
+
+enum Phase {
+  FASE_1
+  FASE_2
+}
+
+// -------------------------------------------------------------
+// 2. Acervo de Estudos: Disciplinas, Provas & Questões
+// -------------------------------------------------------------
+model Subject {
+  id          String     @id @default(cuid())
+  name        String     @unique // Ex: Biologia, Química, Matemática, História
+  slug        String     @unique
+  description String?
+  icon        String?    // Nome do ícone Lucide correspondente
+  
+  questions   Question[]
+
+  @@map("subjects")
+}
+
+model Exam {
+  id               String     @id @default(cuid())
+  year             Int        // Ex: 2024, 2023
+  semester         Int        // Ex: 1 ou 2 (2024.1, 2024.2)
+  phase            Phase      @default(FASE_1)
+  pdfUrl           String?    // Link do caderno de prova
+  answerKeyPdfUrl  String?    // Link do gabarito oficial
+  
+  questions        Question[]
+  createdAt        DateTime   @default(now())
+
+  @@unique([year, semester, phase])
+  @@map("exams")
+}
+
+model Question {
+  id             String    @id @default(cuid())
+  statement      String    @db.Text // Enunciado da questão
+  
+  // Alternativas padrão UECE (A, B, C, D)
+  optionA        String    @db.Text
+  optionB        String    @db.Text
+  optionC        String    @db.Text
+  optionD        String    @db.Text
+  correctAnswer  String    // "A" | "B" | "C" | "D"
+  
+  explanation    String?   @db.Text // Resolução detalhada
+  difficulty     Difficulty @default(MEDIUM)
+  isAiGenerated  Boolean   @default(false)
+
+  // Relações
+  subjectId      String
+  subject        Subject   @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  
+  examId         String?
+  exam           Exam?     @relation(fields: [examId], references: [id], onDelete: SetNull)
+
+  attempts       QuestionAttempt[]
+
+  createdAt      DateTime  @default(now())
+
+  @@map("questions")
+}
+
+enum Difficulty {
+  EASY
+  MEDIUM
+  HARD
+}
+
+model QuestionAttempt {
+  id               String    @id @default(cuid())
+  selectedAnswer   String    // "A", "B", "C", "D"
+  isCorrect        Boolean
+  timeSpentSeconds Int?
+
+  userId           String
+  user             User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  questionId       String
+  question         Question  @relation(fields: [questionId], references: [id], onDelete: Cascade)
+
+  createdAt        DateTime  @default(now())
+
+  @@map("question_attempts")
+}
+
+// -------------------------------------------------------------
+// 3. Módulo de Redação (Critérios UECE)
+// -------------------------------------------------------------
+model EssayPrompt {
+  id              String            @id @default(cuid())
+  title           String            // Ex: "A importância da preservação da Caatinga"
+  genre           String            // Ex: Crônica, Artigo de Opinião, Carta Argumentativa
+  motivationText  String            @db.Text // Coletânea / Textos motivadores
+  year            Int?
+  semester        Int?
+  
+  submissions     EssaySubmission[]
+  createdAt       DateTime          @default(now())
+
+  @@map("essay_prompts")
+}
+
+model EssaySubmission {
+  id               String        @id @default(cuid())
+  essayText        String        @db.Text
+  genreChosen      String        // Gênero textual selecionado pelo candidato
+  
+  // Critérios de Avaliação da UECE (0 a 60 pontos ou nota proporcional)
+  scoreStructure   Float?        // Aspectos Estruturais e Gramaticais
+  scoreContent     Float?        // Desenvolvimento do Tema e Coerência
+  totalScore       Float?        // Nota Final
+  
+  aiFeedback       String?       @db.Text // Feedback detalhado gerado pela IA
+  status           EssayStatus   @default(PENDING)
+
+  userId           String
+  user             User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  promptId         String?
+  prompt           EssayPrompt?  @relation(fields: [promptId], references: [id], onDelete: SetNull)
+
+  createdAt        DateTime      @default(now())
+  updatedAt        DateTime      @updatedAt
+
+  @@map("essay_submissions")
+}
+
+enum EssayStatus {
+  PENDING
+  ANALYZING
+  COMPLETED
+  FAILED
+}
+
+// -------------------------------------------------------------
+// 4. Validação & Escuta Inicial (Projeto de Extensão)
+// -------------------------------------------------------------
+model ValidationLead {
+  id                 String    @id @default(cuid())
+  name               String
+  email              String
+  phone              String?
+  studyRoutine       String?   @db.Text // Como estuda atualmente
+  biggestDifficulty  String?   @db.Text // Maior dificuldade na UECE
+  willingToInterview Boolean   @default(false)
+
+  createdAt          DateTime  @default(now())
+
+  @@map("validation_leads")
+}
