@@ -1,3 +1,4 @@
-data/*
-!data/.gitkeep
+# O dataset V1 (JSONL, manifesto e recortes PNG) é versionado para consumo
+# direto pelo frontend. Arquivos temporários de extração continuam ignorados.
+data/**/*.tmp
 
