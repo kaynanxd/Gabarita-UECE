@@ -15,12 +15,15 @@
 
 # Saídas regeneráveis do banco de questões.
 # Apenas o acervo curado de provas/gabaritos é versionado para auditoria e
-# reprodução. Outros arquivos em UECE/ permanecem locais. Os JSONL e PNGs
-# gerados da V1 também são versionados para consumo direto pelo frontend.
+# reprodução. Outros arquivos em UECE/ permanecem locais. Os JSONL gerados da
+# V1 são versionados para consumo direto pelo frontend.
 /UECE/*
 !/UECE/VESTIBULAR UECE_/
 !/UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/
 !/UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/**
+
+# Recortes PNG são usados apenas na auditoria manual local por enquanto.
+/question-bank/data/assets/
 /.uv-cache-question-bank
 /.venv-question-bank
 
