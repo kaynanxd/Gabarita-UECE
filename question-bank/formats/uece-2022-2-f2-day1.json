@@ -1,0 +1,12 @@
+{
+  "exam": "2022.2", "answerStatus": "PRELIMINARY",
+  "answerKey": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2022.2 - 2 FASE_/v20222f2d1gabpre.pdf",
+  "papers": [
+    { "subject": "biology", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2022.2 - 2 FASE_/v20222f2biog1.pdf" },
+    { "subject": "spanish", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2022.2 - 2 FASE_/v20222f2espg1 (1).pdf" },
+    { "subject": "french", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2022.2 - 2 FASE_/v20222f2frag1.pdf" },
+    { "subject": "english", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2022.2 - 2 FASE_/v20222f2ingg1.pdf" },
+    { "subject": "mathematics", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2022.2 - 2 FASE_/v20222f2matg1 (4).pdf" },
+    { "subject": "portuguese", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2022.2 - 2 FASE_/v20222f2porg1 (8).pdf" }
+  ]
+}

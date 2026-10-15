@@ -1,0 +1,191 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "question-bank.schema.json",
+  "$defs": {
+    "sourceRef": {
+      "type": "object",
+      "required": ["documentId", "pages"],
+      "properties": {
+        "documentId": { "type": "string", "minLength": 1 },
+        "pages": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "integer", "minimum": 1 },
+          "uniqueItems": true
+        }
+      },
+      "additionalProperties": false
+    },
+    "alternative": {
+      "type": "object",
+      "required": ["id", "text"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "text": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "question": {
+      "type": "object",
+      "required": [
+        "id", "paperId", "subject", "statement", "alternatives",
+        "answerStatus", "reviewStatus", "source", "extraction"
+      ],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "paperId": { "type": "string", "minLength": 1 },
+        "subject": { "type": "string", "minLength": 1 },
+        "statement": { "type": "string" },
+        "alternatives": {
+          "type": "array",
+          "minItems": 4,
+          "maxItems": 4,
+          "items": { "$ref": "#/$defs/alternative" }
+        },
+        "correctAlternativeId": { "type": ["string", "null"] },
+        "answerStatus": {
+          "enum": ["PRELIMINARY", "OFFICIAL", "CHANGED", "ANNULLED", "UNAVAILABLE"]
+        },
+        "reviewStatus": {
+          "enum": ["PENDING_REVIEW", "REVIEWED", "REJECTED"]
+        },
+        "source": { "$ref": "#/$defs/sourceRef" },
+        "extraction": {
+          "type": "object",
+          "required": ["method", "confidence", "warnings"],
+          "properties": {
+            "method": { "enum": ["NATIVE_TEXT", "OCR", "MANUAL"] },
+            "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+            "warnings": { "type": "array", "items": { "type": "string" } }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "exam": {
+      "type": "object",
+      "required": ["id", "institution", "year", "semester"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "institution": { "const": "UECE" },
+        "year": { "type": "integer", "minimum": 2000 },
+        "semester": { "enum": [1, 2] },
+        "formatId": { "type": ["string", "null"] }
+      },
+      "additionalProperties": false
+    },
+    "paper": {
+      "type": "object",
+      "required": [
+        "id", "examId", "phase", "component", "subject", "questionCount",
+        "optionLabels", "pointsPerQuestion"
+      ],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "examId": { "type": "string", "minLength": 1 },
+        "phase": { "enum": [1, 2] },
+        "component": { "enum": ["GENERAL_KNOWLEDGE", "SPECIFIC_KNOWLEDGE"] },
+        "subject": { "type": "string", "minLength": 1 },
+        "area": { "type": ["string", "null"] },
+        "questionCount": { "type": "integer", "minimum": 1 },
+        "optionLabels": { "const": ["A", "B", "C", "D"] },
+        "pointsPerQuestion": { "type": "number", "exclusiveMinimum": 0 },
+        "courseGroups": {
+          "type": "array",
+          "items": { "type": "integer", "minimum": 1 },
+          "uniqueItems": true
+        }
+      },
+      "additionalProperties": false
+    },
+    "occurrence": {
+      "type": "object",
+      "required": [
+        "id", "questionId", "documentId", "booklet", "number",
+        "optionOrder", "correctLabel", "sourceRegions"
+      ],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "questionId": { "type": "string", "minLength": 1 },
+        "documentId": { "type": "string", "minLength": 1 },
+        "booklet": { "enum": ["G1", "G2", "G3", "G4"] },
+        "number": { "type": "integer", "minimum": 1 },
+        "optionOrder": {
+          "type": "object",
+          "required": ["A", "B", "C", "D"],
+          "properties": {
+            "A": { "type": "string" },
+            "B": { "type": "string" },
+            "C": { "type": "string" },
+            "D": { "type": "string" }
+          },
+          "additionalProperties": false
+        },
+        "correctLabel": { "type": ["string", "null"], "enum": ["A", "B", "C", "D", null] },
+        "sourceRegions": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["page", "bounds"],
+            "properties": {
+              "page": { "type": "integer", "minimum": 1 },
+              "bounds": {
+                "type": "array",
+                "minItems": 4,
+                "maxItems": 4,
+                "items": { "type": "number", "minimum": 0 }
+              }
+            },
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "answerKeyEvent": {
+      "type": "object",
+      "required": ["id", "questionId", "status", "documentId", "publishedOrder"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "questionId": { "type": "string", "minLength": 1 },
+        "status": { "enum": ["PRELIMINARY", "OFFICIAL", "CHANGED", "ANNULLED"] },
+        "correctAlternativeId": { "type": ["string", "null"] },
+        "documentId": { "type": "string", "minLength": 1 },
+        "publishedOrder": { "type": "integer", "minimum": 1 },
+        "awardsPointsToAll": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    },
+    "asset": {
+      "type": "object",
+      "required": ["id", "type", "path", "sha256", "documentId", "sourcePage", "sourceBounds"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "questionId": { "type": ["string", "null"] },
+        "occurrenceId": { "type": ["string", "null"] },
+        "type": { "enum": ["QUESTION_CROP", "FIGURE", "SHARED_CONTEXT"] },
+        "path": { "type": "string", "minLength": 1 },
+        "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+        "documentId": { "type": "string", "minLength": 1 },
+        "sourcePage": { "type": "integer", "minimum": 1 },
+        "sourceBounds": {
+          "type": "array",
+          "minItems": 4,
+          "maxItems": 4,
+          "items": { "type": "number", "minimum": 0 }
+        },
+        "width": { "type": "integer", "minimum": 1 },
+        "height": { "type": "integer", "minimum": 1 },
+        "sharedByQuestionIds": {
+          "type": "array",
+          "items": { "type": "string" },
+          "uniqueItems": true
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}
+

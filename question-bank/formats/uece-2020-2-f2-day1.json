@@ -1,0 +1,11 @@
+{
+  "exam":"2020.2", "answerStatus":"PRELIMINARY", "answerKey":"UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.2 - 2 FASE/vtb20202gabofpref2d1.pdf",
+  "papers":[
+    {"subject":"biology","area":"nature and mathematics","pdf":"UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.2 - 2 FASE/vtb20202biog1.pdf"},
+    {"subject":"spanish","area":"languages and codes","pdf":"UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.2 - 2 FASE/vtb20202espg1.pdf"},
+    {"subject":"french","area":"languages and codes","pdf":"UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.2 - 2 FASE/vtb20202frag1.pdf"},
+    {"subject":"english","area":"languages and codes","pdf":"UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.2 - 2 FASE/vtb20202ingg1.pdf"},
+    {"subject":"mathematics","area":"nature and mathematics","pdf":"UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.2 - 2 FASE/vtb20202matg1.pdf"},
+    {"subject":"portuguese","area":"languages and codes","pdf":"UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.2 - 2 FASE/vtb20202porg1.pdf"}
+  ]
+}

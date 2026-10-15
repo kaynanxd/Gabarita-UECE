@@ -1,0 +1,70 @@
+{
+  "$schema": "../schemas/exam-format.schema.json",
+  "id": "uece-2027-1",
+  "institution": "UECE",
+  "year": 2027,
+  "semester": 1,
+  "sourceDocument": "UECE/edital052026cev.pdf",
+  "phases": [
+    {
+      "phase": 1,
+      "kind": "GENERAL_KNOWLEDGE",
+      "questionCount": 85,
+      "optionLabels": ["A", "B", "C", "D"],
+      "correctOptionsPerQuestion": 1,
+      "pointsPerQuestion": 2,
+      "maximumScore": 170,
+      "subjects": [
+        { "area": "HUMAN_SCIENCES", "subject": "philosophy", "questionCount": 5 },
+        { "area": "HUMAN_SCIENCES", "subject": "geography", "questionCount": 8 },
+        { "area": "HUMAN_SCIENCES", "subject": "history", "questionCount": 8 },
+        { "area": "HUMAN_SCIENCES", "subject": "sociology", "questionCount": 5 },
+        { "area": "NATURE_AND_MATHEMATICS", "subject": "biology", "questionCount": 8 },
+        { "area": "NATURE_AND_MATHEMATICS", "subject": "physics", "questionCount": 8 },
+        { "area": "NATURE_AND_MATHEMATICS", "subject": "mathematics", "questionCount": 10 },
+        { "area": "NATURE_AND_MATHEMATICS", "subject": "chemistry", "questionCount": 8 },
+        { "area": "LANGUAGES_AND_CODES", "subject": "physical-education", "questionCount": 5 },
+        {
+          "area": "LANGUAGES_AND_CODES",
+          "subject": "foreign-language",
+          "questionCount": 8,
+          "variants": ["spanish", "french", "english"]
+        },
+        { "area": "LANGUAGES_AND_CODES", "subject": "portuguese", "questionCount": 12 }
+      ]
+    },
+    {
+      "phase": 2,
+      "kind": "SPECIFIC_KNOWLEDGE",
+      "objectivePapersPerCandidate": 3,
+      "questionCountPerPaper": 20,
+      "optionLabels": ["A", "B", "C", "D"],
+      "correctOptionsPerQuestion": 1,
+      "pointsPerQuestion": 3,
+      "maximumScorePerPaper": 60,
+      "hasEssay": true,
+      "essayMaximumScore": 60,
+      "courseGroups": {
+        "1": ["biology", "physics", "chemistry"],
+        "2": ["mathematics", "physics", "chemistry"],
+        "3": ["mathematics", "geography", "history"],
+        "4": ["portuguese", "geography", "history"],
+        "5": ["english", "geography", "history"],
+        "6": ["french", "geography", "history"],
+        "7": ["spanish", "geography", "history"],
+        "8": ["portuguese", "philosophy", "sociology"]
+      }
+    }
+  ],
+  "bookletPolicy": {
+    "maximumVersions": 4,
+    "sameQuestions": true,
+    "questionOrderMayChange": true,
+    "optionOrderMayChange": true
+  },
+  "annulmentPolicy": {
+    "appliesToEquivalentQuestionsInAllBooklets": true,
+    "awardsPointsToAllCandidates": true
+  }
+}
+

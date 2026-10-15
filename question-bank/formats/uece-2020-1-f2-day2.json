@@ -1,0 +1,13 @@
+{
+  "exam": "2020.1",
+  "answerStatus": "OFFICIAL",
+  "answerKey": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.1 SEGUNDA FASE/gabarito-definitivo-2-fase-uece-2020.pdf",
+  "papers": [
+    { "subject": "physics", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.1 SEGUNDA FASE/vtb2020.1f2d2fisquig1.pdf" },
+    { "subject": "chemistry", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.1 SEGUNDA FASE/vtb2020.1f2d2fisquig1.pdf", "first": 21, "last": 40, "answerFirst": 21, "numberOffset": -20 },
+    { "subject": "geography", "area": "human sciences", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.1 SEGUNDA FASE/vtb2020.1f2d2geohisg1.pdf" },
+    { "subject": "history", "area": "human sciences", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.1 SEGUNDA FASE/vtb2020.1f2d2geohisg1.pdf", "first": 21, "last": 40, "answerFirst": 21, "numberOffset": -20 },
+    { "subject": "philosophy", "area": "human sciences", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.1 SEGUNDA FASE/vtb2020.1f2d2filsocg1.pdf" },
+    { "subject": "sociology", "area": "human sciences", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.1 SEGUNDA FASE/vtb2020.1f2d2filsocg1.pdf", "first": 21, "last": 40, "answerFirst": 21, "numberOffset": -20 }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "exam": "2019.1", "answerStatus": "PRELIMINARY",
+  "answerKey": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2019.1 SEGUNDA FASE/vtb20191f2d1gabofpre.pdf",
+  "papers": [
+    { "subject": "biology", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2019.1 SEGUNDA FASE/vtb20191f2d1biog1.pdf" },
+    { "subject": "spanish", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2019.1 SEGUNDA FASE/vtb20191f2d1espg1.pdf" },
+    { "subject": "french", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2019.1 SEGUNDA FASE/vtb20191f2d1frag1.pdf" },
+    { "subject": "english", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2019.1 SEGUNDA FASE/vtb20191f2d1ingg1.pdf" },
+    { "subject": "mathematics", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2019.1 SEGUNDA FASE/vtb20191f2d1matg1.pdf" },
+    { "subject": "portuguese", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2019.1 SEGUNDA FASE/vtb20191f2d1porg1.pdf" }
+  ]
+}

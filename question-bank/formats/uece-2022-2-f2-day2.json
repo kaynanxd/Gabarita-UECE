@@ -1,0 +1,12 @@
+{
+  "exam": "2022.2", "answerStatus": "PRELIMINARY",
+  "answerKey": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2022.2 - 2 FASE_/v20222f2d2gabpre.pdf",
+  "papers": [
+    { "subject": "physics", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2022.2 - 2 FASE_/v20222f2fisquig1.pdf" },
+    { "subject": "chemistry", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2022.2 - 2 FASE_/v20222f2fisquig1.pdf", "first": 21, "last": 40, "answerFirst": 21, "numberOffset": -20 },
+    { "subject": "geography", "area": "human sciences", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2022.2 - 2 FASE_/v20222f2heohisg1.pdf" },
+    { "subject": "history", "area": "human sciences", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2022.2 - 2 FASE_/v20222f2heohisg1.pdf", "first": 21, "last": 40, "answerFirst": 21, "numberOffset": -20 },
+    { "subject": "philosophy", "area": "human sciences", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2022.2 - 2 FASE_/v20222f2filsocg1.pdf" },
+    { "subject": "sociology", "area": "human sciences", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2022.2 - 2 FASE_/v20222f2filsocg1.pdf", "first": 21, "last": 40, "answerFirst": 21, "numberOffset": -20 }
+  ]
+}

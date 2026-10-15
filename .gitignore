@@ -13,12 +13,26 @@
 # testing
 /coverage
 
+# Saídas regeneráveis do banco de questões.
+# Apenas o acervo curado de provas/gabaritos é versionado para auditoria e
+# reprodução. Outros arquivos em UECE/ permanecem locais. JSONL/PNGs gerados
+# também permanecem locais; esquemas, formatos, scripts e documentação entram.
+/UECE/*
+!/UECE/VESTIBULAR UECE_/
+!/UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/
+!/UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/**
+/question-bank/data/**
+!/question-bank/data/.gitkeep
+/.uv-cache-question-bank
+/.venv-question-bank
+
 # next.js
 /.next/
 /out/
 
 # production
 /build
+/.tmp-pdf-tools
 
 # misc
 .DS_Store

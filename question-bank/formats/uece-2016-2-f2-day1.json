@@ -1,0 +1,13 @@
+{
+  "exam": "2016.2",
+  "answerStatus": "PRELIMINARY",
+  "answerKey": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2016.2 PRIMIERA FASE/vtb2016.2gabofpref2d1.pdf",
+  "papers": [
+    { "subject": "biology", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2016.2 SEGUNDA FASE/vtb2016.2biog1.pdf" },
+    { "subject": "spanish", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2016.2 SEGUNDA FASE/vtb2016.2espg1 (1).pdf" },
+    { "subject": "french", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2016.2 SEGUNDA FASE/vtb2016.2frag1.pdf" },
+    { "subject": "english", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2016.2 SEGUNDA FASE/vtb2016.2ingg1.pdf" },
+    { "subject": "mathematics", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2016.2 SEGUNDA FASE/vtb2016.2matg1.pdf" },
+    { "subject": "portuguese", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2016.2 SEGUNDA FASE/vtb2016.2porg1.pdf" }
+  ]
+}

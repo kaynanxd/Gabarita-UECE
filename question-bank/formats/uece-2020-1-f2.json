@@ -1,0 +1,13 @@
+{
+  "exam": "2020.1",
+  "answerStatus": "OFFICIAL",
+  "answerKey": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.1 SEGUNDA FASE/gabarito-definitivo-2-fase-uece-2020.pdf",
+  "papers": [
+    { "subject": "spanish", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.1 SEGUNDA FASE/vtb2020.1f2d1lespg1.pdf" },
+    { "subject": "french", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.1 SEGUNDA FASE/vtb2020.1f2d1lfrag1.pdf" },
+    { "subject": "english", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.1 SEGUNDA FASE/vtb2020.1f2d1lingg1.pdf" },
+    { "subject": "portuguese", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.1 SEGUNDA FASE/vtb2020.1f2d1lporg1.pdf" },
+    { "subject": "mathematics", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2020.1 SEGUNDA FASE/vtb2020.1f2d1matg1.pdf" }
+  ],
+  "deferredCombinedPapers": ["philosophy-sociology", "physics-chemistry", "geography-history"]
+}

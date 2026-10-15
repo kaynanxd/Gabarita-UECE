@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "exam-format.schema.json",
+  "title": "UECE exam format",
+  "type": "object",
+  "required": ["id", "institution", "year", "semester", "phases", "bookletPolicy"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^uece-[0-9]{4}-[12]$" },
+    "institution": { "const": "UECE" },
+    "year": { "type": "integer", "minimum": 2000 },
+    "semester": { "enum": [1, 2] },
+    "sourceDocument": { "type": "string", "minLength": 1 },
+    "phases": { "type": "array", "minItems": 1, "items": { "type": "object" } },
+    "bookletPolicy": { "type": "object" },
+    "annulmentPolicy": { "type": "object" }
+  },
+  "additionalProperties": false
+}
+

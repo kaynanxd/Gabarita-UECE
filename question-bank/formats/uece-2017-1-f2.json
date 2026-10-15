@@ -1,0 +1,14 @@
+{
+  "exam": "2017.1",
+  "answerStatus": "OFFICIAL",
+  "answerKey": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.1 SEGUNDA FASE/Provas e Gabaritos 2ª Fase UECE 2017.1/1º dia/Gabarito Definitivo 2ª fase UECE 2017.1 - 1º dia(1).pdf",
+  "papers": [
+    { "subject": "biology", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.1 SEGUNDA FASE/Provas e Gabaritos 2ª Fase UECE 2017.1/1º dia/Prova de Conhecimentos Específicos - Biologia - Gabarito 1.pdf" },
+    { "subject": "spanish", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.1 SEGUNDA FASE/Provas e Gabaritos 2ª Fase UECE 2017.1/1º dia/Prova de Conhecimentos Específicos - Espanhol - Gabarito 1.pdf" },
+    { "subject": "french", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.1 SEGUNDA FASE/Provas e Gabaritos 2ª Fase UECE 2017.1/1º dia/Prova de Conhecimentos Específicos - Francês - Gabarito 1.pdf" },
+    { "subject": "english", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.1 SEGUNDA FASE/Provas e Gabaritos 2ª Fase UECE 2017.1/1º dia/Prova de Conhecimentos Específicos - Inglês - Gabarito 1.pdf" },
+    { "subject": "mathematics", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.1 SEGUNDA FASE/Provas e Gabaritos 2ª Fase UECE 2017.1/1º dia/Prova de Conhecimentos Específicos - Matemática - Gabarito 1.pdf" },
+    { "subject": "portuguese", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.1 SEGUNDA FASE/Provas e Gabaritos 2ª Fase UECE 2017.1/1º dia/Prova de Conhecimentos Específicos - Português - Gabarito 1.pdf" }
+  ],
+  "deferredCombinedPapers": ["physics-chemistry", "geography-history"]
+}

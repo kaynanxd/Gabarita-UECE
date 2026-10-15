@@ -1,0 +1,11 @@
+{
+  "exam": "2018.2",
+  "answerStatus": "PRELIMINARY",
+  "answerKey": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2018.2 SEGUNDA FASE/vtb20182gabofpred2.pdf",
+  "papers": [
+    { "subject": "physics", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2018.2 SEGUNDA FASE/vtb20182fisquig1.pdf" },
+    { "subject": "chemistry", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2018.2 SEGUNDA FASE/vtb20182fisquig1.pdf", "first": 21, "last": 40, "answerFirst": 21, "numberOffset": -20 },
+    { "subject": "geography", "area": "human sciences", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2018.2 SEGUNDA FASE/vtb20182geohisg1.pdf" },
+    { "subject": "history", "area": "human sciences", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2018.2 SEGUNDA FASE/vtb20182geohisg1.pdf", "first": 21, "last": 40, "answerFirst": 21, "numberOffset": -20 }
+  ]
+}

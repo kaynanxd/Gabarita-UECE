@@ -1,0 +1,14 @@
+{
+  "exam": "2017.2",
+  "answerStatus": "PRELIMINARY",
+  "answerKey": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.2 SEGUNDA FASE/vtb20172d1gabofpre 2.pdf",
+  "papers": [
+    { "subject": "biology", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.2 SEGUNDA FASE/vtb20172d1biog1 2.pdf" },
+    { "subject": "spanish", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.2 SEGUNDA FASE/vtb20172d1espg1 2.pdf" },
+    { "subject": "french", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.2 SEGUNDA FASE/vtb20172d1frag1 2.pdf" },
+    { "subject": "english", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.2 SEGUNDA FASE/vtb20172d1ing1 2.pdf" },
+    { "subject": "mathematics", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.2 SEGUNDA FASE/vtb20172d1matg1 2.pdf" },
+    { "subject": "portuguese", "area": "languages and codes", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.2 SEGUNDA FASE/vtb20172d1porg1 2.pdf" }
+  ],
+  "deferredCombinedPapers": ["physics-chemistry", "geography-history"]
+}

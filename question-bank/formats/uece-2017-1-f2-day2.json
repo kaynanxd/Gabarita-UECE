@@ -1,0 +1,10 @@
+{
+  "exam": "2017.1", "answerStatus": "PRELIMINARY",
+  "answerKey": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.1 SEGUNDA FASE/Provas e Gabaritos 2ª Fase UECE 2017.1/2º dia/vtb2017.1f2d2gabofpre.pdf",
+  "papers": [
+    { "subject": "physics", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.1 SEGUNDA FASE/Provas e Gabaritos 2ª Fase UECE 2017.1/2º dia/vtb2017.1f2fisquig1.pdf" },
+    { "subject": "chemistry", "area": "nature and mathematics", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.1 SEGUNDA FASE/Provas e Gabaritos 2ª Fase UECE 2017.1/2º dia/vtb2017.1f2fisquig1.pdf", "first": 21, "last": 40, "answerFirst": 21, "numberOffset": -20 },
+    { "subject": "geography", "area": "human sciences", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.1 SEGUNDA FASE/Provas e Gabaritos 2ª Fase UECE 2017.1/2º dia/vtb2017.1f2geohisg1.pdf" },
+    { "subject": "history", "area": "human sciences", "pdf": "UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2017.1 SEGUNDA FASE/Provas e Gabaritos 2ª Fase UECE 2017.1/2º dia/vtb2017.1f2geohisg1.pdf", "first": 21, "last": 40, "answerFirst": 21, "numberOffset": -20 }
+  ]
+}
