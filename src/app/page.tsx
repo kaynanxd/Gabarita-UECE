@@ -1,6 +1,15 @@
-import { PracticeApp } from "@/components/PracticeApp";
-import { getFilterOptions } from "@/lib/question-bank";
+import Link from "next/link";
+import { ArrowRight, BookOpen, FolderTree, GraduationCap, Heart, Layers } from "lucide-react";
 
 export default function Home() {
-  return <PracticeApp filters={getFilterOptions()} />;
+  return <main className="min-h-screen bg-slate-50 text-slate-900">
+    <header className="border-b border-slate-200 bg-white"><div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-4 sm:px-6"><div className="flex items-center gap-3"><span className="grid h-10 w-10 place-items-center rounded-xl bg-blue-600 text-white"><GraduationCap size={22} /></span><div><p className="font-extrabold tracking-tight">Gabarita UECE</p><p className="text-xs text-slate-500">Banco de questões</p></div></div><span className="hidden text-sm font-semibold text-slate-500 sm:block">Vestibulares UECE · 2015.1–2023.2</span></div></header>
+
+    <section className="mx-auto max-w-6xl px-4 py-14 sm:px-6 sm:py-24"><div className="max-w-3xl"><span className="inline-flex rounded-full bg-blue-50 px-3 py-1 text-xs font-bold uppercase tracking-wider text-blue-700">Estudo com provas anteriores</span><h1 className="mt-5 text-4xl font-black tracking-tight sm:text-6xl">Prepare-se para a UECE com clareza.</h1><p className="mt-6 max-w-2xl text-lg leading-8 text-slate-600">Uma plataforma gratuita para praticar questões de vestibulares anteriores e consultar o acervo organizado da Universidade Estadual do Ceará.</p></div>
+
+      <div className="mt-12 grid gap-5 lg:grid-cols-2"><Link href="/praticar" className="group rounded-3xl bg-blue-600 p-7 text-white shadow-xl shadow-blue-200 transition hover:-translate-y-1 hover:bg-blue-700 sm:p-9"><span className="grid h-12 w-12 place-items-center rounded-2xl bg-white/15"><BookOpen size={25} /></span><h2 className="mt-8 text-2xl font-black">Resolver questões</h2><p className="mt-3 max-w-md leading-7 text-blue-100">Monte treinos por edição, fase e disciplina ou faça um simulado completo no formato da prova.</p><span className="mt-8 inline-flex items-center gap-2 text-sm font-bold">Começar agora <ArrowRight size={18} className="transition group-hover:translate-x-1" /></span></Link><Link href="/acervo" className="group rounded-3xl border border-slate-200 bg-white p-7 shadow-sm transition hover:-translate-y-1 hover:border-blue-200 hover:shadow-lg hover:shadow-slate-200/70 sm:p-9"><span className="grid h-12 w-12 place-items-center rounded-2xl bg-blue-50 text-blue-600"><FolderTree size={25} /></span><h2 className="mt-8 text-2xl font-black">Explorar acervo</h2><p className="mt-3 max-w-md leading-7 text-slate-600">Navegue pelas edições, fases e disciplinas como uma estrutura de pastas.</p><span className="mt-8 inline-flex items-center gap-2 text-sm font-bold text-blue-700">Abrir acervo <ArrowRight size={18} className="transition group-hover:translate-x-1" /></span></Link></div>
+    </section>
+
+    <footer className="border-t border-slate-200 bg-white"><div className="mx-auto flex max-w-6xl flex-col gap-3 px-4 py-7 text-sm text-slate-500 sm:flex-row sm:items-center sm:justify-between sm:px-6"><span className="inline-flex items-center gap-2"><Layers size={16} /> Projeto educacional gratuito</span><span className="inline-flex flex-wrap items-center gap-x-2 gap-y-1"><Heart size={16} className="text-blue-600" /> Criado por <a href="https://github.com/kaynanxd" target="_blank" rel="noreferrer" className="font-semibold text-blue-700 hover:underline">Kaynan Freitas</a> e <a href="https://github.com/anbeatrizduarte" target="_blank" rel="noreferrer" className="font-semibold text-blue-700 hover:underline">Ana Beatriz</a></span></div></footer>
+  </main>;
 }

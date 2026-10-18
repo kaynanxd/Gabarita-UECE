@@ -58,6 +58,22 @@ export type FilterOptions = {
   courseGroups: { id: number; label: string }[];
 };
 
+export type ArchiveEdition = {
+  id: string;
+  phases: {
+    phase: 1 | 2;
+    questionCount: number;
+    subjects: { id: string; label: string; questionCount: number }[];
+  }[];
+};
+
+export type ArchiveSubject = {
+  edition: string;
+  phase: 1 | 2;
+  subject: { id: string; label: string };
+  questions: PracticeQuestion[];
+};
+
 type QuestionBank = {
   questions: PracticeQuestion[];
   filters: FilterOptions;
@@ -164,6 +180,51 @@ function loadQuestionBank(): QuestionBank {
 
 export function getFilterOptions(): FilterOptions {
   return loadQuestionBank().filters;
+}
+
+export function getArchive(): ArchiveEdition[] {
+  const groups = new Map<string, PracticeQuestion[]>();
+  for (const question of loadQuestionBank().questions) {
+    const edition = `${question.year}.${question.semester}`;
+    const items = groups.get(edition) ?? [];
+    items.push(question);
+    groups.set(edition, items);
+  }
+
+  return [...groups.entries()]
+    .sort(([a], [b]) => b.localeCompare(a, undefined, { numeric: true }))
+    .map(([id, questions]) => ({
+      id,
+      phases: ([1, 2] as const).flatMap((phase) => {
+        const phaseQuestions = questions.filter((question) => question.phase === phase);
+        if (!phaseQuestions.length) return [];
+        const subjects = [...new Set(phaseQuestions.map((question) => question.subject))]
+          .sort((a, b) => (subjectLabels[a] ?? a).localeCompare(subjectLabels[b] ?? b, "pt-BR"))
+          .map((subject) => ({
+            id: subject,
+            label: subjectLabels[subject] ?? subject,
+            questionCount: phaseQuestions.filter((question) => question.subject === subject).length,
+          }));
+        return [{ phase, questionCount: phaseQuestions.length, subjects }];
+      }),
+    }));
+}
+
+export function getArchiveSubject(edition: string, phase: number, subject: string): ArchiveSubject | undefined {
+  if ((phase !== 1 && phase !== 2) || !/^20(1[5-9]|2[0-3])\.[12]$/.test(edition)) return undefined;
+  const questions = loadQuestionBank().questions
+    .filter((question) => `${question.year}.${question.semester}` === edition && question.phase === phase && question.subject === subject)
+    .sort((a, b) => a.number - b.number);
+  if (!questions.length) return undefined;
+  return { edition, phase, subject: { id: subject, label: subjectLabels[subject] ?? subject }, questions };
+}
+
+export function getArchivePhase(edition: string, phase: number) {
+  if ((phase !== 1 && phase !== 2) || !/^20(1[5-9]|2[0-3])\.[12]$/.test(edition)) return undefined;
+  const questions = loadQuestionBank().questions
+    .filter((question) => `${question.year}.${question.semester}` === edition && question.phase === phase)
+    .sort((a, b) => a.number - b.number || a.subject.localeCompare(b.subject));
+  return questions.length ? { edition, phase: phase as 1 | 2, questions } : undefined;
 }
 
 export function findPracticeQuestions(filters: PracticeFilters) {
