@@ -10,6 +10,7 @@
     "postinstall": "prisma generate",
     "questions:inventory": "node scripts/question-bank/inventory.mjs",
     "questions:validate": "node scripts/question-bank/validate.mjs",
+    "questions:normalize-utf8": "node scripts/question-bank/normalize-jsonl-utf8.mjs",
     "questions:extract:pilot": "node scripts/question-bank/run-python.mjs scripts/question-bank/extract-paper.py --pdf \"UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2023.2 - 1A FASE_/vtb20232f1g1.pdf\" --answer-key \"UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2023.2 - 1A FASE_/GABARITO.pdf\" --exam 2023.2 --phase 1 --subject biology --area \"nature and mathematics\" --first 55 --last 62 --booklet G1 --points 2 --language ESPANHOLA",
     "questions:extract:2023.2": "node scripts/question-bank/run-python.mjs scripts/question-bank/extract-2023-2.py",
     "questions:extract:2022.2": "node scripts/question-bank/run-python.mjs scripts/question-bank/extract-general-phase.py --pdf \"UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2022.2 - 1FASE_/v20222f1g1 (9).pdf\" --answer-key \"UECE/VESTIBULAR UECE_/1 PROVAS E GABARITOS/UECE 2022.2 - 1FASE_/comunicado952022cev (1).pdf\" --exam 2022.2",

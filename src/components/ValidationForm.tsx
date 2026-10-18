@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Send, CheckCircle2, AlertCircle, Loader2, Sparkles, MessageSquare } from "lucide-react";
+import { Send, CheckCircle2, AlertCircle, Loader2, MessageSquare } from "lucide-react";
 
 export function ValidationForm() {
   const [formData, setFormData] = useState({
