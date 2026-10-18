@@ -3,7 +3,7 @@
 > **Projeto de Extensão 4 — Universidade Estadual do Ceará (UECE)**  
 > Uma plataforma digital aberta, gratuita e direcionada para auxiliar estudantes na preparação completa para a **1ª e 2ª fase do vestibular da UECE**.
 
-🔗 **Acesse o site em produção:** [https://gabarita-uece-d9ry8r3co-kaynans-projects-aad0b453.vercel.app/](https://gabarita-uece-43njuq278-kaynans-projects-aad0b453.vercel.app/)
+🔗 **Acesse o site em produção:** [https://gabarita-uece-d9ry8r3co-kaynans-projects-aad0b453.vercel.app/](https://gabarita-uece-9634mu7v3-kaynans-projects-aad0b453.vercel.app/)
 
 ---
 
