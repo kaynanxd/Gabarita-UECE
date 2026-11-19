@@ -163,7 +163,7 @@ Os recursos visuais e textos-base compartilhados estão extraídos em `public/qu
 ```text
 public/question-assets/
 ├── manifest.json   # Índice por questionId: { figures, crops }
-├── figures/        # 67 figuras de enunciados (mapas, charges, gráficos, tabelas)
+├── figures/        # 83 figuras de enunciados (mapas, charges, gráficos, tabelas, estruturas)
 ├── crops/          # 3 recortes de questões de Química com alternativas visuais
 └── texts/          # 214 textos-base compartilhados (135 provas de Línguas, 1.948 questões em index.json)
 ```
