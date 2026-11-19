@@ -1,0 +1,575 @@
+{
+  "paperId": "uece-2017-2-f2-english",
+  "subject": "english",
+  "texts": [
+    {
+      "id": "uece-2017-2-f2-english-t1",
+      "label": "Texto 1",
+      "title": "T E X T",
+      "lines": [
+        {
+          "number": 1,
+          "text": "Researchers used genetic"
+        },
+        {
+          "number": 2,
+          "text": "information from Zika virus to follow its"
+        },
+        {
+          "number": 3,
+          "text": "spread among affected regions in South"
+        },
+        {
+          "number": 4,
+          "text": "and Central America and the Caribbean."
+        },
+        {
+          "number": 5,
+          "text": "The Zika virus probably arrived in"
+        },
+        {
+          "number": 6,
+          "text": "the Western Hemisphere from"
+        },
+        {
+          "number": 7,
+          "text": "somewhere in the Pacific more than a"
+        },
+        {
+          "number": 8,
+          "text": "year before it was detected, a new"
+        },
+        {
+          "number": 9,
+          "text": "genetic analysis of the epidemic shows."
+        },
+        {
+          "number": 10,
+          "text": "Researchers also found that as Zika"
+        },
+        {
+          "number": 11,
+          "text": "fanned outward from Brazil, it entered"
+        },
+        {
+          "number": 12,
+          "text": "neighboring countries and South Florida"
+        },
+        {
+          "number": 13,
+          "text": "multiple times without being noticed."
+        },
+        {
+          "number": 14,
+          "text": "Although Zika quietly took root in"
+        },
+        {
+          "number": 15,
+          "text": "northeastern Brazil in late 2013 or early"
+        },
+        {
+          "number": 16,
+          "text": "2014, many months passed before"
+        },
+        {
+          "number": 17,
+          "text": "Brazilian health authorities received"
+        },
+        {
+          "number": 18,
+          "text": "reports of unexplained fever and skin"
+        },
+        {
+          "number": 19,
+          "text": "rashes. Zika was finally confirmed as the"
+        },
+        {
+          "number": 20,
+          "text": "culprit in April 2015."
+        },
+        {
+          "number": 21,
+          "text": "The World Health Organization did"
+        },
+        {
+          "number": 22,
+          "text": "not declare the epidemic a public health"
+        },
+        {
+          "number": 23,
+          "text": "emergency until February 2016, after"
+        },
+        {
+          "number": 24,
+          "text": "babies of Zika-infected mothers began to"
+        },
+        {
+          "number": 25,
+          "text": "be born with severe neurological"
+        },
+        {
+          "number": 26,
+          "text": "problems. Zika, which is carried by"
+        },
+        {
+          "number": 27,
+          "text": "mosquitoes, infected an estimated 1"
+        },
+        {
+          "number": 28,
+          "text": "million people in Brazil alone in 2015, and"
+        },
+        {
+          "number": 29,
+          "text": "is now thought to be transmitted in 84"
+        },
+        {
+          "number": 30,
+          "text": "countries worldwide."
+        },
+        {
+          "number": 31,
+          "text": "Although Zika’s path was"
+        },
+        {
+          "number": 32,
+          "text": "documented starting in 2015 through"
+        },
+        {
+          "number": 33,
+          "text": "records of human cases, less was known"
+        },
+        {
+          "number": 34,
+          "text": "about how the virus spread so silently"
+        },
+        {
+          "number": 35,
+          "text": "before detection, or how outbreaks in"
+        },
+        {
+          "number": 36,
+          "text": "different parts of Central and South"
+        },
+        {
+          "number": 37,
+          "text": "America were connected. Now two groups"
+        },
+        {
+          "number": 38,
+          "text": "working independently, reporting online"
+        },
+        {
+          "number": 39,
+          "text": "May 24 in Nature, have compared"
+        },
+        {
+          "number": 40,
+          "text": "samples from different times and"
+        },
+        {
+          "number": 41,
+          "text": "locations to read the history recorded in"
+        },
+        {
+          "number": 42,
+          "text": "random mutations of the virus’s 10"
+        },
+        {
+          "number": 43,
+          "text": "genes."
+        },
+        {
+          "number": 44,
+          "text": "One team, led by scientists in the"
+        },
+        {
+          "number": 45,
+          "text": "United Kingdom and Brazil, drove more"
+        },
+        {
+          "number": 46,
+          "text": "than 1,200 miles across Brazil — “a Top"
+        },
+        {
+          "number": 47,
+          "text": "Gear–style road trip,” one scientist"
+        },
+        {
+          "number": 48,
+          "text": "quipped — with a portable device that"
+        },
+        {
+          "number": 49,
+          "text": "could produce a complete catalog of the"
+        },
+        {
+          "number": 50,
+          "text": "virus’s genes in less than a day. A second"
+        },
+        {
+          "number": 51,
+          "text": "team, led by researchers at the Broad"
+        },
+        {
+          "number": 52,
+          "text": "Institute of MIT and Harvard, analyzed"
+        },
+        {
+          "number": 53,
+          "text": "more than 100 Zika genomes from"
+        },
+        {
+          "number": 54,
+          "text": "infected patients and mosquitoes in nine"
+        },
+        {
+          "number": 55,
+          "text": "countries and Puerto Rico. Based on"
+        },
+        {
+          "number": 56,
+          "text": "where the cases originated, and the"
+        },
+        {
+          "number": 57,
+          "text": "estimated rate at which genetic changes"
+        },
+        {
+          "number": 58,
+          "text": "appear, the scientists re-created Zika’s"
+        },
+        {
+          "number": 59,
+          "text": "evolutionary timeline. Together, the"
+        },
+        {
+          "number": 60,
+          "text": "studies revealed an epidemic that was"
+        },
+        {
+          "number": 61,
+          "text": "silently churning long before anyone"
+        },
+        {
+          "number": 62,
+          "text": "knew. “We found that in each of the"
+        },
+        {
+          "number": 63,
+          "text": "regions we could analyze, Zika virus"
+        },
+        {
+          "number": 64,
+          "text": "circulated undetected for many months,"
+        },
+        {
+          "number": 65,
+          "text": "up to a year or longer, before the first"
+        },
+        {
+          "number": 66,
+          "text": "locally transmitted cases were reported,”"
+        },
+        {
+          "number": 67,
+          "text": "says Bronwyn MacInnis, an infectious"
+        },
+        {
+          "number": 68,
+          "text": "disease geneticist at the Broad Institute,"
+        },
+        {
+          "number": 69,
+          "text": "in Cambridge, Mass. “This means the"
+        },
+        {
+          "number": 70,
+          "text": "outbreak in these regions was under way"
+        },
+        {
+          "number": 71,
+          "text": "much earlier than previously thought.”"
+        },
+        {
+          "number": 72,
+          "text": "Although the epidemic exploded out"
+        },
+        {
+          "number": 73,
+          "text": "of Brazil, the scientists also found a"
+        },
+        {
+          "number": 74,
+          "text": "remote possibility of early settlement in"
+        },
+        {
+          "number": 75,
+          "text": "the Caribbean. “It’s not immediately clear"
+        },
+        {
+          "number": 76,
+          "text": "whether Zika stopped off somewhere else"
+        },
+        {
+          "number": 77,
+          "text": "in the Americas before it got to northeast"
+        },
+        {
+          "number": 78,
+          "text": "Brazil,” said Oliver Pybus, who studies"
+        },
+        {
+          "number": 79,
+          "text": "evolution and infectious disease at the"
+        },
+        {
+          "number": 80,
+          "text": "University of Oxford in England."
+        },
+        {
+          "number": 81,
+          "text": "In a third study reported in Nature,"
+        },
+        {
+          "number": 82,
+          "text": "researchers from 30 different institutions"
+        },
+        {
+          "number": 83,
+          "text": "followed a trail of genetic clues to"
+        },
+        {
+          "number": 84,
+          "text": "determine when and how Zika made its"
+        },
+        {
+          "number": 85,
+          "text": "way to Florida. Those researchers"
+        },
+        {
+          "number": 86,
+          "text": "concluded that Zika was introduced"
+        },
+        {
+          "number": 87,
+          "text": "multiple times into the Miami area, most"
+        },
+        {
+          "number": 88,
+          "text": "likely from the Caribbean, before local"
+        },
+        {
+          "number": 89,
+          "text": "mosquitoes picked it up. The number of"
+        },
+        {
+          "number": 90,
+          "text": "human cases increased in step with the"
+        },
+        {
+          "number": 91,
+          "text": "rise in mosquito populations, said Kristian"
+        },
+        {
+          "number": 92,
+          "text": "Andersen, an infectious disease"
+        },
+        {
+          "number": 93,
+          "text": "researcher at the Scripps Research"
+        },
+        {
+          "number": 94,
+          "text": "Institute in La Jolla, Calif. “Focusing on"
+        },
+        {
+          "number": 95,
+          "text": "getting rid of mosquitoes is an effective"
+        },
+        {
+          "number": 96,
+          "text": "way of preventing human cases,” he"
+        },
+        {
+          "number": 97,
+          "text": "says."
+        },
+        {
+          "number": 98,
+          "text": "Previous studies have found traces"
+        },
+        {
+          "number": 99,
+          "text": "of the virus’s footprints across the"
+        },
+        {
+          "number": 100,
+          "text": "Americas, but none included so many"
+        },
+        {
+          "number": 101,
+          "text": "different samples, says Young-Min Lee of"
+        },
+        {
+          "number": 102,
+          "text": "Utah State University, who has also"
+        },
+        {
+          "number": 103,
+          "text": "studied Zika’s genes. The current studies"
+        },
+        {
+          "number": 104,
+          "text": "provide a higher-resolution look at the"
+        },
+        {
+          "number": 105,
+          "text": "timing of the epidemic’s spread, he says,"
+        },
+        {
+          "number": 106,
+          "text": "but in terms of Zika’s origins and"
+        },
+        {
+          "number": 107,
+          "text": "progression from country to country,"
+        },
+        {
+          "number": 108,
+          "text": "“overall the big picture is consistent with"
+        },
+        {
+          "number": 109,
+          "text": "what we suspected.”"
+        },
+        {
+          "number": 110,
+          "text": "In addition to revealing Zika’s"
+        },
+        {
+          "number": 111,
+          "text": "history, genetic studies are also valuable"
+        },
+        {
+          "number": 112,
+          "text": "in fighting current and future disease"
+        },
+        {
+          "number": 113,
+          "text": "outbreaks. Since diagnostic tests and"
+        },
+        {
+          "number": 114,
+          "text": "even vaccine development are based on"
+        },
+        {
+          "number": 115,
+          "text": "Zika’s genetics, it’s important to monitor"
+        },
+        {
+          "number": 116,
+          "text": "mutations during an outbreak."
+        },
+        {
+          "number": 117,
+          "text": "Researchers developed quick-turnaround"
+        },
+        {
+          "number": 118,
+          "text": "genomic analyses for Ebola in recent"
+        },
+        {
+          "number": 119,
+          "text": "years, for example, that could aid a"
+        },
+        {
+          "number": 120,
+          "text": "faster response during the next"
+        },
+        {
+          "number": 121,
+          "text": "outbreak."
+        },
+        {
+          "number": 122,
+          "text": "In the future, faster analysis of viral"
+        },
+        {
+          "number": 123,
+          "text": "threats in the field might improve the"
+        },
+        {
+          "number": 124,
+          "text": "odds of stopping the next epidemic, Lee"
+        },
+        {
+          "number": 125,
+          "text": "says. It’s possible for a single infected"
+        },
+        {
+          "number": null,
+          "text": "7"
+        },
+        {
+          "number": 126,
+          "text": "traveler stepping off a plane to spark an"
+        },
+        {
+          "number": 127,
+          "text": "epidemic long before doctors notice. “If"
+        },
+        {
+          "number": 128,
+          "text": "one introduction [of a virus] can cause an"
+        },
+        {
+          "number": 129,
+          "text": "outbreak, you have a very narrow"
+        },
+        {
+          "number": 130,
+          "text": "window to try to contain it.”"
+        },
+        {
+          "number": null,
+          "text": "Magazine of the Society for Science & the Public. The Zica"
+        },
+        {
+          "number": null,
+          "text": "epidemic began long before anyone noticed."
+        },
+        {
+          "number": null,
+          "text": "Vol.191, No.12, May 24, 2017, p. 12."
+        },
+        {
+          "number": null,
+          "text": "Q U E S T I O N S"
+        }
+      ],
+      "questionIds": [
+        "uece-2017-2-f2-english-q01",
+        "uece-2017-2-f2-english-q02",
+        "uece-2017-2-f2-english-q03",
+        "uece-2017-2-f2-english-q04",
+        "uece-2017-2-f2-english-q05",
+        "uece-2017-2-f2-english-q06",
+        "uece-2017-2-f2-english-q07",
+        "uece-2017-2-f2-english-q08",
+        "uece-2017-2-f2-english-q09",
+        "uece-2017-2-f2-english-q10",
+        "uece-2017-2-f2-english-q11",
+        "uece-2017-2-f2-english-q12",
+        "uece-2017-2-f2-english-q13",
+        "uece-2017-2-f2-english-q14",
+        "uece-2017-2-f2-english-q15",
+        "uece-2017-2-f2-english-q16",
+        "uece-2017-2-f2-english-q17",
+        "uece-2017-2-f2-english-q18",
+        "uece-2017-2-f2-english-q19",
+        "uece-2017-2-f2-english-q20"
+      ]
+    }
+  ]
+}

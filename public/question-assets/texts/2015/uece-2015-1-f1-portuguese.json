@@ -1,0 +1,670 @@
+{
+  "paperId": "uece-2015-1-f1-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2015-1-f1-portuguese-t1",
+      "label": "Texto 1",
+      "title": "A dor",
+      "lines": [
+        {
+          "number": 1,
+          "text": "O que torna a tortura atraente é o fato de"
+        },
+        {
+          "number": 2,
+          "text": "que ela funciona. O preso não quer falar,"
+        },
+        {
+          "number": 3,
+          "text": "apanha e fala. É sobre essa simples constatação"
+        },
+        {
+          "number": 4,
+          "text": "que se edifica a complexa justificativa da tortura"
+        },
+        {
+          "number": 5,
+          "text": "pela funcionalidade. O que há de terrível nela é"
+        },
+        {
+          "number": 6,
+          "text": "sua verdade. O que há de perverso nessa"
+        },
+        {
+          "number": 7,
+          "text": "verdade é o sistema lógico que nela se apoia"
+        },
+        {
+          "number": 8,
+          "text": "valendo-se da compressão, num juízo"
+        },
+        {
+          "number": 9,
+          "text": "aparentemente neutro do conflito entre dois"
+        },
+        {
+          "number": 10,
+          "text": "mundos: o do torturador e o de sua vítima."
+        },
+        {
+          "number": 11,
+          "text": "Tudo se reduz à problemática da confissão."
+        },
+        {
+          "number": 12,
+          "text": "Assim, a tortura pressiona a confissão e"
+        },
+        {
+          "number": 13,
+          "text": "triunfa em toda a sua funcionalidade quando"
+        },
+        {
+          "number": 14,
+          "text": "submete a vítima. Essa é a hipérbole virtuosa do"
+        },
+        {
+          "number": 15,
+          "text": "torturador. Assemelha-se ao ato cirúrgico,"
+        },
+        {
+          "number": 16,
+          "text": "extraindo da vítima algo maligno que ela não"
+        },
+        {
+          "number": 17,
+          "text": "expeliria sem agressão."
+        },
+        {
+          "number": 18,
+          "text": "A teoria da funcionalidade da tortura"
+        },
+        {
+          "number": 19,
+          "text": "baseia-se numa confusão entre interrogatório e"
+        },
+        {
+          "number": 20,
+          "text": "suplício. Num interrogatório há perguntas e"
+        },
+        {
+          "number": 21,
+          "text": "respostas. No suplício, o que se busca é a"
+        },
+        {
+          "number": 22,
+          "text": "submissão. O “supremo opróbrio” é cometido"
+        },
+        {
+          "number": 23,
+          "text": "pelo torturador, não pelo preso. Quando a"
+        },
+        {
+          "number": 24,
+          "text": "vítima fala, suas respostas são produto de sua"
+        },
+        {
+          "number": 25,
+          "text": "dolorosa submissão à vontade do torturador, e"
+        },
+        {
+          "number": 26,
+          "text": "não das perguntas que ele lhe fez. Prova disso"
+        },
+        {
+          "number": 27,
+          "text": "está no fato de que nos cárceres soviéticos"
+        },
+        {
+          "number": 28,
+          "text": "milhares de presos confessaram coisas que"
+        },
+        {
+          "number": 29,
+          "text": "jamais lhes haviam passado pela cabeça,"
+        },
+        {
+          "number": 30,
+          "text": "permitindo ao stalinismo construir suas"
+        },
+        {
+          "number": 31,
+          "text": "catedrais conspiratórias."
+        },
+        {
+          "number": 32,
+          "text": "O poder absoluto que o torturador tem de"
+        },
+        {
+          "number": 33,
+          "text": "infligir sofrimento à sua vítima transforma-se"
+        },
+        {
+          "number": 34,
+          "text": "em elemento de controle sobre seu corpo. No"
+        },
+        {
+          "number": 35,
+          "text": "meio da selva amazônica, espancando um"
+        },
+        {
+          "number": 36,
+          "text": "caboclo analfabeto que pedia ajuda divina para"
+        },
+        {
+          "number": 37,
+          "text": "sustar os padecimentos, um torturador"
+        },
+        {
+          "number": 38,
+          "text": "resumiria sua onipotência embutida: “Que Deus"
+        },
+        {
+          "number": 39,
+          "text": "que nada, porque Deus aqui é nós mesmo”. A"
+        },
+        {
+          "number": 40,
+          "text": "mente insubmissa torna-se vítima de sua"
+        },
+        {
+          "number": 41,
+          "text": "carcaça, que é, a um só tempo, repasto do"
+        },
+        {
+          "number": 42,
+          "text": "sofrimento e presa do inimigo. “O preso só"
+        },
+        {
+          "number": 43,
+          "text": "lastima uma coisa: o ‘diabo’ do corpo continua"
+        },
+        {
+          "number": 44,
+          "text": "aguentando”, lembraria o dirigente comunista"
+        },
+        {
+          "number": 45,
+          "text": "Marco Antônio Coelho. Ainda que a certa altura"
+        },
+        {
+          "number": 46,
+          "text": "a mente prefira a morte à confissão, aquele"
+        },
+        {
+          "number": 47,
+          "text": "corpo dolorido se mantém vivo, permitindo o"
+        },
+        {
+          "number": 48,
+          "text": "suplício."
+        },
+        {
+          "number": null,
+          "text": "(GASPARI, Hélio. A ditadura escancarada. São Paulo:"
+        },
+        {
+          "number": null,
+          "text": "Companhia das Letras, 2002. p. 37-41. Texto"
+        },
+        {
+          "number": null,
+          "text": "adaptado.)"
+        }
+      ],
+      "questionIds": [
+        "uece-2015-1-f1-portuguese-q01",
+        "uece-2015-1-f1-portuguese-q02",
+        "uece-2015-1-f1-portuguese-q03",
+        "uece-2015-1-f1-portuguese-q04",
+        "uece-2015-1-f1-portuguese-q05",
+        "uece-2015-1-f1-portuguese-q06",
+        "uece-2015-1-f1-portuguese-q07",
+        "uece-2015-1-f1-portuguese-q08"
+      ]
+    },
+    {
+      "id": "uece-2015-1-f1-portuguese-t2",
+      "label": "Texto 2",
+      "title": "O Verbo For",
+      "lines": [
+        {
+          "number": 49,
+          "text": "Vestibular de verdade era no meu tempo."
+        },
+        {
+          "number": 50,
+          "text": "Já estou chegando, ou já cheguei, à altura da"
+        },
+        {
+          "number": 51,
+          "text": "vida em que tudo de bom era no meu tempo;"
+        },
+        {
+          "number": 52,
+          "text": "meu e dos outros coroas. Acho inadmissível e"
+        },
+        {
+          "number": 53,
+          "text": "mesmo chocante (no sentido antigo) um coroa"
+        },
+        {
+          "number": 54,
+          "text": "não ser reacionário. Somos uma força histórica"
+        },
+        {
+          "number": 55,
+          "text": "de grande valor. Se não agíssemos com o vigor"
+        },
+        {
+          "number": 56,
+          "text": "necessário — evidentemente o condizente com"
+        },
+        {
+          "number": 57,
+          "text": "a nossa condição provecta —, tudo sairia fora"
+        },
+        {
+          "number": 58,
+          "text": "de controle, mais do que já está. O vestibular,"
+        },
+        {
+          "number": 59,
+          "text": "é claro, jamais voltará ao que era outrora e"
+        },
+        {
+          "number": 60,
+          "text": "talvez até desapareça, mas julgo necessário"
+        },
+        {
+          "number": 61,
+          "text": "falar do antigo às novas gerações e lembrá-lo"
+        },
+        {
+          "number": 62,
+          "text": "às minhas coevas (ao dicionário outra vez;"
+        },
+        {
+          "number": 63,
+          "text": "domingo, dia de exercício)."
+        },
+        {
+          "number": 64,
+          "text": "O vestibular de Direito a que me submeti,"
+        },
+        {
+          "number": 65,
+          "text": "na velha Faculdade de Direito da Bahia, tinha"
+        },
+        {
+          "number": 66,
+          "text": "só quatro matérias: português, latim, francês"
+        },
+        {
+          "number": 67,
+          "text": "ou inglês e sociologia. Nada de cruzinhas,"
+        },
+        {
+          "number": 68,
+          "text": "múltipla escolha ou matérias que não"
+        },
+        {
+          "number": 69,
+          "text": "interessassem diretamente à carreira. Tudo"
+        },
+        {
+          "number": 70,
+          "text": "escrito tão ruybarbosianamente quanto"
+        },
+        {
+          "number": 71,
+          "text": "possível, com citações decoradas,"
+        },
+        {
+          "number": 72,
+          "text": "preferivelmente."
+        },
+        {
+          "number": 73,
+          "text": "Havia provas escritas e orais. A escrita já"
+        },
+        {
+          "number": 74,
+          "text": "dava nervosismo, da oral muitos nunca se"
+        },
+        {
+          "number": 75,
+          "text": "recuperaram inteiramente, pela vida afora."
+        },
+        {
+          "number": 76,
+          "text": "Tirava-se o ponto (sorteava-se o assunto) e"
+        },
+        {
+          "number": 77,
+          "text": "partia-se para o martírio, insuperável por"
+        },
+        {
+          "number": 78,
+          "text": "qualquer esporte radical desta juventude de"
+        },
+        {
+          "number": 79,
+          "text": "hoje."
+        },
+        {
+          "number": 80,
+          "text": "O maior público das provas orais era o"
+        },
+        {
+          "number": 81,
+          "text": "que já tinha ouvido falar alguma coisa do"
+        },
+        {
+          "number": 82,
+          "text": "candidato e vinha vê-lo \"dar um show\". Eu dei"
+        },
+        {
+          "number": 83,
+          "text": "show de português e inglês. O de português"
+        },
+        {
+          "number": 84,
+          "text": "até que foi moleza, em certo sentido. O"
+        },
+        {
+          "number": 85,
+          "text": "professor José Lima, de pé e tomando um"
+        },
+        {
+          "number": 86,
+          "text": "cafezinho, me dirigiu as seguintes palavras"
+        },
+        {
+          "number": 87,
+          "text": "aladas:"
+        },
+        {
+          "number": 88,
+          "text": "— Dou-lhe dez, se o senhor me disser"
+        },
+        {
+          "number": 89,
+          "text": "qual é o sujeito da primeira oração do Hino"
+        },
+        {
+          "number": 90,
+          "text": "Nacional!"
+        },
+        {
+          "number": 91,
+          "text": "— As margens plácidas — respondi"
+        },
+        {
+          "number": 92,
+          "text": "instantaneamente e o mestre quase deixa cair"
+        },
+        {
+          "number": 93,
+          "text": "a xícara."
+        },
+        {
+          "number": 94,
+          "text": "— Por que não é indeterminado,"
+        },
+        {
+          "number": 95,
+          "text": "\"ouviram, etc.\"?"
+        },
+        {
+          "number": 96,
+          "text": "— Porque o \"as\" de \"as margens plácidas\""
+        },
+        {
+          "number": 97,
+          "text": "não é craseado. Quem ouviu foram as margens"
+        },
+        {
+          "number": 98,
+          "text": "plácidas. É uma anástrofe, entre as muitas que"
+        },
+        {
+          "number": 99,
+          "text": "existem no hino. \"Nem teme quem te adora a"
+        },
+        {
+          "number": 100,
+          "text": "própria morte\": sujeito: \"quem te adora.\" Se"
+        },
+        {
+          "number": 101,
+          "text": "pusermos na ordem direta..."
+        },
+        {
+          "number": 102,
+          "text": "— Chega! — berrou ele. — Dez! Vá para a"
+        },
+        {
+          "number": 103,
+          "text": "glória! A Bahia será sempre a Bahia!"
+        },
+        {
+          "number": 104,
+          "text": "Quis o irônico destino, uns anos mais"
+        },
+        {
+          "number": 105,
+          "text": "tarde, que eu fosse professor da Escola de"
+        },
+        {
+          "number": 106,
+          "text": "Administração da Universidade Federal da"
+        },
+        {
+          "number": 107,
+          "text": "Bahia e me designassem para a banca de"
+        },
+        {
+          "number": 108,
+          "text": "português, com prova oral e tudo. Eu tinha"
+        },
+        {
+          "number": 109,
+          "text": "fama de professor carrasco, que até hoje"
+        },
+        {
+          "number": 110,
+          "text": "considero injustíssima, e ficava muito"
+        },
+        {
+          "number": 111,
+          "text": "incomodado com aqueles rapazes e moças"
+        },
+        {
+          "number": 112,
+          "text": "pálidos e trêmulos diante de mim. Uma bela"
+        },
+        {
+          "number": 113,
+          "text": "vez, chegou um sem o menor sinal de"
+        },
+        {
+          "number": 114,
+          "text": "nervosismo, muito elegante, paletó, gravata e"
+        },
+        {
+          "number": 115,
+          "text": "abotoaduras vistosas. A prova oral era"
+        },
+        {
+          "number": 116,
+          "text": "bestíssima. Mandava-se o candidato(a) ler"
+        },
+        {
+          "number": 117,
+          "text": "umas dez linhas em voz alta (sim, porque"
+        },
+        {
+          "number": 118,
+          "text": "alguns não sabiam ler) e depois se perguntava"
+        },
+        {
+          "number": 119,
+          "text": "o que queria dizer uma palavra trivial ou outra,"
+        },
+        {
+          "number": 120,
+          "text": "qual era o plural de outra e assim por diante."
+        },
+        {
+          "number": 121,
+          "text": "Esse mal sabia ler, mas não perdia a pose. Não"
+        },
+        {
+          "number": 122,
+          "text": "acertou a responder nada. Então, eu, carrasco"
+        },
+        {
+          "number": 123,
+          "text": "fictício, peguei no texto uma frase em que a"
+        },
+        {
+          "number": 124,
+          "text": "palavra \"for\" tanto podia ser do verbo \"ser\""
+        },
+        {
+          "number": 125,
+          "text": "quanto do verbo \"ir\". Pronto, pensei. Se ele"
+        },
+        {
+          "number": 126,
+          "text": "distinguir qual é o verbo, considero-o um"
+        },
+        {
+          "number": 127,
+          "text": "gênio, dou quatro, ele passa e seja o que Deus"
+        },
+        {
+          "number": 128,
+          "text": "quiser."
+        },
+        {
+          "number": 129,
+          "text": "— Esse \"for\" aí, que verbo é esse?"
+        },
+        {
+          "number": 130,
+          "text": "Ele considerou a frase longamente, como"
+        },
+        {
+          "number": 131,
+          "text": "se eu estivesse pedindo que resolvesse a"
+        },
+        {
+          "number": null,
+          "text": "4"
+        },
+        {
+          "number": 132,
+          "text": "quadratura do círculo, depois ajeitou as"
+        },
+        {
+          "number": 133,
+          "text": "abotoaduras e me encarou sorridente."
+        },
+        {
+          "number": 134,
+          "text": "— Verbo for."
+        },
+        {
+          "number": 135,
+          "text": "— Verbo o quê?"
+        },
+        {
+          "number": 136,
+          "text": "— Verbo for."
+        },
+        {
+          "number": 137,
+          "text": "— Conjugue aí o presente do indicativo"
+        },
+        {
+          "number": 138,
+          "text": "desse verbo."
+        },
+        {
+          "number": 139,
+          "text": "— Eu fonho, tu fões, ele fõe — recitou"
+        },
+        {
+          "number": 140,
+          "text": "ele, impávido. — Nós fomos, vós fondes, eles"
+        },
+        {
+          "number": 141,
+          "text": "fõem."
+        },
+        {
+          "number": 142,
+          "text": "Não, dessa vez ele não passou. Mas, se"
+        },
+        {
+          "number": 143,
+          "text": "perseverou, deve ter acabado passando e hoje"
+        },
+        {
+          "number": 144,
+          "text": "há de estar num posto qualquer do Ministério"
+        },
+        {
+          "number": 145,
+          "text": "da Administração ou na equipe econômica, ou"
+        },
+        {
+          "number": 146,
+          "text": "ainda aposentado como marajá, ou as três"
+        },
+        {
+          "number": 147,
+          "text": "coisas. Vestibular, no meu tempo, era muito"
+        },
+        {
+          "number": 148,
+          "text": "mais divertido do que hoje e, nos dias que"
+        },
+        {
+          "number": 149,
+          "text": "correm, devidamente diplomado, ele deve"
+        },
+        {
+          "number": 150,
+          "text": "estar fondo para quebrar. Fões tu? Com quase"
+        },
+        {
+          "number": 151,
+          "text": "toda a certeza, não. Eu tampouco fonho. Mas"
+        },
+        {
+          "number": 152,
+          "text": "ele fõe."
+        },
+        {
+          "number": null,
+          "text": "RIBEIRO, João Ubaldo. O Conselheiro Come. Nova"
+        },
+        {
+          "number": null,
+          "text": "Fronteira: Rio de Janeiro, 2000. p. 20-23."
+        }
+      ],
+      "questionIds": [
+        "uece-2015-1-f1-portuguese-q09",
+        "uece-2015-1-f1-portuguese-q10",
+        "uece-2015-1-f1-portuguese-q11",
+        "uece-2015-1-f1-portuguese-q12",
+        "uece-2015-1-f1-portuguese-q13",
+        "uece-2015-1-f1-portuguese-q14"
+      ]
+    }
+  ]
+}

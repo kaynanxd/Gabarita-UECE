@@ -1,0 +1,375 @@
+{
+  "paperId": "uece-2019-1-f1-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2019-1-f1-french-t1",
+      "label": "Texto 1",
+      "title": "T E X T E",
+      "lines": [
+        {
+          "number": null,
+          "text": "Quelle place pour le prix littéraire en France?"
+        },
+        {
+          "number": 1,
+          "text": "En France, l’automne est une saison marquée"
+        },
+        {
+          "number": 2,
+          "text": "par l’annonce des lauréats des six grands prix"
+        },
+        {
+          "number": 3,
+          "text": "littéraires que sont le Grand prix du roman de"
+        },
+        {
+          "number": 4,
+          "text": "l’Académie française, le Goncourt, le Femina, le"
+        },
+        {
+          "number": 5,
+          "text": "Renaudot, le Médicis et l’Interallié. Cette"
+        },
+        {
+          "number": 6,
+          "text": "période de l’année structure le paysage éditorial"
+        },
+        {
+          "number": 7,
+          "text": "et l’engouement pour les prix littéraires en"
+        },
+        {
+          "number": 8,
+          "text": "France est une spécificité que l’on ne retrouve"
+        },
+        {
+          "number": 9,
+          "text": "nulle part ailleurs, contribuant ainsi à l’image de"
+        },
+        {
+          "number": 10,
+          "text": "notre pays en tant que nation littéraire."
+        },
+        {
+          "number": 11,
+          "text": "La reconnaissance d’un prix littéraire se"
+        },
+        {
+          "number": 12,
+          "text": "manifeste par l’adhésion du public au titre"
+        },
+        {
+          "number": 13,
+          "text": "primé et donc par le nombre de livres dudit titre"
+        },
+        {
+          "number": 14,
+          "text": "vendus. Cet élément a fini par influencer les"
+        },
+        {
+          "number": 15,
+          "text": "décisions finales des jurés: alors qu’avant ils"
+        },
+        {
+          "number": 16,
+          "text": "décernaient leur prix pour féliciter la qualité"
+        },
+        {
+          "number": 17,
+          "text": "d’un ouvrage, les prix sont désormais attribués"
+        },
+        {
+          "number": 18,
+          "text": "à des livres qui ont déjà un certain succès en"
+        },
+        {
+          "number": 19,
+          "text": "librairie. En conséquence, beaucoup reprochent"
+        },
+        {
+          "number": 20,
+          "text": "à ces prix littéraires de toujours récompenser"
+        },
+        {
+          "number": 21,
+          "text": "les mêmes maisons d’édition et de ne pas"
+        },
+        {
+          "number": 22,
+          "text": "mettre en avant de nouveaux auteurs ou de"
+        },
+        {
+          "number": 23,
+          "text": "petits éditeurs. Les prix littéraires renvoient"
+        },
+        {
+          "number": 24,
+          "text": "donc cette image d’un milieu littéraire parisien"
+        },
+        {
+          "number": 25,
+          "text": "très fermé et éloigné du grand public, et ce"
+        },
+        {
+          "number": 26,
+          "text": "sentiment de distance est aussi constaté par les"
+        },
+        {
+          "number": 27,
+          "text": "libraires qui remarquent que leurs clients"
+        },
+        {
+          "number": 28,
+          "text": "«jugent les prix trop pointus et intellectuels»."
+        },
+        {
+          "number": 29,
+          "text": "Quand la littérature se rapproche de la"
+        },
+        {
+          "number": 30,
+          "text": "culture de masse: l’émergence des prix"
+        },
+        {
+          "number": 31,
+          "text": "littéraires alternatifs"
+        },
+        {
+          "number": 32,
+          "text": "L’aspect marchand qu’ont acquis les prix"
+        },
+        {
+          "number": 33,
+          "text": "littéraires au fil du temps leur a conféré une"
+        },
+        {
+          "number": 34,
+          "text": "valeur plus médiatique. Aujourd’hui, ce sont"
+        },
+        {
+          "number": 35,
+          "text": "plus de 1 500 prix littéraires qui existent en"
+        },
+        {
+          "number": 36,
+          "text": "France, dont 98% passent inaperçus. Ces prix,"
+        },
+        {
+          "number": 37,
+          "text": "considérés comme populaires, sont apparus"
+        },
+        {
+          "number": 38,
+          "text": "comme une contestation envers les prix"
+        },
+        {
+          "number": 39,
+          "text": "littéraires traditionnels, avec l’objectif de"
+        },
+        {
+          "number": 40,
+          "text": "proposer une alternative plus démocratique et"
+        },
+        {
+          "number": 41,
+          "text": "moins élitiste au grand public. Une grande"
+        },
+        {
+          "number": 42,
+          "text": "partie de ces prix sont apparus avec le"
+        },
+        {
+          "number": 43,
+          "text": "développement de la culture de masse et les"
+        },
+        {
+          "number": 44,
+          "text": "nouveaux médias, afin d’être plus proche du"
+        },
+        {
+          "number": 45,
+          "text": "grand lectorat."
+        },
+        {
+          "number": 46,
+          "text": "Certains de ces prix ont pour but de faire"
+        },
+        {
+          "number": 47,
+          "text": "découvrir autre chose que les grands noms"
+        },
+        {
+          "number": null,
+          "text": "20"
+        },
+        {
+          "number": 48,
+          "text": "primés par les prix littéraires traditionnels. En"
+        },
+        {
+          "number": 49,
+          "text": "cela, ces prix, qui promeuvent de nouvelles"
+        },
+        {
+          "number": 50,
+          "text": "pratiques éditoriales ou des formes d’écritures"
+        },
+        {
+          "number": 51,
+          "text": "marginales délaissées par les grands prix,"
+        },
+        {
+          "number": 52,
+          "text": "reprennent les rôles de découverte et de"
+        },
+        {
+          "number": 53,
+          "text": "médiation qu’avaient initialement les six prix"
+        },
+        {
+          "number": 54,
+          "text": "littéraires traditionnels auprès du grand public."
+        },
+        {
+          "number": 55,
+          "text": "D’autre part, une partie de ces prix populaires"
+        },
+        {
+          "number": 56,
+          "text": "met aussi en avant leur aspect démocratique,"
+        },
+        {
+          "number": 57,
+          "text": "grâce à un jury tournant composé uniquement"
+        },
+        {
+          "number": 58,
+          "text": "de lecteurs et non pas de professionnels du"
+        },
+        {
+          "number": 59,
+          "text": "livre, ce qui permet d’éviter tout favoritisme"
+        },
+        {
+          "number": 60,
+          "text": "envers un éditeur ou un auteur. Il y a un prix"
+        },
+        {
+          "number": 61,
+          "text": "par exemple dont le jury est composé de"
+        },
+        {
+          "number": 62,
+          "text": "blogueurs qui établissent une liste de cinq titres"
+        },
+        {
+          "number": 63,
+          "text": "qui seront ensuite départagés par les votes des"
+        },
+        {
+          "number": 64,
+          "text": "internautes. Toutefois, certains professionnels"
+        },
+        {
+          "number": 65,
+          "text": "de la littérature regrettent le fait que ces jurys"
+        },
+        {
+          "number": 66,
+          "text": "élisent le livre qu’ils ont le plus aimé, et non"
+        },
+        {
+          "number": 67,
+          "text": "pas le livre qui a les meilleures qualités"
+        },
+        {
+          "number": 68,
+          "text": "littéraires."
+        },
+        {
+          "number": 69,
+          "text": "En effet, ces prix alternatifs sont de plus en"
+        },
+        {
+          "number": 70,
+          "text": "plus reconnus par le grand public, et peuvent"
+        },
+        {
+          "number": 71,
+          "text": "multiplier par quatre ou cinq les ventes d’un"
+        },
+        {
+          "number": 72,
+          "text": "roman. Il faut souligner que les prix sont"
+        },
+        {
+          "number": 73,
+          "text": "attribués durant les mois d’octobre et"
+        },
+        {
+          "number": 74,
+          "text": "novembre, soit juste avant les fêtes de fin"
+        },
+        {
+          "number": 75,
+          "text": "d’année. Ce détail a toute son importance,"
+        },
+        {
+          "number": 76,
+          "text": "puisque les trois dernières semaines de l’année"
+        },
+        {
+          "number": 77,
+          "text": "représentent un tiers des ventes d’un livre"
+        },
+        {
+          "number": 78,
+          "text": "primé par un grand prix: ces livres vont donc"
+        },
+        {
+          "number": 79,
+          "text": "être achetés non pas pour être lus mais pour"
+        },
+        {
+          "number": 80,
+          "text": "être offerts, le prix littéraire agissant comme un"
+        },
+        {
+          "number": 81,
+          "text": "label de qualité pour l’acquéreur qui se fie à la"
+        },
+        {
+          "number": 82,
+          "text": "recommandation des jurés plutôt qu’à son"
+        },
+        {
+          "number": 83,
+          "text": "instinct."
+        },
+        {
+          "number": null,
+          "text": "Extrait de Monde du livre. Crystel Junca, 2015."
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez aux"
+        },
+        {
+          "number": null,
+          "text": "questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2019-1-f1-french-q73",
+        "uece-2019-1-f1-french-q74",
+        "uece-2019-1-f1-french-q75",
+        "uece-2019-1-f1-french-q76",
+        "uece-2019-1-f1-french-q77",
+        "uece-2019-1-f1-french-q78",
+        "uece-2019-1-f1-french-q79",
+        "uece-2019-1-f1-french-q80"
+      ]
+    }
+  ]
+}

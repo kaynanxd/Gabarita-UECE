@@ -1,0 +1,671 @@
+{
+  "paperId": "uece-2018-2-f2-english",
+  "subject": "english",
+  "texts": [
+    {
+      "id": "uece-2018-2-f2-english-t1",
+      "label": "Texto 1",
+      "title": "A Master Storyteller from 19th-Century",
+      "lines": [
+        {
+          "number": null,
+          "text": "Brazil, Heir to the Greats and"
+        },
+        {
+          "number": null,
+          "text": "Entirely Sui Generis"
+        },
+        {
+          "number": null,
+          "text": "By Parul Sehgal"
+        },
+        {
+          "number": 1,
+          "text": "In a famous Hindu parable, three"
+        },
+        {
+          "number": 2,
+          "text": "blind men encounter an elephant for the"
+        },
+        {
+          "number": 3,
+          "text": "first time and try to describe it, each"
+        },
+        {
+          "number": 4,
+          "text": "touching a different part. “An elephant is"
+        },
+        {
+          "number": 5,
+          "text": "like a snake,” says one, grasping the"
+        },
+        {
+          "number": 6,
+          "text": "trunk. “Nonsense; an elephant is a fan,”"
+        },
+        {
+          "number": 7,
+          "text": "says another, who holds an ear. “A tree"
+        },
+        {
+          "number": 8,
+          "text": "trunk,” insists a third, feeling his way"
+        },
+        {
+          "number": 9,
+          "text": "around a leg."
+        },
+        {
+          "number": 10,
+          "text": "In the Anglophone world, a similar"
+        },
+        {
+          "number": 11,
+          "text": "kind of confusion surrounds Joaquim"
+        },
+        {
+          "number": 12,
+          "text": "Maria Machado de Assis (1839-1908),"
+        },
+        {
+          "number": 13,
+          "text": "the son and sly chronicler of Rio de"
+        },
+        {
+          "number": 14,
+          "text": "Janeiro whom Susan Sontag once called"
+        },
+        {
+          "number": 15,
+          "text": "“the greatest writer ever produced in"
+        },
+        {
+          "number": 16,
+          "text": "Latin America.” To Stefan Zweig,"
+        },
+        {
+          "number": 17,
+          "text": "Machado was Brazil’s answer to Dickens."
+        },
+        {
+          "number": 18,
+          "text": "To Allen Ginsberg, he was another"
+        },
+        {
+          "number": 19,
+          "text": "Kafka. Harold Bloom called him a"
+        },
+        {
+          "number": 20,
+          "text": "descendant of Laurence Sterne, and"
+        },
+        {
+          "number": 21,
+          "text": "Philip Roth compared him to Beckett."
+        },
+        {
+          "number": 22,
+          "text": "Others cite Gogol, Poe, Borges and"
+        },
+        {
+          "number": 23,
+          "text": "Joyce. In the foreword to “The Collected"
+        },
+        {
+          "number": 24,
+          "text": "Stories of Machado de Assis,” published"
+        },
+        {
+          "number": 25,
+          "text": "this month, the critic Michael Wood"
+        },
+        {
+          "number": 26,
+          "text": "invokes Henry James, Henry Fielding,"
+        },
+        {
+          "number": 27,
+          "text": "Chekhov, Sterne, Nabokov and Calvino"
+        },
+        {
+          "number": 28,
+          "text": "— all in two paragraphs."
+        },
+        {
+          "number": 29,
+          "text": "To further complicate matters,"
+        },
+        {
+          "number": 30,
+          "text": "Machado has always reminded me of"
+        },
+        {
+          "number": 31,
+          "text": "Alice Munro. What’s going on here?"
+        },
+        {
+          "number": 32,
+          "text": "What kind of writer induces such"
+        },
+        {
+          "number": 33,
+          "text": "rapturous and wildly inconsistent"
+        },
+        {
+          "number": 34,
+          "text": "characterizations? What kind of writer"
+        },
+        {
+          "number": 35,
+          "text": "can star in so many different fantasies?"
+        },
+        {
+          "number": 36,
+          "text": "The protean, stubbornly"
+        },
+        {
+          "number": 37,
+          "text": "unclassifiable Machado was born into"
+        },
+        {
+          "number": 38,
+          "text": "poverty, the mixed-race grandson of"
+        },
+        {
+          "number": 39,
+          "text": "freed slaves. He had no formal education"
+        },
+        {
+          "number": 40,
+          "text": "or training; like Twain, his"
+        },
+        {
+          "number": 41,
+          "text": "contemporary, he got his start as a"
+        },
+        {
+          "number": 42,
+          "text": "printer’s apprentice. Out of a regimen of"
+        },
+        {
+          "number": 43,
+          "text": "ferocious self-education, he established"
+        },
+        {
+          "number": 44,
+          "text": "himself, initially as a writer of slender"
+        },
+        {
+          "number": 45,
+          "text": "romances for and about the women of"
+        },
+        {
+          "number": 46,
+          "text": "the ruling elite."
+        },
+        {
+          "number": 47,
+          "text": "But in 1879, his style changed —"
+        },
+        {
+          "number": 48,
+          "text": "or rather, it arrived. Prolonged illness"
+        },
+        {
+          "number": 49,
+          "text": "(Machado was epileptic), and the near"
+        },
+        {
+          "number": 50,
+          "text": "loss of his sight, snapped him to"
+        },
+        {
+          "number": 51,
+          "text": "attention. The gentle romantic"
+        },
+        {
+          "number": 52,
+          "text": "blossomed into a wicked ironist whose"
+        },
+        {
+          "number": 53,
+          "text": "authorial intrusions, jump cuts and sheer"
+        },
+        {
+          "number": 54,
+          "text": "mischief influenced American"
+        },
+        {
+          "number": 55,
+          "text": "experimentalists like John Barth and"
+        },
+        {
+          "number": 56,
+          "text": "Donald Barthelme."
+        },
+        {
+          "number": 57,
+          "text": "Five novels produced in this"
+        },
+        {
+          "number": 58,
+          "text": "period — including his masterpiece, “The"
+        },
+        {
+          "number": 59,
+          "text": "Posthumous Memoirs of Brás Cubas”"
+        },
+        {
+          "number": 60,
+          "text": "(1881) — cemented his reputation. If"
+        },
+        {
+          "number": 61,
+          "text": "this collection of 76 stories (culled from"
+        },
+        {
+          "number": 62,
+          "text": "more than 200) cannot rise to their"
+        },
+        {
+          "number": 63,
+          "text": "ranks, it still offers a different and"
+        },
+        {
+          "number": 64,
+          "text": "valuable vantage point — especially for"
+        },
+        {
+          "number": 65,
+          "text": "readers who like to keep an eye on the"
+        },
+        {
+          "number": 66,
+          "text": "life as well as the art."
+        },
+        {
+          "number": 67,
+          "text": "“The Collected Stories” reveals"
+        },
+        {
+          "number": 68,
+          "text": "the arc of Machado’s career, from the"
+        },
+        {
+          "number": 69,
+          "text": "straightforward love stories to the"
+        },
+        {
+          "number": 70,
+          "text": "cerebral and unpredictable later works."
+        },
+        {
+          "number": 71,
+          "text": "One story is told from the point of view"
+        },
+        {
+          "number": 72,
+          "text": "of a needle. Political satire begins to"
+        },
+        {
+          "number": 73,
+          "text": "appear. In one tale, a dictator, bald"
+        },
+        {
+          "number": 74,
+          "text": "since youth, decrees that all his subjects"
+        },
+        {
+          "number": 75,
+          "text": "must also shave their heads, arguing"
+        },
+        {
+          "number": 76,
+          "text": "that the “moral unity of the state"
+        },
+        {
+          "number": 77,
+          "text": "depended on all heads looking the"
+        },
+        {
+          "number": 78,
+          "text": "same.”"
+        },
+        {
+          "number": 79,
+          "text": "Machado’s stories pulse with life."
+        },
+        {
+          "number": 80,
+          "text": "The endings are frequently murky and"
+        },
+        {
+          "number": 81,
+          "text": "strange, often abruptly truncated. The"
+        },
+        {
+          "number": 82,
+          "text": "title of an early work characterizes them"
+        },
+        {
+          "number": 83,
+          "text": "well: “Much Heat, Little Light.” Certain"
+        },
+        {
+          "number": 84,
+          "text": "preoccupations persist: alluring widows,"
+        },
+        {
+          "number": 85,
+          "text": "naïve young men, a fondness for"
+        },
+        {
+          "number": 86,
+          "text": "coincidence. Machado remained"
+        },
+        {
+          "number": 87,
+          "text": "fascinated by femininity and the"
+        },
+        {
+          "number": 88,
+          "text": "strictures governing the lives of women"
+        },
+        {
+          "number": 89,
+          "text": "— it’s why he reminds me of Munro. Like"
+        },
+        {
+          "number": 90,
+          "text": "chess pieces, Rio’s well-born ladies could"
+        },
+        {
+          "number": 91,
+          "text": "make only a few authorized moves"
+        },
+        {
+          "number": 92,
+          "text": "(Machado was a chess fanatic), but"
+        },
+        {
+          "number": 93,
+          "text": "everything was theirs to win or lose."
+        },
+        {
+          "number": 94,
+          "text": "Above all looms the figure of the"
+        },
+        {
+          "number": 95,
+          "text": "bibliomane. “This is my family,” one"
+        },
+        {
+          "number": 96,
+          "text": "says, pointing to his bookshelf. These"
+        },
+        {
+          "number": null,
+          "text": "6"
+        },
+        {
+          "number": 97,
+          "text": "are characters shaped by their reading,"
+        },
+        {
+          "number": 98,
+          "text": "sometimes even physically (“his head"
+        },
+        {
+          "number": 99,
+          "text": "jutted forward slightly from his long"
+        },
+        {
+          "number": 100,
+          "text": "habit”)."
+        },
+        {
+          "number": 101,
+          "text": "It’s a curious feature of Machado’s"
+        },
+        {
+          "number": 102,
+          "text": "stories that Brazil is so absent. There are"
+        },
+        {
+          "number": 103,
+          "text": "few landmarks, few mentions of the"
+        },
+        {
+          "number": 104,
+          "text": "weather. But there are allusions to"
+        },
+        {
+          "number": 105,
+          "text": "Molière and Goethe. Novels and authors"
+        },
+        {
+          "number": 106,
+          "text": "are the signposts. Like his characters,"
+        },
+        {
+          "number": 107,
+          "text": "Machado was a creature of literature;"
+        },
+        {
+          "number": 108,
+          "text": "ink ran in his veins. Though he never"
+        },
+        {
+          "number": 109,
+          "text": "roved far from his hometown he read"
+        },
+        {
+          "number": 110,
+          "text": "widely, claiming all of culture, all of"
+        },
+        {
+          "number": 111,
+          "text": "Europe — giving his work that"
+        },
+        {
+          "number": 112,
+          "text": "remarkably open, cosmopolitan feel."
+        },
+        {
+          "number": 113,
+          "text": "This creation of a personal"
+        },
+        {
+          "number": 114,
+          "text": "cartography — of anchoring himself in"
+        },
+        {
+          "number": 115,
+          "text": "the life of the mind — might explain one"
+        },
+        {
+          "number": 116,
+          "text": "of the lingering frustrations with"
+        },
+        {
+          "number": 117,
+          "text": "Machado’s work: namely, his refusal to"
+        },
+        {
+          "number": 118,
+          "text": "write more explicitly about slavery. He"
+        },
+        {
+          "number": 119,
+          "text": "might not have dared; slavery ended in"
+        },
+        {
+          "number": 120,
+          "text": "Brazil only in 1888. His stories stay"
+        },
+        {
+          "number": 121,
+          "text": "trained, sometimes monotonously, on"
+        },
+        {
+          "number": 122,
+          "text": "the elite, slaves flitting through in"
+        },
+        {
+          "number": 123,
+          "text": "silence."
+        },
+        {
+          "number": 124,
+          "text": "Yet Machado is always writing"
+        },
+        {
+          "number": 125,
+          "text": "about liberation in his way, which to him"
+        },
+        {
+          "number": 126,
+          "text": "begins with the freedom — the"
+        },
+        {
+          "number": 127,
+          "text": "obligation — to think. Few fiction writers"
+        },
+        {
+          "number": 128,
+          "text": "have written so affectionately about"
+        },
+        {
+          "number": 129,
+          "text": "ideas, as if they were real people; he is"
+        },
+        {
+          "number": 130,
+          "text": "always describing how ideas emerge and"
+        },
+        {
+          "number": 131,
+          "text": "move, the way they can lose their way"
+        },
+        {
+          "number": 132,
+          "text": "and get caught in a crush with others."
+        },
+        {
+          "number": 133,
+          "text": "The way they can appear “fully formed"
+        },
+        {
+          "number": 134,
+          "text": "and beautiful” at times, or grow"
+        },
+        {
+          "number": 135,
+          "text": "“pregnant” with other ideas."
+        },
+        {
+          "number": 136,
+          "text": "Ideas and fixations elevate and"
+        },
+        {
+          "number": 137,
+          "text": "distort in these stories. In one, a man"
+        },
+        {
+          "number": 138,
+          "text": "consumed by his pet bird becomes “pure"
+        },
+        {
+          "number": 139,
+          "text": "canary.” In another, a father intent on"
+        },
+        {
+          "number": 140,
+          "text": "grooming his son to become “a bigwig”"
+        },
+        {
+          "number": 141,
+          "text": "demands he cultivate the necessary"
+        },
+        {
+          "number": 142,
+          "text": "vapidity: “I forbid you to arrive at any"
+        },
+        {
+          "number": 143,
+          "text": "conclusions that have not already been"
+        },
+        {
+          "number": 144,
+          "text": "reached by others. Avoid anything that"
+        },
+        {
+          "number": 145,
+          "text": "has about it so much as a whiff of"
+        },
+        {
+          "number": 146,
+          "text": "reflection, originality or the like.”"
+        },
+        {
+          "number": 147,
+          "text": "To Machado, your identity and the"
+        },
+        {
+          "number": 148,
+          "text": "contours of your world are formed not"
+        },
+        {
+          "number": 149,
+          "text": "just by your circumstances but by what"
+        },
+        {
+          "number": 150,
+          "text": "you think about habitually. You are what"
+        },
+        {
+          "number": 151,
+          "text": "you contemplate, so choose wisely."
+        },
+        {
+          "number": 152,
+          "text": "These stories are a spectacular place to"
+        },
+        {
+          "number": 153,
+          "text": "start."
+        },
+        {
+          "number": null,
+          "text": "From: www.nytimes.com/June 6, 2018"
+        },
+        {
+          "number": null,
+          "text": "Q U E S T I O N S"
+        }
+      ],
+      "questionIds": [
+        "uece-2018-2-f2-english-q01",
+        "uece-2018-2-f2-english-q02",
+        "uece-2018-2-f2-english-q03",
+        "uece-2018-2-f2-english-q04",
+        "uece-2018-2-f2-english-q05",
+        "uece-2018-2-f2-english-q06",
+        "uece-2018-2-f2-english-q07",
+        "uece-2018-2-f2-english-q08",
+        "uece-2018-2-f2-english-q09",
+        "uece-2018-2-f2-english-q10",
+        "uece-2018-2-f2-english-q11",
+        "uece-2018-2-f2-english-q12",
+        "uece-2018-2-f2-english-q13",
+        "uece-2018-2-f2-english-q14",
+        "uece-2018-2-f2-english-q15",
+        "uece-2018-2-f2-english-q16",
+        "uece-2018-2-f2-english-q17",
+        "uece-2018-2-f2-english-q18",
+        "uece-2018-2-f2-english-q19",
+        "uece-2018-2-f2-english-q20"
+      ]
+    }
+  ]
+}

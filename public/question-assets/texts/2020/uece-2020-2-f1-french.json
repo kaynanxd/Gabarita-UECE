@@ -1,0 +1,211 @@
+{
+  "paperId": "uece-2020-2-f1-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2020-2-f1-french-t1",
+      "label": "Texto 1",
+      "title": "T E X T E",
+      "lines": [
+        {
+          "number": null,
+          "text": "LA LÉGENDE DU MONT SAINT-MICHEL"
+        },
+        {
+          "number": 1,
+          "text": "Extrait adapté du conte de Guy de Maupassant"
+        },
+        {
+          "number": 2,
+          "text": "“Je l'avais vu d'abord de Cancale ce"
+        },
+        {
+          "number": 3,
+          "text": "château de fées planté dans la mer. Je l'avais"
+        },
+        {
+          "number": 4,
+          "text": "vu confusément, ombre grise dressée sur le"
+        },
+        {
+          "number": 5,
+          "text": "ciel brumeux."
+        },
+        {
+          "number": 6,
+          "text": "Je le revis d'Avranches, au soleil"
+        },
+        {
+          "number": 7,
+          "text": "couchant. L'immensité des sables était rouge,"
+        },
+        {
+          "number": 8,
+          "text": "l'horizon était rouge, toute la baie démesurée"
+        },
+        {
+          "number": 9,
+          "text": "était rouge; seule, l'abbaye escarpée, poussée"
+        },
+        {
+          "number": 10,
+          "text": "là-bas, loin de la terre, comme un manoir"
+        },
+        {
+          "number": 11,
+          "text": "fantastique, stupéfiante comme un palais de"
+        },
+        {
+          "number": 12,
+          "text": "rêve, invraisemblablement étrange et belle,"
+        },
+        {
+          "number": 13,
+          "text": "restait presque noire dans les pourpres du jour"
+        },
+        {
+          "number": 14,
+          "text": "mourant."
+        },
+        {
+          "number": 15,
+          "text": "J'allai vers elle le lendemain dès l'aube,"
+        },
+        {
+          "number": 16,
+          "text": "à travers les sables, l'oeil tendu sur ce bijoux"
+        },
+        {
+          "number": 17,
+          "text": "monstrueux, grand comme une montagne,"
+        },
+        {
+          "number": 18,
+          "text": "ciselé comme un camée et vaporeux comme"
+        },
+        {
+          "number": 19,
+          "text": "une mousseline. Plus j'approchais, plus je me"
+        },
+        {
+          "number": 20,
+          "text": "sentais soulevé d'admiration, car rien au"
+        },
+        {
+          "number": 21,
+          "text": "monde peut-être n'est plus étonnant et plus"
+        },
+        {
+          "number": 22,
+          "text": "parfait."
+        },
+        {
+          "number": 23,
+          "text": "Et j'errai, surpris comme si j'avais"
+        },
+        {
+          "number": 24,
+          "text": "découvert l'habitation d'un dieu à travers ces"
+        },
+        {
+          "number": 25,
+          "text": "salles portées par des colonnes légères ou"
+        },
+        {
+          "number": 26,
+          "text": "pesantes, à travers ces couloirs percés à jour,"
+        },
+        {
+          "number": 27,
+          "text": "levant mes yeux émerveillés sur ces"
+        },
+        {
+          "number": 28,
+          "text": "clochetons qui semblaient des fusées parties"
+        },
+        {
+          "number": 29,
+          "text": "vers le ciel et sur tout cet emmêlement de"
+        },
+        {
+          "number": 30,
+          "text": "tourelles, de gargouilles, d'ornements sveltes"
+        },
+        {
+          "number": 31,
+          "text": "et charmants, feu d'artifice de pierre, dentelle"
+        },
+        {
+          "number": 32,
+          "text": "de granit, chef-d'oeuvre d'architecture"
+        },
+        {
+          "number": 33,
+          "text": "colossale et délicate."
+        },
+        {
+          "number": 34,
+          "text": "Comme je restais en extase, un paysan"
+        },
+        {
+          "number": 35,
+          "text": "bas-normand m'aborda et me raconta"
+        },
+        {
+          "number": 36,
+          "text": "l’histoire: chaque village de France est placé"
+        },
+        {
+          "number": 37,
+          "text": "sous l'invocation d'un saint protecteur, modifié"
+        },
+        {
+          "number": 38,
+          "text": "à l'image des habitants. Or saint Michel veille"
+        },
+        {
+          "number": 39,
+          "text": "sur la Basse-Normandie, saint Michel, l'ange et"
+        },
+        {
+          "number": 40,
+          "text": "victorieux, le porte-glaive, le héros du ciel, le"
+        },
+        {
+          "number": 41,
+          "text": "triomphant, veille pour toujours sur le mont"
+        },
+        {
+          "number": 42,
+          "text": "normand qui porte son nom."
+        },
+        {
+          "number": null,
+          "text": "La légende du Mont Saint-Michel, in Clair de Lune,"
+        },
+        {
+          "number": null,
+          "text": "Guy de Maupassant, Ed. Monnier, 1883."
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez aux"
+        },
+        {
+          "number": null,
+          "text": "questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2020-2-f1-french-q78",
+        "uece-2020-2-f1-french-q79",
+        "uece-2020-2-f1-french-q80",
+        "uece-2020-2-f1-french-q81",
+        "uece-2020-2-f1-french-q82",
+        "uece-2020-2-f1-french-q83",
+        "uece-2020-2-f1-french-q84",
+        "uece-2020-2-f1-french-q85"
+      ]
+    }
+  ]
+}

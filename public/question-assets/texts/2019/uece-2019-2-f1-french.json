@@ -1,0 +1,347 @@
+{
+  "paperId": "uece-2019-2-f1-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2019-2-f1-french-t1",
+      "label": "Texto 1",
+      "title": "T E X T E",
+      "lines": [
+        {
+          "number": null,
+          "text": "De quoi la tour Eiffel est-elle le symbole ?"
+        },
+        {
+          "number": 1,
+          "text": "Sur une question aussi simple la réponse"
+        },
+        {
+          "number": 2,
+          "text": "semble tout aussi simple: De Paris, ou de la"
+        },
+        {
+          "number": 3,
+          "text": "France, ça semble évident. Mais il suffit de"
+        },
+        {
+          "number": 4,
+          "text": "chercher un peu pour trouver qu'elle peut être"
+        },
+        {
+          "number": 5,
+          "text": "associée à d'autres symboles que l'on a parfois"
+        },
+        {
+          "number": 6,
+          "text": "complètement oubliés."
+        },
+        {
+          "number": 7,
+          "text": "C'est le plus évident. La tour Eiffel est le"
+        },
+        {
+          "number": 8,
+          "text": "symbole de la ville de Paris et, par extension,"
+        },
+        {
+          "number": 9,
+          "text": "de la France. Il y a plusieurs raisons pour"
+        },
+        {
+          "number": 10,
+          "text": "déclarer ceci. Tout d'abord de façon empirique"
+        },
+        {
+          "number": 11,
+          "text": "on constate que c'est le cas. Quand il faut"
+        },
+        {
+          "number": 12,
+          "text": "symboliser la France, c'est avant tout la tour"
+        },
+        {
+          "number": 13,
+          "text": "Eiffel qui est choisie. Ensuite par la"
+        },
+        {
+          "number": 14,
+          "text": "communication des représentants de la France"
+        },
+        {
+          "number": 15,
+          "text": "à l'étranger, qui se fait souvent en mettant la"
+        },
+        {
+          "number": 16,
+          "text": "tour Eiffel au premier plan. C'est le cas sur le"
+        },
+        {
+          "number": 17,
+          "text": "film présentant les Jeux Olympiques de Paris"
+        },
+        {
+          "number": 18,
+          "text": "de 2012, par exemple. Une autre raison de"
+        },
+        {
+          "number": 19,
+          "text": "penser cela se trouve dans la place que prend"
+        },
+        {
+          "number": 20,
+          "text": "la tour à Paris. D'où qu'on soit on la voit bien,"
+        },
+        {
+          "number": 21,
+          "text": "la nuit, sa présence se manifeste par le"
+        },
+        {
+          "number": 22,
+          "text": "faisceau lumineux qui balaie le ciel."
+        },
+        {
+          "number": 23,
+          "text": "Mais être le symbole de Paris la rend-elle"
+        },
+        {
+          "number": 24,
+          "text": "symbole de la France? A priori non, il n'y a pas"
+        },
+        {
+          "number": 25,
+          "text": "de raison pour que ce soit le cas, et pourtant"
+        },
+        {
+          "number": 26,
+          "text": "ça l'est. En France, l'état est centralisé à Paris,"
+        },
+        {
+          "number": 27,
+          "text": "qui est à la fois la capitale politique,"
+        },
+        {
+          "number": 28,
+          "text": "économique et culturelle de la France, du coup"
+        },
+        {
+          "number": 29,
+          "text": "tout monument existant hors de la capitale"
+        },
+        {
+          "number": 30,
+          "text": "passe à un niveau inférieur face aux"
+        },
+        {
+          "number": 31,
+          "text": "monuments parisiens.. Dans Paris la tour Eiffel"
+        },
+        {
+          "number": 32,
+          "text": "n'a pas de concurrence: le Louvre, l'Arc de"
+        },
+        {
+          "number": 33,
+          "text": "Triomphe ou le Sacré Coeur sont tous moins"
+        },
+        {
+          "number": 34,
+          "text": "connus, internationalement parlant."
+        },
+        {
+          "number": 35,
+          "text": "Enfin une remarque sur le rayonnement"
+        },
+        {
+          "number": 36,
+          "text": "de la tour Eiffel à l'étranger. Lorsqu'on"
+        },
+        {
+          "number": 37,
+          "text": "demande à un étranger de citer un monument"
+        },
+        {
+          "number": 38,
+          "text": "parisien, c'est la tour Eiffel qui est citée. Si on"
+        },
+        {
+          "number": 39,
+          "text": "en demande un autre, leur connaissance est"
+        },
+        {
+          "number": 40,
+          "text": "directement liée à la culture de la personne"
+        },
+        {
+          "number": 41,
+          "text": "ainsi qu'à sa proximité. Si l’on fait le même"
+        },
+        {
+          "number": 42,
+          "text": "essai avec, par exemple, New-York, la réponse"
+        },
+        {
+          "number": 43,
+          "text": "ne sera jamais unique, preuve qu'il n'y a pas"
+        },
+        {
+          "number": 44,
+          "text": "de bâtiment qui se dégage par rapport aux"
+        },
+        {
+          "number": 45,
+          "text": "autres."
+        },
+        {
+          "number": 46,
+          "text": "En reprenant un peu son histoire, on"
+        },
+        {
+          "number": 47,
+          "text": "constate que à la fin du XIXe. siècle, l'Europe"
+        },
+        {
+          "number": 48,
+          "text": "entre dans l'ère industrielle. Dans le nord de la"
+        },
+        {
+          "number": 49,
+          "text": "France les usines se multiplient, on découvre"
+        },
+        {
+          "number": 50,
+          "text": "la force motrice de la vapeur puis, plus tard,"
+        },
+        {
+          "number": 51,
+          "text": "de l'électricité. Les ingénieurs découvrant le"
+        },
+        {
+          "number": 52,
+          "text": "métal en tant que matériau de construction se"
+        },
+        {
+          "number": 53,
+          "text": "lancent dans des défis de plus en plus fous."
+        },
+        {
+          "number": 54,
+          "text": "Celui de construire une tour de 1000 pieds"
+        },
+        {
+          "number": 55,
+          "text": "devient un pari diffusé dans le monde entier."
+        },
+        {
+          "number": 56,
+          "text": "Le pays qui réalisera ce tour de force sera"
+        },
+        {
+          "number": 57,
+          "text": "indéniablement considéré comme"
+        },
+        {
+          "number": 58,
+          "text": "technologiquement avancé, et c'est la France"
+        },
+        {
+          "number": 59,
+          "text": "qui y parvient en premier, grâce à Gustave"
+        },
+        {
+          "number": 60,
+          "text": "Eiffel."
+        },
+        {
+          "number": 61,
+          "text": "Sa tour de 1000 pieds  est un exploit"
+        },
+        {
+          "number": 62,
+          "text": "technologique qui montre au monde entier la"
+        },
+        {
+          "number": 63,
+          "text": "puissance technologique de la France. Elle a"
+        },
+        {
+          "number": 64,
+          "text": "été construite uniquement pour ça, pour servir"
+        },
+        {
+          "number": 65,
+          "text": "de portail d'entrée à l'exposition universelle de"
+        },
+        {
+          "number": 66,
+          "text": "1889. Les techniques novatrices qui ont été"
+        },
+        {
+          "number": 67,
+          "text": "utilisées l'ont été par la suite dans d'autres"
+        },
+        {
+          "number": 68,
+          "text": "édifices, en particulier le principe de ne"
+        },
+        {
+          "number": 69,
+          "text": "construire que des pièces qui, une fois"
+        },
+        {
+          "number": 70,
+          "text": "assemblées, pouvaient être déplacées par"
+        },
+        {
+          "number": 71,
+          "text": "deux hommes seulement. Alors, voilà"
+        },
+        {
+          "number": 72,
+          "text": "comment la tour Eiffel est devenue un symbole"
+        },
+        {
+          "number": 73,
+          "text": "de grandeur représentatif de la France. Ça se"
+        },
+        {
+          "number": 74,
+          "text": "confirme par sa popularité, aussi bien en"
+        },
+        {
+          "number": 75,
+          "text": "France que dans les pays étrangers."
+        },
+        {
+          "number": null,
+          "text": "https://www.merveilles-du-monde.com/Tour-"
+        },
+        {
+          "number": null,
+          "text": "Eiffel/Symbolisme-de-la-tour-Eiffel.php"
+        },
+        {
+          "number": null,
+          "text": "21"
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez aux"
+        },
+        {
+          "number": null,
+          "text": "questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f1-french-q73",
+        "uece-2019-2-f1-french-q74",
+        "uece-2019-2-f1-french-q75",
+        "uece-2019-2-f1-french-q76",
+        "uece-2019-2-f1-french-q77",
+        "uece-2019-2-f1-french-q78",
+        "uece-2019-2-f1-french-q79",
+        "uece-2019-2-f1-french-q80"
+      ]
+    }
+  ]
+}

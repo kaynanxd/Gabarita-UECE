@@ -1,0 +1,213 @@
+{
+  "paperId": "uece-2015-2-f1-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2015-2-f1-french-t1",
+      "label": "TEXTE",
+      "title": "PENSÉE ET LANGAGE",
+      "lines": [
+        {
+          "number": 1,
+          "text": "Quels rapports la pensée et le langage"
+        },
+        {
+          "number": 2,
+          "text": "entretiennent-ils? C'est à cette interrogation"
+        },
+        {
+          "number": 3,
+          "text": "majeure que des psychologues contemporains se"
+        },
+        {
+          "number": 4,
+          "text": "sont efforcés de répondre."
+        },
+        {
+          "number": 5,
+          "text": "Mais ce qui intéresse surtout, c'est la"
+        },
+        {
+          "number": 6,
+          "text": "manière dont pensée et langage se développent"
+        },
+        {
+          "number": 7,
+          "text": "chez l'être humain, en particulier au cours de"
+        },
+        {
+          "number": 8,
+          "text": "l'enfance."
+        },
+        {
+          "number": 9,
+          "text": "À propos de ce sujet, un autre thème"
+        },
+        {
+          "number": 10,
+          "text": "longuement traité concerne l'opposition entre"
+        },
+        {
+          "number": 11,
+          "text": "concepts scientifiques et concepts «quotidiens»"
+        },
+        {
+          "number": 12,
+          "text": "ou «spontanés». Le psychologue russe Vygotski"
+        },
+        {
+          "number": 13,
+          "text": "souligne le paradoxe suivant: l'enfant formule"
+        },
+        {
+          "number": 14,
+          "text": "mieux ce qu'est la loi d'Archimède qu'il ne définit"
+        },
+        {
+          "number": 15,
+          "text": "ce qu'est un frère. Alors qu'il a une riche"
+        },
+        {
+          "number": 16,
+          "text": "expérience empirique de ce qu'est un frère, il"
+        },
+        {
+          "number": 17,
+          "text": "s'embrouille si on lui demande ce que signifie le"
+        },
+        {
+          "number": 18,
+          "text": "mot «frère»."
+        },
+        {
+          "number": 19,
+          "text": "De fait, nous explique Vygotski, les"
+        },
+        {
+          "number": 20,
+          "text": "concepts quotidiens ne se développent pas du"
+        },
+        {
+          "number": 21,
+          "text": "tout comme les concepts scientifiques. Les"
+        },
+        {
+          "number": 22,
+          "text": "premiers sont connus dans l'expérience concrète,"
+        },
+        {
+          "number": 23,
+          "text": "les seconds à la suite d'une explication du"
+        },
+        {
+          "number": 24,
+          "text": "maître, «dans une situation de collaboration"
+        },
+        {
+          "number": 25,
+          "text": "entre le pédagogue et l'enfant». L'enfant sait"
+        },
+        {
+          "number": 26,
+          "text": "manier les concepts spontanés mais n'en a pas"
+        },
+        {
+          "number": 27,
+          "text": "conscience, il a en fait conscience de l'objet"
+        },
+        {
+          "number": 28,
+          "text": "beaucoup plus que du concept lui-même."
+        },
+        {
+          "number": 29,
+          "text": "Inversement, l'enfant prend dès le début"
+        },
+        {
+          "number": 30,
+          "text": "beaucoup mieux conscience des concepts"
+        },
+        {
+          "number": 31,
+          "text": "scientifiques que des objets qu'ils représentent."
+        },
+        {
+          "number": 32,
+          "text": "Pour bien faire comprendre cette"
+        },
+        {
+          "number": 33,
+          "text": "distinction, Vygotski établit un parallèle avec la"
+        },
+        {
+          "number": 34,
+          "text": "différence entre l'apprentissage de la langue"
+        },
+        {
+          "number": 35,
+          "text": "maternelle et l'apprentissage d'une langue"
+        },
+        {
+          "number": 36,
+          "text": "étrangère. La langue maternelle est comme les"
+        },
+        {
+          "number": 37,
+          "text": "concepts quotidiens: bien avant l'école, l'enfant"
+        },
+        {
+          "number": 38,
+          "text": "en maîtrise pratiquement toute la grammaire,"
+        },
+        {
+          "number": 39,
+          "text": "mais sans avoir conscience de ce qu'il fait. En"
+        },
+        {
+          "number": 40,
+          "text": "revanche, l'apprentissage d'une langue étrangère"
+        },
+        {
+          "number": 41,
+          "text": "va se réaliser de manière radicalement"
+        },
+        {
+          "number": 42,
+          "text": "différente: l'élève apprend consciemment des"
+        },
+        {
+          "number": 43,
+          "text": "règles formelles de grammaire et les utilise"
+        },
+        {
+          "number": 44,
+          "text": "volontairement."
+        },
+        {
+          "number": null,
+          "text": "Adapté du texte Pensée et Langage, Jacques Lecomte,"
+        },
+        {
+          "number": null,
+          "text": "1998."
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez"
+        },
+        {
+          "number": null,
+          "text": "aux questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2015-2-f1-french-q55",
+        "uece-2015-2-f1-french-q56",
+        "uece-2015-2-f1-french-q57",
+        "uece-2015-2-f1-french-q58",
+        "uece-2015-2-f1-french-q59",
+        "uece-2015-2-f1-french-q60"
+      ]
+    }
+  ]
+}

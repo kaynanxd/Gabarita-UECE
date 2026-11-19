@@ -1,0 +1,231 @@
+{
+  "paperId": "uece-2023-2-f1-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2023-2-f1-spanish-t1",
+      "label": "Texto 1",
+      "title": "LO QUE DICEN ALGUNOS VIAJEROS",
+      "lines": [
+        {
+          "number": 1,
+          "text": "Dice Rafael"
+        },
+        {
+          "number": 2,
+          "text": "Recuerdo perfectamente mi primer viaje, fue"
+        },
+        {
+          "number": 3,
+          "text": "a Marruecos. Yo era un joven con muchas ganas de"
+        },
+        {
+          "number": 4,
+          "text": "vivir nuevas experiencias fuera de mi país y se me"
+        },
+        {
+          "number": 5,
+          "text": "presentó una gran oportunidad: viajar con uno de"
+        },
+        {
+          "number": 6,
+          "text": "mis profesores de la Facultad de Historia para hacer"
+        },
+        {
+          "number": 7,
+          "text": "un estudio etnográfico en una pequeña región del"
+        },
+        {
+          "number": 8,
+          "text": "norte de este país. Fueron unos días muy"
+        },
+        {
+          "number": 9,
+          "text": "interesantes, aunque también pasé algunas"
+        },
+        {
+          "number": 10,
+          "text": "dificultades, sobre todo debido a las oscilaciones de"
+        },
+        {
+          "number": 11,
+          "text": "temperatura. Conocí a mucha gente interesante y"
+        },
+        {
+          "number": 12,
+          "text": "probé nuevas comidas. Los marroquíes son"
+        },
+        {
+          "number": 13,
+          "text": "especialmente amables. Sin duda, una de las cosas"
+        },
+        {
+          "number": 14,
+          "text": "que más me gustó fue el té; bebía dos o tres vasos"
+        },
+        {
+          "number": 15,
+          "text": "cada día. Todavía hoy conservo alguno de los"
+        },
+        {
+          "number": 16,
+          "text": "informes que redacté en aquella aventura con"
+        },
+        {
+          "number": 17,
+          "text": "cierta nostalgia."
+        },
+        {
+          "number": null,
+          "text": "19"
+        },
+        {
+          "number": 18,
+          "text": "Dice Alberto"
+        },
+        {
+          "number": 19,
+          "text": "Yo vivía en Sevilla con mi novia. En el verano"
+        },
+        {
+          "number": 20,
+          "text": "de 2012 decidimos pasar juntos las vacaciones y"
+        },
+        {
+          "number": 21,
+          "text": "nos fuimos con lo puesto a un “camping” de"
+        },
+        {
+          "number": 22,
+          "text": "Mallorca. Los primeros días fueron muy divertidos;"
+        },
+        {
+          "number": 23,
+          "text": "recuerdo la tienda de campaña y el cortavientos."
+        },
+        {
+          "number": 24,
+          "text": "Normalmente comíamos de bocadillo y nos"
+        },
+        {
+          "number": 25,
+          "text": "pasábamos la vida en la playa, tomando el sol"
+        },
+        {
+          "number": 26,
+          "text": "tirados a la bartola. Por las mañanas, normalmente,"
+        },
+        {
+          "number": 27,
+          "text": "aprovechábamos para visitar alguna cueva o nueva"
+        },
+        {
+          "number": 28,
+          "text": "cala donde el agua era cristalina y podíamos"
+        },
+        {
+          "number": 29,
+          "text": "disfrutar de un baño muy agradable. Los últimos"
+        },
+        {
+          "number": 30,
+          "text": "días de estancia se hicieron más complicados. El"
+        },
+        {
+          "number": 31,
+          "text": "clima cambió y las tormentas eran frecuentes. La"
+        },
+        {
+          "number": 32,
+          "text": "tienda de campaña se inundaba cada dos por tres y"
+        },
+        {
+          "number": 33,
+          "text": "nuestro humor cambió radicalmente. Tengo que"
+        },
+        {
+          "number": 34,
+          "text": "confesar que las discusiones de esos días"
+        },
+        {
+          "number": 35,
+          "text": "empañaron un poco la sensación positiva del viaje."
+        },
+        {
+          "number": 36,
+          "text": "Dice Ricardo"
+        },
+        {
+          "number": 37,
+          "text": "En 2004 decidí buscarme la vida lejos de mi"
+        },
+        {
+          "number": 38,
+          "text": "hogar. La suerte me llevó a un pequeño pueblecito"
+        },
+        {
+          "number": 39,
+          "text": "del sur de Inglaterra llamado Truro. Allí trabajé en"
+        },
+        {
+          "number": 40,
+          "text": "lo que pude algunos meses, mientras me"
+        },
+        {
+          "number": 41,
+          "text": "familiarizaba con el inglés y aprendía las"
+        },
+        {
+          "number": 42,
+          "text": "costumbres del lugar. Me quedé atrapado por los"
+        },
+        {
+          "number": 43,
+          "text": "campos verdes y la calma con la que se vive en esta"
+        },
+        {
+          "number": 44,
+          "text": "zona. Gracias a este viaje comprendí que quería"
+        },
+        {
+          "number": 45,
+          "text": "viajar por todo el mundo y conocer  muchos países"
+        },
+        {
+          "number": 46,
+          "text": "diferentes para ser muy rico de espíritu. Ahora vivo"
+        },
+        {
+          "number": 47,
+          "text": "en Australia pero siempre recordaré la primera vez"
+        },
+        {
+          "number": 48,
+          "text": "que puse los pies en tierras inglesas. A Truro le"
+        },
+        {
+          "number": 49,
+          "text": "debo mi despertar como viajero y mis ansias de"
+        },
+        {
+          "number": 50,
+          "text": "conocer nuevos mundos para compartir"
+        },
+        {
+          "number": 51,
+          "text": "experiencias con gente nueva cada día."
+        }
+      ],
+      "questionIds": [
+        "uece-2023-2-f1-spanish-q78",
+        "uece-2023-2-f1-spanish-q79",
+        "uece-2023-2-f1-spanish-q80",
+        "uece-2023-2-f1-spanish-q81",
+        "uece-2023-2-f1-spanish-q82",
+        "uece-2023-2-f1-spanish-q83",
+        "uece-2023-2-f1-spanish-q84",
+        "uece-2023-2-f1-spanish-q85"
+      ]
+    }
+  ]
+}

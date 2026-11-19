@@ -1,0 +1,323 @@
+{
+  "paperId": "uece-2017-1-f2-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2017-1-f2-french-t1",
+      "label": "Texto 1",
+      "title": "QUOI DE NEUF DANS LES DICOS?",
+      "lines": [
+        {
+          "number": 1,
+          "text": "L’édition 2016 des bibles de la"
+        },
+        {
+          "number": 2,
+          "text": "langue française – les célèbres dictionnaires Le"
+        },
+        {
+          "number": 3,
+          "text": "Petit Robert et Le Petit Larousse – accueille une"
+        },
+        {
+          "number": 4,
+          "text": "centaine de nouveaux mots, sens ou"
+        },
+        {
+          "number": 5,
+          "text": "expressions. Comment ont-ils été choisis ?"
+        },
+        {
+          "number": 6,
+          "text": "Chaque nouvelle entrée a dû respecter, comme"
+        },
+        {
+          "number": 7,
+          "text": "pour les éditions précédentes, les deux critères"
+        },
+        {
+          "number": 8,
+          "text": "suivants: être populaire et repris dans les"
+        },
+        {
+          "number": 9,
+          "text": "médias ou être lié à l’actualité sans être un"
+        },
+        {
+          "number": 10,
+          "text": "effet de mode éphémère."
+        },
+        {
+          "number": 11,
+          "text": "Comme chaque année, les"
+        },
+        {
+          "number": 12,
+          "text": "anglicismes sont les rois de ces nouveaux"
+        },
+        {
+          "number": 13,
+          "text": "mots... Ainsi, on peut retrouver dans les deux"
+        },
+        {
+          "number": 14,
+          "text": "dictionnaires mentionnés bitcoin, la monnaie"
+        },
+        {
+          "number": 15,
+          "text": "électronique utilisée sur Internet, et big data,"
+        },
+        {
+          "number": 16,
+          "text": "l’étude de données à grande échelle. Par"
+        },
+        {
+          "number": 17,
+          "text": "ailleurs, si Le Petit Larousse choisit le mot"
+        },
+        {
+          "number": 18,
+          "text": "mooc, qui signifie \"cours en ligne\", Le Petit"
+        },
+        {
+          "number": 19,
+          "text": "Robert préfère introduire captcha, le code"
+        },
+        {
+          "number": 20,
+          "text": "visuel de sécurité utilisé sur le web."
+        },
+        {
+          "number": 21,
+          "text": "La francophonie tire cependant son"
+        },
+        {
+          "number": 22,
+          "text": "épingle du jeu. En effet, le terme selfie fait son"
+        },
+        {
+          "number": 23,
+          "text": "apparition dans les régionalismes du Larousse"
+        },
+        {
+          "number": 24,
+          "text": "sous sa forme québécoise, égoportrait. Ce"
+        },
+        {
+          "number": 25,
+          "text": "dictionnaire propose aussi de découvrir les"
+        },
+        {
+          "number": 26,
+          "text": "mots comme amarrer, qui veut dire\" séduire"
+        },
+        {
+          "number": 27,
+          "text": "quelqu’un\" à la Réunion, et chneuquer, utilisé"
+        },
+        {
+          "number": 28,
+          "text": "en Suisse à la place de \"fouiner\"."
+        },
+        {
+          "number": 29,
+          "text": "Les amateurs de gastronomie ne"
+        },
+        {
+          "number": 30,
+          "text": "sont pas en reste. Les deux ouvrages font la"
+        },
+        {
+          "number": 31,
+          "text": "part belle au vocabulaire culinaire avec par"
+        },
+        {
+          "number": 32,
+          "text": "exemple l’introduction dans le Larousse des"
+        },
+        {
+          "number": 33,
+          "text": "mots crudivore, défini comme un régime"
+        },
+        {
+          "number": 34,
+          "text": "alimentaire consistant à ne consommer que des"
+        },
+        {
+          "number": 35,
+          "text": "aliments crus, et goji, une baie rouge"
+        },
+        {
+          "number": 36,
+          "text": "comestible riche en vitamine C et très à la"
+        },
+        {
+          "number": 37,
+          "text": "mode. Quant au Robert, il se distingue par les"
+        },
+        {
+          "number": 38,
+          "text": "termes entomophagie, qui renvoie au fait de se"
+        },
+        {
+          "number": 39,
+          "text": "nourrir d’insectes, ou encore yuzu, un agrume"
+        },
+        {
+          "number": 40,
+          "text": "provenant de l’est de l’Asie."
+        },
+        {
+          "number": 41,
+          "text": "Tendance \"vert\" oblige, le"
+        },
+        {
+          "number": 42,
+          "text": "vocabulaire de l’environnement fleurit dans les"
+        },
+        {
+          "number": 43,
+          "text": "deux dictionnaires. Le Larousse introduit"
+        },
+        {
+          "number": 44,
+          "text": "circulation alternée, dispositif de circulation en"
+        },
+        {
+          "number": 45,
+          "text": "vigueur dans une ville autorisant uniquement"
+        },
+        {
+          "number": 46,
+          "text": "certains véhicules à circuler afin de limiter les"
+        },
+        {
+          "number": 47,
+          "text": "effets de la pollution sur la santé. Dans le Petit"
+        },
+        {
+          "number": 48,
+          "text": "Robert, quelques petits nouveaux s’appellent"
+        },
+        {
+          "number": 49,
+          "text": "zadiste, militant qui occupe une \"ZAD\", c’est-à-"
+        },
+        {
+          "number": 50,
+          "text": "dire une zone à défendre et s’oppose à un"
+        },
+        {
+          "number": 51,
+          "text": "projet d’aménagement qui porterait préjudice à"
+        },
+        {
+          "number": 52,
+          "text": "l’environnement, et climatosceptique, qui met"
+        },
+        {
+          "number": 53,
+          "text": "en doute le réchauffement climatique."
+        },
+        {
+          "number": 54,
+          "text": "Enfin, les dictionnaires se mettent à"
+        },
+        {
+          "number": 55,
+          "text": "la page pour refléter notre époque. Cela donne"
+        },
+        {
+          "number": 56,
+          "text": "donc des mots du vocabulaire familier"
+        },
+        {
+          "number": 57,
+          "text": "fréquemment utilisés par les jeunes comme"
+        },
+        {
+          "number": 58,
+          "text": "dans le Larousse bolos, qui désigne un bouffon,"
+        },
+        {
+          "number": 59,
+          "text": "lose, dans le sens de malchance. Le Robert"
+        },
+        {
+          "number": 60,
+          "text": "présente, de son côté, les expressions imagées"
+        },
+        {
+          "number": 61,
+          "text": "tendu comme un string, qui signifie « stressé »,"
+        },
+        {
+          "number": 62,
+          "text": "ou maquillée comme un camion volé, pour"
+        },
+        {
+          "number": 63,
+          "text": "exprimer un excès de maquillage!"
+        },
+        {
+          "number": 64,
+          "text": "Le cru 2016 des deux dictionnaires"
+        },
+        {
+          "number": 65,
+          "text": "démontre par la richesse et l’inventivité de ces"
+        },
+        {
+          "number": 66,
+          "text": "quelques créations citées que le français a"
+        },
+        {
+          "number": 67,
+          "text": "encore de très beaux jours devant lui."
+        },
+        {
+          "number": null,
+          "text": "Extrait de Quoi de neuf dans les dicos?, p. 25,"
+        },
+        {
+          "number": null,
+          "text": "in Francophonies du Sud, nº 36, septembre-octobre"
+        },
+        {
+          "number": null,
+          "text": "2015."
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez"
+        },
+        {
+          "number": null,
+          "text": "aux questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2017-1-f2-french-q01",
+        "uece-2017-1-f2-french-q02",
+        "uece-2017-1-f2-french-q03",
+        "uece-2017-1-f2-french-q04",
+        "uece-2017-1-f2-french-q05",
+        "uece-2017-1-f2-french-q06",
+        "uece-2017-1-f2-french-q07",
+        "uece-2017-1-f2-french-q08",
+        "uece-2017-1-f2-french-q09",
+        "uece-2017-1-f2-french-q10",
+        "uece-2017-1-f2-french-q11",
+        "uece-2017-1-f2-french-q12",
+        "uece-2017-1-f2-french-q13",
+        "uece-2017-1-f2-french-q14",
+        "uece-2017-1-f2-french-q15",
+        "uece-2017-1-f2-french-q16",
+        "uece-2017-1-f2-french-q17",
+        "uece-2017-1-f2-french-q18",
+        "uece-2017-1-f2-french-q19",
+        "uece-2017-1-f2-french-q20"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "paperId": "uece-2022-1-f2-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2022-1-f2-french-t1",
+      "label": "TEXTE",
+      "title": null,
+      "lines": [
+        {
+          "number": null,
+          "text": "Lire pour apprendre, lire pour comprendre"
+        },
+        {
+          "number": 1,
+          "text": "“La maîtrise des compétences"
+        },
+        {
+          "number": 2,
+          "text": "littéraires est devenue un enjeu de plus en"
+        },
+        {
+          "number": 3,
+          "text": "plus crucial au sein de notre société. La"
+        },
+        {
+          "number": 4,
+          "text": "lecture, au delà du cadre de littératie"
+        },
+        {
+          "number": 5,
+          "text": "restreinte, est un véritable outil pour"
+        },
+        {
+          "number": 6,
+          "text": "interpréter le monde, structurer les"
+        },
+        {
+          "number": 7,
+          "text": "expériences et construire des"
+        },
+        {
+          "number": 8,
+          "text": "connaissances. Les usages liés à la maîtrise"
+        },
+        {
+          "number": 9,
+          "text": "de la lecture experte ne découlent pas, à"
+        },
+        {
+          "number": 10,
+          "text": "l’instar du langage, de l’immersion naturelle"
+        },
+        {
+          "number": 11,
+          "text": "dans la société. La lecture pour apprendre"
+        },
+        {
+          "number": 12,
+          "text": "et pour comprendre nécessite un"
+        },
+        {
+          "number": 13,
+          "text": "apprentissage spécifique qui fait l’objet"
+        },
+        {
+          "number": 14,
+          "text": "encore aujourd’hui de diverses"
+        },
+        {
+          "number": 15,
+          "text": "controverses."
+        },
+        {
+          "number": 16,
+          "text": "Que veut dire savoir lire à notre"
+        },
+        {
+          "number": 17,
+          "text": "époque? Une première définition caractérise"
+        },
+        {
+          "number": 18,
+          "text": "l’acte de lire comme la capacité à établir"
+        },
+        {
+          "number": 19,
+          "text": "des relations entre les séquences de signes"
+        },
+        {
+          "number": 20,
+          "text": "graphiques d’un texte et les signes"
+        },
+        {
+          "number": 21,
+          "text": "linguistiques propres à une langue naturelle"
+        },
+        {
+          "number": 22,
+          "text": "(phonèmes, mots, marques"
+        },
+        {
+          "number": 23,
+          "text": "grammaticales), mais c’est aussi la prise de"
+        },
+        {
+          "number": 24,
+          "text": "connaissance du contenu d’un texte écrit."
+        },
+        {
+          "number": 25,
+          "text": "Prendre connaissance, c’est comprendre le"
+        },
+        {
+          "number": 26,
+          "text": "sens du texte dans un contexte spécifique."
+        },
+        {
+          "number": 27,
+          "text": "Apprendre à lire revient donc à apprendre à"
+        },
+        {
+          "number": 28,
+          "text": "comprendre."
+        },
+        {
+          "number": 29,
+          "text": "Nous nous intéresserons plus"
+        },
+        {
+          "number": 30,
+          "text": "particulièrement à la place du lecteur au"
+        },
+        {
+          "number": 31,
+          "text": "sein de la relation texte/auteur et à la"
+        },
+        {
+          "number": 32,
+          "text": "démarche interprétative qu’il doit adopter."
+        },
+        {
+          "number": 33,
+          "text": "En effet, l’acte de lecture aujourd’hui c’est"
+        },
+        {
+          "number": 34,
+          "text": "comprendre au delà des simples mots, c’est"
+        },
+        {
+          "number": 35,
+          "text": "s’approprier le texte dans une approche"
+        },
+        {
+          "number": 36,
+          "text": "sociale et culturelle qui favorise la"
+        },
+        {
+          "number": 37,
+          "text": "connaissance des autres et de soi-même."
+        },
+        {
+          "number": 38,
+          "text": "Vivre en société demande à ce que"
+        },
+        {
+          "number": 39,
+          "text": "chacun possède un niveau de littératie le"
+        },
+        {
+          "number": 40,
+          "text": "rendant apte à s’épanouir, réfléchir et"
+        },
+        {
+          "number": 41,
+          "text": "travailler. Pour Nonnon, la littératie, c’est"
+        },
+        {
+          "number": 42,
+          "text": "surtout la capacité à construire un rapport"
+        },
+        {
+          "number": 43,
+          "text": "au monde et aux savoirs à partir de"
+        },
+        {
+          "number": 44,
+          "text": "conduites déductives, cognitives, sociales"
+        },
+        {
+          "number": null,
+          "text": "7"
+        },
+        {
+          "number": 45,
+          "text": "qui forment un outil « pour interpréter le"
+        },
+        {
+          "number": 46,
+          "text": "monde, élargir et structurer l’expérience,"
+        },
+        {
+          "number": 47,
+          "text": "s’approprier les savoirs ». La littératie ne se"
+        },
+        {
+          "number": 48,
+          "text": "définit plus seulement comme une simple"
+        },
+        {
+          "number": 49,
+          "text": "maîtrise de compétences de lecture et"
+        },
+        {
+          "number": 50,
+          "text": "d’écriture, ni comme un « ensemble de"
+        },
+        {
+          "number": 51,
+          "text": "dispositions lettrées » associé à la seule"
+        },
+        {
+          "number": 52,
+          "text": "approche littéraire (Nonnon, 2012). L’école"
+        },
+        {
+          "number": 53,
+          "text": "joue un rôle essentiel dans l’acquisition des"
+        },
+        {
+          "number": 54,
+          "text": "compétences en littératie et depuis les"
+        },
+        {
+          "number": 55,
+          "text": "documents d’accompagnement du"
+        },
+        {
+          "number": 56,
+          "text": "programme de 1992, une attention toute"
+        },
+        {
+          "number": 57,
+          "text": "particulière est accordée à l’apprentissage"
+        },
+        {
+          "number": 58,
+          "text": "de la compréhension de textes. La maîtrise"
+        },
+        {
+          "number": 59,
+          "text": "de la lecture, primordiale pour l’acquisition"
+        },
+        {
+          "number": 60,
+          "text": "des connaissances tout au long de la vie,"
+        },
+        {
+          "number": 61,
+          "text": "passe par la compréhension de tous types"
+        },
+        {
+          "number": 62,
+          "text": "de messages écrits, nécessaire à"
+        },
+        {
+          "number": 63,
+          "text": "l’adaptation sociale et professionnelle tant"
+        },
+        {
+          "number": 64,
+          "text": "des jeunes comme des adultes."
+        },
+        {
+          "number": 65,
+          "text": "La compréhension du texte fait partie"
+        },
+        {
+          "number": 66,
+          "text": "des habiletés cognitives transversales de"
+        },
+        {
+          "number": 67,
+          "text": "compréhension générale qui nous"
+        },
+        {
+          "number": 68,
+          "text": "permettent de percevoir le monde et de le"
+        },
+        {
+          "number": 69,
+          "text": "rendre intelligible (Bianco, 2010). Les"
+        },
+        {
+          "number": 70,
+          "text": "études en psychologie ont montré qu’en fin"
+        },
+        {
+          "number": 71,
+          "text": "de scolarité primaire, les meilleurs lecteurs"
+        },
+        {
+          "number": 72,
+          "text": "auraient de meilleures capacités de"
+        },
+        {
+          "number": 73,
+          "text": "compréhension des textes, plutôt que de"
+        },
+        {
+          "number": 74,
+          "text": "maîtrise du code. En effet, les mécanismes"
+        },
+        {
+          "number": 75,
+          "text": "de compréhension du texte ne sont pas"
+        },
+        {
+          "number": 76,
+          "text": "spécifiques à la lecture, au contraire des"
+        },
+        {
+          "number": 77,
+          "text": "procédures d’identification des mots. Il"
+        },
+        {
+          "number": 78,
+          "text": "existe aujourd’hui plusieurs modèles"
+        },
+        {
+          "number": 79,
+          "text": "théoriques issus de la psychologie cognitive"
+        },
+        {
+          "number": 80,
+          "text": "qui présentent les mécanismes cognitifs"
+        },
+        {
+          "number": 81,
+          "text": "utilisés lors de l’activité de la"
+        },
+        {
+          "number": 82,
+          "text": "compréhension."
+        },
+        {
+          "number": 83,
+          "text": "Pour comprendre les textes écrits, un"
+        },
+        {
+          "number": 84,
+          "text": "lecteur doit non seulement extraire le sens"
+        },
+        {
+          "number": 85,
+          "text": "des mots, mais également constituer une"
+        },
+        {
+          "number": 86,
+          "text": "représentation mentale en utilisant des"
+        },
+        {
+          "number": 87,
+          "text": "habiletés langagières communes à la"
+        },
+        {
+          "number": 88,
+          "text": "compréhension orale et écrite, habiletés"
+        },
+        {
+          "number": 89,
+          "text": "nécessaires à la réalisation d’inférences"
+        },
+        {
+          "number": 90,
+          "text": "(Snow, 2002) qui consiste à utiliser des"
+        },
+        {
+          "number": 91,
+          "text": "éléments d’information explicites d’un texte"
+        },
+        {
+          "number": 92,
+          "text": "afin de créer une information implicite."
+        },
+        {
+          "number": 93,
+          "text": "L’inférence peut être très simple (associer"
+        },
+        {
+          "number": 94,
+          "text": "un pronom à un personnage déjà cité) ou"
+        },
+        {
+          "number": 95,
+          "text": "complexe (comprendre une information via"
+        },
+        {
+          "number": 96,
+          "text": "l’utilisation d’un certain vocabulaire ou via"
+        },
+        {
+          "number": 97,
+          "text": "les connaissances propres au lecteur)."
+        },
+        {
+          "number": 98,
+          "text": "La lecture est un vecteur"
+        },
+        {
+          "number": 99,
+          "text": "fondamental du développement de l’individu"
+        },
+        {
+          "number": 100,
+          "text": "dans la culture et la société. La lecture est à"
+        },
+        {
+          "number": 101,
+          "text": "la fois culturelle par le foisonnement et la"
+        },
+        {
+          "number": 102,
+          "text": "puissance des écrits et sociale par les"
+        },
+        {
+          "number": 103,
+          "text": "interactions avec la société et l’univers"
+        },
+        {
+          "number": 104,
+          "text": "scolaire nécessaires à l’apprentissage qui"
+        },
+        {
+          "number": 105,
+          "text": "nécessite d’un engagement du lecteur dans"
+        },
+        {
+          "number": 106,
+          "text": "la construction du sens des textes. C’est un"
+        },
+        {
+          "number": 107,
+          "text": "processus vivant et dynamique basé sur un"
+        },
+        {
+          "number": 108,
+          "text": "dialogue entre le lecteur et le texte. La"
+        },
+        {
+          "number": 109,
+          "text": "relation intime qui en résulte peut être"
+        },
+        {
+          "number": 110,
+          "text": "source de plaisir, mais aussi de frustrations"
+        },
+        {
+          "number": 111,
+          "text": "et de confrontations à des idées qui"
+        },
+        {
+          "number": 112,
+          "text": "perturbent la vision du monde propre à"
+        },
+        {
+          "number": 113,
+          "text": "chaque lecteur. C’est aussi grâce aux"
+        },
+        {
+          "number": 114,
+          "text": "« contradictions » entre lecteur, auteur et"
+        },
+        {
+          "number": 115,
+          "text": "texte que se développent les compétences"
+        },
+        {
+          "number": 116,
+          "text": "du lecteur expert.”"
+        },
+        {
+          "number": null,
+          "text": "Gaussel Marie (2015). Lire pour apprendre, lire pour"
+        },
+        {
+          "number": null,
+          "text": "comprendre.  Dossier de veille de l’IFÉ, n°101."
+        },
+        {
+          "number": null,
+          "text": "Lyon: ENS de Lyon."
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, repondes"
+        },
+        {
+          "number": null,
+          "text": "aux questions suivantes:"
+        }
+      ],
+      "questionIds": [
+        "uece-2022-1-f2-french-q01",
+        "uece-2022-1-f2-french-q02",
+        "uece-2022-1-f2-french-q03",
+        "uece-2022-1-f2-french-q04",
+        "uece-2022-1-f2-french-q05",
+        "uece-2022-1-f2-french-q06",
+        "uece-2022-1-f2-french-q07",
+        "uece-2022-1-f2-french-q08",
+        "uece-2022-1-f2-french-q09",
+        "uece-2022-1-f2-french-q10",
+        "uece-2022-1-f2-french-q11",
+        "uece-2022-1-f2-french-q12",
+        "uece-2022-1-f2-french-q13",
+        "uece-2022-1-f2-french-q14",
+        "uece-2022-1-f2-french-q15",
+        "uece-2022-1-f2-french-q16",
+        "uece-2022-1-f2-french-q17",
+        "uece-2022-1-f2-french-q18",
+        "uece-2022-1-f2-french-q19",
+        "uece-2022-1-f2-french-q20"
+      ]
+    }
+  ]
+}

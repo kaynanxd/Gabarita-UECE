@@ -1,0 +1,850 @@
+{
+  "paperId": "uece-2022-2-f2-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2022-2-f2-portuguese-t1",
+      "label": "Texto 1",
+      "title": null,
+      "lines": [
+        {
+          "number": null,
+          "text": "A tradicional ética africana do ubuntu e a"
+        },
+        {
+          "number": null,
+          "text": "moderna liderança empresarial: à guisa de"
+        },
+        {
+          "number": null,
+          "text": "uma introdução para a gestão laboratorial"
+        },
+        {
+          "number": 1,
+          "text": "Ubuntu é uma filosofia moral e"
+        },
+        {
+          "number": 2,
+          "text": "humanista africana que se fundamenta nas"
+        },
+        {
+          "number": 3,
+          "text": "alianças e no relacionamento mútuo entre as"
+        },
+        {
+          "number": 4,
+          "text": "pessoas. O ubuntu nasce da ideia ancestral"
+        },
+        {
+          "number": 5,
+          "text": "[1.500 anos a.C.] de que a força da"
+        },
+        {
+          "number": 6,
+          "text": "comunidade vem do apoio comunitário e de"
+        },
+        {
+          "number": 7,
+          "text": "que a dignidade e a identidade são"
+        },
+        {
+          "number": 8,
+          "text": "alcançadas por meio do mutualismo, da"
+        },
+        {
+          "number": 9,
+          "text": "empatia, da generosidade, do compromisso"
+        },
+        {
+          "number": 10,
+          "text": "comunitário e do trabalho colaborativo em"
+        },
+        {
+          "number": 11,
+          "text": "prol de si mesmo e dos demais. Nesse"
+        },
+        {
+          "number": 12,
+          "text": "sentido, o ubuntu se diferencia da filosofia"
+        },
+        {
+          "number": 13,
+          "text": "ocidental derivada do racionalismo iluminista"
+        },
+        {
+          "number": 14,
+          "text": "que coloca o indivíduo no centro da"
+        },
+        {
+          "number": 15,
+          "text": "concepção de ser humano."
+        },
+        {
+          "number": 16,
+          "text": "O ubuntu pode ser considerado como um"
+        },
+        {
+          "number": 17,
+          "text": "exercício prático de filosofias populares"
+        },
+        {
+          "number": 18,
+          "text": "africanas, muito frequentemente"
+        },
+        {
+          "number": 19,
+          "text": "representadas em provérbios. O provérbio"
+        },
+        {
+          "number": 20,
+          "text": "xhosa e zulu “Umuntu ngumuntu ngabantu”"
+        },
+        {
+          "number": 21,
+          "text": "(uma pessoa só se faz pessoa através de seu"
+        },
+        {
+          "number": 22,
+          "text": "relacionamento com outras pessoas), o"
+        },
+        {
+          "number": 23,
+          "text": "provérbio Gikuyu “Kiunuhu gitruagw” (a"
+        },
+        {
+          "number": 24,
+          "text": "avareza não alimenta) e o provérbio “É"
+        },
+        {
+          "number": 25,
+          "text": "preciso uma aldeia inteira para educar uma"
+        },
+        {
+          "number": 26,
+          "text": "criança” são exemplos de axiomas alinhados"
+        },
+        {
+          "number": 27,
+          "text": "com o espírito da ética ubuntu cujo objetivo"
+        },
+        {
+          "number": 28,
+          "text": "principal é a ligação do indivíduo com o"
+        },
+        {
+          "number": 29,
+          "text": "coletivo. De fato, o ubuntu contempla a"
+        },
+        {
+          "number": 30,
+          "text": "humanidade/ humanismo em toda a sua"
+        },
+        {
+          "number": 31,
+          "text": "essência e profundidade e está no extremo"
+        },
+        {
+          "number": 32,
+          "text": "oposto da filosofia do individualismo e do"
+        },
+        {
+          "number": 33,
+          "text": "consumismo."
+        },
+        {
+          "number": 34,
+          "text": "Na realidade, ubuntu é a expressão"
+        },
+        {
+          "number": 35,
+          "text": "compartida de vivências cotidianas, ou seja,"
+        },
+        {
+          "number": 36,
+          "text": "uma forma de conhecimento aplicado que"
+        },
+        {
+          "number": 37,
+          "text": "estimula a jornada rumo “ao tornar-se"
+        },
+        {
+          "number": 38,
+          "text": "humano” ou “ao que nos torna humanos” ou,"
+        },
+        {
+          "number": 39,
+          "text": "em seu sentido coletivo, “uma humanidade"
+        },
+        {
+          "number": 40,
+          "text": "que transcende a alteridade em todos os"
+        },
+        {
+          "number": 41,
+          "text": "níveis interpessoais."
+        },
+        {
+          "number": 42,
+          "text": "A noção fundamental da ética ubuntu é a"
+        },
+        {
+          "number": 43,
+          "text": "“filosofia do nós”. Os princípios de partilha,"
+        },
+        {
+          "number": 44,
+          "text": "preocupação e cuidado mútuos, além de"
+        },
+        {
+          "number": 45,
+          "text": "solidariedade, são seus elementos"
+        },
+        {
+          "number": 46,
+          "text": "constitutivos. Claramente, está baseada no"
+        },
+        {
+          "number": 47,
+          "text": "altruísmo, na fraternidade e na colaboração"
+        },
+        {
+          "number": 48,
+          "text": "entre as pessoas, bem como na bondade, na"
+        },
+        {
+          "number": 49,
+          "text": "lealdade e na felicidade. Ubuntu e felicidade,"
+        },
+        {
+          "number": 50,
+          "text": "inclusive, são ideias profundamente"
+        },
+        {
+          "number": 51,
+          "text": "conectadas. No conceito africano, a felicidade"
+        },
+        {
+          "number": 52,
+          "text": "é entendida como aquilo que faz bem a toda"
+        },
+        {
+          "number": 53,
+          "text": "coletividade ou ao outro."
+        },
+        {
+          "number": 54,
+          "text": "Filosoficamente, o ubuntu enumera ainda"
+        },
+        {
+          "number": 55,
+          "text": "que a pessoa só é humana por meio de sua"
+        },
+        {
+          "number": 56,
+          "text": "pertença a um coletivo humano, que a"
+        },
+        {
+          "number": 57,
+          "text": "humanidade de uma pessoa é definida por"
+        },
+        {
+          "number": 58,
+          "text": "meio de sua humanidade para com os outros,"
+        },
+        {
+          "number": 59,
+          "text": "que uma pessoa existe por meio da existência"
+        },
+        {
+          "number": 60,
+          "text": "dos outros em uma relação indissociável"
+        },
+        {
+          "number": 61,
+          "text": "consigo mesma, que o valor da humanidade"
+        },
+        {
+          "number": 62,
+          "text": "está diretamente ligado à forma como a"
+        },
+        {
+          "number": 63,
+          "text": "pessoa apoia a humanidade e a dignidade dos"
+        },
+        {
+          "number": 64,
+          "text": "outros e, ainda, que a humanidade de uma"
+        },
+        {
+          "number": 65,
+          "text": "pessoa é definida por seu compromisso ético"
+        },
+        {
+          "number": 66,
+          "text": "com os outros, sejam eles quem forem."
+        },
+        {
+          "number": 67,
+          "text": "Em linhas gerais, a moral, a"
+        },
+        {
+          "number": 68,
+          "text": "interdependência entre as pessoas e a"
+        },
+        {
+          "number": 69,
+          "text": "proteção da harmonia e da dignidade humana"
+        },
+        {
+          "number": 70,
+          "text": "são considerados os valores nucleares do"
+        },
+        {
+          "number": 71,
+          "text": "ubuntu. [...] A ideia central de humanidade e"
+        },
+        {
+          "number": 72,
+          "text": "colaboração mútua contida no ubuntu permite"
+        },
+        {
+          "number": 73,
+          "text": "a aplicação dessa filosofia em qualquer"
+        },
+        {
+          "number": 74,
+          "text": "atividade, tal como a política, a educação, os"
+        },
+        {
+          "number": 75,
+          "text": "esportes, o direito, a medicina e a gestão de"
+        },
+        {
+          "number": 76,
+          "text": "empresas. Na área de negócios,"
+        },
+        {
+          "number": 77,
+          "text": "particularmente, o ubuntu está sendo"
+        },
+        {
+          "number": 78,
+          "text": "traduzido para o mundo corporativo na forma"
+        },
+        {
+          "number": 79,
+          "text": "de gestão participativa. Nela, todos os"
+        },
+        {
+          "number": 80,
+          "text": "funcionários e até mesmo os fornecedores e"
+        },
+        {
+          "number": 81,
+          "text": "demais parceiros comerciais discutem as"
+        },
+        {
+          "number": 82,
+          "text": "decisões estratégicas da empresa."
+        },
+        {
+          "number": 83,
+          "text": "Notadamente, esse novo conceito"
+        },
+        {
+          "number": 84,
+          "text": "filosófico apresenta um enorme potencial para"
+        },
+        {
+          "number": 85,
+          "text": "a melhoria das relações no âmbito"
+        },
+        {
+          "number": 86,
+          "text": "empresarial. Nas empresas, o ubuntu pode"
+        },
+        {
+          "number": 87,
+          "text": "servir como um laço de união e acordo entre"
+        },
+        {
+          "number": 88,
+          "text": "pessoas diferentes que trazem visões e"
+        },
+        {
+          "number": 89,
+          "text": "maneiras próprias de enfrentar os dilemas do"
+        },
+        {
+          "number": 90,
+          "text": "dia a dia das organizações, já que seus ideais"
+        },
+        {
+          "number": 91,
+          "text": "propõem a integração, o diálogo e a ampla"
+        },
+        {
+          "number": 92,
+          "text": "cooperação."
+        },
+        {
+          "number": null,
+          "text": "Disponível em http://www.rbac.org.br/artigos/volume-48-"
+        },
+        {
+          "number": null,
+          "text": "n-3-editorial. Texto adaptado."
+        }
+      ],
+      "questionIds": [
+        "uece-2022-2-f2-portuguese-q01",
+        "uece-2022-2-f2-portuguese-q02",
+        "uece-2022-2-f2-portuguese-q03",
+        "uece-2022-2-f2-portuguese-q04",
+        "uece-2022-2-f2-portuguese-q05",
+        "uece-2022-2-f2-portuguese-q06",
+        "uece-2022-2-f2-portuguese-q07"
+      ]
+    },
+    {
+      "id": "uece-2022-2-f2-portuguese-t2",
+      "label": "Texto 2",
+      "title": "7",
+      "lines": [
+        {
+          "number": null,
+          "text": "Pesquisadores detectam pela primeira vez"
+        },
+        {
+          "number": null,
+          "text": "microplásticos no sangue humano"
+        },
+        {
+          "number": 93,
+          "text": "Um estudo holandês relatou pela"
+        },
+        {
+          "number": 94,
+          "text": "primeira vez, mas com uma amostra"
+        },
+        {
+          "number": 95,
+          "text": "reduzida, a presença de microplásticos no"
+        },
+        {
+          "number": 96,
+          "text": "sangue humano, descoberta que levanta"
+        },
+        {
+          "number": 97,
+          "text": "dúvidas sobre uma eventual penetração"
+        },
+        {
+          "number": 98,
+          "text": "dessas partículas nos órgãos."
+        },
+        {
+          "number": 99,
+          "text": "Os autores do estudo, publicado"
+        },
+        {
+          "number": 100,
+          "text": "nesta quinta-feira na Environment"
+        },
+        {
+          "number": 101,
+          "text": "International, analisaram amostras de"
+        },
+        {
+          "number": 102,
+          "text": "sangue de 22 doadores anônimos, todos"
+        },
+        {
+          "number": 103,
+          "text": "voluntários com boa saúde, e encontraram"
+        },
+        {
+          "number": 104,
+          "text": "microplásticos em 17 deles."
+        },
+        {
+          "number": 105,
+          "text": "Metade das amostras continha"
+        },
+        {
+          "number": 106,
+          "text": "vestígios de PET (polietileno tereftalato),"
+        },
+        {
+          "number": 107,
+          "text": "um dos plásticos mais usados no mundo,"
+        },
+        {
+          "number": 108,
+          "text": "principalmente na fabricação de garrafas e"
+        },
+        {
+          "number": 109,
+          "text": "fibras de poliéster. Mais de um terço tinha"
+        },
+        {
+          "number": 110,
+          "text": "poliestireno, usado, entre outras coisas, em"
+        },
+        {
+          "number": 111,
+          "text": "embalagens de alimentos, e um quarto,"
+        },
+        {
+          "number": 112,
+          "text": "polietileno."
+        },
+        {
+          "number": 113,
+          "text": "“Pela primeira vez, conseguimos"
+        },
+        {
+          "number": 114,
+          "text": "detectar e quantificar” esses microplásticos"
+        },
+        {
+          "number": 115,
+          "text": "no sangue humano, declarou Dick Vethaak,"
+        },
+        {
+          "number": 116,
+          "text": "ecotoxicologista da universidade livre de"
+        },
+        {
+          "number": 117,
+          "text": "Amsterdã. “Isso prova que temos plástico"
+        },
+        {
+          "number": 118,
+          "text": "em nosso corpo, e não deveríamos”, disse à"
+        },
+        {
+          "number": 119,
+          "text": "AFP."
+        },
+        {
+          "number": 120,
+          "text": "De acordo com o estudo, os"
+        },
+        {
+          "number": 121,
+          "text": "microplásticos detectados puderam entrar"
+        },
+        {
+          "number": 122,
+          "text": "no corpo por múltiplas vias: aéreas,"
+        },
+        {
+          "number": 123,
+          "text": "aquáticas ou por meio da comida ou de"
+        },
+        {
+          "number": 124,
+          "text": "produtos de higiene e cosméticos. “É"
+        },
+        {
+          "number": 125,
+          "text": "cientificamente provável que partículas de"
+        },
+        {
+          "number": 126,
+          "text": "sangue possam ser transportadas para os"
+        },
+        {
+          "number": 127,
+          "text": "órgãos através do sistema sanguíneo”,"
+        },
+        {
+          "number": 128,
+          "text": "observaram os autores."
+        },
+        {
+          "number": 129,
+          "text": "O estudo foi financiado pela"
+        },
+        {
+          "number": 130,
+          "text": "Organização Holandesa para a Pesquisa e o"
+        },
+        {
+          "number": 131,
+          "text": "Desenvolvimento em Saúde e pela Common"
+        },
+        {
+          "number": 132,
+          "text": "Seas, ONG ambiental com sede no Reino"
+        },
+        {
+          "number": 133,
+          "text": "Unido que busca reduzir a poluição por"
+        },
+        {
+          "number": 134,
+          "text": "plástico."
+        },
+        {
+          "number": 135,
+          "text": "Para Alice Horton, especialista em"
+        },
+        {
+          "number": 136,
+          "text": "contaminantes antropogênicos do centro"
+        },
+        {
+          "number": 137,
+          "text": "britânico de oceanografia, “apesar da"
+        },
+        {
+          "number": 138,
+          "text": "pequena amostra e das baixas"
+        },
+        {
+          "number": 139,
+          "text": "concentrações detectadas”, os métodos"
+        },
+        {
+          "number": 140,
+          "text": "analíticos do estudo são “muito robustos”."
+        },
+        {
+          "number": 141,
+          "text": "“Este estudo ajuda a mostrar que as"
+        },
+        {
+          "number": 142,
+          "text": "partículas de plástico não estão presentes"
+        },
+        {
+          "number": 143,
+          "text": "apenas no meio ambiente, mas também em"
+        },
+        {
+          "number": 144,
+          "text": "nossos corpos. As consequências a longo"
+        },
+        {
+          "number": 145,
+          "text": "prazo ainda não são bem conhecidas”, disse"
+        },
+        {
+          "number": 146,
+          "text": "ao Science Media Center."
+        },
+        {
+          "number": null,
+          "text": "Disponível em: https://www.opovo.com.br/"
+        },
+        {
+          "number": null,
+          "text": "Acesso em 25 de março de 2022."
+        }
+      ],
+      "questionIds": [
+        "uece-2022-2-f2-portuguese-q08",
+        "uece-2022-2-f2-portuguese-q09",
+        "uece-2022-2-f2-portuguese-q10",
+        "uece-2022-2-f2-portuguese-q11",
+        "uece-2022-2-f2-portuguese-q12",
+        "uece-2022-2-f2-portuguese-q13",
+        "uece-2022-2-f2-portuguese-q14"
+      ]
+    },
+    {
+      "id": "uece-2022-2-f2-portuguese-t3",
+      "label": "Texto 3",
+      "title": "21 de fevereiro",
+      "lines": [
+        {
+          "number": null,
+          "text": "(Ana Cristina Cesar)"
+        },
+        {
+          "number": 147,
+          "text": "Não quero mais a fúria da verdade. Entro na"
+        },
+        {
+          "number": 148,
+          "text": "sapataria popular. Chove por detrás. Gatos"
+        },
+        {
+          "number": 149,
+          "text": "amarelos circulando no fundo. Abomino"
+        },
+        {
+          "number": 150,
+          "text": "Baudelaire querido, mas procuro na vitrina"
+        },
+        {
+          "number": 151,
+          "text": "um modelo brutal. Fica boazinha, dor; sábia"
+        },
+        {
+          "number": 152,
+          "text": "como deve ser, não tão generosa, não."
+        },
+        {
+          "number": 153,
+          "text": "Recebe o afeto que se encerra no meu peito."
+        },
+        {
+          "number": 154,
+          "text": "Me calço decidida onde os gatos fazem que"
+        },
+        {
+          "number": 155,
+          "text": "me amam, juvenis, reais. Antes eu era 36,"
+        },
+        {
+          "number": 156,
+          "text": "gata borralheira, pé ante pé, pequeno"
+        },
+        {
+          "number": 157,
+          "text": "polegar, pagar na caixa, receber na frente."
+        },
+        {
+          "number": 158,
+          "text": "Minha dor. Me dá a mão. Vem por aqui, longe"
+        },
+        {
+          "number": 159,
+          "text": "deles. Escuta, querida, escuta. A marcha"
+        },
+        {
+          "number": 160,
+          "text": "desta noite. Se debruça sobre os anos neste"
+        },
+        {
+          "number": 161,
+          "text": "pulso. Belo belo. Tenho tudo que fere. As"
+        },
+        {
+          "number": 162,
+          "text": "alemãs marchando que nem homem."
+        },
+        {
+          "number": 163,
+          "text": "As cenas mais belas do romance o autor não"
+        },
+        {
+          "number": 164,
+          "text": "soube comentar. Não me deixa agora, fera."
+        },
+        {
+          "number": null,
+          "text": "CESAR, Ana Cristina. 21 de fevereiro. In: ____. Poética."
+        },
+        {
+          "number": null,
+          "text": "São Paulo: Companhia das Letras, 2013."
+        }
+      ],
+      "questionIds": [
+        "uece-2022-2-f2-portuguese-q15",
+        "uece-2022-2-f2-portuguese-q16",
+        "uece-2022-2-f2-portuguese-q17"
+      ]
+    },
+    {
+      "id": "uece-2022-2-f2-portuguese-t4",
+      "label": "Texto 4",
+      "title": "Sobre Felicidade",
+      "lines": [
+        {
+          "number": null,
+          "text": "(Bráulio Bessa)"
+        },
+        {
+          "number": 165,
+          "text": "Que mania estranha a nossa"
+        },
+        {
+          "number": 166,
+          "text": "de cobiçar o alheio."
+        },
+        {
+          "number": 167,
+          "text": "O mundo de alguém ser belo"
+        },
+        {
+          "number": 168,
+          "text": "não faz seu mundo ser feio."
+        },
+        {
+          "number": 169,
+          "text": "Tem gente que passa fome"
+        },
+        {
+          "number": 170,
+          "text": "com o próprio prato cheio."
+        },
+        {
+          "number": 171,
+          "text": "Me diga um só fí de Deus"
+        },
+        {
+          "number": 172,
+          "text": "que tem a vida perfeita,"
+        },
+        {
+          "number": 173,
+          "text": "da manhã que se levanta"
+        },
+        {
+          "number": 174,
+          "text": "inté a noite que deita."
+        },
+        {
+          "number": 175,
+          "text": "Se existe vida assim,"
+        },
+        {
+          "number": 176,
+          "text": "quem escondeu a receita?"
+        },
+        {
+          "number": 177,
+          "text": "Cada um tem o sorriso"
+        },
+        {
+          "number": 178,
+          "text": "e a dor que lhe convém."
+        },
+        {
+          "number": 179,
+          "text": "Tudo que vai abre espaço"
+        },
+        {
+          "number": 180,
+          "text": "pra tudo aquilo que vem."
+        },
+        {
+          "number": 181,
+          "text": "Feliz na vida é quem é"
+        },
+        {
+          "number": 182,
+          "text": "feliz com a vida que tem."
+        },
+        {
+          "number": null,
+          "text": "Disponível em www.tudoepoema.com.br/braulio-bessa-"
+        },
+        {
+          "number": null,
+          "text": "sobre-felicidade"
+        }
+      ],
+      "questionIds": [
+        "uece-2022-2-f2-portuguese-q18",
+        "uece-2022-2-f2-portuguese-q19",
+        "uece-2022-2-f2-portuguese-q20"
+      ]
+    }
+  ]
+}

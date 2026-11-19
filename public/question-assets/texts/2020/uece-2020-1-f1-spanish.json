@@ -1,0 +1,311 @@
+{
+  "paperId": "uece-2020-1-f1-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2020-1-f1-spanish-t1",
+      "label": "Texto 1",
+      "title": "T E X T O",
+      "lines": [
+        {
+          "number": null,
+          "text": "Hallan los restos de un continente perdido,"
+        },
+        {
+          "number": null,
+          "text": "enterrados bajo el sur de Europa."
+        },
+        {
+          "number": null,
+          "text": "José Manuel Nieves"
+        },
+        {
+          "number": 1,
+          "text": "Hasta ahora nadie se había dado"
+        },
+        {
+          "number": 2,
+          "text": "cuenta, pero justo bajo los pies de los"
+        },
+        {
+          "number": 3,
+          "text": "habitantes del sur de Europa, lo que incluye a"
+        },
+        {
+          "number": 4,
+          "text": "la Península Ibérica, duermen los restos de un"
+        },
+        {
+          "number": 5,
+          "text": "antiguo continente. Uno que se hundió hace"
+        },
+        {
+          "number": 6,
+          "text": "mucho tiempo en las profundidades de la"
+        },
+        {
+          "number": 7,
+          "text": "Tierra y cuya historia, 250 millones de años"
+        },
+        {
+          "number": 8,
+          "text": "después, ha sido reconstruida paso a paso por"
+        },
+        {
+          "number": 9,
+          "text": "un equipo de geólogos de las universidades de"
+        },
+        {
+          "number": 10,
+          "text": "Utrecht, Oslo y el Instituto de Geofísica ETH,"
+        },
+        {
+          "number": 11,
+          "text": "en Zürich."
+        },
+        {
+          "number": 12,
+          "text": "Los únicos restos visibles de ese"
+        },
+        {
+          "number": 13,
+          "text": "continente perdido, conocido como Gran Adria,"
+        },
+        {
+          "number": 14,
+          "text": "son las rocas calizas que se pueden encontrar"
+        },
+        {
+          "number": 15,
+          "text": "en las cadenas montañosas del sur de Europa."
+        },
+        {
+          "number": 16,
+          "text": "Los investigadores, que acaban de publicar su"
+        },
+        {
+          "number": 17,
+          "text": "trabajo en la revista Gondwana Research,"
+        },
+        {
+          "number": 18,
+          "text": "creen que estas rocas comenzaron su"
+        },
+        {
+          "number": 19,
+          "text": "existencia como sedimentos marinos para más"
+        },
+        {
+          "number": 20,
+          "text": "tarde ser “raspadas” de la superficie de la"
+        },
+        {
+          "number": 21,
+          "text": "corteza terrestre y elevadas a sus posiciones"
+        },
+        {
+          "number": 22,
+          "text": "actuales gracias a las colisiones de las placas"
+        },
+        {
+          "number": 23,
+          "text": "tectónicas. Por ese motivo, tanto el tamaño"
+        },
+        {
+          "number": 24,
+          "text": "original como la forma y la historia de esa"
+        },
+        {
+          "number": 25,
+          "text": "masa terrestre desaparecida ha sido muy"
+        },
+        {
+          "number": 26,
+          "text": "difícil de reconstruir. En su artículo, los"
+        },
+        {
+          "number": 27,
+          "text": "geólogos explican que gran parte de ella"
+        },
+        {
+          "number": 28,
+          "text": "constituyó, durante millones de años, el fondo"
+        },
+        {
+          "number": 29,
+          "text": "de antiquísimos mares tropicales poco"
+        },
+        {
+          "number": 30,
+          "text": "profundos."
+        },
+        {
+          "number": 31,
+          "text": "Una historia violenta."
+        },
+        {
+          "number": 32,
+          "text": "Para empezar, señala Douwe van"
+        },
+        {
+          "number": 33,
+          "text": "Hinsbergen, de la Universidad de Utrecht y"
+        },
+        {
+          "number": 34,
+          "text": "primer firmante del artículo, Gran Adria tuvo"
+        },
+        {
+          "number": 35,
+          "text": "una historia “violenta y complicada”. De"
+        },
+        {
+          "number": 36,
+          "text": "hecho, se separó del sur del supercontinente"
+        },
+        {
+          "number": 37,
+          "text": "Gondwana, que comprendía lo que hoy es"
+        },
+        {
+          "number": 38,
+          "text": "África, América del Sur, Australia, la Antártida,"
+        },
+        {
+          "number": 39,
+          "text": "el subcontinente indio y la Península Arábiga,"
+        },
+        {
+          "number": 40,
+          "text": "hace la friolera de 240 millones de años. Y a"
+        },
+        {
+          "number": 41,
+          "text": "partir de ese momento empezó a avanzar"
+        },
+        {
+          "number": 42,
+          "text": "hacia el norte."
+        },
+        {
+          "number": 43,
+          "text": "Los investigadores creen que hace unos"
+        },
+        {
+          "number": 44,
+          "text": "140 millones de años Gran Adria era una masa"
+        },
+        {
+          "number": 45,
+          "text": "de tierra del tamaño de Groenlandia, cubierta"
+        },
+        {
+          "number": 46,
+          "text": "en gran parte por un liviano mar tropical,"
+        },
+        {
+          "number": 47,
+          "text": "donde los sedimentos se acumulaban"
+        },
+        {
+          "number": 48,
+          "text": "lentamente hasta convertirse en rocas."
+        },
+        {
+          "number": 49,
+          "text": "Más tarde, hace entre 100 y 120"
+        },
+        {
+          "number": 50,
+          "text": "millones de años, colisionó con lo que hoy es"
+        },
+        {
+          "number": 51,
+          "text": "Europa, haciéndose añicos y siendo empujado"
+        },
+        {
+          "number": 52,
+          "text": "debajo de nuestro continente. Sólo una"
+        },
+        {
+          "number": 53,
+          "text": "pequeña parte de las rocas de Gran Adria,"
+        },
+        {
+          "number": 54,
+          "text": "arrancadas de la corteza terrestre durante la"
+        },
+        {
+          "number": null,
+          "text": "21"
+        },
+        {
+          "number": 55,
+          "text": "colisión, consiguieron permanecer en la"
+        },
+        {
+          "number": 56,
+          "text": "superficie de la Tierra para que los geólogos"
+        },
+        {
+          "number": 57,
+          "text": "tuvieran la ocasión de descubrirlas."
+        },
+        {
+          "number": 58,
+          "text": "En 30 países."
+        },
+        {
+          "number": 59,
+          "text": "El estudio, además, tuvo que hacer"
+        },
+        {
+          "number": 60,
+          "text": "frente a una complicación adicional: las rocas"
+        },
+        {
+          "number": 61,
+          "text": "de Gran Adria están dispersas a lo largo de"
+        },
+        {
+          "number": 62,
+          "text": "más de 30 países, que van desde una franja"
+        },
+        {
+          "number": 63,
+          "text": "de la Península Ibérica hasta Irán. Y de la"
+        },
+        {
+          "number": 64,
+          "text": "misma forma que las rocas, también los datos"
+        },
+        {
+          "number": 65,
+          "text": "sobre su historia se han dispersado y han"
+        },
+        {
+          "number": 66,
+          "text": "resultado, explica van Hinsbergen, muy"
+        },
+        {
+          "number": 67,
+          "text": "difíciles de recopilar."
+        },
+        {
+          "number": null,
+          "text": "Q U E S T I O N E S"
+        }
+      ],
+      "questionIds": [
+        "uece-2020-1-f1-spanish-q73",
+        "uece-2020-1-f1-spanish-q74",
+        "uece-2020-1-f1-spanish-q75",
+        "uece-2020-1-f1-spanish-q76",
+        "uece-2020-1-f1-spanish-q77",
+        "uece-2020-1-f1-spanish-q78",
+        "uece-2020-1-f1-spanish-q79",
+        "uece-2020-1-f1-spanish-q80"
+      ]
+    }
+  ]
+}

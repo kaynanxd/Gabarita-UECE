@@ -1,0 +1,627 @@
+{
+  "paperId": "uece-2021-1-f1-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2021-1-f1-french-t1",
+      "label": "Texto 1",
+      "title": "T E X T E",
+      "lines": [
+        {
+          "number": null,
+          "text": "LA COVID-19: LA PREMIÈRE PANDÉMIE"
+        },
+        {
+          "number": null,
+          "text": "MONDIALE À L’ÈRE DU NUMÉRIQUE"
+        },
+        {
+          "number": 1,
+          "text": "La COVID-19 est la première pandémie"
+        },
+        {
+          "number": 2,
+          "text": "mondiale à l'ère de la généralisation des"
+        },
+        {
+          "number": 3,
+          "text": "médias sociaux sur les appareils mobiles, des"
+        },
+        {
+          "number": 4,
+          "text": "mégadonnées et de l'intelligence"
+        },
+        {
+          "number": 5,
+          "text": "artificielle. Le maintien de distanciation"
+        },
+        {
+          "number": 6,
+          "text": "sociale dépend d'une connectivité numérique"
+        },
+        {
+          "number": 7,
+          "text": "efficace pour les systèmes de soins de santé,"
+        },
+        {
+          "number": 8,
+          "text": "les entreprises, les écoles et, en fait, la"
+        },
+        {
+          "number": 9,
+          "text": "plupart des facettes de la vie quotidienne."
+        },
+        {
+          "number": 10,
+          "text": "La difficulté réside dans le fait que les"
+        },
+        {
+          "number": 11,
+          "text": "tsunamis de mégadonnées et le calcul"
+        },
+        {
+          "number": 12,
+          "text": "informatisé de haute performance offrent à la"
+        },
+        {
+          "number": 13,
+          "text": "fois des possibilités sans précédent, mais"
+        },
+        {
+          "number": 14,
+          "text": "engendrent également des défis qui ne"
+        },
+        {
+          "number": 15,
+          "text": "correspondent pas aux nombreuses politiques"
+        },
+        {
+          "number": 16,
+          "text": "et pratiques du vingtième siècle. Malgré des"
+        },
+        {
+          "number": 17,
+          "text": "progrès technologiques rapides réalisés au fil"
+        },
+        {
+          "number": 18,
+          "text": "des décennies, personne n'avait anticipé le"
+        },
+        {
+          "number": 19,
+          "text": "besoin urgent de compter sur des capacités"
+        },
+        {
+          "number": 20,
+          "text": "virtuelles en l'absence de tout contact"
+        },
+        {
+          "number": 21,
+          "text": "physique au sein d’une société. Aujourd'hui, il"
+        },
+        {
+          "number": 22,
+          "text": "est de plus en plus difficile de répondre à ce"
+        },
+        {
+          "number": 23,
+          "text": "besoin, notamment dans les domaines de la"
+        },
+        {
+          "number": 24,
+          "text": "santé, de l'enseignement et du bien-être."
+        },
+        {
+          "number": null,
+          "text": "22"
+        },
+        {
+          "number": 25,
+          "text": "Deux leçons importantes peuvent être"
+        },
+        {
+          "number": 26,
+          "text": "tirées des pandémies précédentes."
+        },
+        {
+          "number": 27,
+          "text": "Premièrement, nous devons nous préparer"
+        },
+        {
+          "number": 28,
+          "text": "aux pandémies, car elles se reproduiront."
+        },
+        {
+          "number": 29,
+          "text": "Aujourd'hui, cette préparation doit inclure un"
+        },
+        {
+          "number": 30,
+          "text": "plan solide pour passer complètement ou"
+        },
+        {
+          "number": 31,
+          "text": "principalement au virtuel à court terme afin"
+        },
+        {
+          "number": 32,
+          "text": "de soutenir les politiques de distanciation"
+        },
+        {
+          "number": 33,
+          "text": "sociale."
+        },
+        {
+          "number": 34,
+          "text": "Deuxièmement, les pandémies ont"
+        },
+        {
+          "number": 35,
+          "text": "généralement des conséquences différentes"
+        },
+        {
+          "number": 36,
+          "text": "au sein des sociétés et d'une société à"
+        },
+        {
+          "number": 37,
+          "text": "l'autre. Bien que les taux de mortalité soient"
+        },
+        {
+          "number": 38,
+          "text": "rarement identiques d'une collectivité"
+        },
+        {
+          "number": 39,
+          "text": "publique à l'autre, le schéma général indique"
+        },
+        {
+          "number": 40,
+          "text": "clairement une exposition accrue des"
+        },
+        {
+          "number": 41,
+          "text": "populations vulnérables au risque d'infection"
+        },
+        {
+          "number": 42,
+          "text": "potentiellement mortelle."
+        },
+        {
+          "number": 43,
+          "text": "L’importance de ce schéma est"
+        },
+        {
+          "number": 44,
+          "text": "renforcée à l'ère du numérique. L'histoire de"
+        },
+        {
+          "number": 45,
+          "text": "l'informatique montre que les technologies"
+        },
+        {
+          "number": 46,
+          "text": "numériques peuvent rapidement multiplier et"
+        },
+        {
+          "number": 47,
+          "text": "amplifier les conséquences sociétales, tant"
+        },
+        {
+          "number": 48,
+          "text": "positives que négatives, des actions"
+        },
+        {
+          "number": 49,
+          "text": "humaines. Alors que les enthousiastes ont"
+        },
+        {
+          "number": 50,
+          "text": "souvent fait la promotion des technologies"
+        },
+        {
+          "number": 51,
+          "text": "numériques en tant que facteurs de"
+        },
+        {
+          "number": 52,
+          "text": "nivellement social, les cinquante dernières"
+        },
+        {
+          "number": 53,
+          "text": "années démontrent qu'elles accélèrent et"
+        },
+        {
+          "number": 54,
+          "text": "creusent souvent les inégalités courantes."
+        },
+        {
+          "number": 55,
+          "text": "Le Rapport mondial sur les sciences"
+        },
+        {
+          "number": 56,
+          "text": "sociales 2016 a conclu que « le monde tend"
+        },
+        {
+          "number": 57,
+          "text": "vers des niveaux élevés d'inégalités ». En"
+        },
+        {
+          "number": 58,
+          "text": "2019, l’International Science"
+        },
+        {
+          "number": 59,
+          "text": "Council avertissait le monde: « Nous risquons"
+        },
+        {
+          "number": 60,
+          "text": "d’accroître la fracture numérique et les"
+        },
+        {
+          "number": 61,
+          "text": "inégalités et de concentrer le pouvoir entre"
+        },
+        {
+          "number": 62,
+          "text": "les mains des personnes bénéficiant de"
+        },
+        {
+          "number": 63,
+          "text": "technologies avancées, ce qui se répercutera"
+        },
+        {
+          "number": 64,
+          "text": "sur le développement durable, l’efficacité des"
+        },
+        {
+          "number": 65,
+          "text": "démocraties et les droits civils. »"
+        },
+        {
+          "number": 66,
+          "text": "Ces leçons d'histoire dominent mes"
+        },
+        {
+          "number": 67,
+          "text": "pensées ces derniers temps, et ce de manière"
+        },
+        {
+          "number": 68,
+          "text": "inattendue. Bien que j'utilise les technologies"
+        },
+        {
+          "number": 69,
+          "text": "numériques depuis les années 1970, je"
+        },
+        {
+          "number": 70,
+          "text": "n'avais jamais imaginé qu'il était nécessaire"
+        },
+        {
+          "number": 71,
+          "text": "de combiner la distanciation sociale à"
+        },
+        {
+          "number": 72,
+          "text": "l'échelle de la société et la connectivité"
+        },
+        {
+          "number": 73,
+          "text": "virtuelle d'urgence. Cette urgence rappelle"
+        },
+        {
+          "number": 74,
+          "text": "l'importance de réfléchir à l'histoire des"
+        },
+        {
+          "number": 75,
+          "text": "pandémies et des technologies numériques"
+        },
+        {
+          "number": 76,
+          "text": "pour contribuer à la prise de décisions"
+        },
+        {
+          "number": 77,
+          "text": "opportunes qui permettent d’anticiper et"
+        },
+        {
+          "number": 78,
+          "text": "d’éviter des conséquences négatives bien"
+        },
+        {
+          "number": 79,
+          "text": "connues."
+        },
+        {
+          "number": 80,
+          "text": "La COVID-19, comme les pandémies"
+        },
+        {
+          "number": 81,
+          "text": "précédentes, met clairement en évidence les"
+        },
+        {
+          "number": 82,
+          "text": "failles de la société. Les maladies"
+        },
+        {
+          "number": 83,
+          "text": "contagieuses peuvent toucher n’importe qui,"
+        },
+        {
+          "number": 84,
+          "text": "mais elles le font différemment en fonction"
+        },
+        {
+          "number": 85,
+          "text": "des circonstances. Le schéma habituel nous"
+        },
+        {
+          "number": 86,
+          "text": "amène à des conséquences négatives plus"
+        },
+        {
+          "number": 87,
+          "text": "importantes sur les populations déjà"
+        },
+        {
+          "number": 88,
+          "text": "vulnérables pour d'autres raisons,"
+        },
+        {
+          "number": 89,
+          "text": "notamment la pauvreté et les préjugés."
+        },
+        {
+          "number": 90,
+          "text": "De même, des schémas complexes"
+        },
+        {
+          "number": 91,
+          "text": "apparaissent maintenant en temps réel pour"
+        },
+        {
+          "number": 92,
+          "text": "la COVID-19. Les épidémies fréquentes au"
+        },
+        {
+          "number": 93,
+          "text": "sein des populations âgées, dont le nombre"
+        },
+        {
+          "number": 94,
+          "text": "est aujourd'hui sans précédent, soulignent"
+        },
+        {
+          "number": 95,
+          "text": "l'importance d'accorder une attention"
+        },
+        {
+          "number": 96,
+          "text": "particulière aux groupes vulnérables,"
+        },
+        {
+          "number": 97,
+          "text": "notamment ceux vivant dans des"
+        },
+        {
+          "number": 98,
+          "text": "environnements denses."
+        },
+        {
+          "number": 99,
+          "text": "Le défi consistant à combiner la"
+        },
+        {
+          "number": 100,
+          "text": "distanciation sociale, la connectivité"
+        },
+        {
+          "number": 101,
+          "text": "numérique et l'équité sociale va au-delà des"
+        },
+        {
+          "number": 102,
+          "text": "soins de santé. Les écoles s'efforcent"
+        },
+        {
+          "number": 103,
+          "text": "également d'optimiser les approches"
+        },
+        {
+          "number": 104,
+          "text": "numériques ne comportant pas d'interactions"
+        },
+        {
+          "number": 105,
+          "text": "en face à face. À la lumière des résultats"
+        },
+        {
+          "number": 106,
+          "text": "modestes obtenus avec l'apprentissage en"
+        },
+        {
+          "number": 107,
+          "text": "ligne, les enseignants ont mis au point des"
+        },
+        {
+          "number": 108,
+          "text": "programmes interactifs hybrides novateurs"
+        },
+        {
+          "number": 109,
+          "text": "qui visent à intégrer le meilleur des"
+        },
+        {
+          "number": 110,
+          "text": "ressources virtuelles et physiques de"
+        },
+        {
+          "number": 111,
+          "text": "multiples façons pour répondre aux besoins"
+        },
+        {
+          "number": 112,
+          "text": "des étudiants. La plupart des établissements"
+        },
+        {
+          "number": 113,
+          "text": "n’ont pas tenté d’élaborer des programmes"
+        },
+        {
+          "number": 114,
+          "text": "complets d'apprentissage en ligne."
+        },
+        {
+          "number": 115,
+          "text": "La période d'urgence actuelle exige des"
+        },
+        {
+          "number": 116,
+          "text": "efforts particuliers pour garantir l’accessibilité"
+        },
+        {
+          "number": 117,
+          "text": "pour tous aux cours qui ont dû rapidement"
+        },
+        {
+          "number": 118,
+          "text": "être conçus de manière numérique, en"
+        },
+        {
+          "number": 119,
+          "text": "particulier pour ceux qui comptaient sur les"
+        },
+        {
+          "number": 120,
+          "text": "installations informatiques des écoles."
+        },
+        {
+          "number": 121,
+          "text": "L'histoire de la technologie indique que les"
+        },
+        {
+          "number": 122,
+          "text": "familles d’intellectuels bénéficient"
+        },
+        {
+          "number": 123,
+          "text": "d’avantages évidents qui pourraient"
+        },
+        {
+          "number": 124,
+          "text": "s'accroître avec l’évolution de la pandémie de"
+        },
+        {
+          "number": 125,
+          "text": "COVID-19."
+        },
+        {
+          "number": 126,
+          "text": "Ces exemples suggèrent que le schéma"
+        },
+        {
+          "number": 127,
+          "text": "historique selon lequel les pandémies ont des"
+        },
+        {
+          "number": 128,
+          "text": "conséquences sociales différentes au sein des"
+        },
+        {
+          "number": 129,
+          "text": "sociétés peut perdurer et peut-être"
+        },
+        {
+          "number": 130,
+          "text": "s'aggraver si aucune attention particulière"
+        },
+        {
+          "number": 131,
+          "text": "n’est accordée aux fractures numériques"
+        },
+        {
+          "number": 132,
+          "text": "créées dans le cadre de la COVID-19. Nous"
+        },
+        {
+          "number": 133,
+          "text": "devons en apprendre le plus possible dès"
+        },
+        {
+          "number": 134,
+          "text": "maintenant, pour améliorer les politiques et"
+        },
+        {
+          "number": 135,
+          "text": "les pratiques en vue de la prochaine fois,"
+        },
+        {
+          "number": 136,
+          "text": "inévitable, où le succès de la distanciation"
+        },
+        {
+          "number": 137,
+          "text": "sociale dépendra de la connectivité"
+        },
+        {
+          "number": 138,
+          "text": "numérique de la société. Ce faisant, nous"
+        },
+        {
+          "number": 139,
+          "text": "devrions également être en mesure de"
+        },
+        {
+          "number": 140,
+          "text": "développer des moyens plus équitables"
+        },
+        {
+          "number": 141,
+          "text": "d'intégrer la présence virtuelle et physique"
+        },
+        {
+          "number": 142,
+          "text": "afin de bâtir des sociétés plus saines et plus"
+        },
+        {
+          "number": 143,
+          "text": "résistantes."
+        },
+        {
+          "number": null,
+          "text": "Série d’essais de la SRC sur la Covid-19 I Publication #1"
+        },
+        {
+          "number": null,
+          "text": "Chad Gaffield I 19 avril,2020"
+        },
+        {
+          "number": null,
+          "text": "23"
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez aux"
+        },
+        {
+          "number": null,
+          "text": "questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2021-1-f1-french-q78",
+        "uece-2021-1-f1-french-q79",
+        "uece-2021-1-f1-french-q80",
+        "uece-2021-1-f1-french-q81",
+        "uece-2021-1-f1-french-q82",
+        "uece-2021-1-f1-french-q83",
+        "uece-2021-1-f1-french-q84",
+        "uece-2021-1-f1-french-q85"
+      ]
+    }
+  ]
+}

@@ -30,6 +30,39 @@ type RawOccurrence = {
   optionOrder: Record<"A" | "B" | "C" | "D", string>;
 };
 
+export type QuestionVisualAsset = {
+  url: string;
+  width?: number;
+  height?: number;
+};
+
+export type SharedTextLine = {
+  number: number | null;
+  text: string;
+};
+
+export type SharedTextBlock = {
+  id: string;
+  label: string;
+  title: string | null;
+  lines: SharedTextLine[];
+};
+
+type RawSharedTextPaper = {
+  paperId: string;
+  subject: string;
+  texts: (SharedTextBlock & { questionIds: string[] })[];
+};
+
+type RawVisualManifest = Record<
+  string,
+  {
+    shared?: QuestionVisualAsset[];
+    figures?: QuestionVisualAsset[];
+    crops?: QuestionVisualAsset[];
+  }
+>;
+
 export type PracticeQuestion = {
   id: string;
   number: number;
@@ -41,6 +74,10 @@ export type PracticeQuestion = {
   semester: 1 | 2;
   phase: 1 | 2;
   subject: string;
+  sharedTexts: SharedTextBlock[];
+  sharedAssets: QuestionVisualAsset[];
+  figureAssets: QuestionVisualAsset[];
+  cropAssets: QuestionVisualAsset[];
 };
 
 export type PracticeFilters = {
@@ -124,6 +161,50 @@ function readJsonl<T>(fileName: string): T[] {
     .map((line) => JSON.parse(line) as T);
 }
 
+function readVisualManifest(): RawVisualManifest {
+  try {
+    const manifestPath = path.join(process.cwd(), "public", "question-assets", "manifest.json");
+    return JSON.parse(readFileSync(manifestPath, "utf8")) as RawVisualManifest;
+  } catch {
+    return {};
+  }
+}
+
+function readSharedTextsByQuestion(): Map<string, SharedTextBlock[]> {
+  const byQuestion = new Map<string, SharedTextBlock[]>();
+  try {
+    const textsRoot = path.join(process.cwd(), "public", "question-assets", "texts");
+    const indexPath = path.join(textsRoot, "index.json");
+    const indexData = JSON.parse(readFileSync(indexPath, "utf8")) as Record<string, string[]>;
+    const paperCache = new Map<string, Map<string, SharedTextBlock>>();
+
+    for (const [questionId, refs] of Object.entries(indexData)) {
+      const blocks: SharedTextBlock[] = [];
+      for (const ref of refs) {
+        const [rawRelPath, textId] = ref.split("#");
+        if (!rawRelPath || !textId) continue;
+        const cleanRel = rawRelPath.replace(/^\/question-assets\/texts\//, "");
+        if (!paperCache.has(cleanRel)) {
+          const paperJson = JSON.parse(readFileSync(path.join(textsRoot, cleanRel), "utf8")) as RawSharedTextPaper;
+          const textMap = new Map<string, SharedTextBlock>();
+          for (const t of paperJson.texts) {
+            textMap.set(t.id, { id: t.id, label: t.label, title: t.title, lines: t.lines });
+          }
+          paperCache.set(cleanRel, textMap);
+        }
+        const block = paperCache.get(cleanRel)?.get(textId);
+        if (block) blocks.push(block);
+      }
+      if (blocks.length > 0) {
+        byQuestion.set(questionId, blocks);
+      }
+    }
+  } catch {
+    return byQuestion;
+  }
+  return byQuestion;
+}
+
 function loadQuestionBank(): QuestionBank {
   if (cachedBank) return cachedBank;
 
@@ -133,6 +214,8 @@ function loadQuestionBank(): QuestionBank {
   const occurrences = new Map(
     readJsonl<RawOccurrence>("occurrences.jsonl").map((occurrence) => [occurrence.questionId, occurrence]),
   );
+  const visualManifest = readVisualManifest();
+  const sharedTextsByQuestion = readSharedTextsByQuestion();
 
   const questions = rawQuestions.flatMap((question): PracticeQuestion[] => {
     const paper = papers.get(question.paperId);
@@ -142,6 +225,7 @@ function loadQuestionBank(): QuestionBank {
 
     const labels: ("A" | "B" | "C" | "D")[] = ["A", "B", "C", "D"];
     const alternativeById = new Map(question.alternatives.map((alternative) => [alternative.id, alternative]));
+    const visuals = visualManifest[question.id];
 
     return [{
       id: question.id,
@@ -157,6 +241,10 @@ function loadQuestionBank(): QuestionBank {
       semester: exam.semester,
       phase: paper.phase,
       subject: paper.subject,
+      sharedTexts: sharedTextsByQuestion.get(question.id) ?? [],
+      sharedAssets: visuals?.shared ?? [],
+      figureAssets: visuals?.figures ?? [],
+      cropAssets: visuals?.crops ?? [],
     }];
   });
 

@@ -1,0 +1,406 @@
+{
+  "paperId": "uece-2020-1-f2-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2020-1-f2-spanish-t1",
+      "label": "Texto 1",
+      "title": null,
+      "lines": [
+        {
+          "number": 1,
+          "text": "La Universidad Autónoma de Madrid,"
+        },
+        {
+          "number": 2,
+          "text": "dentro de su programa actual de conciertos, ha"
+        },
+        {
+          "number": 3,
+          "text": "ofrecido al público el titulado “Músicas para"
+        },
+        {
+          "number": 4,
+          "text": "Vicente Aleixandre”. En él se han vuelto a"
+        },
+        {
+          "number": 5,
+          "text": "estrenar las canciones escritas por siete"
+        },
+        {
+          "number": 6,
+          "text": "autores españoles con versos del poeta"
+        },
+        {
+          "number": 7,
+          "text": "Aleixandre, interpretadas el pasado mes de"
+        },
+        {
+          "number": 8,
+          "text": "julio por primera vez en España."
+        },
+        {
+          "number": 9,
+          "text": "En la primera parte del concierto,"
+        },
+        {
+          "number": 10,
+          "text": "escuchamos varias canciones de compositores"
+        },
+        {
+          "number": 11,
+          "text": "españoles. Entre ellos, una escrita por Esplá"
+        },
+        {
+          "number": 12,
+          "text": "sobre texto de Clemencia Miró, que lleva por"
+        },
+        {
+          "number": 13,
+          "text": "título “Campo de Cruces”. La influencia de"
+        },
+        {
+          "number": 14,
+          "text": "Rodrigo se notó en las canciones de José Peris,"
+        },
+        {
+          "number": 15,
+          "text": "organizador de estos conciertos y músico de"
+        },
+        {
+          "number": 16,
+          "text": "reconocida fama."
+        },
+        {
+          "number": 17,
+          "text": "El público, predominantemente"
+        },
+        {
+          "number": 18,
+          "text": "universitario, aplaudió durante más de tres"
+        },
+        {
+          "number": 19,
+          "text": "minutos al finalizar los últimos compases."
+        },
+        {
+          "number": 20,
+          "text": "Tanto la soprano Atsuko-Kudo como el pianista"
+        },
+        {
+          "number": 21,
+          "text": "Antón Cardó dejaron una buena muestra de sus"
+        },
+        {
+          "number": 22,
+          "text": "excelentes cualidades y tuvieron que saludar"
+        },
+        {
+          "number": 23,
+          "text": "varias veces."
+        }
+      ],
+      "questionIds": [
+        "uece-2020-1-f2-spanish-q01",
+        "uece-2020-1-f2-spanish-q02",
+        "uece-2020-1-f2-spanish-q03",
+        "uece-2020-1-f2-spanish-q04",
+        "uece-2020-1-f2-spanish-q05"
+      ]
+    },
+    {
+      "id": "uece-2020-1-f2-spanish-t2",
+      "label": "Texto 2",
+      "title": null,
+      "lines": [
+        {
+          "number": 24,
+          "text": "La escultura es la más universal y antigua"
+        },
+        {
+          "number": 25,
+          "text": "de las artes. Desde los orígenes de la"
+        },
+        {
+          "number": 26,
+          "text": "Humanidad, el hombre ha esculpido sobre la"
+        },
+        {
+          "number": 27,
+          "text": "piedra, ha tallado la madera o el marfil y ha"
+        },
+        {
+          "number": 28,
+          "text": "buscado la forma a partir de los materiales que"
+        },
+        {
+          "number": 29,
+          "text": "encontraba en su entorno. Al comienzo tuvo"
+        },
+        {
+          "number": 30,
+          "text": "una finalidad religiosa y más tarde, estética."
+        },
+        {
+          "number": 31,
+          "text": "Los primeros nombres de escultores que"
+        },
+        {
+          "number": 32,
+          "text": "han llegado hasta nosotros son los de la Grecia"
+        },
+        {
+          "number": 33,
+          "text": "clásica, de los cuales no quedan apenas obras"
+        },
+        {
+          "number": 34,
+          "text": "originales. La escultura griega floreció entre los"
+        },
+        {
+          "number": 35,
+          "text": "siglos V y III a.C. Los romanos heredaron la"
+        },
+        {
+          "number": 36,
+          "text": "tradición de la escultura griega y sobresalieron"
+        },
+        {
+          "number": 37,
+          "text": "en el retrato. Los temas de la escultura fueron"
+        },
+        {
+          "number": 38,
+          "text": "casi exclusivamente religiosos en la Edad"
+        },
+        {
+          "number": 39,
+          "text": "Media. En España, desde el siglo XVII, las"
+        },
+        {
+          "number": 40,
+          "text": "cofradías encargaron para las procesiones de la"
+        },
+        {
+          "number": 41,
+          "text": "Semana Santa tallas de Jesús y de la Virgen en"
+        },
+        {
+          "number": 42,
+          "text": "madera policromada. La escultura del siglo XX"
+        },
+        {
+          "number": 43,
+          "text": "busca nuevos materiales como el acero, los"
+        },
+        {
+          "number": 44,
+          "text": "plásticos y el metacrilato. El escultor actual"
+        },
+        {
+          "number": 45,
+          "text": "hace lo mismo que el escultor primitivo: utiliza"
+        },
+        {
+          "number": 46,
+          "text": "los materiales que tiene a su alcance."
+        }
+      ],
+      "questionIds": [
+        "uece-2020-1-f2-spanish-q06",
+        "uece-2020-1-f2-spanish-q07",
+        "uece-2020-1-f2-spanish-q08",
+        "uece-2020-1-f2-spanish-q09",
+        "uece-2020-1-f2-spanish-q10"
+      ]
+    },
+    {
+      "id": "uece-2020-1-f2-spanish-t3",
+      "label": "Texto 3",
+      "title": null,
+      "lines": [
+        {
+          "number": 47,
+          "text": "A Juan Álvaro no le importa madrugar."
+        },
+        {
+          "number": 48,
+          "text": "Cuando se levanta, aún es de noche y los"
+        },
+        {
+          "number": 49,
+          "text": "únicos ruidos que se oyen en la casa son sus"
+        },
+        {
+          "number": 50,
+          "text": "pisadas, yendo de acá para allá, del cuarto de"
+        },
+        {
+          "number": 51,
+          "text": "baño a la cocina, de la cocina al dormitorio."
+        },
+        {
+          "number": 52,
+          "text": "¿Cómo le va a importar madrugar todos los"
+        },
+        {
+          "number": 53,
+          "text": "días, después de haber estado tres años en el"
+        },
+        {
+          "number": 54,
+          "text": "paro, andando de despacho en despacho,"
+        },
+        {
+          "number": 55,
+          "text": "siempre con el currículum a punto, sin"
+        },
+        {
+          "number": 56,
+          "text": "conseguir nada? Ahora, todas las mañanas se"
+        },
+        {
+          "number": 57,
+          "text": "encamina hacia la parada del autobús a las"
+        },
+        {
+          "number": 58,
+          "text": "siete y cuarto en punto. Media hora más tarde"
+        },
+        {
+          "number": 59,
+          "text": "está llegando al edificio donde trabaja. Ya"
+        },
+        {
+          "number": 60,
+          "text": "sentado delante de su mesa lo primero que"
+        },
+        {
+          "number": 61,
+          "text": "hace es abrir la correspondencia, después la"
+        },
+        {
+          "number": 62,
+          "text": "clasifica según su asunto y por último contesta"
+        },
+        {
+          "number": 63,
+          "text": "las cartas que requieren respuesta. Parece poca"
+        },
+        {
+          "number": 64,
+          "text": "cosa, pero este trabajo le lleva toda la mañana."
+        }
+      ],
+      "questionIds": [
+        "uece-2020-1-f2-spanish-q11",
+        "uece-2020-1-f2-spanish-q12",
+        "uece-2020-1-f2-spanish-q13",
+        "uece-2020-1-f2-spanish-q14",
+        "uece-2020-1-f2-spanish-q15"
+      ]
+    },
+    {
+      "id": "uece-2020-1-f2-spanish-t4",
+      "label": "Texto 04",
+      "title": null,
+      "lines": [
+        {
+          "number": 65,
+          "text": "Desde hace unos años se viene"
+        },
+        {
+          "number": 66,
+          "text": "diciendo que los alimentos fritos son tóxicos"
+        },
+        {
+          "number": 67,
+          "text": "y aumentan el nivel de colesterol en la"
+        },
+        {
+          "number": 68,
+          "text": "sangre. Sin embargo, la cocina andaluza ha"
+        },
+        {
+          "number": 69,
+          "text": "demostrado tradicionalmente que los"
+        },
+        {
+          "number": 70,
+          "text": "pescados fritos no sólo no son tóxicos sino"
+        },
+        {
+          "number": 71,
+          "text": "que además son muy digeribles. Como se"
+        },
+        {
+          "number": 72,
+          "text": "suele freír con aceite de oliva en la zona de"
+        },
+        {
+          "number": 73,
+          "text": "Andalucía, hay que recordar que este aceite"
+        },
+        {
+          "number": 74,
+          "text": "impregna de grasa los alimentos en menor"
+        },
+        {
+          "number": 75,
+          "text": "cantidad que otras grasas. Esto se pone de"
+        },
+        {
+          "number": 76,
+          "text": "manifiesto en los populares envoltorios de"
+        },
+        {
+          "number": null,
+          "text": "8"
+        },
+        {
+          "number": 77,
+          "text": "papel en los que se sirven pescaditos como"
+        },
+        {
+          "number": 78,
+          "text": "los salmonetes y los chanquetes, que no"
+        },
+        {
+          "number": 79,
+          "text": "dejan nunca huella en el papel que los"
+        },
+        {
+          "number": 80,
+          "text": "envuelve. Los pescados fritos en aceite de"
+        },
+        {
+          "number": 81,
+          "text": "oliva quedan con una capa protectora que"
+        },
+        {
+          "number": 82,
+          "text": "les hace conservar su sabor marino y sus"
+        },
+        {
+          "number": 83,
+          "text": "propiedades. El complemento perfecto para"
+        },
+        {
+          "number": 84,
+          "text": "un plato de pescadito frito es un buen vino"
+        },
+        {
+          "number": 85,
+          "text": "de Jerez."
+        }
+      ],
+      "questionIds": [
+        "uece-2020-1-f2-spanish-q16",
+        "uece-2020-1-f2-spanish-q17",
+        "uece-2020-1-f2-spanish-q18",
+        "uece-2020-1-f2-spanish-q19",
+        "uece-2020-1-f2-spanish-q20"
+      ]
+    }
+  ]
+}

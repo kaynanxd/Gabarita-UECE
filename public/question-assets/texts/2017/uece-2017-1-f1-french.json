@@ -1,0 +1,195 @@
+{
+  "paperId": "uece-2017-1-f1-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2017-1-f1-french-t1",
+      "label": "TEXTE",
+      "title": "AMADO LE BÂTISSEUR",
+      "lines": [
+        {
+          "number": 1,
+          "text": "Pour les pays de vieille civilisation, la"
+        },
+        {
+          "number": 2,
+          "text": "Chine, l’Inde et toute l’Europe Occidentale, la"
+        },
+        {
+          "number": 3,
+          "text": "littérature est une façon de s’exprimer et un"
+        },
+        {
+          "number": 4,
+          "text": "choix de langage, entre mille possibilités qu’on"
+        },
+        {
+          "number": 5,
+          "text": "pèse, qu’on écarte, qu’on voudrait cultiver. Le"
+        },
+        {
+          "number": 6,
+          "text": "vingtième siècle restera ainsi comme l’étape"
+        },
+        {
+          "number": 7,
+          "text": "décisive de l’insertion du moi dans une tradition"
+        },
+        {
+          "number": 8,
+          "text": "qui connaît mille inquiétudes, mille doutes, mille"
+        },
+        {
+          "number": 9,
+          "text": "tatônnements où afflue, malgré vents et marées,"
+        },
+        {
+          "number": 10,
+          "text": "l’individu partagé entre le silence et sa projection"
+        },
+        {
+          "number": 11,
+          "text": "verbale."
+        },
+        {
+          "number": 12,
+          "text": "Le problème, dans les pays en voie de"
+        },
+        {
+          "number": 13,
+          "text": "développement psychologique ou économique,"
+        },
+        {
+          "number": 14,
+          "text": "comme le Brésil, est différent. C’est la société qui"
+        },
+        {
+          "number": 15,
+          "text": "intéresse Jorge Amado. Quels que soient leurs"
+        },
+        {
+          "number": 16,
+          "text": "rapports avec le langage, ce n’est pas celui qui"
+        },
+        {
+          "number": 17,
+          "text": "compte vraiment: il s’agit pour lui d’être fidèle à"
+        },
+        {
+          "number": 18,
+          "text": "une expérience collective, voire nationale. Jorge"
+        },
+        {
+          "number": 19,
+          "text": "Amado s’intéresse aux coins de terre avec les"
+        },
+        {
+          "number": 20,
+          "text": "souffrances, les folies, les espoirs, les crises de"
+        },
+        {
+          "number": 21,
+          "text": "croissance. Bref, il se fait l’écho d’une histoire."
+        },
+        {
+          "number": 22,
+          "text": "Amado est le plus célèbre des"
+        },
+        {
+          "number": 23,
+          "text": "romanciers et conteurs brésiliens. De la dizaine"
+        },
+        {
+          "number": 24,
+          "text": "d’oeuvres traduites chez nous, ce sont peut-être"
+        },
+        {
+          "number": 25,
+          "text": "Gabriela, girofle et canelle, puis Cacao qui nous"
+        },
+        {
+          "number": 26,
+          "text": "ont le plus touchés, dans le genre réaliste. Cet"
+        },
+        {
+          "number": 27,
+          "text": "auteur sait bien éviter le simplisme et voit l’élan"
+        },
+        {
+          "number": 28,
+          "text": "humain avec les yeux du XXe. siècle. Il a été le"
+        },
+        {
+          "number": 29,
+          "text": "porte-parole des masses."
+        },
+        {
+          "number": 30,
+          "text": "Dans ses livres, les duperies, le viol,"
+        },
+        {
+          "number": 31,
+          "text": "les querelles sordides, et même les injustices"
+        },
+        {
+          "number": 32,
+          "text": "flagrantes comptent peu: pour bâtir une ville, il"
+        },
+        {
+          "number": 33,
+          "text": "faut aussi casser les âmes. L’enthousiasme se"
+        },
+        {
+          "number": 34,
+          "text": "façonne dans le sang et le marécage humain. Il"
+        },
+        {
+          "number": 35,
+          "text": "manque à Jorge Amado une certaine qualité de"
+        },
+        {
+          "number": 36,
+          "text": "silence. Il vit comme les auteurs de westerns et"
+        },
+        {
+          "number": 37,
+          "text": "d’aventures, de faits, de gestes et aussi de"
+        },
+        {
+          "number": 38,
+          "text": "gesticulations."
+        },
+        {
+          "number": null,
+          "text": "Extrait et adapté de: Magazine littéraire – Lettres"
+        },
+        {
+          "number": null,
+          "text": "étrangères: La chronique d’Alain Bosquet, novembre"
+        },
+        {
+          "number": null,
+          "text": "1995, p. 76."
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez"
+        },
+        {
+          "number": null,
+          "text": "aux questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2017-1-f1-french-q63",
+        "uece-2017-1-f1-french-q64",
+        "uece-2017-1-f1-french-q65",
+        "uece-2017-1-f1-french-q66",
+        "uece-2017-1-f1-french-q67",
+        "uece-2017-1-f1-french-q68",
+        "uece-2017-1-f1-french-q69",
+        "uece-2017-1-f1-french-q70"
+      ]
+    }
+  ]
+}

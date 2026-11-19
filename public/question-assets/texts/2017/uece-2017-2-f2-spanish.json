@@ -1,0 +1,231 @@
+{
+  "paperId": "uece-2017-2-f2-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2017-2-f2-spanish-t1",
+      "label": "Texto 1",
+      "title": "A CHILE",
+      "lines": [
+        {
+          "number": null,
+          "text": "LA RUTA QUETZAL LLEGÓ POR PRIMERA VEZ"
+        },
+        {
+          "number": 1,
+          "text": "En el treinta aniversario de su primer"
+        },
+        {
+          "number": 2,
+          "text": "viaje, los aventureros de la edición número"
+        },
+        {
+          "number": 3,
+          "text": "24 de la Ruta Quetzal embarcaron hacia"
+        },
+        {
+          "number": 4,
+          "text": "Chile. La expedición recibió el nombre de"
+        },
+        {
+          "number": 5,
+          "text": "“Rumbo a la isla de Robinson Crusoe. La"
+        },
+        {
+          "number": 6,
+          "text": "tierra de Juan Fernández en Chile”, en"
+        },
+        {
+          "number": 7,
+          "text": "recuerdo del marino que en 1575 descubrió"
+        },
+        {
+          "number": 8,
+          "text": "unas islas que llevan su nombre."
+        },
+        {
+          "number": 9,
+          "text": "La expedición estaba compuesta por"
+        },
+        {
+          "number": 10,
+          "text": "280 chicos y chicas de entre 16 y 17 años"
+        },
+        {
+          "number": 11,
+          "text": "(155 españoles y 125 extranjeros) que"
+        },
+        {
+          "number": 12,
+          "text": "recorrieron junto a 20 monitores, ciudades"
+        },
+        {
+          "number": 13,
+          "text": "como Valparaíso o Santiago. Allí estudiaron"
+        },
+        {
+          "number": 14,
+          "text": "la fauna, la flora y, sobre todo, la historia de"
+        },
+        {
+          "number": 15,
+          "text": "ese país y sus lazos con España a través de"
+        },
+        {
+          "number": 16,
+          "text": "personajes como Diego de Almagro, Pedro de"
+        },
+        {
+          "number": 17,
+          "text": "Valdivia, el descubridor portugués Magallanes"
+        },
+        {
+          "number": 18,
+          "text": "y el emperador inca Túpac Yupanqui."
+        },
+        {
+          "number": 19,
+          "text": "Antes de salir hacia Chile, los"
+        },
+        {
+          "number": 20,
+          "text": "aventureros recorrieron España, donde"
+        },
+        {
+          "number": 21,
+          "text": "visitaron entre otros lugares Madrid, Cádiz,"
+        },
+        {
+          "number": 22,
+          "text": "Sevilla, Buitrago de Lozoya, Segovia, los"
+        },
+        {
+          "number": 23,
+          "text": "Monasterios de Suso y Yuso en San Millán de"
+        },
+        {
+          "number": 24,
+          "text": "la Cogolla (La Rioja) y Valladolid."
+        },
+        {
+          "number": 25,
+          "text": "Durante todo el recorrido, los"
+        },
+        {
+          "number": 26,
+          "text": "exploradores de la Ruta Quetzal siguieron un"
+        },
+        {
+          "number": 27,
+          "text": "programa de cursos, seminarios y coloquios"
+        },
+        {
+          "number": 28,
+          "text": "sobre temas geográficos, literarios, artísticos,"
+        },
+        {
+          "number": 29,
+          "text": "biológicos y humanistas destinados a"
+        },
+        {
+          "number": 30,
+          "text": "ayudarles a elegir sus estudios universitarios"
+        },
+        {
+          "number": 31,
+          "text": "y a fomentar una mejor relación entre los"
+        },
+        {
+          "number": 32,
+          "text": "jóvenes de todos los países."
+        },
+        {
+          "number": 33,
+          "text": "La Ruta Quetzal nació en 1979 por"
+        },
+        {
+          "number": 34,
+          "text": "iniciativa del Rey Don Juan Carlos, quien"
+        },
+        {
+          "number": 35,
+          "text": "ancargó el aventurero Miguel de la Quadra"
+        },
+        {
+          "number": 36,
+          "text": "Salcedo un programa dirigido a jóvenes. El"
+        },
+        {
+          "number": 37,
+          "text": "programa debía combinar principalmente la"
+        },
+        {
+          "number": 38,
+          "text": "ciencia, la cultura, la educación, la historia y"
+        },
+        {
+          "number": 39,
+          "text": "la aventura. Desde entonces, más de 8.000"
+        },
+        {
+          "number": 40,
+          "text": "expedicionarios han explorado más de 53"
+        },
+        {
+          "number": 41,
+          "text": "países bajo títulos como “La Selva del Río de"
+        },
+        {
+          "number": 42,
+          "text": "los Cocodrilos” (2008), que visitó Panamá y"
+        },
+        {
+          "number": 43,
+          "text": "Río Chagres o la primera “Aventura en el"
+        },
+        {
+          "number": 44,
+          "text": "Amazonas” (1979), que exploró Bolivia, Perú"
+        },
+        {
+          "number": 45,
+          "text": "y Brasil."
+        },
+        {
+          "number": null,
+          "text": "Agencia Española de Noticias – EFE"
+        },
+        {
+          "number": null,
+          "text": "Diciembre, 2009."
+        },
+        {
+          "number": null,
+          "text": "C U E S T I O N E S"
+        }
+      ],
+      "questionIds": [
+        "uece-2017-2-f2-spanish-q01",
+        "uece-2017-2-f2-spanish-q02",
+        "uece-2017-2-f2-spanish-q03",
+        "uece-2017-2-f2-spanish-q04",
+        "uece-2017-2-f2-spanish-q05",
+        "uece-2017-2-f2-spanish-q06",
+        "uece-2017-2-f2-spanish-q07",
+        "uece-2017-2-f2-spanish-q08",
+        "uece-2017-2-f2-spanish-q09",
+        "uece-2017-2-f2-spanish-q10",
+        "uece-2017-2-f2-spanish-q11",
+        "uece-2017-2-f2-spanish-q12",
+        "uece-2017-2-f2-spanish-q13",
+        "uece-2017-2-f2-spanish-q14",
+        "uece-2017-2-f2-spanish-q15",
+        "uece-2017-2-f2-spanish-q16",
+        "uece-2017-2-f2-spanish-q17",
+        "uece-2017-2-f2-spanish-q18",
+        "uece-2017-2-f2-spanish-q19",
+        "uece-2017-2-f2-spanish-q20"
+      ]
+    }
+  ]
+}

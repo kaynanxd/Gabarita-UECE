@@ -1,0 +1,627 @@
+{
+  "paperId": "uece-2019-2-f2-english",
+  "subject": "english",
+  "texts": [
+    {
+      "id": "uece-2019-2-f2-english-t1",
+      "label": "Texto 1",
+      "title": "T E X T",
+      "lines": [
+        {
+          "number": null,
+          "text": "English in the World Today"
+        },
+        {
+          "number": 1,
+          "text": "The English language has changed"
+        },
+        {
+          "number": 2,
+          "text": "considerably over the last thousand or so"
+        },
+        {
+          "number": 3,
+          "text": "years. It has changed in terms of its lexis"
+        },
+        {
+          "number": 4,
+          "text": "(vocabulary), its orthography (spelling)"
+        },
+        {
+          "number": 5,
+          "text": "and its semantics (meaning). And it has"
+        },
+        {
+          "number": 6,
+          "text": "also changed in terms of its syntax (word"
+        },
+        {
+          "number": 7,
+          "text": "order)."
+        },
+        {
+          "number": 8,
+          "text": "One of the reasons for the change"
+        },
+        {
+          "number": 9,
+          "text": "that has happened to English over the"
+        },
+        {
+          "number": 10,
+          "text": "centuries is that, since its very"
+        },
+        {
+          "number": 11,
+          "text": "beginnings, English has always been in"
+        },
+        {
+          "number": 12,
+          "text": "contact with other languages. The"
+        },
+        {
+          "number": 13,
+          "text": "influence from this contact can be seen"
+        },
+        {
+          "number": 14,
+          "text": "most clearly in the way that English is full"
+        },
+        {
+          "number": 15,
+          "text": "of what are known as loanwords. The"
+        },
+        {
+          "number": 16,
+          "text": "term loanword, or borrowing, is used to"
+        },
+        {
+          "number": 17,
+          "text": "refer to an item of vocabulary from one"
+        },
+        {
+          "number": 18,
+          "text": "language which has been adopted into"
+        },
+        {
+          "number": 19,
+          "text": "the vocabulary of another. The process is"
+        },
+        {
+          "number": 20,
+          "text": "often the result of language contact,"
+        },
+        {
+          "number": 21,
+          "text": "where two or more languages exist in"
+        },
+        {
+          "number": 22,
+          "text": "close geographical or social proximity."
+        },
+        {
+          "number": 23,
+          "text": "The dominant language often absorbs"
+        },
+        {
+          "number": 24,
+          "text": "new items of vocabulary, either to cover"
+        },
+        {
+          "number": 25,
+          "text": "concepts for which it has no specific word"
+        },
+        {
+          "number": 26,
+          "text": "of its own, or to generate a slightly"
+        },
+        {
+          "number": 27,
+          "text": "different function or nuance for concepts"
+        },
+        {
+          "number": 28,
+          "text": "for which it does have existing words."
+        },
+        {
+          "number": 29,
+          "text": "Some loanwords retain their"
+        },
+        {
+          "number": 30,
+          "text": "‘foreign’ appearance when they are"
+        },
+        {
+          "number": 31,
+          "text": "adopted, and people will often then use"
+        },
+        {
+          "number": 32,
+          "text": "them specifically for the sense of"
+        },
+        {
+          "number": 33,
+          "text": "exoticism that they impart. One can talk"
+        },
+        {
+          "number": 34,
+          "text": "of a certain je ne sais quoi, for example,"
+        },
+        {
+          "number": 35,
+          "text": "or of a joie de vivre when speaking"
+        },
+        {
+          "number": 36,
+          "text": "English – in both cases invoking images"
+        },
+        {
+          "number": 37,
+          "text": "of French culture to enhance the meaning"
+        },
+        {
+          "number": 38,
+          "text": "of what is being communicated. Other"
+        },
+        {
+          "number": 39,
+          "text": "loanwords, however, have become"
+        },
+        {
+          "number": 40,
+          "text": "completely naturalized, until speakers of"
+        },
+        {
+          "number": 41,
+          "text": "the language no longer notice their"
+        },
+        {
+          "number": 42,
+          "text": "‘foreignness’ at all."
+        },
+        {
+          "number": 43,
+          "text": "English has, over its lifetime,"
+        },
+        {
+          "number": 44,
+          "text": "absorbed influences from countless"
+        },
+        {
+          "number": 45,
+          "text": "sources – and so just as English is now a"
+        },
+        {
+          "number": 46,
+          "text": "presence in diverse contexts all across"
+        },
+        {
+          "number": 47,
+          "text": "the globe, so diverse contexts from"
+        },
+        {
+          "number": 48,
+          "text": "across the globe also have a presence in"
+        },
+        {
+          "number": 49,
+          "text": "the language itself."
+        },
+        {
+          "number": 50,
+          "text": "The history of English can"
+        },
+        {
+          "number": 51,
+          "text": "therefore be seen as a record of the"
+        },
+        {
+          "number": 52,
+          "text": "changes that have occurred in the"
+        },
+        {
+          "number": 53,
+          "text": "populations of those who speak the"
+        },
+        {
+          "number": 54,
+          "text": "language. When two languages come into"
+        },
+        {
+          "number": 55,
+          "text": "contact, what actually happens is that"
+        },
+        {
+          "number": 56,
+          "text": "two communities who speak different"
+        },
+        {
+          "number": 57,
+          "text": "languages engage with each other, and"
+        },
+        {
+          "number": 58,
+          "text": "the nature of that engagement will"
+        },
+        {
+          "number": 59,
+          "text": "determine how the languages influence"
+        },
+        {
+          "number": 60,
+          "text": "one another. In other words, it is"
+        },
+        {
+          "number": 61,
+          "text": "important when we study English not to"
+        },
+        {
+          "number": 62,
+          "text": "forget that what we are actually studying"
+        },
+        {
+          "number": 63,
+          "text": "is the language as it is and was used by"
+        },
+        {
+          "number": 64,
+          "text": "real people."
+        },
+        {
+          "number": 65,
+          "text": "There is a problem in talking about"
+        },
+        {
+          "number": 66,
+          "text": "statistics such as those which say that"
+        },
+        {
+          "number": 67,
+          "text": "English is spoken by almost two billion"
+        },
+        {
+          "number": 68,
+          "text": "people the world over because they make"
+        },
+        {
+          "number": 69,
+          "text": "large generalizations about the nature of"
+        },
+        {
+          "number": 70,
+          "text": "the English involved, and the relationship"
+        },
+        {
+          "number": 71,
+          "text": "that people have to the language. Such"
+        },
+        {
+          "number": 72,
+          "text": "statistics can never fully represent the"
+        },
+        {
+          "number": 73,
+          "text": "diversity of experiences that speakers of"
+        },
+        {
+          "number": 74,
+          "text": "the language have, either about whether"
+        },
+        {
+          "number": 75,
+          "text": "they feel they are ‘authentic’ English"
+        },
+        {
+          "number": 76,
+          "text": "speakers or about what they themselves"
+        },
+        {
+          "number": 77,
+          "text": "understand English to be."
+        },
+        {
+          "number": 78,
+          "text": "The attitudes people have towards"
+        },
+        {
+          "number": 79,
+          "text": "the language are a part of their own"
+        },
+        {
+          "number": 80,
+          "text": "personal history. But this personal history"
+        },
+        {
+          "number": 81,
+          "text": "is always a part of the wider history of"
+        },
+        {
+          "number": 82,
+          "text": "the community in which they live. It is"
+        },
+        {
+          "number": 83,
+          "text": "often the case that not only is the"
+        },
+        {
+          "number": 84,
+          "text": "language of importance to the individual’s"
+        },
+        {
+          "number": 85,
+          "text": "sense of identity, but that it also plays a"
+        },
+        {
+          "number": 86,
+          "text": "part in the cultural identity of a group or"
+        },
+        {
+          "number": 87,
+          "text": "nation. It is within this context that the"
+        },
+        {
+          "number": 88,
+          "text": "history of English – and especially the"
+        },
+        {
+          "number": 89,
+          "text": "reasons behind its global spread – can be"
+        },
+        {
+          "number": 90,
+          "text": "of great significance for the attitudes"
+        },
+        {
+          "number": 91,
+          "text": "people have towards the language."
+        },
+        {
+          "number": 92,
+          "text": "Decisions about the language"
+        },
+        {
+          "number": 93,
+          "text": "made by institutions such as national"
+        },
+        {
+          "number": 94,
+          "text": "governments and education systems"
+        },
+        {
+          "number": null,
+          "text": "85 have an impact on the form of the"
+        },
+        {
+          "number": 96,
+          "text": "language and on the way it is perceived"
+        },
+        {
+          "number": 97,
+          "text": "and used. In contexts such as these,"
+        },
+        {
+          "number": 98,
+          "text": "English cannot simply be considered a"
+        },
+        {
+          "number": 99,
+          "text": "neutral medium of communication;"
+        },
+        {
+          "number": 100,
+          "text": "instead it is a politically charged social"
+        },
+        {
+          "number": 101,
+          "text": "practice embedded in the histories of the"
+        },
+        {
+          "number": 102,
+          "text": "people who use it."
+        },
+        {
+          "number": 103,
+          "text": "The English language is and"
+        },
+        {
+          "number": 104,
+          "text": "always has been a diverse entity. It has"
+        },
+        {
+          "number": 105,
+          "text": "changed dramatically over the centuries"
+        },
+        {
+          "number": 106,
+          "text": "since it first arrived on the shores of"
+        },
+        {
+          "number": 107,
+          "text": "Britain from the north of Europe, and"
+        },
+        {
+          "number": 108,
+          "text": "these changes mean that the language"
+        },
+        {
+          "number": 109,
+          "text": "that was spoken at that time is almost"
+        },
+        {
+          "number": 110,
+          "text": "incomprehensible to us now. As the"
+        },
+        {
+          "number": 111,
+          "text": "language has spread beyond Britain it"
+        },
+        {
+          "number": 112,
+          "text": "has continued to change, and to change"
+        },
+        {
+          "number": 113,
+          "text": "in different ways in different contexts. It"
+        },
+        {
+          "number": 114,
+          "text": "has diversified to such an extent that"
+        },
+        {
+          "number": 115,
+          "text": "some scholars suggest that it is no longer"
+        },
+        {
+          "number": 116,
+          "text": "accurate to talk of a single ‘English’; that"
+        },
+        {
+          "number": 117,
+          "text": "instead there are many different English"
+        },
+        {
+          "number": 118,
+          "text": "languages around the world today."
+        },
+        {
+          "number": 119,
+          "text": "At the same time, however,"
+        },
+        {
+          "number": 120,
+          "text": "English exists in the world today as a"
+        },
+        {
+          "number": 121,
+          "text": "means of international communication –"
+        },
+        {
+          "number": null,
+          "text": "7"
+        },
+        {
+          "number": 122,
+          "text": "as a way for people from different social"
+        },
+        {
+          "number": 123,
+          "text": "groups to communicate with each other –"
+        },
+        {
+          "number": 124,
+          "text": "and to fulfil this function it would seem"
+        },
+        {
+          "number": 125,
+          "text": "that variation in the language needs to"
+        },
+        {
+          "number": 126,
+          "text": "be curtailed to a certain extent. That is to"
+        },
+        {
+          "number": 127,
+          "text": "say, if the language becomes too diverse"
+        },
+        {
+          "number": 128,
+          "text": "it will not remain mutually"
+        },
+        {
+          "number": 129,
+          "text": "comprehensible across different social"
+        },
+        {
+          "number": 130,
+          "text": "groups. So we have two impulses at work"
+        },
+        {
+          "number": 131,
+          "text": "that are seemingly incompatible, or"
+        },
+        {
+          "number": 132,
+          "text": "perhaps even in conflict, and the question"
+        },
+        {
+          "number": 133,
+          "text": "we are faced with is how to render them"
+        },
+        {
+          "number": 134,
+          "text": "as consistent, as both being part of the"
+        },
+        {
+          "number": 135,
+          "text": "existence of a single entity we call"
+        },
+        {
+          "number": 136,
+          "text": "‘English’. This is one of the central issues"
+        },
+        {
+          "number": 137,
+          "text": "in English language studies today – and it"
+        },
+        {
+          "number": 138,
+          "text": "is a very modern issue because it has"
+        },
+        {
+          "number": 139,
+          "text": "come about as a direct result of the"
+        },
+        {
+          "number": 140,
+          "text": "unprecedented position that English now"
+        },
+        {
+          "number": 141,
+          "text": "occupies in the world: as a language with"
+        },
+        {
+          "number": 142,
+          "text": "global scope which is implicated in the"
+        },
+        {
+          "number": 143,
+          "text": "history and present-day existence of"
+        },
+        {
+          "number": 144,
+          "text": "societies all around the world."
+        },
+        {
+          "number": null,
+          "text": "Adapted from: https://www.open.edu/"
+        },
+        {
+          "number": null,
+          "text": "Q U E S T I O N S"
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f2-english-q01",
+        "uece-2019-2-f2-english-q02",
+        "uece-2019-2-f2-english-q03",
+        "uece-2019-2-f2-english-q04",
+        "uece-2019-2-f2-english-q05",
+        "uece-2019-2-f2-english-q06",
+        "uece-2019-2-f2-english-q07",
+        "uece-2019-2-f2-english-q08",
+        "uece-2019-2-f2-english-q09",
+        "uece-2019-2-f2-english-q10",
+        "uece-2019-2-f2-english-q11",
+        "uece-2019-2-f2-english-q12",
+        "uece-2019-2-f2-english-q13",
+        "uece-2019-2-f2-english-q14",
+        "uece-2019-2-f2-english-q15",
+        "uece-2019-2-f2-english-q16",
+        "uece-2019-2-f2-english-q17",
+        "uece-2019-2-f2-english-q18",
+        "uece-2019-2-f2-english-q19",
+        "uece-2019-2-f2-english-q20"
+      ]
+    }
+  ]
+}

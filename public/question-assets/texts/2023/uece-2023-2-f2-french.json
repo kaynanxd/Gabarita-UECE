@@ -1,0 +1,507 @@
+{
+  "paperId": "uece-2023-2-f2-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2023-2-f2-french-t1",
+      "label": "Texto 1",
+      "title": "LE SAVOIR-FAIRE DU TRADUCTEUR",
+      "lines": [
+        {
+          "number": 1,
+          "text": "Jusqu’à une période très récente le"
+        },
+        {
+          "number": 2,
+          "text": "discours sur la traduction portait essentiellement"
+        },
+        {
+          "number": 3,
+          "text": "sur des questions de langue. La traduction était"
+        },
+        {
+          "number": 4,
+          "text": "considérée comme une activité linguistique"
+        },
+        {
+          "number": 5,
+          "text": "réalisée sur des textes avec des structures"
+        },
+        {
+          "number": 6,
+          "text": "d’équivalence abstraites définies syntaxiquement"
+        },
+        {
+          "number": 7,
+          "text": "et sémantiquement. Personne ne pensait à la"
+        },
+        {
+          "number": 8,
+          "text": "traduction comme à une activité de nature"
+        },
+        {
+          "number": 9,
+          "text": "sociale déterminée en très grande partie par des"
+        },
+        {
+          "number": 10,
+          "text": "intentions, des intérêts et des rapports de"
+        },
+        {
+          "number": 11,
+          "text": "pouvoir qui dépassent les seules questions"
+        },
+        {
+          "number": 12,
+          "text": "linguistiques."
+        },
+        {
+          "number": 13,
+          "text": "Aujourd’hui dans une optique de"
+        },
+        {
+          "number": 14,
+          "text": "formation, il est possible de présenter les"
+        },
+        {
+          "number": 15,
+          "text": "éléments de base de la compétence"
+        },
+        {
+          "number": 16,
+          "text": "traductionnelle dans un contexte professionnel"
+        },
+        {
+          "number": 17,
+          "text": "selon les cinq composantes qui suivent:"
+        },
+        {
+          "number": 18,
+          "text": "1. Une compréhension suffisante de la"
+        },
+        {
+          "number": 19,
+          "text": "langue de départ sous sa forme écrite"
+        },
+        {
+          "number": 20,
+          "text": "La connaissance de la langue étrangère est"
+        },
+        {
+          "number": 21,
+          "text": "l’élément premier auquel on pense à propos de la"
+        },
+        {
+          "number": 22,
+          "text": "qualification du traducteur qui doit être capable"
+        },
+        {
+          "number": 23,
+          "text": "de comprendre ce qu’écrit un auteur et non pas"
+        },
+        {
+          "number": 24,
+          "text": "d’être capable de bien écrire soi-même dans"
+        },
+        {
+          "number": 25,
+          "text": "cette langue. Il faut également connaître la"
+        },
+        {
+          "number": 26,
+          "text": "culture et l’affectivité propre à cette"
+        },
+        {
+          "number": 27,
+          "text": "communauté linguistique qui ont des incidences"
+        },
+        {
+          "number": 28,
+          "text": "textuelles nuancées dans des emplois et des sens."
+        },
+        {
+          "number": 29,
+          "text": "Là aussi les besoins du traducteur sont"
+        },
+        {
+          "number": 30,
+          "text": "variables: vastes pour le traducteur littéraire et"
+        },
+        {
+          "number": 31,
+          "text": "pour le traducteur de publicité, importants pour"
+        },
+        {
+          "number": 32,
+          "text": "le traducteur de la presse et des textes politiques,"
+        },
+        {
+          "number": 33,
+          "text": "mais limités pour le traducteur spécialisé du"
+        },
+        {
+          "number": 34,
+          "text": "domaine scientifique ou technique international"
+        },
+        {
+          "number": 35,
+          "text": "où la culture de spécialité fait disparaître"
+        },
+        {
+          "number": 36,
+          "text": "l’essentiel des manifestations culturo-"
+        },
+        {
+          "number": 37,
+          "text": "linguistiques locales."
+        },
+        {
+          "number": 38,
+          "text": "2. Des connaissances extralinguistiques"
+        },
+        {
+          "number": 39,
+          "text": "générales ou spécialisées"
+        },
+        {
+          "number": 40,
+          "text": "L’importance de la culture générale dans la"
+        },
+        {
+          "number": 41,
+          "text": "traduction est maintes fois sous-estimée. Une"
+        },
+        {
+          "number": 42,
+          "text": "bonne connaissance linguistique non"
+        },
+        {
+          "number": 43,
+          "text": "accompagnée de connaissances générales"
+        },
+        {
+          "number": 44,
+          "text": "suffisantes peut rendre les traducteurs"
+        },
+        {
+          "number": 45,
+          "text": "vulnérables à des erreurs d’interprétation graves"
+        },
+        {
+          "number": 46,
+          "text": "dans l’analyse du texte original et à de mauvais"
+        },
+        {
+          "number": 47,
+          "text": "choix d’expression dans la langue d’arrivée."
+        },
+        {
+          "number": null,
+          "text": "6"
+        },
+        {
+          "number": 48,
+          "text": "En tout état de cause, au-delà d’un"
+        },
+        {
+          "number": 49,
+          "text": "bagage minimum de culture générale, la"
+        },
+        {
+          "number": 50,
+          "text": "traduction appelle une acquisition de"
+        },
+        {
+          "number": 51,
+          "text": "connaissances, que ce soit dans le cadre d’une"
+        },
+        {
+          "number": 52,
+          "text": "formation complémentaire avant d’aborder un"
+        },
+        {
+          "number": 53,
+          "text": "domaine de spécialité, ou au fil du travail sur un"
+        },
+        {
+          "number": 54,
+          "text": "texte à traduire à mesure que des problèmes se"
+        },
+        {
+          "number": 55,
+          "text": "posent et que le traducteur recherche des"
+        },
+        {
+          "number": 56,
+          "text": "informations qui lui permettront de les résoudre."
+        },
+        {
+          "number": 57,
+          "text": "3. Une bonne capacité rédactionnelle en"
+        },
+        {
+          "number": 58,
+          "text": "langue d’arrivée"
+        },
+        {
+          "number": 59,
+          "text": "Le traducteur est lui-même rédacteur. Traduire,"
+        },
+        {
+          "number": 60,
+          "text": "c’est non seulement comprendre le texte de"
+        },
+        {
+          "number": 61,
+          "text": "départ, mais aussi rédiger en langue d’arrivée un"
+        },
+        {
+          "number": 62,
+          "text": "texte qui remplisse le rôle qui lui est affecté"
+        },
+        {
+          "number": 63,
+          "text": "d’informer, d’expliquer ou de convaincre ses"
+        },
+        {
+          "number": 64,
+          "text": "lecteurs dans les meilleures conditions."
+        },
+        {
+          "number": 65,
+          "text": "Au niveau moléculaire de la phrase, la"
+        },
+        {
+          "number": 66,
+          "text": "rédaction de la traduction est dans l’ensemble"
+        },
+        {
+          "number": 67,
+          "text": "aussi difficile et bien souvent plus difficile que la"
+        },
+        {
+          "number": 68,
+          "text": "rédaction spontanée. De ce fait, la traduction de"
+        },
+        {
+          "number": 69,
+          "text": "haut niveau exige une compétence rédactionnelle"
+        },
+        {
+          "number": 70,
+          "text": "certaine mais variable: la traduction littéraire"
+        },
+        {
+          "number": 71,
+          "text": "appelle un véritable talent littéraire, la traduction"
+        },
+        {
+          "number": 72,
+          "text": "journalistique demande de la sensibilité au style"
+        },
+        {
+          "number": 73,
+          "text": "journalistique et la traduction scientifique"
+        },
+        {
+          "number": 74,
+          "text": "demande une bonne maîtrise des styles"
+        },
+        {
+          "number": 75,
+          "text": "rédactionnels correspondants."
+        },
+        {
+          "number": 76,
+          "text": "4. Une maîtrise des principes et de la"
+        },
+        {
+          "number": 77,
+          "text": "démarche du traducteur"
+        },
+        {
+          "number": 78,
+          "text": "Cette composante repose tant sur un savoir que"
+        },
+        {
+          "number": 79,
+          "text": "sur un savoir-faire. Dans le premier figurent la"
+        },
+        {
+          "number": 80,
+          "text": "connaissance des normes professionnelles"
+        },
+        {
+          "number": 81,
+          "text": "concernant les principes de fidélité ou le"
+        },
+        {
+          "number": 82,
+          "text": "comportement professionnel à l’égard des clients"
+        },
+        {
+          "number": 83,
+          "text": "et des collègues, la connaissance du marché de la"
+        },
+        {
+          "number": 84,
+          "text": "traduction, des sources d’information disponibles,"
+        },
+        {
+          "number": 85,
+          "text": "des outils informatiques et autres. Dans la"
+        },
+        {
+          "number": 86,
+          "text": "catégorie du savoir-faire figurent les techniques"
+        },
+        {
+          "number": 87,
+          "text": "de la recherche documentaire, la prise de"
+        },
+        {
+          "number": 88,
+          "text": "décisions informationnelles et linguistiques dans"
+        },
+        {
+          "number": 89,
+          "text": "la rédaction du texte d’arrivée, l’évaluation des"
+        },
+        {
+          "number": 90,
+          "text": "sources d’information, etc."
+        },
+        {
+          "number": 91,
+          "text": "Un bon traducteur professionnel est"
+        },
+        {
+          "number": 92,
+          "text": "capable de travailler dans des domaines de"
+        },
+        {
+          "number": 93,
+          "text": "spécialité variés, d’assurer à ses traductions une"
+        },
+        {
+          "number": 94,
+          "text": "bonne qualité, de les réaliser rapidement, de"
+        },
+        {
+          "number": 95,
+          "text": "franchir des obstacles plus facilement et à un coût"
+        },
+        {
+          "number": 96,
+          "text": "moindre. Cette compétence peut s’acquérir"
+        },
+        {
+          "number": 97,
+          "text": "naturellement au fil du temps avec la pratique en"
+        },
+        {
+          "number": 98,
+          "text": "milieu professionnel et en grande partie par une"
+        },
+        {
+          "number": 99,
+          "text": "formation encadrée."
+        },
+        {
+          "number": 100,
+          "text": "5. Une connaissance des aspects"
+        },
+        {
+          "number": 101,
+          "text": "pratiques et commerciaux du métier"
+        },
+        {
+          "number": 102,
+          "text": "Une optique professionnalisante de cette"
+        },
+        {
+          "number": 103,
+          "text": "compétence est la connaissance du marché de la"
+        },
+        {
+          "number": 104,
+          "text": "traduction et d’un ensemble d’éléments"
+        },
+        {
+          "number": 105,
+          "text": "techniques associés à la pratique de la traduction"
+        },
+        {
+          "number": 106,
+          "text": "dans le contexte économique. Il faut connaître"
+        },
+        {
+          "number": 107,
+          "text": "des clients potentiels, des domaines de spécialité,"
+        },
+        {
+          "number": 108,
+          "text": "de la réglementation applicable aux modalités"
+        },
+        {
+          "number": 109,
+          "text": "d’exercice de la profession, des méthodes et"
+        },
+        {
+          "number": 110,
+          "text": "techniques de gestion des projets et autres. Sans"
+        },
+        {
+          "number": 111,
+          "text": "doute si une formation professionnalisante se"
+        },
+        {
+          "number": 112,
+          "text": "veut-elle complète, elle ne saurait pas ignorer ces"
+        },
+        {
+          "number": 113,
+          "text": "cinq questions pratiques."
+        },
+        {
+          "number": null,
+          "text": "Extrait adapté du livre La traduction – la comprendre,"
+        },
+        {
+          "number": null,
+          "text": "l’apprendre, Daniel Gile, PUF, 2010, p.18-19"
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez aux"
+        },
+        {
+          "number": null,
+          "text": "questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2023-2-f2-french-q01",
+        "uece-2023-2-f2-french-q02",
+        "uece-2023-2-f2-french-q03",
+        "uece-2023-2-f2-french-q04",
+        "uece-2023-2-f2-french-q05",
+        "uece-2023-2-f2-french-q06",
+        "uece-2023-2-f2-french-q07",
+        "uece-2023-2-f2-french-q08",
+        "uece-2023-2-f2-french-q09",
+        "uece-2023-2-f2-french-q10",
+        "uece-2023-2-f2-french-q11",
+        "uece-2023-2-f2-french-q12",
+        "uece-2023-2-f2-french-q13",
+        "uece-2023-2-f2-french-q14",
+        "uece-2023-2-f2-french-q15",
+        "uece-2023-2-f2-french-q16",
+        "uece-2023-2-f2-french-q17",
+        "uece-2023-2-f2-french-q18",
+        "uece-2023-2-f2-french-q19",
+        "uece-2023-2-f2-french-q20"
+      ]
+    }
+  ]
+}

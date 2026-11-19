@@ -1,0 +1,607 @@
+{
+  "paperId": "uece-2020-2-f2-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2020-2-f2-french-t1",
+      "label": "TEXTE",
+      "title": "2020, UNE FÊTE DE LA MUSIQUE DIFFÉRENTE,",
+      "lines": [
+        {
+          "number": null,
+          "text": "SOLIDAIRE ET NUMÉRIQUE"
+        },
+        {
+          "number": null,
+          "text": "Communiqué de presse du Ministère de la Culture"
+        },
+        {
+          "number": 1,
+          "text": "La Fête de la Musique a été fixée à"
+        },
+        {
+          "number": 2,
+          "text": "une date unique et symbolique, le 21 juin,"
+        },
+        {
+          "number": 3,
+          "text": "jour du solstice d’été. Grande manifestation"
+        },
+        {
+          "number": 4,
+          "text": "populaire gratuite et ouverte à tous les"
+        },
+        {
+          "number": 5,
+          "text": "musiciens, amateurs de tous niveaux ou"
+        },
+        {
+          "number": 6,
+          "text": "professionnels, elle célèbre la musique"
+        },
+        {
+          "number": 7,
+          "text": "vivante et met en valeur l’ampleur et la"
+        },
+        {
+          "number": 8,
+          "text": "diversité des pratiques musicales, ainsi que"
+        },
+        {
+          "number": 9,
+          "text": "tous les genres musicaux. Elle s’adresse à"
+        },
+        {
+          "number": 10,
+          "text": "tous les publics et contribue à familiariser à"
+        },
+        {
+          "number": 11,
+          "text": "toutes les expressions musicales les jeunes"
+        },
+        {
+          "number": 12,
+          "text": "et les moins jeunes de toutes conditions"
+        },
+        {
+          "number": 13,
+          "text": "sociales."
+        },
+        {
+          "number": 14,
+          "text": "Depuis sa création par le ministère de"
+        },
+        {
+          "number": 15,
+          "text": "la Culture en 1982, la Fête de la Musique"
+        },
+        {
+          "number": 16,
+          "text": "est devenue un événement fédérateur, un"
+        },
+        {
+          "number": 17,
+          "text": "grand mouvement populaire, national et"
+        },
+        {
+          "number": 18,
+          "text": "international. En cette année marquée par"
+        },
+        {
+          "number": 19,
+          "text": "l'épidémie de la Covid-19, la manifestation"
+        },
+        {
+          "number": 20,
+          "text": "sera inédite. Afin de garantir la sécurité de"
+        },
+        {
+          "number": 21,
+          "text": "toutes et tous, elle intégrera les normes"
+        },
+        {
+          "number": 22,
+          "text": "sanitaires en vigueur et ne devra pas créer"
+        },
+        {
+          "number": 23,
+          "text": "de rassemblements physiques non"
+        },
+        {
+          "number": 24,
+          "text": "autorisés. La Fête de la Musique doit"
+        },
+        {
+          "number": 25,
+          "text": "permettre de rassembler tous autour de la"
+        },
+        {
+          "number": 26,
+          "text": "musique et des artistes."
+        },
+        {
+          "number": 27,
+          "text": "Étant une grande fête populaire"
+        },
+        {
+          "number": 28,
+          "text": "gratuite, depuis sa création, les communes"
+        },
+        {
+          "number": 29,
+          "text": "rurales et les petites, moyennes ou grandes"
+        },
+        {
+          "number": 30,
+          "text": "villes de France s’investissent pour faire du"
+        },
+        {
+          "number": 31,
+          "text": "21 juin un moment privilégié, expression de"
+        },
+        {
+          "number": 32,
+          "text": "la vie musicale dans son ensemble et reflet"
+        },
+        {
+          "number": 33,
+          "text": "de son dynamisme permanent."
+        },
+        {
+          "number": 34,
+          "text": "Depuis 1982, de multiples réseaux se"
+        },
+        {
+          "number": 35,
+          "text": "sont mobilisés: les grandes fédérations,"
+        },
+        {
+          "number": 36,
+          "text": "amateurs et leurs relais. Les équipements"
+        },
+        {
+          "number": 37,
+          "text": "sociaux et culturels et les associations"
+        },
+        {
+          "number": 38,
+          "text": "locales en contribuant à révéler les"
+        },
+        {
+          "number": null,
+          "text": "7"
+        },
+        {
+          "number": 39,
+          "text": "nouvelles expressions musicales. Les scènes"
+        },
+        {
+          "number": 40,
+          "text": "de musiques actuelles, les écoles de"
+        },
+        {
+          "number": 41,
+          "text": "musique, les conservatoires, les institutions"
+        },
+        {
+          "number": 42,
+          "text": "musicales, les associations, les musées, les"
+        },
+        {
+          "number": 43,
+          "text": "hôpitaux, les municipalités, les radios, les"
+        },
+        {
+          "number": 44,
+          "text": "télévisions, les salles de concerts, les cafés"
+        },
+        {
+          "number": 45,
+          "text": "musique, les entreprises publiques ou"
+        },
+        {
+          "number": 46,
+          "text": "privées en organisant leurs propres"
+        },
+        {
+          "number": 47,
+          "text": "concerts. L’énergie de ceux qui se"
+        },
+        {
+          "number": 48,
+          "text": "mobilisent chaque année apporte à cette"
+        },
+        {
+          "number": 49,
+          "text": "journée exceptionnelle sa part"
+        },
+        {
+          "number": 50,
+          "text": "fondamentale de spontanéité et son allure"
+        },
+        {
+          "number": 51,
+          "text": "de transgression joyeuse."
+        },
+        {
+          "number": 52,
+          "text": "La Fête de la Musique 2020 se"
+        },
+        {
+          "number": 53,
+          "text": "composera des concerts qui pourront se"
+        },
+        {
+          "number": 54,
+          "text": "dérouler dans des lieux autorisés à accueillir"
+        },
+        {
+          "number": 55,
+          "text": "du public dans le respect des règles"
+        },
+        {
+          "number": 56,
+          "text": "sanitaires et en plein air avec respect des"
+        },
+        {
+          "number": 57,
+          "text": "distanciations physiques dans des lieux"
+        },
+        {
+          "number": 58,
+          "text": "permettant de fixer une jauge en veillant à"
+        },
+        {
+          "number": 59,
+          "text": "ne pas créer d’attroupement à proximité."
+        },
+        {
+          "number": 60,
+          "text": "2020 doit célébrer un art populaire qui a"
+        },
+        {
+          "number": 61,
+          "text": "aidé un grand nombre de citoyens à"
+        },
+        {
+          "number": 62,
+          "text": "traverser plus sereinement le confinement."
+        },
+        {
+          "number": 63,
+          "text": "Plusieurs événements marqueront les"
+        },
+        {
+          "number": 64,
+          "text": "ambitions de la Fête de la Musique avec:"
+        },
+        {
+          "number": 65,
+          "text": "Solidarité"
+        },
+        {
+          "number": 66,
+          "text": "Afin de saluer l’ensemble des"
+        },
+        {
+          "number": 67,
+          "text": "soignants, des concerts réservés aux"
+        },
+        {
+          "number": 68,
+          "text": "patients et personnels soignants et à leurs"
+        },
+        {
+          "number": 69,
+          "text": "familles seront organisés dans des hôpitaux"
+        },
+        {
+          "number": 70,
+          "text": "de toutes les régions de la France. De"
+        },
+        {
+          "number": 71,
+          "text": "nombreux artistes ont répondu avec"
+        },
+        {
+          "number": 72,
+          "text": "enthousiasme et engagement dans un élan"
+        },
+        {
+          "number": 73,
+          "text": "de solidarité."
+        },
+        {
+          "number": 74,
+          "text": "Nouveauté Musicale"
+        },
+        {
+          "number": 75,
+          "text": "Jean-Michel Jarre présente « Seuls"
+        },
+        {
+          "number": 76,
+          "text": "ensemble », un concert en réalité virtuelle."
+        },
+        {
+          "number": 77,
+          "text": "Il diffusera une performance musicale"
+        },
+        {
+          "number": 78,
+          "text": "depuis son studio et pourra être"
+        },
+        {
+          "number": 79,
+          "text": "simultanément présent sous forme d’avatar"
+        },
+        {
+          "number": 80,
+          "text": "devant un public d’avatars du monde entier."
+        },
+        {
+          "number": 81,
+          "text": "Le concert sera accessible à tous, en France"
+        },
+        {
+          "number": 82,
+          "text": "et dans le monde, avec une diffusion en"
+        },
+        {
+          "number": 83,
+          "text": "temps réel du studio de l’artiste."
+        },
+        {
+          "number": 84,
+          "text": "Chanter"
+        },
+        {
+          "number": 85,
+          "text": "Tous les musiciens de France, qu'ils"
+        },
+        {
+          "number": 86,
+          "text": "soient amateurs ou professionnels, qu'ils"
+        },
+        {
+          "number": 87,
+          "text": "jouent de la musique ancienne ou du jazz,"
+        },
+        {
+          "number": 88,
+          "text": "du rock ou de la variété, sont invités à"
+        },
+        {
+          "number": 89,
+          "text": "interpréter ou réinterpréter:  Chanson sur"
+        },
+        {
+          "number": 90,
+          "text": "ma drôle de vie de Véronique Sanson,"
+        },
+        {
+          "number": 91,
+          "text": "chez soi, sur son balcon ou à sa fenêtre,"
+        },
+        {
+          "number": 92,
+          "text": "dans son jardin ou dans sa cour, sur les"
+        },
+        {
+          "number": 93,
+          "text": "réseaux sociaux, chacun pourra ainsi"
+        },
+        {
+          "number": 94,
+          "text": "participer à la Fête de la Musique et"
+        },
+        {
+          "number": 95,
+          "text": "contribuer à créer une grande fresque"
+        },
+        {
+          "number": 96,
+          "text": "musicale sur tout le territoire."
+        },
+        {
+          "number": 97,
+          "text": "Un tutoriel créé par des artistes sera mis à"
+        },
+        {
+          "number": 98,
+          "text": "disposition pour que chacune et chacun"
+        },
+        {
+          "number": 99,
+          "text": "puissent s’approprier les chansons."
+        },
+        {
+          "number": 100,
+          "text": "Danser"
+        },
+        {
+          "number": 101,
+          "text": "Le Hall de la chanson organise Le bal"
+        },
+        {
+          "number": 102,
+          "text": "ménager pour faire danser chez soi, sur des"
+        },
+        {
+          "number": 103,
+          "text": "chansons françaises qui ont été arrangées"
+        },
+        {
+          "number": 104,
+          "text": "pour des chorégraphies originales créées"
+        },
+        {
+          "number": 105,
+          "text": "par les meilleurs. Le Bal se terminera avec"
+        },
+        {
+          "number": 106,
+          "text": "un moment de danse libre animée par les"
+        },
+        {
+          "number": 107,
+          "text": "nombreuses voix présentes à l’événement."
+        },
+        {
+          "number": 108,
+          "text": "Voyager"
+        },
+        {
+          "number": 109,
+          "text": "La Fête de la Musique est aussi"
+        },
+        {
+          "number": 110,
+          "text": "internationale et s’étend sur les cinq"
+        },
+        {
+          "number": 111,
+          "text": "continents. L’Institut Français organise des"
+        },
+        {
+          "number": 112,
+          "text": "éditions numériques avec des artistes"
+        },
+        {
+          "number": 113,
+          "text": "français et du monde entier. Plus de 50"
+        },
+        {
+          "number": 114,
+          "text": "événements et une centaine d’artistes"
+        },
+        {
+          "number": 115,
+          "text": "seront ainsi à découvrir."
+        },
+        {
+          "number": 116,
+          "text": "La gratuité des concerts, le relais des"
+        },
+        {
+          "number": 117,
+          "text": "médias, l’appui des collectivités territoriales"
+        },
+        {
+          "number": 118,
+          "text": "et l’adhésion de plus en plus large de la"
+        },
+        {
+          "number": 119,
+          "text": "population, ont fait que, en quelques"
+        },
+        {
+          "number": 120,
+          "text": "années, la Fête de la Musique est devenue"
+        },
+        {
+          "number": 121,
+          "text": "l’une des plus grandes manifestations"
+        },
+        {
+          "number": 122,
+          "text": "culturelles françaises."
+        },
+        {
+          "number": 123,
+          "text": "Forte dans son écho international, à"
+        },
+        {
+          "number": 124,
+          "text": "l’étranger la Fête de la Musique a pris une"
+        },
+        {
+          "number": 125,
+          "text": "ampleur considérable en devenant un"
+        },
+        {
+          "number": 126,
+          "text": "événement national dans plusieurs pays ou"
+        },
+        {
+          "number": 127,
+          "text": "en étant portée par de grandes métropoles"
+        },
+        {
+          "number": 128,
+          "text": "comme New York, Berlin ou Mexico. En"
+        },
+        {
+          "number": 129,
+          "text": "s’adaptant aux spécificités culturelles de"
+        },
+        {
+          "number": 130,
+          "text": "chaque pays, la Fête de la Musique célèbre"
+        },
+        {
+          "number": 131,
+          "text": "la musique vivante et met en valeur"
+        },
+        {
+          "number": 132,
+          "text": "l’ampleur et la diversité des pratiques"
+        },
+        {
+          "number": 133,
+          "text": "musicales, ainsi que tous les genres"
+        },
+        {
+          "number": 134,
+          "text": "musicaux parce qu’elle a su s’inventer, se"
+        },
+        {
+          "number": 135,
+          "text": "réinventer et devenir une manifestation"
+        },
+        {
+          "number": 136,
+          "text": "musicale internationale emblématique."
+        },
+        {
+          "number": null,
+          "text": "Extrait de: https://fetedelamusique.culture.gouv.fr/l-"
+        },
+        {
+          "number": null,
+          "text": "evenement/2020, DU 16.06.2020"
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez"
+        },
+        {
+          "number": null,
+          "text": "aux questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2020-2-f2-french-q01",
+        "uece-2020-2-f2-french-q02",
+        "uece-2020-2-f2-french-q03",
+        "uece-2020-2-f2-french-q04",
+        "uece-2020-2-f2-french-q05",
+        "uece-2020-2-f2-french-q06",
+        "uece-2020-2-f2-french-q07",
+        "uece-2020-2-f2-french-q08",
+        "uece-2020-2-f2-french-q09",
+        "uece-2020-2-f2-french-q10",
+        "uece-2020-2-f2-french-q11",
+        "uece-2020-2-f2-french-q12",
+        "uece-2020-2-f2-french-q13",
+        "uece-2020-2-f2-french-q14",
+        "uece-2020-2-f2-french-q15",
+        "uece-2020-2-f2-french-q16",
+        "uece-2020-2-f2-french-q17",
+        "uece-2020-2-f2-french-q18",
+        "uece-2020-2-f2-french-q19",
+        "uece-2020-2-f2-french-q20"
+      ]
+    }
+  ]
+}

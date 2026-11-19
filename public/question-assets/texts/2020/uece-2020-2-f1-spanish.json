@@ -1,0 +1,347 @@
+{
+  "paperId": "uece-2020-2-f1-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2020-2-f1-spanish-t1",
+      "label": "Texto 1",
+      "title": "T E X T O",
+      "lines": [
+        {
+          "number": null,
+          "text": "Un error positivo"
+        },
+        {
+          "number": null,
+          "text": "Montero Glez"
+        },
+        {
+          "number": 1,
+          "text": "Hay errores que cuestan vidas. Lo"
+        },
+        {
+          "number": 2,
+          "text": "estamos viviendo. Pero no vamos a entrar"
+        },
+        {
+          "number": 3,
+          "text": "ahora a hacer juicios de valor sobre la manera"
+        },
+        {
+          "number": 4,
+          "text": "de manejar una crisis de dimensiones"
+        },
+        {
+          "number": 5,
+          "text": "virulentas. Y no porque nuestros"
+        },
+        {
+          "number": 6,
+          "text": "representantes políticos no merezcan tales"
+        },
+        {
+          "number": 7,
+          "text": "juicios, sino porque hace falta un poco más de"
+        },
+        {
+          "number": 8,
+          "text": "aire entre tanta contaminación mediática. Con"
+        },
+        {
+          "number": 9,
+          "text": "tales principios, vamos a contar cómo un error"
+        },
+        {
+          "number": null,
+          "text": "21"
+        },
+        {
+          "number": 10,
+          "text": "de traducción dio lugar a un conjunto de libros"
+        },
+        {
+          "number": 11,
+          "text": "de astronomía popular que, a su vez,"
+        },
+        {
+          "number": 12,
+          "text": "inspirarían algunas de las novelas de ciencia"
+        },
+        {
+          "number": 13,
+          "text": "ficción más importantes de todos los tiempos."
+        },
+        {
+          "number": 14,
+          "text": "Lowell aseguraba que en Marte existía"
+        },
+        {
+          "number": 15,
+          "text": "vida inteligente pues, sin ella, no se habría"
+        },
+        {
+          "number": 16,
+          "text": "podido construir toda aquella red de acequias"
+        },
+        {
+          "number": 17,
+          "text": "para transportar agua."
+        },
+        {
+          "number": 18,
+          "text": "Nos referimos a los episodios escritos"
+        },
+        {
+          "number": 19,
+          "text": "por Percival Lowell (1855-1916), un excéntrico"
+        },
+        {
+          "number": 20,
+          "text": "millonario norteamericano con vicios de"
+        },
+        {
+          "number": 21,
+          "text": "astrónomo que afirmaba que existían canales"
+        },
+        {
+          "number": 22,
+          "text": "artificiales en Marte y, por lo tanto, vida"
+        },
+        {
+          "number": 23,
+          "text": "extraterrestre. Para demostrarlo, construyó un"
+        },
+        {
+          "number": 24,
+          "text": "observatorio privado en Arizona que hoy"
+        },
+        {
+          "number": 25,
+          "text": "permanece en activo. Se trata del"
+        },
+        {
+          "number": 26,
+          "text": "Observatorio Lowell, desde el cual, en 1930 se"
+        },
+        {
+          "number": 27,
+          "text": "descubriría un planeta enano que recibió el"
+        },
+        {
+          "number": 28,
+          "text": "nombre de Plutón."
+        },
+        {
+          "number": 29,
+          "text": "Pero volvamos a la Tierra donde, en vida"
+        },
+        {
+          "number": 30,
+          "text": "de Lowell, el astrónomo italiano Giovanni"
+        },
+        {
+          "number": 31,
+          "text": "Virginio Schiaparelli observó con su telescopio"
+        },
+        {
+          "number": 32,
+          "text": "el planeta Marte. Tenía la intención de"
+        },
+        {
+          "number": 33,
+          "text": "estudiarlo a fondo y, detallando el planeta"
+        },
+        {
+          "number": 34,
+          "text": "rojo, pudo comprobar cómo una densa capa de"
+        },
+        {
+          "number": 35,
+          "text": "líneas se extendía sobre la superficie."
+        },
+        {
+          "number": 36,
+          "text": "Schiaparelli las denominó “canali” y con ello,"
+        },
+        {
+          "number": 37,
+          "text": "publicó el mapa del planeta Marte en 1888."
+        },
+        {
+          "number": 38,
+          "text": "Fue un trabajo pionero de la astronomía que"
+        },
+        {
+          "number": 39,
+          "text": "despertó la curiosidad de muchos aficionados"
+        },
+        {
+          "number": 40,
+          "text": "entre los que se encontraba el excéntrico"
+        },
+        {
+          "number": 41,
+          "text": "Percival Lowell."
+        },
+        {
+          "number": 42,
+          "text": "Debido a un error en la traducción del"
+        },
+        {
+          "number": 43,
+          "text": "trabajo de Schiaparelli se inició, sin querer,"
+        },
+        {
+          "number": 44,
+          "text": "todo un género de novelas. Los “canali” que"
+        },
+        {
+          "number": 45,
+          "text": "observó Schiaparelli fueron vertidos en inglés"
+        },
+        {
+          "number": 46,
+          "text": "como “canals” en vez de como “channels”, tal"
+        },
+        {
+          "number": 47,
+          "text": "y como hubiese sido lo correcto. De esta"
+        },
+        {
+          "number": 48,
+          "text": "manera, la palabra “canals” implica una"
+        },
+        {
+          "number": 49,
+          "text": "construcción artificial mientras que la palabra"
+        },
+        {
+          "number": 50,
+          "text": "“channels” se refiere a un accidente natural."
+        },
+        {
+          "number": 51,
+          "text": "A partir de este error, Percival Lowell se"
+        },
+        {
+          "number": 52,
+          "text": "dispuso a encontrar huellas extraterrestres en"
+        },
+        {
+          "number": 53,
+          "text": "el planeta rojo. Hay que recordar que un"
+        },
+        {
+          "number": 54,
+          "text": "planeta es una forma espontánea y lo que"
+        },
+        {
+          "number": 55,
+          "text": "Lowell pretendía era encontrar formas vivas"
+        },
+        {
+          "number": 56,
+          "text": "que lo habitasen. Aunque no las encontró, las"
+        },
+        {
+          "number": 57,
+          "text": "imaginó hasta convertirlas en certezas"
+        },
+        {
+          "number": 58,
+          "text": "científicas. Ajustando su ojo al telescopio, echó"
+        },
+        {
+          "number": 59,
+          "text": "a volar su imaginación cuando observó los"
+        },
+        {
+          "number": 60,
+          "text": "numerosos canales que cubrían la superficie"
+        },
+        {
+          "number": 61,
+          "text": "de Marte, llegando a afirmar que el planeta"
+        },
+        {
+          "number": 62,
+          "text": "estaba habitado por una antigua civilización."
+        },
+        {
+          "number": 63,
+          "text": "Aseguraba que en Marte existía vida"
+        },
+        {
+          "number": 64,
+          "text": "inteligente pues, sin ella, no se habría podido"
+        },
+        {
+          "number": 65,
+          "text": "construir toda aquella red de acequias para"
+        },
+        {
+          "number": 66,
+          "text": "transportar agua. Con estas cosas publicaría"
+        },
+        {
+          "number": 67,
+          "text": "Mars (1895), Mars and Its Canals (1906) y The"
+        },
+        {
+          "number": 68,
+          "text": "Genesis of the Planets (1916). Su serie sobre"
+        },
+        {
+          "number": 69,
+          "text": "el planeta rojo inspiraría a Herbert George"
+        },
+        {
+          "number": 70,
+          "text": "Wells para escribir “La Guerra de los Mundos”"
+        },
+        {
+          "number": 71,
+          "text": "y, posteriormente, cuando ya se desveló que"
+        },
+        {
+          "number": 72,
+          "text": "los estudios de Percival carecían de rigor"
+        },
+        {
+          "number": 73,
+          "text": "científico, Ray Bradbury se sirvió de ellos para"
+        },
+        {
+          "number": 74,
+          "text": "sus “Crónicas Marcianas”. De esta manera,"
+        },
+        {
+          "number": 75,
+          "text": "tratando las contradicciones a partir de un"
+        },
+        {
+          "number": 76,
+          "text": "error, se consiguió la coherencia en la ficción."
+        },
+        {
+          "number": null,
+          "text": "Montero Glez. Periódico El País, 26/03/2020."
+        },
+        {
+          "number": null,
+          "text": "Q U E S T I O N E S"
+        }
+      ],
+      "questionIds": [
+        "uece-2020-2-f1-spanish-q78",
+        "uece-2020-2-f1-spanish-q79",
+        "uece-2020-2-f1-spanish-q80",
+        "uece-2020-2-f1-spanish-q81",
+        "uece-2020-2-f1-spanish-q82",
+        "uece-2020-2-f1-spanish-q83",
+        "uece-2020-2-f1-spanish-q84",
+        "uece-2020-2-f1-spanish-q85"
+      ]
+    }
+  ]
+}

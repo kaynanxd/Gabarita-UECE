@@ -1,0 +1,223 @@
+{
+  "paperId": "uece-2018-2-f1-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2018-2-f1-french-t1",
+      "label": "Texto 1",
+      "title": "Quel est le pouvoir de la parole poétique ?",
+      "lines": [
+        {
+          "number": 1,
+          "text": "Le poète utilise les mots de manière originale"
+        },
+        {
+          "number": 2,
+          "text": "pour dire le monde qui l’entoure en essayant de"
+        },
+        {
+          "number": 3,
+          "text": "surprendre le lecteur. Il crée des images"
+        },
+        {
+          "number": 4,
+          "text": "nouvelles: en grec, le poiêtês est le \"fabricant\","
+        },
+        {
+          "number": 5,
+          "text": "le \"créateur\". La poésie se caractérise aussi par"
+        },
+        {
+          "number": 6,
+          "text": "des contraintes écriture particulières: vers,"
+        },
+        {
+          "number": 7,
+          "text": "rimes, strophes, formes fixes tel le sonnet …"
+        },
+        {
+          "number": 8,
+          "text": "Mais de l’Antiquité à nos jours, ces règles ont"
+        },
+        {
+          "number": 9,
+          "text": "évolué. À partir du XXe siècle, les poètes se"
+        },
+        {
+          "number": 10,
+          "text": "libèrent de ces codes: la mise en page se"
+        },
+        {
+          "number": 11,
+          "text": "déstructure. Le pouvoir créateur de la parole"
+        },
+        {
+          "number": 12,
+          "text": "poétique est sans doute très complexe."
+        },
+        {
+          "number": 13,
+          "text": "La poésie est en réalité une création élaborée."
+        },
+        {
+          "number": 14,
+          "text": "Le poète exprime son ressenti du monde à"
+        },
+        {
+          "number": 15,
+          "text": "travers ses cinq sens et invente des images"
+        },
+        {
+          "number": 16,
+          "text": "inattendues et riches grâce à des figures de"
+        },
+        {
+          "number": 17,
+          "text": "style comme la personnification, la métaphore"
+        },
+        {
+          "number": 18,
+          "text": "ou la comparaison. Il  utilise aussi un langage"
+        },
+        {
+          "number": 19,
+          "text": "musical, basé sur les sons et les rythmes : les"
+        },
+        {
+          "number": 20,
+          "text": "anaphores, les allitérations et les"
+        },
+        {
+          "number": 21,
+          "text": "assonances jouent ainsi avec les échos"
+        },
+        {
+          "number": 22,
+          "text": "sonores. Notons que de nombreux poèmes ont"
+        },
+        {
+          "number": 23,
+          "text": "été mis en musique."
+        },
+        {
+          "number": 24,
+          "text": "Tout cela parce que la poésie existe pour que"
+        },
+        {
+          "number": 25,
+          "text": "son langage articulé inscrive en vérité en nous"
+        },
+        {
+          "number": 26,
+          "text": "beaucoup plus que ce que nous pouvons dire."
+        },
+        {
+          "number": 27,
+          "text": "Ses mots ne sont pas une simple monnaie"
+        },
+        {
+          "number": 28,
+          "text": "d’échange, mais nous portent au-delà de ce"
+        },
+        {
+          "number": null,
+          "text": "17"
+        },
+        {
+          "number": 29,
+          "text": "que nous pouvons penser ou saisir. Elle est par"
+        },
+        {
+          "number": 30,
+          "text": "excellence le lieu où s’articule notre"
+        },
+        {
+          "number": 31,
+          "text": "insatisfaction. Elle trace, de poème en poème,"
+        },
+        {
+          "number": 32,
+          "text": "nos lignes de fuite et donne à entendre notre"
+        },
+        {
+          "number": 33,
+          "text": "marche boiteuse et contrariée. Réel et idéal,"
+        },
+        {
+          "number": 34,
+          "text": "coupure et liaison, avancée et retournement,"
+        },
+        {
+          "number": 35,
+          "text": "\"chercherie\" et trouvaille, voilà autant de"
+        },
+        {
+          "number": 36,
+          "text": "couples de notions opposées que le travail"
+        },
+        {
+          "number": 37,
+          "text": "poétique ne cesse de confronter, tirant de leur"
+        },
+        {
+          "number": 38,
+          "text": "contradiction sa force."
+        },
+        {
+          "number": 39,
+          "text": "Le poème est la scène sur laquelle vient se jouer"
+        },
+        {
+          "number": 40,
+          "text": "le drame de l’expression propre à la créature"
+        },
+        {
+          "number": 41,
+          "text": "parlante. On y voit la langue se débattre. On y"
+        },
+        {
+          "number": 42,
+          "text": "entend l’effort de la créature pour s’orienter"
+        },
+        {
+          "number": 43,
+          "text": "dans son propre inconnu."
+        },
+        {
+          "number": null,
+          "text": "Texte adapté de Jean-Michel Maulpioix"
+        },
+        {
+          "number": null,
+          "text": "(http://www.maulpoix.net/quedire.html) et de"
+        },
+        {
+          "number": null,
+          "text": "https://www.lelivrescolaire.fr/index.html#!manuel/1"
+        },
+        {
+          "number": null,
+          "text": "176315/francais-6e-"
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez"
+        },
+        {
+          "number": null,
+          "text": "aux questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2018-2-f1-french-q63",
+        "uece-2018-2-f1-french-q64",
+        "uece-2018-2-f1-french-q65",
+        "uece-2018-2-f1-french-q66",
+        "uece-2018-2-f1-french-q67",
+        "uece-2018-2-f1-french-q68",
+        "uece-2018-2-f1-french-q69",
+        "uece-2018-2-f1-french-q70"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "paperId": "uece-2018-1-f2-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2018-1-f2-french-t1",
+      "label": "Texto 1",
+      "title": null,
+      "lines": [
+        {
+          "number": null,
+          "text": "LA PLACE DE LA GRAMMAIRE DANS LA CLASSE"
+        },
+        {
+          "number": null,
+          "text": "DE FRANÇAIS LANGUE ÉTRANGÈRE - FLE"
+        },
+        {
+          "number": 1,
+          "text": "D’après des recherches réalisées les"
+        },
+        {
+          "number": 2,
+          "text": "dernières années, pour les enseignants, la"
+        },
+        {
+          "number": 3,
+          "text": "grammaire est une composante linguistique"
+        },
+        {
+          "number": 4,
+          "text": "qu’ils estiment très importante en classe de"
+        },
+        {
+          "number": 5,
+          "text": "langue. Dans ce nouveau millénaire, il semble"
+        },
+        {
+          "number": 6,
+          "text": "bien que l’oubli qu’elle a souffert durant la"
+        },
+        {
+          "number": 7,
+          "text": "période de l’approche communicative ne soit"
+        },
+        {
+          "number": 8,
+          "text": "plus à l’ordre du jour. Même s’il est"
+        },
+        {
+          "number": 9,
+          "text": "incontestable que l’apprenant apprend à"
+        },
+        {
+          "number": 10,
+          "text": "communiquer en communiquant, il ne peut"
+        },
+        {
+          "number": 11,
+          "text": "néanmoins se passer de grammaire dans les"
+        },
+        {
+          "number": 12,
+          "text": "pratiques langagières. Tout se déroule comme"
+        },
+        {
+          "number": 13,
+          "text": "si la grammaire redevenait un passage"
+        },
+        {
+          "number": 14,
+          "text": "obligatoire pour l’enseignement du FLE."
+        },
+        {
+          "number": 15,
+          "text": "Toutefois, cette dernière ne serait pas l’unique"
+        },
+        {
+          "number": 16,
+          "text": "objet de l’enseignement, car la compréhension"
+        },
+        {
+          "number": 17,
+          "text": "et l’expression orales sont également"
+        },
+        {
+          "number": 18,
+          "text": "importantes."
+        },
+        {
+          "number": 19,
+          "text": "Cette remarque est d’autant plus"
+        },
+        {
+          "number": 20,
+          "text": "significative que ces composantes n’étaient"
+        },
+        {
+          "number": 21,
+          "text": "pas proposées et qu’un enseignant sur trois a"
+        },
+        {
+          "number": 22,
+          "text": "pris soin de le préciser. Dans leur esprit, il"
+        },
+        {
+          "number": 23,
+          "text": "existe une relation évidente entre un"
+        },
+        {
+          "number": 24,
+          "text": "enseignement formel de la langue et la mise"
+        },
+        {
+          "number": 25,
+          "text": "en pratique des formes dans des situations de"
+        },
+        {
+          "number": 26,
+          "text": "communication essentiellement orales. Les"
+        },
+        {
+          "number": 27,
+          "text": "enseignants du FLE appliquent le principe"
+        },
+        {
+          "number": 28,
+          "text": "selon lequel l’apprentissage de la langue passe"
+        },
+        {
+          "number": 29,
+          "text": "par des pratiques communicatives en langue"
+        },
+        {
+          "number": 30,
+          "text": "cible, mais avec de la grammaire. Dans le"
+        },
+        {
+          "number": 31,
+          "text": "cadre de la classe, cette dernière est ancrée"
+        },
+        {
+          "number": 32,
+          "text": "dans une réalité textuelle et contextuelle: il"
+        },
+        {
+          "number": 33,
+          "text": "cesse d’y avoir une coupure entre emplois et"
+        },
+        {
+          "number": 34,
+          "text": "formes, on arrive à la complémentarité."
+        },
+        {
+          "number": 35,
+          "text": "Ce retour en force de la grammaire dans"
+        },
+        {
+          "number": 36,
+          "text": "la classe de langue paraît correspondre aux"
+        },
+        {
+          "number": 37,
+          "text": "attentes des apprenants. Elle devance le"
+        },
+        {
+          "number": 38,
+          "text": "lexique et la civilisation, la phonétique"
+        },
+        {
+          "number": 39,
+          "text": "n’apparaissant pas comme primordiale. Il y a"
+        },
+        {
+          "number": 40,
+          "text": "donc correspondance entre ce qu’attendent les"
+        },
+        {
+          "number": 41,
+          "text": "apprenants et ce que proposent les"
+        },
+        {
+          "number": 42,
+          "text": "enseignants. Cependant, il faut éviter de"
+        },
+        {
+          "number": 43,
+          "text": "tomber dans l’écueil d’un enseignement de la"
+        },
+        {
+          "number": 44,
+          "text": "langue toujours plus grammaticalisé, sous"
+        },
+        {
+          "number": 45,
+          "text": "prétexte d’attendre une demande"
+        },
+        {
+          "number": 46,
+          "text": "indispensable pour parvenir à la maîtrise du"
+        },
+        {
+          "number": 47,
+          "text": "français."
+        },
+        {
+          "number": 48,
+          "text": "Il convient d’autre part de s’interroger"
+        },
+        {
+          "number": 49,
+          "text": "sur les causes de cette reconnaissance de la"
+        },
+        {
+          "number": 50,
+          "text": "valeur de la grammaire par les enseignants"
+        },
+        {
+          "number": 51,
+          "text": "comme par les apprenants. Peut-être leur"
+        },
+        {
+          "number": 52,
+          "text": "apporte-t-elle un sentiment de sécurité."
+        },
+        {
+          "number": 53,
+          "text": "Lorsque l’apprenant prend connaissance d’une"
+        },
+        {
+          "number": 54,
+          "text": "nouvelle règle de grammaire, il a l’impression"
+        },
+        {
+          "number": 55,
+          "text": "de maîtriser une partie du système"
+        },
+        {
+          "number": 56,
+          "text": "linguistique, même si le réemploi dans des"
+        },
+        {
+          "number": 57,
+          "text": "situations de communication ne va pas"
+        },
+        {
+          "number": 58,
+          "text": "toujours de soi. Pour un apprenant en français,"
+        },
+        {
+          "number": 59,
+          "text": "apprendre la grammaire, c’est parvenir"
+        },
+        {
+          "number": 60,
+          "text": "progressivement à appréhender la langue. Il la"
+        },
+        {
+          "number": 61,
+          "text": "perçoit comme un élément de stabilité parmi"
+        },
+        {
+          "number": 62,
+          "text": "le nombre plus ou moins élevé de réalisations"
+        },
+        {
+          "number": 63,
+          "text": "langagières possibles pour un acte de parole."
+        },
+        {
+          "number": 64,
+          "text": "L’enseignant, conscient de ces limites mais"
+        },
+        {
+          "number": 65,
+          "text": "aussi de la nécessité de prendre appui sur ce"
+        },
+        {
+          "number": 66,
+          "text": "qui lui semble le plus stable dans la langue,"
+        },
+        {
+          "number": 67,
+          "text": "intègre la grammaire dans son programme de"
+        },
+        {
+          "number": 68,
+          "text": "cours. Il reste cependant à déterminer dans"
+        },
+        {
+          "number": 69,
+          "text": "quelle proportion."
+        },
+        {
+          "number": 70,
+          "text": "Sur ce problème nous dirons qu’il ne faut"
+        },
+        {
+          "number": 71,
+          "text": "pas que la grammaire prenne une trop grande"
+        },
+        {
+          "number": 72,
+          "text": "place en classe de FLE. À trop vouloir répondre"
+        },
+        {
+          "number": 73,
+          "text": "aux attentes des apprenants, il est possible de"
+        },
+        {
+          "number": 74,
+          "text": "tomber dans le piège d’une focalisation"
+        },
+        {
+          "number": 75,
+          "text": "excessive sur la grammaire qui ne garantit pas"
+        },
+        {
+          "number": 76,
+          "text": "nécessairement une bonne compétence"
+        },
+        {
+          "number": 77,
+          "text": "communicative orale et/ou écrite en français."
+        },
+        {
+          "number": 78,
+          "text": "En ce qui concerne la formation, si"
+        },
+        {
+          "number": 79,
+          "text": "l’enseignement de la grammaire ne constitue"
+        },
+        {
+          "number": 80,
+          "text": "pas une fin en soi et qu’il est tout aussi"
+        },
+        {
+          "number": 81,
+          "text": "inconcevable que l’enseignant du FLE vise à"
+        },
+        {
+          "number": 82,
+          "text": "une transmission intégrale des savoirs"
+        },
+        {
+          "number": 83,
+          "text": "grammaticaux, il est aussi vrai que"
+        },
+        {
+          "number": 84,
+          "text": "l’enseignement de la grammaire en FLE exige"
+        },
+        {
+          "number": 85,
+          "text": "qu’elle soit intégrée dans l’entier de la"
+        },
+        {
+          "number": 86,
+          "text": "formation dispensée aux étudiants. Cela"
+        },
+        {
+          "number": 87,
+          "text": "implique d’envisager conjointement la"
+        },
+        {
+          "number": null,
+          "text": "6"
+        },
+        {
+          "number": 88,
+          "text": "dimension de l’enseignement (relations entre"
+        },
+        {
+          "number": 89,
+          "text": "théories et méthodologies) et celle de"
+        },
+        {
+          "number": 90,
+          "text": "l’apprentissage (obstacles et réussites dans"
+        },
+        {
+          "number": 91,
+          "text": "l’appropriation scolaire)."
+        },
+        {
+          "number": null,
+          "text": "Extrait et adaté de Marie-Christine Fougerouse,"
+        },
+        {
+          "number": null,
+          "text": "Université Jean Monnet, Saint-Étienne, in Études de"
+        },
+        {
+          "number": null,
+          "text": "linguistique appliquée, 2001/2 et de Jacques David,"
+        },
+        {
+          "number": null,
+          "text": "in Le français aujourd'hui 2011/5."
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez"
+        },
+        {
+          "number": null,
+          "text": "aux questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2018-1-f2-french-q01",
+        "uece-2018-1-f2-french-q02",
+        "uece-2018-1-f2-french-q03",
+        "uece-2018-1-f2-french-q04",
+        "uece-2018-1-f2-french-q05",
+        "uece-2018-1-f2-french-q06",
+        "uece-2018-1-f2-french-q07",
+        "uece-2018-1-f2-french-q08",
+        "uece-2018-1-f2-french-q09",
+        "uece-2018-1-f2-french-q10",
+        "uece-2018-1-f2-french-q11",
+        "uece-2018-1-f2-french-q12",
+        "uece-2018-1-f2-french-q13",
+        "uece-2018-1-f2-french-q14",
+        "uece-2018-1-f2-french-q15",
+        "uece-2018-1-f2-french-q16",
+        "uece-2018-1-f2-french-q17",
+        "uece-2018-1-f2-french-q18",
+        "uece-2018-1-f2-french-q19",
+        "uece-2018-1-f2-french-q20"
+      ]
+    }
+  ]
+}

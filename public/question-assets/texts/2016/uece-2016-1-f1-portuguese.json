@@ -1,0 +1,470 @@
+{
+  "paperId": "uece-2016-1-f1-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2016-1-f1-portuguese-t1",
+      "label": "Texto 1",
+      "title": null,
+      "lines": [
+        {
+          "number": null,
+          "text": "O texto I é um excerto de Baú de Ossos (volume 1),"
+        },
+        {
+          "number": null,
+          "text": "do médico e escritor mineiro Pedro Nava. Inclui-se"
+        },
+        {
+          "number": null,
+          "text": "essa obra no gênero memorialístico, que é"
+        },
+        {
+          "number": null,
+          "text": "predominantemente narrativo. Nesse gênero, são"
+        },
+        {
+          "number": null,
+          "text": "contados episódios verídicos ou baseadas em fatos"
+        },
+        {
+          "number": null,
+          "text": "reais, que ficaram na memória do autor. Isso o"
+        },
+        {
+          "number": null,
+          "text": "distingue da biografia, que se propõe contar a história"
+        },
+        {
+          "number": null,
+          "text": "de uma pessoa específica."
+        },
+        {
+          "number": 1,
+          "text": "O meu amigo Rodrigo Melo Franco de"
+        },
+        {
+          "number": 2,
+          "text": "Andrade é autor do conto “Quando minha avó"
+        },
+        {
+          "number": 3,
+          "text": "morreu”. Sei por ele que é uma história"
+        },
+        {
+          "number": 4,
+          "text": "autobiográfica. Aí Rodrigo confessa ter passado,"
+        },
+        {
+          "number": 5,
+          "text": "aos 11 anos, por fase da vida em que se sentia"
+        },
+        {
+          "number": 6,
+          "text": "profundamente corrupto. Violava as promessas"
+        },
+        {
+          "number": 7,
+          "text": "feitas de noite a Nossa Senhora; mentia"
+        },
+        {
+          "number": 8,
+          "text": "desabridamente; faltava às aulas para tomar"
+        },
+        {
+          "number": 9,
+          "text": "banho no rio e pescar na Barroca com"
+        },
+        {
+          "number": 10,
+          "text": "companheiros vadios; furtava pratinhas de dois"
+        },
+        {
+          "number": 11,
+          "text": "mil-réis... Ai! de mim que mais cedo que o"
+        },
+        {
+          "number": 12,
+          "text": "amigo também abracei a senda do crime e"
+        },
+        {
+          "number": 13,
+          "text": "enveredei pela do furto... Amante das artes"
+        },
+        {
+          "number": 14,
+          "text": "plásticas desde cedo, educado no culto do belo,"
+        },
+        {
+          "number": 15,
+          "text": "eu não pude me conter. Eram duas coleções de"
+        },
+        {
+          "number": 16,
+          "text": "postais pertencentes a minha prima Maria Luísa"
+        },
+        {
+          "number": 17,
+          "text": "Palleta. Numa, toda a vida de Paulo e Virgínia –"
+        },
+        {
+          "number": 18,
+          "text": "do idílio infantil ao navio desmantelado na"
+        },
+        {
+          "number": 19,
+          "text": "procela. Pobre Virgínia, dos cabelos"
+        },
+        {
+          "number": 20,
+          "text": "esvoaçantes! Noutra, a de Joana d’Arc, desde os"
+        },
+        {
+          "number": 21,
+          "text": "tempos de pastora e das vozes ao da morte."
+        },
+        {
+          "number": 22,
+          "text": "Pobre Joana dos cabelos em chama! Não resisti."
+        },
+        {
+          "number": 23,
+          "text": "Furtei, escondi e depois de longos êxtases, com"
+        },
+        {
+          "number": 24,
+          "text": "medo, joguei tudo fora. Terceiro roubo, terceira"
+        },
+        {
+          "number": 25,
+          "text": "coleção de postais – a que um carcamano,"
+        },
+        {
+          "number": 26,
+          "text": "chamado Adriano Merlo, escrevia a uma de"
+        },
+        {
+          "number": 27,
+          "text": "minhas tias. Os cartões eram fabulosos. Novas"
+        },
+        {
+          "number": 28,
+          "text": "contemplações solitárias e piquei tudo de latrina"
+        },
+        {
+          "number": 29,
+          "text": "abaixo. Mas o mais grave foi o roubo de uma"
+        },
+        {
+          "number": 30,
+          "text": "nota de cinco mil-réis, do patrimônio da própria"
+        },
+        {
+          "number": 31,
+          "text": "Inhá Luísa. De posse dessa fortuna nababesca,"
+        },
+        {
+          "number": 32,
+          "text": "comprei um livro e uma lâmpada elétrica de"
+        },
+        {
+          "number": 33,
+          "text": "tamanho desmedido. Fui para o parque Halfeld"
+        },
+        {
+          "number": 34,
+          "text": "com o butim de minha pirataria. Joguei o troco"
+        },
+        {
+          "number": 35,
+          "text": "num bueiro. Como ainda não soubesse ler,"
+        },
+        {
+          "number": 36,
+          "text": "rasguei o livro e atirei seus restos em um"
+        },
+        {
+          "number": 37,
+          "text": "tanque. A lâmpada, enorme, esfregada, não fez"
+        },
+        {
+          "number": 38,
+          "text": "aparecer nenhum gênio. Fui me desfazer de"
+        },
+        {
+          "number": 39,
+          "text": "mais esse cadáver na escada da Igreja de São"
+        },
+        {
+          "number": 40,
+          "text": "Sebastião. Lá a estourei, tendo a impressão de"
+        },
+        {
+          "number": 41,
+          "text": "ouvir os trovões e o morro do Imperador"
+        },
+        {
+          "number": 42,
+          "text": "desabando nas minhas costas. Depois dessa"
+        },
+        {
+          "number": 43,
+          "text": "série de atos gratuitos e delitos inúteis, voltei"
+        },
+        {
+          "number": 44,
+          "text": "para casa. Raskólnikov. O mais estranho é que"
+        },
+        {
+          "number": 45,
+          "text": "houve crime, e não castigo. Crime perfeito."
+        },
+        {
+          "number": 46,
+          "text": "Ninguém desconfiou. Minha avó não deu por"
+        },
+        {
+          "number": 47,
+          "text": "falta de sua cédula. Eu fiquei por conta das"
+        },
+        {
+          "number": 48,
+          "text": "Fúrias de um remorso, que me perseguiu toda a"
+        },
+        {
+          "number": 49,
+          "text": "infância, veio comigo pela vida afora, com a"
+        },
+        {
+          "number": 50,
+          "text": "terrível impressão de que eu poderia reincidir"
+        },
+        {
+          "number": 51,
+          "text": "porque vocês sabem, cesteiro que faz um"
+        },
+        {
+          "number": 52,
+          "text": "cesto... Só me tranquilizei anos depois, já"
+        },
+        {
+          "number": 53,
+          "text": "médico, quando li num livro de Psicologia que só"
+        },
+        {
+          "number": 54,
+          "text": "se deve considerar roubo o que a criança faz"
+        },
+        {
+          "number": 55,
+          "text": "com proveito e dolo. O furto inútil é fisiológico e"
+        },
+        {
+          "number": 56,
+          "text": "psicologicamente normal. Graças a Deus! Fiquei"
+        },
+        {
+          "number": 57,
+          "text": "absolvido do meu ato gratuito..."
+        },
+        {
+          "number": null,
+          "text": "(Pedro Nava. Baú de ossos. Memórias 1. p. 308  a"
+        },
+        {
+          "number": null,
+          "text": "310.)"
+        }
+      ],
+      "questionIds": [
+        "uece-2016-1-f1-portuguese-q01",
+        "uece-2016-1-f1-portuguese-q02",
+        "uece-2016-1-f1-portuguese-q03",
+        "uece-2016-1-f1-portuguese-q04",
+        "uece-2016-1-f1-portuguese-q05",
+        "uece-2016-1-f1-portuguese-q06",
+        "uece-2016-1-f1-portuguese-q07",
+        "uece-2016-1-f1-portuguese-q08",
+        "uece-2016-1-f1-portuguese-q09",
+        "uece-2016-1-f1-portuguese-q10"
+      ]
+    },
+    {
+      "id": "uece-2016-1-f1-portuguese-t2",
+      "label": "Texto 2",
+      "title": null,
+      "lines": [
+        {
+          "number": null,
+          "text": "O texto que você lerá a seguir – o poema “Outro"
+        },
+        {
+          "number": null,
+          "text": "verde”, foi retirado da obra Delírio da Solidão, do"
+        },
+        {
+          "number": null,
+          "text": "escritor cearense de Quixeramobim Jáder de"
+        },
+        {
+          "number": null,
+          "text": "Carvalho, que nasceu em 29 de dezembro de 1901 e"
+        },
+        {
+          "number": null,
+          "text": "faleceu no dia sete de agosto de 1985. Jáder de"
+        },
+        {
+          "number": null,
+          "text": "Carvalho foi jornalista, advogado, professor e"
+        },
+        {
+          "number": null,
+          "text": "escritor: poeta e prosador. Sua obra mais conhecida"
+        },
+        {
+          "number": null,
+          "text": "é o romance Aldeota."
+        },
+        {
+          "number": null,
+          "text": "5"
+        },
+        {
+          "number": null,
+          "text": "Outro verde"
+        },
+        {
+          "number": 58,
+          "text": "Teus olhos mostram o verde"
+        },
+        {
+          "number": 59,
+          "text": "que não é do mar."
+        },
+        {
+          "number": 60,
+          "text": "Não lembram viagens sem fim"
+        },
+        {
+          "number": 61,
+          "text": "nem o céu a abraçar-se com as águas,"
+        },
+        {
+          "number": 62,
+          "text": "num horizonte parado,"
+        },
+        {
+          "number": 63,
+          "text": "que os marujos não alcançam."
+        },
+        {
+          "number": 64,
+          "text": "Qual o verde dos teus olhos,"
+        },
+        {
+          "number": 65,
+          "text": "se não é o do oceano?"
+        },
+        {
+          "number": 66,
+          "text": "Não é também o das florestas"
+        },
+        {
+          "number": 67,
+          "text": "onde cabem mistérios e distâncias."
+        },
+        {
+          "number": 68,
+          "text": "Teu olhar não tem a cor"
+        },
+        {
+          "number": 69,
+          "text": "da enseada que eu amo."
+        },
+        {
+          "number": 70,
+          "text": "Nele não gritam tempestades,"
+        },
+        {
+          "number": 71,
+          "text": "nem afundam ou se perdem veleiros."
+        },
+        {
+          "number": 72,
+          "text": "Não escondem braços em naufrágios"
+        },
+        {
+          "number": 73,
+          "text": "nem vozes que não se ouvem"
+        },
+        {
+          "number": 74,
+          "text": "na despedida."
+        },
+        {
+          "number": 75,
+          "text": "O verde dos teus olhos é subjetivo."
+        },
+        {
+          "number": 76,
+          "text": "Não sugere portos nem a foz de um rio."
+        },
+        {
+          "number": 77,
+          "text": "Pintores, dizei-me:"
+        },
+        {
+          "number": 78,
+          "text": "qual de vós se atreveria"
+        },
+        {
+          "number": 79,
+          "text": "a copiar a cor desses olhos?"
+        },
+        {
+          "number": 80,
+          "text": "Ainda não sofreste."
+        },
+        {
+          "number": 81,
+          "text": "Ainda não conheces a saudade."
+        },
+        {
+          "number": 82,
+          "text": "Um dia, entre lembranças doridas,"
+        },
+        {
+          "number": 83,
+          "text": "o verde dos teus olhos mudará."
+        },
+        {
+          "number": 84,
+          "text": "Já li nas linhas da tua mão esquerda:"
+        },
+        {
+          "number": 85,
+          "text": "tu, sem a estrela dos navegantes,"
+        },
+        {
+          "number": 86,
+          "text": "esperas"
+        },
+        {
+          "number": 87,
+          "text": "pelo navio perdido do meu amor."
+        },
+        {
+          "number": null,
+          "text": "(Jáder de Carvalho. Delírio da Solidão. p. 46-47.)"
+        }
+      ],
+      "questionIds": [
+        "uece-2016-1-f1-portuguese-q11",
+        "uece-2016-1-f1-portuguese-q12",
+        "uece-2016-1-f1-portuguese-q13",
+        "uece-2016-1-f1-portuguese-q14"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "paperId": "uece-2022-1-f1-english",
+  "subject": "english",
+  "texts": [
+    {
+      "id": "uece-2022-1-f1-english-t1",
+      "label": "Texto 1",
+      "title": "T E X T",
+      "lines": [
+        {
+          "number": null,
+          "text": "Men Fall Behind in College Enrollment."
+        },
+        {
+          "number": null,
+          "text": "Women Still Play Catch-Up at Work."
+        },
+        {
+          "number": null,
+          "text": "The coronavirus upended the lives of"
+        },
+        {
+          "number": null,
+          "text": "millions of college students. The Wall Street Journal"
+        },
+        {
+          "number": null,
+          "text": "reported this week that men have been hit"
+        },
+        {
+          "number": null,
+          "text": "particularly hard — accounting for roughly three-"
+        },
+        {
+          "number": null,
+          "text": "fourths of pandemic-driven dropouts — and"
+        },
+        {
+          "number": null,
+          "text": "depicted an accelerating crisis in male enrollment."
+        },
+        {
+          "number": null,
+          "text": "A closer look at historical trends and the"
+        },
+        {
+          "number": null,
+          "text": "labor market reveals a more complex picture, one"
+        },
+        {
+          "number": null,
+          "text": "in which women keep playing catch-up in an"
+        },
+        {
+          "number": null,
+          "text": "economy structured to favor men."
+        },
+        {
+          "number": null,
+          "text": "In many ways, the college gender"
+        },
+        {
+          "number": null,
+          "text": "imbalance is not new. Women have outnumbered"
+        },
+        {
+          "number": null,
+          "text": "men on campus since the late 1970s. The ratio of"
+        },
+        {
+          "number": null,
+          "text": "female to male undergraduates increased much"
+        },
+        {
+          "number": null,
+          "text": "more from 1970 to 1980 than from 1980 to the"
+        },
+        {
+          "number": null,
+          "text": "present. And the numbers haven’t changed much in"
+        },
+        {
+          "number": null,
+          "text": "recent decades. In 1992, 55 percent of college"
+        },
+        {
+          "number": null,
+          "text": "students were women. By 2019, the number had"
+        },
+        {
+          "number": null,
+          "text": "nudged up to 57.4 percent."
+        },
+        {
+          "number": null,
+          "text": "While the shift in the college gender ratio"
+        },
+        {
+          "number": null,
+          "text": "is often characterized as men “falling behind,” men"
+        },
+        {
+          "number": null,
+          "text": "are actually more likely to go to college today than"
+        },
+        {
+          "number": null,
+          "text": "they were when they were the majority, many"
+        },
+        {
+          "number": null,
+          "text": "decades ago. In 1970, 32 percent of men 18 to 24"
+        },
+        {
+          "number": null,
+          "text": "were enrolled in college, a level that was most"
+        },
+        {
+          "number": null,
+          "text": "likely inflated by the opportunity to avoid being"
+        },
+        {
+          "number": null,
+          "text": "drafted into the Vietnam War. That percentage"
+        },
+        {
+          "number": null,
+          "text": "dropped to 24 percent in 1978 and then steadily"
+        },
+        {
+          "number": null,
+          "text": "grew to a stable 37 percent to 39 percent over the"
+        },
+        {
+          "number": null,
+          "text": "last decade."
+        },
+        {
+          "number": null,
+          "text": "The gender ratio mostly changed because"
+        },
+        {
+          "number": null,
+          "text": "female enrollment increased even faster, more than"
+        },
+        {
+          "number": null,
+          "text": "doubling over the last half-century."
+        },
+        {
+          "number": null,
+          "text": "Because of the change in ratio, some"
+        },
+        {
+          "number": null,
+          "text": "selective colleges discriminate against women in"
+        },
+        {
+          "number": null,
+          "text": "admissions to maintain a gender balance, as The"
+        },
+        {
+          "number": null,
+          "text": "Journal reported. Generally, admissions officials"
+        },
+        {
+          "number": null,
+          "text": "prefer to limit the disparity to 55 percent female"
+        },
+        {
+          "number": null,
+          "text": "and 45 percent male. Their reason not to let the"
+        },
+        {
+          "number": null,
+          "text": "gender ratio drift further toward 2 to 1 is"
+        },
+        {
+          "number": null,
+          "text": "straightforward: Such a ratio would most likely"
+        },
+        {
+          "number": null,
+          "text": "cause a decrease in applications."
+        },
+        {
+          "number": null,
+          "text": "In a New York Times essay in 2006 titled"
+        },
+        {
+          "number": null,
+          "text": "“To All the Girls I’ve Rejected,” the dean of"
+        },
+        {
+          "number": null,
+          "text": "admissions at Kenyon College at the time"
+        },
+        {
+          "number": null,
+          "text": "explained: “Beyond the availability of dance"
+        },
+        {
+          "number": null,
+          "text": "partners for the winter formal, gender balance"
+        },
+        {
+          "number": null,
+          "text": "matters in ways both large and small on a"
+        },
+        {
+          "number": null,
+          "text": "residential college campus. Once you become"
+        },
+        {
+          "number": null,
+          "text": "decidedly female in enrollment, fewer males and,"
+        },
+        {
+          "number": null,
+          "text": "as it turns out, fewer females find your campus"
+        },
+        {
+          "number": null,
+          "text": "attractive.”"
+        },
+        {
+          "number": null,
+          "text": "The raw numbers don’t take into account"
+        },
+        {
+          "number": null,
+          "text": "the varying value of college degrees. Men still"
+        },
+        {
+          "number": null,
+          "text": "dominate in fields like technology and engineering,"
+        },
+        {
+          "number": null,
+          "text": "which offer some of the highest salaries for recent"
+        },
+        {
+          "number": null,
+          "text": "graduates. Perhaps not coincidentally, the"
+        },
+        {
+          "number": null,
+          "text": "professors in those fields remain overwhelmingly"
+        },
+        {
+          "number": null,
+          "text": "male."
+        },
+        {
+          "number": null,
+          "text": "Women surged into college because they"
+        },
+        {
+          "number": null,
+          "text": "were able to, but also because many had to. There"
+        },
+        {
+          "number": null,
+          "text": "are still some good-paying jobs available to men"
+        },
+        {
+          "number": null,
+          "text": "without college credentials. There are relatively few"
+        },
+        {
+          "number": null,
+          "text": "for such women. And despite the considerable cost"
+        },
+        {
+          "number": null,
+          "text": "in time and money of earning a degree, many"
+        },
+        {
+          "number": null,
+          "text": "female-dominated jobs don’t pay well."
+        },
+        {
+          "number": null,
+          "text": "The fact that the male-female wage gap"
+        },
+        {
+          "number": null,
+          "text": "remains large after more than four decades in"
+        },
+        {
+          "number": null,
+          "text": "which women outnumbered men in college strongly"
+        },
+        {
+          "number": null,
+          "text": "suggests that college alone offers a narrow view of"
+        },
+        {
+          "number": null,
+          "text": "opportunity. Women often seem stuck in place: As"
+        },
+        {
+          "number": null,
+          "text": "they overcome obstacles and use their degrees to"
+        },
+        {
+          "number": null,
+          "text": "move into male-dominated fields, the fields offer"
+        },
+        {
+          "number": null,
+          "text": "less pay in return."
+        },
+        {
+          "number": null,
+          "text": "None of this diminishes the significance of"
+        },
+        {
+          "number": null,
+          "text": "the male decrease in college enrollment and"
+        },
+        {
+          "number": null,
+          "text": "graduation. Educators view the male-driven dive in"
+        },
+        {
+          "number": null,
+          "text": "community college enrollment over the last 18"
+        },
+        {
+          "number": null,
+          "text": "months as a calamity. The pandemic confirmed"
+        },
+        {
+          "number": null,
+          "text": "what was already known. Higher socioeconomic"
+        },
+        {
+          "number": null,
+          "text": "classes are deeply embedded in college and will"
+        },
+        {
+          "number": null,
+          "text": "bear considerable cost and inconvenience to stay"
+        },
+        {
+          "number": null,
+          "text": "there, even if it means watching lectures on a"
+        },
+        {
+          "number": null,
+          "text": "laptop in the room above your parent’s garage and"
+        },
+        {
+          "number": null,
+          "text": "missing a season of parties and football games."
+        },
+        {
+          "number": null,
+          "text": "For other people, college attendance is far"
+        },
+        {
+          "number": null,
+          "text": "more fragile. It does not define their identities and"
+        },
+        {
+          "number": null,
+          "text": "is not as important as earning a steady paycheck or"
+        },
+        {
+          "number": null,
+          "text": "starting and nurturing a family. In a time of crisis,"
+        },
+        {
+          "number": null,
+          "text": "25"
+        },
+        {
+          "number": null,
+          "text": "it can be delayed — but the reality is that people"
+        },
+        {
+          "number": null,
+          "text": "who drop out of college are statistically unlikely to"
+        },
+        {
+          "number": null,
+          "text": "complete a degree."
+        },
+        {
+          "number": null,
+          "text": "Last year, women were less likely than"
+        },
+        {
+          "number": null,
+          "text": "men to leave community college, despite their"
+        },
+        {
+          "number": null,
+          "text": "disproportionate responsibility for caregiving and"
+        },
+        {
+          "number": null,
+          "text": "domestic work, because they no doubt understood"
+        },
+        {
+          "number": null,
+          "text": "the bleak long-term job prospects for women"
+        },
+        {
+          "number": null,
+          "text": "without a credential."
+        },
+        {
+          "number": null,
+          "text": "www.nytimes.com/Sept.9,2021"
+        },
+        {
+          "number": null,
+          "text": "Q U E S T I O N S"
+        }
+      ],
+      "questionIds": [
+        "uece-2022-1-f1-english-q78",
+        "uece-2022-1-f1-english-q79",
+        "uece-2022-1-f1-english-q80",
+        "uece-2022-1-f1-english-q81",
+        "uece-2022-1-f1-english-q82",
+        "uece-2022-1-f1-english-q83",
+        "uece-2022-1-f1-english-q84",
+        "uece-2022-1-f1-english-q85"
+      ]
+    }
+  ]
+}

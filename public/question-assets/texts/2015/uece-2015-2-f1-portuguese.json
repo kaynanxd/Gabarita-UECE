@@ -1,0 +1,278 @@
+{
+  "paperId": "uece-2015-2-f1-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2015-2-f1-portuguese-t1",
+      "label": "Texto 1",
+      "title": "O amigo da casa",
+      "lines": [
+        {
+          "number": 1,
+          "text": "A própria menina se prende muito a ele, que"
+        },
+        {
+          "number": 2,
+          "text": "ainda lhe trouxe a última boneca, embora agora"
+        },
+        {
+          "number": 3,
+          "text": "ela se ponha mocinha: encolhe-se na poltrona da"
+        },
+        {
+          "number": 4,
+          "text": "sala sob a luz do abajur e lê a revista de"
+        },
+        {
+          "number": 5,
+          "text": "quadrinhos. Ele é alemão como o dono da casa."
+        },
+        {
+          "number": 6,
+          "text": "Tem apartamento no hotel da praia e joga tênis"
+        },
+        {
+          "number": 7,
+          "text": "no clube, saltando com energia para dentro do"
+        },
+        {
+          "number": 8,
+          "text": "campo, a raquete na mão. Assiste às partidas"
+        },
+        {
+          "number": 9,
+          "text": "girando no copo de uísque os cubos de gelo. É o"
+        },
+        {
+          "number": 10,
+          "text": "amigo da casa. Depois do jantar, passeia com a"
+        },
+        {
+          "number": 11,
+          "text": "mãe da menina pelo caminho de pedra do"
+        },
+        {
+          "number": 12,
+          "text": "jardim: as duas cabeças – a loira e a preta de"
+        },
+        {
+          "number": 13,
+          "text": "cabelos aparados – vão e vêm, a dele já com"
+        },
+        {
+          "number": 14,
+          "text": "entradas da calva. Ele chupa o cachimbo de"
+        },
+        {
+          "number": 15,
+          "text": "fumo cheiroso, que o moço de bordo vai deixar"
+        },
+        {
+          "number": 16,
+          "text": "no escritório."
+        },
+        {
+          "number": 17,
+          "text": "O dono da casa é Seu Feldmann. Dirige o seu"
+        },
+        {
+          "number": 18,
+          "text": "pequeno automóvel e é muito delicado."
+        },
+        {
+          "number": 19,
+          "text": "Cumprimenta sempre todos os vizinhos, até"
+        },
+        {
+          "number": 20,
+          "text": "mesmo os mais canalhas como Seu Deca, fiscal"
+        },
+        {
+          "number": 21,
+          "text": "da Alfândega."
+        },
+        {
+          "number": 22,
+          "text": "Seu Feldmann cumprimenta. Bate com a"
+        },
+        {
+          "number": 23,
+          "text": "cabeça. Compra marcos a bordo e no banco para"
+        },
+        {
+          "number": 24,
+          "text": "a sua viagem regular à Alemanha. Viaja em"
+        },
+        {
+          "number": 25,
+          "text": "companhia do comandante do cargueiro, em"
+        },
+        {
+          "number": 26,
+          "text": "camarote especial. Então respira o ar marítimo"
+        },
+        {
+          "number": 27,
+          "text": "no alto do convés, os braços muito brancos e"
+        },
+        {
+          "number": 28,
+          "text": "descarnados, na camisa leve de mangas curtas."
+        },
+        {
+          "number": 29,
+          "text": "A fortuna de origem é da mulher: as velhas"
+        },
+        {
+          "number": 30,
+          "text": "casas no centro da cidade, os antigos armazéns,"
+        },
+        {
+          "number": 31,
+          "text": "o sítio da serra, de onde ela desce aos domingos"
+        },
+        {
+          "number": 32,
+          "text": "em companhia do outro, que é o amigo da casa,"
+        },
+        {
+          "number": 33,
+          "text": "e da menina."
+        },
+        {
+          "number": 34,
+          "text": "Saem os dois à noite e ele para o seu próprio"
+        },
+        {
+          "number": 35,
+          "text": "automóvel sob os coqueiros na praia. Decerto"
+        },
+        {
+          "number": 36,
+          "text": "brigaram mais uma vez, porque ela volta para"
+        },
+        {
+          "number": 37,
+          "text": "casa de olhos vermelhos, enrolando nos dedos o"
+        },
+        {
+          "number": 38,
+          "text": "lencinho bordado. Recolhe-se a seu quarto (ela e"
+        },
+        {
+          "number": 39,
+          "text": "seu Feldmann dormem em quartos separados)."
+        },
+        {
+          "number": 40,
+          "text": "Trila o apito do guarda. Os faróis do automóvel"
+        },
+        {
+          "number": 41,
+          "text": "na rua pincelam de luz as paredes, tiram reflexo"
+        },
+        {
+          "number": 42,
+          "text": "do espelho. Ela permanece insone: o vidro de"
+        },
+        {
+          "number": 43,
+          "text": "sua janela é um retângulo de luz na noite."
+        },
+        {
+          "number": null,
+          "text": "(Moreira Campos. In Obra Completa – contos"
+        },
+        {
+          "number": null,
+          "text": "II. 1969. p. 120-122. Originalmente publicado na obra"
+        },
+        {
+          "number": null,
+          "text": "O puxador de terço. Texto adaptado.)"
+        }
+      ],
+      "questionIds": [
+        "uece-2015-2-f1-portuguese-q01",
+        "uece-2015-2-f1-portuguese-q02",
+        "uece-2015-2-f1-portuguese-q03",
+        "uece-2015-2-f1-portuguese-q04",
+        "uece-2015-2-f1-portuguese-q05",
+        "uece-2015-2-f1-portuguese-q06",
+        "uece-2015-2-f1-portuguese-q07",
+        "uece-2015-2-f1-portuguese-q08",
+        "uece-2015-2-f1-portuguese-q09",
+        "uece-2015-2-f1-portuguese-q10",
+        "uece-2015-2-f1-portuguese-q11"
+      ]
+    },
+    {
+      "id": "uece-2015-2-f1-portuguese-t2",
+      "label": "Texto 2",
+      "title": "O evento",
+      "lines": [
+        {
+          "number": null,
+          "text": "O pai lia o jornal – notícias do mundo. O"
+        },
+        {
+          "number": null,
+          "text": "telefone tocou – tirrim-. A mocinha, filha dele, dezoito"
+        },
+        {
+          "number": null,
+          "text": "vinte vinte e dois anos, sei lá, veio lá de dentro,"
+        },
+        {
+          "number": null,
+          "text": "atendeu: “Alô. Dois quatro sete um dois sete quatro."
+        },
+        {
+          "number": null,
+          "text": "Mauro!!! Puxa, onde é que você andou? Há quanto"
+        },
+        {
+          "number": null,
+          "text": "tempo! Que coisa! Pensei que tinha morrido! Sumiu!"
+        },
+        {
+          "number": null,
+          "text": "Diz! Não!?! É mesmo? Que maravilha! Meus"
+        },
+        {
+          "number": null,
+          "text": "parabéns!!! Homem ou mulher? Ah! Que bom... Vem"
+        },
+        {
+          "number": null,
+          "text": "logo. Não vou sair não”. Desligou o telefone. O pai"
+        },
+        {
+          "number": null,
+          "text": "perguntou: “Mauro teve um filho?” A mocinha"
+        },
+        {
+          "number": null,
+          "text": "respondeu: “Não. Casou”."
+        },
+        {
+          "number": null,
+          "text": "MORAL: JÁ NÃO SE ENTENDEM OS DIÁLOGOS"
+        },
+        {
+          "number": null,
+          "text": "COMO ANTIGAMENTE."
+        },
+        {
+          "number": null,
+          "text": "(Millôr Fernandes. In: Novas fábulas fabulosas. p.68.)"
+        }
+      ],
+      "questionIds": [
+        "uece-2015-2-f1-portuguese-q12",
+        "uece-2015-2-f1-portuguese-q13",
+        "uece-2015-2-f1-portuguese-q14"
+      ]
+    }
+  ]
+}

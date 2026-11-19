@@ -1,0 +1,476 @@
+{
+  "paperId": "uece-2023-1-f2-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2023-1-f2-portuguese-t1",
+      "label": "Texto 1",
+      "title": "OAB",
+      "lines": [
+        {
+          "number": null,
+          "text": "NOTA DE REPÚDIO"
+        },
+        {
+          "number": 1,
+          "text": "O Presidente do Conselho Federal da OAB e"
+        },
+        {
+          "number": 2,
+          "text": "os Presidentes de todas as Seccionais da Ordem dos"
+        },
+        {
+          "number": 3,
+          "text": "Advogados do Brasil no Nordeste vêm, por meio desta,"
+        },
+        {
+          "number": 4,
+          "text": "manifestar o seu veemente repúdio às manifestações"
+        },
+        {
+          "number": 5,
+          "text": "xenófobas e covardes perpetradas contra os"
+        },
+        {
+          "number": 6,
+          "text": "nordestinos, notadamente após a divulgação dos"
+        },
+        {
+          "number": 7,
+          "text": "resultados das eleições ocorridas no último dia 02 de"
+        },
+        {
+          "number": 8,
+          "text": "outubro."
+        },
+        {
+          "number": 9,
+          "text": "O Nordeste representa cerca de 25% do total"
+        },
+        {
+          "number": 10,
+          "text": "do Brasil, o que o coloca como a segunda região mais"
+        },
+        {
+          "number": 11,
+          "text": "populosa do Brasil, com mais de 53 milhões de"
+        },
+        {
+          "number": 12,
+          "text": "habitantes. Para além de sua importância econômica,"
+        },
+        {
+          "number": 13,
+          "text": "riquezas naturais e diversidade cultural, aqui nasce um"
+        },
+        {
+          "number": 14,
+          "text": "povo trabalhador e orgulhoso de suas origens."
+        },
+        {
+          "number": 15,
+          "text": "Embora legítima a pluralidade de ideias e de"
+        },
+        {
+          "number": 16,
+          "text": "projetos políticos que expressem os diversos anseios e"
+        },
+        {
+          "number": 17,
+          "text": "ideais da nossa população, é inadmissível, nos dias de"
+        },
+        {
+          "number": 18,
+          "text": "hoje, convivermos com manifestações que buscam"
+        },
+        {
+          "number": 19,
+          "text": "agredir e diminuir a importância de brasileiros e"
+        },
+        {
+          "number": 20,
+          "text": "brasileiras que exercem sua cidadania."
+        },
+        {
+          "number": 21,
+          "text": "As agressões não se coadunam com os ideais"
+        },
+        {
+          "number": 22,
+          "text": "de solidariedade, serenidade, civilidade e bom senso"
+        },
+        {
+          "number": 23,
+          "text": "que deveriam orientar a sociedade para a construção"
+        },
+        {
+          "number": 24,
+          "text": "de um país fraterno, justo e inclusivo."
+        },
+        {
+          "number": 25,
+          "text": "Os representantes da advocacia nordestina"
+        },
+        {
+          "number": 26,
+          "text": "manifestam, pois, seu permanente e intransigente"
+        },
+        {
+          "number": 27,
+          "text": "compromisso com os valores democráticos e com o"
+        },
+        {
+          "number": 28,
+          "text": "combate a todas as formas de discriminação!"
+        },
+        {
+          "number": 29,
+          "text": "Parabenizamos, ainda, a declaração do"
+        },
+        {
+          "number": 30,
+          "text": "Presidente da OABMG, Sérgio Leonardo, de repúdio às"
+        },
+        {
+          "number": 31,
+          "text": "manifestações xenófobas perpetradas por advogada"
+        },
+        {
+          "number": 32,
+          "text": "vinculada àquela seccional."
+        },
+        {
+          "number": 33,
+          "text": "05 de outubro de 2022."
+        },
+        {
+          "number": 34,
+          "text": "ORDEM DOS ADVOGADOS DO BRASIL"
+        },
+        {
+          "number": 35,
+          "text": "José Alberto Simonetti"
+        },
+        {
+          "number": 36,
+          "text": "ORDEM DOS ADVOGADOS DO BRASIL SECCIONAL"
+        },
+        {
+          "number": 37,
+          "text": "BAHIA"
+        },
+        {
+          "number": 38,
+          "text": "Daniela Lima de Andrade Borges"
+        },
+        {
+          "number": 39,
+          "text": "ORDEM DOS ADVOGADOS DO BRASIL SECCIONAL"
+        },
+        {
+          "number": 40,
+          "text": "SERGIPE Danniel Alves Costa"
+        },
+        {
+          "number": 41,
+          "text": "ORDEM DOS ADVOGADOS DO BRASIL SECCIONAL"
+        },
+        {
+          "number": 42,
+          "text": "ALAGOAS"
+        },
+        {
+          "number": 43,
+          "text": "Vagner Paes Cavalcanti Filho"
+        },
+        {
+          "number": 44,
+          "text": "ORDEM DOS ADVOGADOS DO BRASIL SECCIONAL"
+        },
+        {
+          "number": 45,
+          "text": "PERNAMBUCO"
+        },
+        {
+          "number": 46,
+          "text": "Fernando Jardim Ribeiro Lins"
+        },
+        {
+          "number": 47,
+          "text": "ORDEM DOS ADVOGADOS DO BRASIL SECCIONAL"
+        },
+        {
+          "number": 48,
+          "text": "PARAÍBA"
+        },
+        {
+          "number": 49,
+          "text": "Harrison Targino"
+        },
+        {
+          "number": 50,
+          "text": "ORDEM DOS ADVOGADOS DO BRASIL SECCIONAL RIO"
+        },
+        {
+          "number": 51,
+          "text": "GRANDE DO NORTE"
+        },
+        {
+          "number": 52,
+          "text": "Aldo de Medeiros Lima Filho"
+        },
+        {
+          "number": 53,
+          "text": "ORDEM DOS ADVOGADOS DO BRASIL SECCIONAL"
+        },
+        {
+          "number": 54,
+          "text": "CEARÁ"
+        },
+        {
+          "number": 55,
+          "text": "José Erinaldo Dantas Filho"
+        },
+        {
+          "number": 56,
+          "text": "ORDEM DOS ADVOGADOS DO BRASIL SECCIONAL"
+        },
+        {
+          "number": 57,
+          "text": "PIAUÍ"
+        },
+        {
+          "number": 58,
+          "text": "Celso Barros Coelho Neto"
+        },
+        {
+          "number": 59,
+          "text": "ORDEM DOS ADVOGADOS DO BRASIL SECCIONAL"
+        },
+        {
+          "number": 60,
+          "text": "MARANHÃO"
+        },
+        {
+          "number": 61,
+          "text": "Kaio Vyctor Saraiva Cruz"
+        },
+        {
+          "number": null,
+          "text": "Disponível em https:oabce.org.br. Acesso em: 6 de out.de 2022"
+        },
+        {
+          "number": null,
+          "text": "(adaptado)."
+        }
+      ],
+      "questionIds": [
+        "uece-2023-1-f2-portuguese-q01",
+        "uece-2023-1-f2-portuguese-q02",
+        "uece-2023-1-f2-portuguese-q03",
+        "uece-2023-1-f2-portuguese-q04",
+        "uece-2023-1-f2-portuguese-q05",
+        "uece-2023-1-f2-portuguese-q06",
+        "uece-2023-1-f2-portuguese-q07",
+        "uece-2023-1-f2-portuguese-q08",
+        "uece-2023-1-f2-portuguese-q09",
+        "uece-2023-1-f2-portuguese-q10"
+      ]
+    },
+    {
+      "id": "uece-2023-1-f2-portuguese-t2",
+      "label": "Texto 2",
+      "title": "Caso pluvioso",
+      "lines": [
+        {
+          "number": 1,
+          "text": "A chuva me irritava. Até que um dia"
+        },
+        {
+          "number": 2,
+          "text": "descobri que maria é que chovia."
+        },
+        {
+          "number": 3,
+          "text": "A chuva era maria. E cada pingo"
+        },
+        {
+          "number": 4,
+          "text": "de maria ensopava o meu domingo."
+        },
+        {
+          "number": 5,
+          "text": "E meus ossos molhando, me deixava"
+        },
+        {
+          "number": 6,
+          "text": "como terra que a chuva lavra e lava."
+        },
+        {
+          "number": 7,
+          "text": "Eu era todo barro, sem verdura…"
+        },
+        {
+          "number": 8,
+          "text": "Maria, chuvosíssima criatura!"
+        },
+        {
+          "number": 9,
+          "text": "Ela chovia em mim, em cada gesto,"
+        },
+        {
+          "number": 10,
+          "text": "pensamento, desejo, sono, e o resto."
+        },
+        {
+          "number": 11,
+          "text": "Era chuva fininha e chuva grossa,"
+        },
+        {
+          "number": 12,
+          "text": "matinal e noturna, ativa…Nossa!"
+        },
+        {
+          "number": 13,
+          "text": "Não me chovas, Maria, mais que o justo"
+        },
+        {
+          "number": 14,
+          "text": "chuvisco de um momento, apenas susto."
+        },
+        {
+          "number": 15,
+          "text": "Não me inundes de teu líquido plasma,"
+        },
+        {
+          "number": 16,
+          "text": "não sejas tão aquático fantasma!"
+        },
+        {
+          "number": 17,
+          "text": "Eu lhe dizia em vão – pois que Maria"
+        },
+        {
+          "number": 18,
+          "text": "quanto mais eu rogava, mais chovia."
+        },
+        {
+          "number": 19,
+          "text": "Chuvadeira maria, chuvadonha,"
+        },
+        {
+          "number": 20,
+          "text": "chuvinhenta, chuvil, pluvimedonha!"
+        },
+        {
+          "number": 21,
+          "text": "Eu lhe gritava: Pára! e ela chovendo,"
+        },
+        {
+          "number": 22,
+          "text": "Poças d'água gelada ia tecendo."
+        },
+        {
+          "number": 23,
+          "text": "E choveu tanto maria em minha casa"
+        },
+        {
+          "number": 24,
+          "text": "que a correnteza forte criou asa"
+        },
+        {
+          "number": 25,
+          "text": "e um rio se formou, ou mar, não sei,"
+        },
+        {
+          "number": 26,
+          "text": "sei apenas que nele me afundei."
+        },
+        {
+          "number": 27,
+          "text": "Os seres mais estranhos se juntando"
+        },
+        {
+          "number": 28,
+          "text": "na mesma aquosa pasta iam clamando"
+        },
+        {
+          "number": 29,
+          "text": "contra essa chuva estúpida e mortal"
+        },
+        {
+          "number": 30,
+          "text": "catarata (jamais houve outra igual)."
+        },
+        {
+          "number": 31,
+          "text": "Anti-petendam cânticos se ouviram."
+        },
+        {
+          "number": 32,
+          "text": "Que nada! As cordas d'água mais deliram,"
+        },
+        {
+          "number": 33,
+          "text": "e maria, torneira desatada,"
+        },
+        {
+          "number": 34,
+          "text": "mais se dilata em sua chuvarada."
+        },
+        {
+          "number": 35,
+          "text": "Os navios soçobram. Continentes"
+        },
+        {
+          "number": 36,
+          "text": "já submergem com todos os viventes,"
+        },
+        {
+          "number": 37,
+          "text": "e maria chovendo. Eis que a essa altura,"
+        },
+        {
+          "number": 38,
+          "text": "delida e fluida a humana enfibratura,"
+        },
+        {
+          "number": 39,
+          "text": "e a terra não sofrendo tal chuvência,"
+        },
+        {
+          "number": 40,
+          "text": "comoveu-se a Divina Providência,"
+        },
+        {
+          "number": 41,
+          "text": "e Deus, piedoso e enérgico, bradou:"
+        },
+        {
+          "number": 42,
+          "text": "Não chove mais, maria! – e ela parou."
+        },
+        {
+          "number": null,
+          "text": "ANDRADE, Carlos Drummond de. Antologia poética. São Paulo:"
+        },
+        {
+          "number": null,
+          "text": "Companhia das Letras, 2012, p.  231-234. Excerto."
+        }
+      ],
+      "questionIds": [
+        "uece-2023-1-f2-portuguese-q11",
+        "uece-2023-1-f2-portuguese-q12",
+        "uece-2023-1-f2-portuguese-q13",
+        "uece-2023-1-f2-portuguese-q14",
+        "uece-2023-1-f2-portuguese-q15",
+        "uece-2023-1-f2-portuguese-q16",
+        "uece-2023-1-f2-portuguese-q17",
+        "uece-2023-1-f2-portuguese-q18",
+        "uece-2023-1-f2-portuguese-q19",
+        "uece-2023-1-f2-portuguese-q20"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1196 @@
+{
+  "paperId": "uece-2018-1-f2-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2018-1-f2-portuguese-t1",
+      "label": "TEXTO 1",
+      "title": "Envelhecer",
+      "lines": [
+        {
+          "number": null,
+          "text": "Arnaldo Antunes"
+        },
+        {
+          "number": 1,
+          "text": "A coisa mais moderna que existe nessa vida"
+        },
+        {
+          "number": 2,
+          "text": "é envelhecer"
+        },
+        {
+          "number": 3,
+          "text": "A barba vai descendo e os cabelos vão"
+        },
+        {
+          "number": 4,
+          "text": "caindo pra cabeça aparecer"
+        },
+        {
+          "number": 5,
+          "text": "Os filhos vão crescendo e o tempo vai"
+        },
+        {
+          "number": 6,
+          "text": "dizendo que agora é pra valer"
+        },
+        {
+          "number": 7,
+          "text": "Os outros vão morrendo e a gente"
+        },
+        {
+          "number": 8,
+          "text": "aprendendo a esquecer"
+        },
+        {
+          "number": 9,
+          "text": "Não quero morrer pois quero ver"
+        },
+        {
+          "number": 10,
+          "text": "Como será que deve ser envelhecer"
+        },
+        {
+          "number": 11,
+          "text": "Eu quero é viver pra ver qual é"
+        },
+        {
+          "number": 12,
+          "text": "E dizer venha pra o que vai acontecer"
+        },
+        {
+          "number": 13,
+          "text": "Eu quero que o tapete voe"
+        },
+        {
+          "number": 14,
+          "text": "No meio da sala de estar"
+        },
+        {
+          "number": 15,
+          "text": "Eu quero que a panela de pressão pressione"
+        },
+        {
+          "number": 16,
+          "text": "E que a pia comece a pingar"
+        },
+        {
+          "number": 17,
+          "text": "Eu quero que a sirene soe"
+        },
+        {
+          "number": 18,
+          "text": "E me faça levantar do sofá"
+        },
+        {
+          "number": 19,
+          "text": "Eu quero pôr Rita Pavone"
+        },
+        {
+          "number": 20,
+          "text": "No ringtone do meu celular"
+        },
+        {
+          "number": 21,
+          "text": "Eu quero estar no meio do ciclone"
+        },
+        {
+          "number": 22,
+          "text": "Pra poder aproveitar"
+        },
+        {
+          "number": 23,
+          "text": "E quando eu esquecer meu próprio nome"
+        },
+        {
+          "number": 24,
+          "text": "Que me chamem de velho gagá"
+        },
+        {
+          "number": 25,
+          "text": "Pois ser eternamente adolescente nada é"
+        },
+        {
+          "number": 26,
+          "text": "mais démodé"
+        },
+        {
+          "number": 27,
+          "text": "Com uns ralos fios de cabelo sobre a testa"
+        },
+        {
+          "number": 28,
+          "text": "que não para de crescer"
+        },
+        {
+          "number": 29,
+          "text": "Não sei por que essa gente vira a cara pro"
+        },
+        {
+          "number": 30,
+          "text": "presente e esquece de aprender"
+        },
+        {
+          "number": 31,
+          "text": "Que felizmente ou infelizmente sempre o"
+        },
+        {
+          "number": 32,
+          "text": "tempo vai correr"
+        },
+        {
+          "number": null,
+          "text": "Disponível em"
+        },
+        {
+          "number": null,
+          "text": "https://www.vagalume.com.br/arnaldo-"
+        },
+        {
+          "number": null,
+          "text": "antunes/envelhecer.html. Acesso: 22/9/17."
+        }
+      ],
+      "questionIds": [
+        "uece-2018-1-f2-portuguese-q01",
+        "uece-2018-1-f2-portuguese-q02",
+        "uece-2018-1-f2-portuguese-q03",
+        "uece-2018-1-f2-portuguese-q04"
+      ]
+    },
+    {
+      "id": "uece-2018-1-f2-portuguese-t2",
+      "label": "TEXTO 2",
+      "title": "Gestos amorosos",
+      "lines": [
+        {
+          "number": null,
+          "text": "Rubem Alves"
+        },
+        {
+          "number": 33,
+          "text": "Dei-me conta de que estava velho"
+        },
+        {
+          "number": 34,
+          "text": "cerca de 25 anos atrás. Já contei o ocorrido"
+        },
+        {
+          "number": 35,
+          "text": "várias vezes, mas vou contá-lo novamente."
+        },
+        {
+          "number": 36,
+          "text": "Era uma tarde em São Paulo. Tomei um"
+        },
+        {
+          "number": 37,
+          "text": "metrô. Estava cheio. Segurei-me num"
+        },
+        {
+          "number": 38,
+          "text": "balaústre sem problemas. Eu não tinha"
+        },
+        {
+          "number": 39,
+          "text": "dificuldades de locomoção. Comecei a fazer"
+        },
+        {
+          "number": 40,
+          "text": "algo que me dá prazer: ler o rosto das"
+        },
+        {
+          "number": 41,
+          "text": "pessoas."
+        },
+        {
+          "number": 42,
+          "text": "Os rostos são objetos oníricos: fazem"
+        },
+        {
+          "number": 43,
+          "text": "sonhar. Muitas crônicas já foram escritas"
+        },
+        {
+          "number": 44,
+          "text": "provocadas por um rosto - até mesmo o"
+        },
+        {
+          "number": 45,
+          "text": "nosso - refletido no espelho. Estava eu"
+        },
+        {
+          "number": 46,
+          "text": "entregue a esse exercício literário quando, ao"
+        },
+        {
+          "number": 47,
+          "text": "passar de um livro para outro, isto é, de um"
+        },
+        {
+          "number": 48,
+          "text": "rosto para outro, defrontei-me com uma"
+        },
+        {
+          "number": 49,
+          "text": "jovem assentada que estava fazendo comigo"
+        },
+        {
+          "number": 50,
+          "text": "aquilo que eu estava fazendo com os outros."
+        },
+        {
+          "number": 51,
+          "text": "Ela me olhava com um rosto calmo e não"
+        },
+        {
+          "number": 52,
+          "text": "desviou o olhar quando os seus olhos se"
+        },
+        {
+          "number": 53,
+          "text": "encontraram com os meus. Prova de que ela"
+        },
+        {
+          "number": 54,
+          "text": "me achava bonito. Sorri para ela, ela sorriu"
+        },
+        {
+          "number": 55,
+          "text": "para mim... Logo o sonho sugeriu uma"
+        },
+        {
+          "number": 56,
+          "text": "crônica: \"Professor da Unicamp se encontra,"
+        },
+        {
+          "number": 57,
+          "text": "num vagão de metrô, com uma jovem que"
+        },
+        {
+          "number": 58,
+          "text": "seria o amor de sua vida...\""
+        },
+        {
+          "number": 59,
+          "text": "Foi então que ela me fez um gesto"
+        },
+        {
+          "number": 60,
+          "text": "amoroso: ela se levantou e me ofereceu o"
+        },
+        {
+          "number": 61,
+          "text": "seu lugar... Maldita delicadeza! O seu gesto"
+        },
+        {
+          "number": 62,
+          "text": "amoroso me humilhou e perfurou o meu"
+        },
+        {
+          "number": 63,
+          "text": "coração... E eu não tive alternativas. Como"
+        },
+        {
+          "number": 64,
+          "text": "rejeitar gesto tão delicado! Remoendo-me de"
+        },
+        {
+          "number": 65,
+          "text": "raiva e sorrindo, assentei-me no lugar que"
+        },
+        {
+          "number": 66,
+          "text": "ela deixara para mim. Sim, sim, ela me"
+        },
+        {
+          "number": 67,
+          "text": "achara bonito. Tão bonito quanto o seu avô..."
+        },
+        {
+          "number": 68,
+          "text": "Aconteceu faz mais ou menos um mês. Era a"
+        },
+        {
+          "number": 69,
+          "text": "festa de aniversário de minha nora. Muitos"
+        },
+        {
+          "number": 70,
+          "text": "amigos, casais jovens, segundo minha"
+        },
+        {
+          "number": 71,
+          "text": "maneira de avaliar a idade. Eu estava"
+        },
+        {
+          "number": 72,
+          "text": "assentado numa cadeira num jardim"
+        },
+        {
+          "number": 73,
+          "text": "observando de longe. Nesse momento"
+        },
+        {
+          "number": 74,
+          "text": "chegou um jovem casal amigo. Quando a"
+        },
+        {
+          "number": 75,
+          "text": "mulher jovem e bonita me viu, veio em"
+        },
+        {
+          "number": 76,
+          "text": "minha direção para me cumprimentar. Fiz um"
+        },
+        {
+          "number": 77,
+          "text": "gesto de levantar-me. Mas ela, delicadíssima,"
+        },
+        {
+          "number": 78,
+          "text": "me disse: \"Não, fique assentadinho aí...\" Se"
+        },
+        {
+          "number": 79,
+          "text": "ela me tivesse dito simplesmente \"Não é"
+        },
+        {
+          "number": 80,
+          "text": "preciso levantar\", eu não teria me"
+        },
+        {
+          "number": 81,
+          "text": "perturbado. Mas o fio da navalha estava"
+        },
+        {
+          "number": 82,
+          "text": "precisamente na palavra \"assentadinho\". Se"
+        },
+        {
+          "number": 83,
+          "text": "eu fosse moço, ela não teria dito"
+        },
+        {
+          "number": 84,
+          "text": "\"assentadinho\". Foi justamente essa palavra"
+        },
+        {
+          "number": 85,
+          "text": "que me obrigou a levantar para provar que"
+        },
+        {
+          "number": 86,
+          "text": "eu era ainda capaz de levantar-me e"
+        },
+        {
+          "number": 87,
+          "text": "assentar-me. Fiquei com dó dela porque eu,"
+        },
+        {
+          "number": 88,
+          "text": "no meio de uma risada, disse-lhe que ela"
+        },
+        {
+          "number": 89,
+          "text": "acabava de dar-me uma punhalada..."
+        },
+        {
+          "number": 90,
+          "text": "Contei esse acontecido para uma"
+        },
+        {
+          "number": 91,
+          "text": "amiga, mais ou menos da minha idade. E ela"
+        },
+        {
+          "number": 92,
+          "text": "me disse: \"Estou só esperando que alguém"
+        },
+        {
+          "number": 93,
+          "text": "venha até mim e, com a mão em concha,"
+        },
+        {
+          "number": 94,
+          "text": "bata na minha bochecha, dizendo: \"Mas que"
+        },
+        {
+          "number": 95,
+          "text": "bonitinha...\" Acho que vou lhe dar um murro"
+        },
+        {
+          "number": 96,
+          "text": "no nariz...\""
+        },
+        {
+          "number": 97,
+          "text": "Vem depois as grosserias a que nós,"
+        },
+        {
+          "number": 98,
+          "text": "os velhos, somos submetidos nas salas de"
+        },
+        {
+          "number": 99,
+          "text": "espera dos aeroportos. Pra começar, não"
+        },
+        {
+          "number": 100,
+          "text": "entendo por que \"velho\" é politicamente"
+        },
+        {
+          "number": 101,
+          "text": "incorreto. \"Idoso\" é palavra de fila de banco"
+        },
+        {
+          "number": 102,
+          "text": "e de fila de supermercado; \"velho\", ao"
+        },
+        {
+          "number": 103,
+          "text": "contrário, pertence ao universo da poesia. Já"
+        },
+        {
+          "number": 104,
+          "text": "imaginaram se o Hemingway tivesse dado ao"
+        },
+        {
+          "number": 105,
+          "text": "seu livro clássico o nome de \"O idoso e o"
+        },
+        {
+          "number": 106,
+          "text": "mar\"? Já imaginaram um casal de cabelos"
+        },
+        {
+          "number": 107,
+          "text": "brancos, o marido chamando a mulher de"
+        },
+        {
+          "number": 108,
+          "text": "\"minha idosa querida\"?"
+        },
+        {
+          "number": 109,
+          "text": "Os alto-falantes nos aeroportos"
+        },
+        {
+          "number": 110,
+          "text": "convocam as crianças, as gestantes, as"
+        },
+        {
+          "number": 111,
+          "text": "pessoas com dificuldades de locomoção e a"
+        },
+        {
+          "number": 112,
+          "text": "\"melhor idade\"... Alguém acredita nisso? Os"
+        },
+        {
+          "number": 113,
+          "text": "velhos não acreditam. Então essa expressão"
+        },
+        {
+          "number": 114,
+          "text": "\"melhor idade\" só pode ser gozação."
+        },
+        {
+          "number": null,
+          "text": "Disponível em:"
+        },
+        {
+          "number": null,
+          "text": "http://www1.folha.uol.com.br/fsp/cotidian/ff2705200804.h"
+        },
+        {
+          "number": null,
+          "text": "tm. Acesso em: 22/9/17"
+        }
+      ],
+      "questionIds": [
+        "uece-2018-1-f2-portuguese-q05",
+        "uece-2018-1-f2-portuguese-q06",
+        "uece-2018-1-f2-portuguese-q07",
+        "uece-2018-1-f2-portuguese-q08"
+      ]
+    },
+    {
+      "id": "uece-2018-1-f2-portuguese-t3",
+      "label": "TEXTO 3",
+      "title": "Velhice",
+      "lines": [
+        {
+          "number": null,
+          "text": "Vinícius de Moraes"
+        },
+        {
+          "number": 115,
+          "text": "Virá o dia em que eu hei de ser um velho"
+        },
+        {
+          "number": 116,
+          "text": "experiente"
+        },
+        {
+          "number": 117,
+          "text": "Olhando as coisas através de uma filosofia"
+        },
+        {
+          "number": 118,
+          "text": "sensata"
+        },
+        {
+          "number": 119,
+          "text": "E lendo os clássicos com a afeição que a"
+        },
+        {
+          "number": 120,
+          "text": "minha mocidade não permite."
+        },
+        {
+          "number": 121,
+          "text": "Nesse dia Deus talvez tenha entrado"
+        },
+        {
+          "number": 122,
+          "text": "definitivamente em meu espírito"
+        },
+        {
+          "number": 123,
+          "text": "Ou talvez tenha saído definitivamente dele."
+        },
+        {
+          "number": 124,
+          "text": "Então todos os meus atos serão"
+        },
+        {
+          "number": 125,
+          "text": "encaminhados no sentido do túmulo"
+        },
+        {
+          "number": 126,
+          "text": "E todas as ideias autobiográficas da"
+        },
+        {
+          "number": 127,
+          "text": "mocidade terão desaparecido:"
+        },
+        {
+          "number": 128,
+          "text": "Ficará talvez somente a ideia do testamento"
+        },
+        {
+          "number": 129,
+          "text": "bem escrito."
+        },
+        {
+          "number": 130,
+          "text": "Serei um velho, não terei mocidade, nem"
+        },
+        {
+          "number": 131,
+          "text": "sexo, nem vida"
+        },
+        {
+          "number": 132,
+          "text": "Só terei uma experiência extraordinária."
+        },
+        {
+          "number": 133,
+          "text": "Fecharei minha alma a todos e a tudo"
+        },
+        {
+          "number": 134,
+          "text": "Passará por mim muito longe o ruído da"
+        },
+        {
+          "number": 135,
+          "text": "vida e do mundo"
+        },
+        {
+          "number": 136,
+          "text": "Só o ruído do coração doente me avisará de"
+        },
+        {
+          "number": 137,
+          "text": "uns restos de vida em mim."
+        },
+        {
+          "number": 138,
+          "text": "Nem o cigarro da mocidade restará."
+        },
+        {
+          "number": 139,
+          "text": "Será um cigarro forte que satisfará os"
+        },
+        {
+          "number": 140,
+          "text": "pulmões viciados"
+        },
+        {
+          "number": 141,
+          "text": "E que dará a tudo um ar saturado de"
+        },
+        {
+          "number": 142,
+          "text": "velhice."
+        },
+        {
+          "number": 143,
+          "text": "Não escreverei mais a lápis"
+        },
+        {
+          "number": 144,
+          "text": "E só usarei pergaminhos compridos."
+        },
+        {
+          "number": 145,
+          "text": "Terei um casaco de alpaca que me fechará"
+        },
+        {
+          "number": 146,
+          "text": "os olhos."
+        },
+        {
+          "number": 147,
+          "text": "Serei um corpo sem mocidade, inútil, vazio"
+        },
+        {
+          "number": 148,
+          "text": "Cheio de irritação para com a vida"
+        },
+        {
+          "number": 149,
+          "text": "Cheio de irritação para comigo mesmo."
+        },
+        {
+          "number": null,
+          "text": "8"
+        },
+        {
+          "number": 150,
+          "text": "O eterno velho que nada é, nada vale, nada"
+        },
+        {
+          "number": 151,
+          "text": "vive"
+        },
+        {
+          "number": 152,
+          "text": "O velho cujo único valor é ser o cadáver de"
+        },
+        {
+          "number": 153,
+          "text": "uma mocidade criadora."
+        },
+        {
+          "number": null,
+          "text": "MORAES, Vinícius. Velhice. Disponível"
+        },
+        {
+          "number": null,
+          "text": "em:http://www.viniciusdemoraes.com.br/pt-"
+        },
+        {
+          "number": null,
+          "text": "br/poesia/poesias-avulsas/velhice. Acesso: 23/9/17."
+        }
+      ],
+      "questionIds": [
+        "uece-2018-1-f2-portuguese-q09",
+        "uece-2018-1-f2-portuguese-q10",
+        "uece-2018-1-f2-portuguese-q11",
+        "uece-2018-1-f2-portuguese-q12"
+      ]
+    },
+    {
+      "id": "uece-2018-1-f2-portuguese-t4",
+      "label": "TEXTO 4",
+      "title": "aos 87 anos escreveu o TCC inteiro à mão",
+      "lines": [
+        {
+          "number": null,
+          "text": "A imigrante italiana que se formou em nutrição"
+        },
+        {
+          "number": 154,
+          "text": "Os cabelos brancos de Luísa Valencic"
+        },
+        {
+          "number": 155,
+          "text": "Ficara contrastaram com a juventude dos"
+        },
+        {
+          "number": 156,
+          "text": "colegas durante sua formatura. Nascida na"
+        },
+        {
+          "number": 157,
+          "text": "Itália, Luísa imigrou para a América do Sul"
+        },
+        {
+          "number": 158,
+          "text": "durante a Segunda Guerra Mundial, viveu"
+        },
+        {
+          "number": 159,
+          "text": "em três países sul-americanos e se"
+        },
+        {
+          "number": 160,
+          "text": "estabeleceu em Jundiaí, no interior de São"
+        },
+        {
+          "number": 161,
+          "text": "Paulo. Aos 87 anos, ela acaba de se formar"
+        },
+        {
+          "number": 162,
+          "text": "em nutrição."
+        },
+        {
+          "number": 163,
+          "text": "Dona Luísa, como é conhecida, vive"
+        },
+        {
+          "number": 164,
+          "text": "na cidade há 40 anos. Após o"
+        },
+        {
+          "number": 165,
+          "text": "falecimento do marido e de sua irmã, ela"
+        },
+        {
+          "number": 166,
+          "text": "decidiu voltar a estudar para se manter"
+        },
+        {
+          "number": 167,
+          "text": "ocupada. Foi assim que surgiu a ideia de se"
+        },
+        {
+          "number": 168,
+          "text": "matricular no curso de nutrição do Centro"
+        },
+        {
+          "number": 169,
+          "text": "Universitário Padre Anchieta. A graduação"
+        },
+        {
+          "number": 170,
+          "text": "foi concluída após seis anos de estudos,"
+        },
+        {
+          "number": 171,
+          "text": "com um TCC sobre a cana-de-açúcar no"
+        },
+        {
+          "number": 172,
+          "text": "Brasil. Segundo informações do Grupo"
+        },
+        {
+          "number": 173,
+          "text": "Anchieta, todo o trabalho foi escrito à mão."
+        },
+        {
+          "number": 174,
+          "text": "Colegas, professores e funcionários da"
+        },
+        {
+          "number": 175,
+          "text": "instituição ajudaram com a parte da"
+        },
+        {
+          "number": 176,
+          "text": "digitação, configuração e impressão do"
+        },
+        {
+          "number": 177,
+          "text": "trabalho, para apoiar Dona Luísa."
+        },
+        {
+          "number": 178,
+          "text": "Mas a graduação não é o limite para"
+        },
+        {
+          "number": 179,
+          "text": "a idosa. Ela, que também frequenta aulas"
+        },
+        {
+          "number": 180,
+          "text": "de alemão, inglês e francês, já está"
+        },
+        {
+          "number": 181,
+          "text": "pensando em ingressar em um curso de"
+        },
+        {
+          "number": 182,
+          "text": "pós-graduação para continuar estudando,"
+        },
+        {
+          "number": 183,
+          "text": "segundo contou ao G1."
+        },
+        {
+          "number": null,
+          "text": "Disponível em:"
+        },
+        {
+          "number": null,
+          "text": "http://www.hypeness.com.br/2017/09/a-"
+        },
+        {
+          "number": null,
+          "text": "imigrante-italiana-que-se-formou-em-nutricao-"
+        },
+        {
+          "number": null,
+          "text": "aos-87-anos-escreveu-o-tcc-inteiro-a-mao/."
+        },
+        {
+          "number": null,
+          "text": "Acesso: 23/9/17."
+        }
+      ],
+      "questionIds": [
+        "uece-2018-1-f2-portuguese-q13",
+        "uece-2018-1-f2-portuguese-q14",
+        "uece-2018-1-f2-portuguese-q15"
+      ]
+    },
+    {
+      "id": "uece-2018-1-f2-portuguese-t5",
+      "label": "TEXTO 6",
+      "title": "Velhas Árvores",
+      "lines": [
+        {
+          "number": null,
+          "text": "Olavo Bilac"
+        },
+        {
+          "number": 218,
+          "text": "Olha estas velhas árvores, mais belas"
+        },
+        {
+          "number": 219,
+          "text": "Do que as árvores moças, mais amigas,"
+        },
+        {
+          "number": 220,
+          "text": "Tanto mais belas quanto mais antigas,"
+        },
+        {
+          "number": 221,
+          "text": "Vencedoras da idade e das procelas..."
+        },
+        {
+          "number": 222,
+          "text": "O homem, a fera e o inseto, à sombra delas"
+        },
+        {
+          "number": 223,
+          "text": "Vivem, livres da fome e de fadigas:"
+        },
+        {
+          "number": 224,
+          "text": "E em seus galhos abrigam-se as cantigas"
+        },
+        {
+          "number": 225,
+          "text": "E os amores das aves tagarelas."
+        },
+        {
+          "number": 226,
+          "text": "Não choremos, amigo, a mocidade!"
+        },
+        {
+          "number": 227,
+          "text": "Envelheçamos rindo. Envelheçamos"
+        },
+        {
+          "number": 228,
+          "text": "Como as árvores fortes envelhecem,"
+        },
+        {
+          "number": 229,
+          "text": "Na glória de alegria e da bondade,"
+        },
+        {
+          "number": 230,
+          "text": "Agasalhando os pássaros nos ramos,"
+        },
+        {
+          "number": 231,
+          "text": "Dando sombra e consolo aos que padecem!"
+        },
+        {
+          "number": null,
+          "text": "10"
+        },
+        {
+          "number": null,
+          "text": "BILAC, Olavo. Velhas Árvores. Disponível em:"
+        },
+        {
+          "number": null,
+          "text": "http://www.jornaldepoesia.jor.br/bilac3.html#velhas."
+        },
+        {
+          "number": null,
+          "text": "Acesso: 24.9.17"
+        }
+      ],
+      "questionIds": [
+        "uece-2018-1-f2-portuguese-q16",
+        "uece-2018-1-f2-portuguese-q17"
+      ]
+    },
+    {
+      "id": "uece-2018-1-f2-portuguese-t6",
+      "label": "TEXTO 7",
+      "title": "A velha contrabandista",
+      "lines": [
+        {
+          "number": null,
+          "text": "Stanislaw Ponte Preta"
+        },
+        {
+          "number": 232,
+          "text": "Diz que era uma velhinha que sabia andar"
+        },
+        {
+          "number": 233,
+          "text": "de lambreta. Todo dia ela passava pela"
+        },
+        {
+          "number": 234,
+          "text": "fronteira montada na lambreta, com um"
+        },
+        {
+          "number": 235,
+          "text": "bruto saco atrás da lambreta. O pessoal da"
+        },
+        {
+          "number": 236,
+          "text": "Alfândega – tudo malandro velho –"
+        },
+        {
+          "number": 237,
+          "text": "começou a desconfiar da velhinha."
+        },
+        {
+          "number": 238,
+          "text": "Um dia, quando ela vinha na lambreta com"
+        },
+        {
+          "number": 239,
+          "text": "o saco atrás, o fiscal da Alfândega mandou"
+        },
+        {
+          "number": 240,
+          "text": "ela parar. A velhinha parou e então o fiscal"
+        },
+        {
+          "number": 241,
+          "text": "perguntou assim pra ela:"
+        },
+        {
+          "number": 242,
+          "text": "- Escuta aqui, vovozinha, a senhora passa"
+        },
+        {
+          "number": 243,
+          "text": "por aqui todo dia, com esse saco aí atrás."
+        },
+        {
+          "number": 244,
+          "text": "Que diabo a senhora leva nesse saco?"
+        },
+        {
+          "number": 245,
+          "text": "A velhinha sorriu com os poucos dentes que"
+        },
+        {
+          "number": 246,
+          "text": "lhe restavam e mais os outros, que ela"
+        },
+        {
+          "number": 247,
+          "text": "adquirira no odontólogo e respondeu:"
+        },
+        {
+          "number": 248,
+          "text": "- É areia!"
+        },
+        {
+          "number": 249,
+          "text": "Aí quem sorriu foi o fiscal. Achou que não"
+        },
+        {
+          "number": 250,
+          "text": "era areia nenhuma e mandou a velhinha"
+        },
+        {
+          "number": 251,
+          "text": "saltar da lambreta para examinar o saco. A"
+        },
+        {
+          "number": 252,
+          "text": "velhinha saltou, o fiscal esvaziou o saco e"
+        },
+        {
+          "number": 253,
+          "text": "dentro só tinha areia. Muito encabulado,"
+        },
+        {
+          "number": 254,
+          "text": "ordenou à velhinha que fosse em frente. Ela"
+        },
+        {
+          "number": 255,
+          "text": "montou na lambreta e foi embora, com o"
+        },
+        {
+          "number": 256,
+          "text": "saco de areia atrás."
+        },
+        {
+          "number": 257,
+          "text": "Mas o fiscal ficou desconfiado ainda. Talvez"
+        },
+        {
+          "number": 258,
+          "text": "a velhinha passasse um dia com areia e no"
+        },
+        {
+          "number": 259,
+          "text": "outro com muamba, dentro daquele maldito"
+        },
+        {
+          "number": 260,
+          "text": "saco. No dia seguinte, quando ela passou"
+        },
+        {
+          "number": 261,
+          "text": "na lambreta com o saco atrás, o fiscal"
+        },
+        {
+          "number": 262,
+          "text": "mandou outra vez. Perguntou o que é que"
+        },
+        {
+          "number": 263,
+          "text": "ela levava no saco e ela respondeu que era"
+        },
+        {
+          "number": 264,
+          "text": "areia, uai! O fiscal examinou e era mesmo."
+        },
+        {
+          "number": 265,
+          "text": "Durante um mês seguido o fiscal"
+        },
+        {
+          "number": 266,
+          "text": "interceptou a velhinha e, todas as vezes, o"
+        },
+        {
+          "number": 267,
+          "text": "que ela levava no saco era areia."
+        },
+        {
+          "number": 268,
+          "text": "Diz que foi aí que o fiscal se chateou:"
+        },
+        {
+          "number": 269,
+          "text": "- Olha, vovozinha, eu sou fiscal de"
+        },
+        {
+          "number": 270,
+          "text": "alfândega com 40 anos de serviço. Manjo"
+        },
+        {
+          "number": 271,
+          "text": "essa coisa de contrabando pra burro."
+        },
+        {
+          "number": 272,
+          "text": "Ninguém me tira da cabeça que a senhora é"
+        },
+        {
+          "number": 273,
+          "text": "contrabandista."
+        },
+        {
+          "number": 274,
+          "text": "- Mas no saco só tem areia! – insistiu a"
+        },
+        {
+          "number": 275,
+          "text": "velhinha. E já ia tocar a lambreta, quando o"
+        },
+        {
+          "number": 276,
+          "text": "fiscal propôs:"
+        },
+        {
+          "number": 277,
+          "text": "- Eu prometo à senhora que deixo a"
+        },
+        {
+          "number": 278,
+          "text": "senhora passar. Não dou parte, não"
+        },
+        {
+          "number": 279,
+          "text": "apreendo, não conto nada a ninguém, mas"
+        },
+        {
+          "number": 280,
+          "text": "a senhora vai me dizer: qual é o"
+        },
+        {
+          "number": 281,
+          "text": "contrabando que a senhora está passando"
+        },
+        {
+          "number": 282,
+          "text": "por aqui todos os dias?"
+        },
+        {
+          "number": 283,
+          "text": "- O senhor promete que não “espaia”? –"
+        },
+        {
+          "number": 284,
+          "text": "quis saber a velhinha."
+        },
+        {
+          "number": 285,
+          "text": "- Juro – respondeu o fiscal."
+        },
+        {
+          "number": 286,
+          "text": "- É lambreta."
+        },
+        {
+          "number": null,
+          "text": "PRETA, Stanislaw Ponte. Primo Altamirando e"
+        },
+        {
+          "number": null,
+          "text": "elas. São Paulo: Agir, Martins Fontes, 2008."
+        }
+      ],
+      "questionIds": [
+        "uece-2018-1-f2-portuguese-q18",
+        "uece-2018-1-f2-portuguese-q19",
+        "uece-2018-1-f2-portuguese-q20"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "paperId": "uece-2018-2-f2-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2018-2-f2-portuguese-t1",
+      "label": "TEXTO 1",
+      "title": "Exigências da vida moderna",
+      "lines": [
+        {
+          "number": null,
+          "text": "Luís Fernando Veríssimo"
+        },
+        {
+          "number": 1,
+          "text": "Dizem que todos os dias você deve comer"
+        },
+        {
+          "number": 2,
+          "text": "uma maçã por causa do ferro. E uma banana"
+        },
+        {
+          "number": 3,
+          "text": "pelo potássio. E também uma laranja pela"
+        },
+        {
+          "number": 4,
+          "text": "vitamina C."
+        },
+        {
+          "number": 5,
+          "text": "Uma xícara de chá verde sem açúcar para"
+        },
+        {
+          "number": 6,
+          "text": "prevenir a diabetes."
+        },
+        {
+          "number": 7,
+          "text": "Todos os dias deve-se tomar ao menos dois"
+        },
+        {
+          "number": 8,
+          "text": "litros de água. E uriná-los, o que consome o"
+        },
+        {
+          "number": 9,
+          "text": "dobro do tempo."
+        },
+        {
+          "number": 10,
+          "text": "Todos os dias deve-se tomar um Yakult pelos"
+        },
+        {
+          "number": 11,
+          "text": "lactobacilos (que ninguém sabe bem o que é,"
+        },
+        {
+          "number": 12,
+          "text": "mas que aos bilhões, ajudam a digestão)."
+        },
+        {
+          "number": 13,
+          "text": "Cada dia uma Aspirina, previne infarto."
+        },
+        {
+          "number": 14,
+          "text": "Uma taça de vinho tinto também. Uma de"
+        },
+        {
+          "number": 15,
+          "text": "vinho branco estabiliza o sistema nervoso."
+        },
+        {
+          "number": 16,
+          "text": "Um copo de cerveja, para… não lembro bem"
+        },
+        {
+          "number": 17,
+          "text": "para o que, mas faz bem."
+        },
+        {
+          "number": 18,
+          "text": "O benefício adicional é que se você tomar"
+        },
+        {
+          "number": 19,
+          "text": "tudo isso ao mesmo tempo e tiver um"
+        },
+        {
+          "number": 20,
+          "text": "derrame, nem vai perceber."
+        },
+        {
+          "number": 21,
+          "text": "Todos os dias deve-se comer fibra. Muita,"
+        },
+        {
+          "number": 22,
+          "text": "muitíssima fibra. Fibra suficiente para fazer"
+        },
+        {
+          "number": 23,
+          "text": "um pulôver."
+        },
+        {
+          "number": 24,
+          "text": "Você deve fazer entre quatro e seis refeições"
+        },
+        {
+          "number": 25,
+          "text": "leves diariamente."
+        },
+        {
+          "number": 26,
+          "text": "E nunca se esqueça de mastigar pelo menos"
+        },
+        {
+          "number": 27,
+          "text": "cem vezes cada garfada. Só para comer,"
+        },
+        {
+          "number": 28,
+          "text": "serão cerca de cinco horas do dia… E não"
+        },
+        {
+          "number": 29,
+          "text": "esqueça de escovar os dentes depois de"
+        },
+        {
+          "number": 30,
+          "text": "comer."
+        },
+        {
+          "number": 31,
+          "text": "Ou seja, você tem que escovar os dentes"
+        },
+        {
+          "number": 32,
+          "text": "depois da maçã, da banana, da laranja, das"
+        },
+        {
+          "number": 33,
+          "text": "seis refeições e enquanto tiver dentes,"
+        },
+        {
+          "number": 34,
+          "text": "passar fio dental, massagear a gengiva,"
+        },
+        {
+          "number": 35,
+          "text": "escovar a língua e bochechar com Plax."
+        },
+        {
+          "number": 36,
+          "text": "Melhor, inclusive, ampliar o banheiro e"
+        },
+        {
+          "number": 37,
+          "text": "aproveitar para colocar um equipamento de"
+        },
+        {
+          "number": 38,
+          "text": "som, porque entre a água, a fibra e os"
+        },
+        {
+          "number": 39,
+          "text": "dentes, você vai passar ali várias horas por"
+        },
+        {
+          "number": 40,
+          "text": "dia."
+        },
+        {
+          "number": 41,
+          "text": "Há que se dormir oito horas por noite e"
+        },
+        {
+          "number": 42,
+          "text": "trabalhar outras oito por dia, mais as cinco"
+        },
+        {
+          "number": 43,
+          "text": "comendo são vinte e uma. Sobram três,"
+        },
+        {
+          "number": 44,
+          "text": "desde que você não pegue trânsito."
+        },
+        {
+          "number": 45,
+          "text": "As estatísticas comprovam que assistimos"
+        },
+        {
+          "number": 46,
+          "text": "três horas de TV por dia. Menos você, porque"
+        },
+        {
+          "number": 47,
+          "text": "todos os dias você vai caminhar ao menos"
+        },
+        {
+          "number": 48,
+          "text": "meia hora (por experiência própria, após"
+        },
+        {
+          "number": 49,
+          "text": "quinze minutos dê meia volta e comece a"
+        },
+        {
+          "number": 50,
+          "text": "voltar, ou a meia hora vira uma)."
+        },
+        {
+          "number": 51,
+          "text": "E você deve cuidar das amizades, porque são"
+        },
+        {
+          "number": 52,
+          "text": "como uma planta: devem ser regadas"
+        },
+        {
+          "number": 53,
+          "text": "diariamente, o que me faz pensar em quem"
+        },
+        {
+          "number": 54,
+          "text": "vai cuidar delas quando eu estiver viajando."
+        },
+        {
+          "number": 55,
+          "text": "Deve-se estar bem informado também, lendo"
+        },
+        {
+          "number": 56,
+          "text": "dois ou três jornais por dia para comparar as"
+        },
+        {
+          "number": 57,
+          "text": "informações."
+        },
+        {
+          "number": 58,
+          "text": "Ah! E o sexo! Todos os dias, tomando o"
+        },
+        {
+          "number": 59,
+          "text": "cuidado de não se cair na rotina. Há que ser"
+        },
+        {
+          "number": 60,
+          "text": "criativo, inovador para renovar a sedução."
+        },
+        {
+          "number": 61,
+          "text": "Isso leva tempo – e nem estou falando de"
+        },
+        {
+          "number": 62,
+          "text": "sexo tântrico."
+        },
+        {
+          "number": 63,
+          "text": "Também precisa sobrar tempo para varrer,"
+        },
+        {
+          "number": 64,
+          "text": "passar, lavar roupa, pratos e espero que"
+        },
+        {
+          "number": 65,
+          "text": "você não tenha um bichinho de estimação."
+        },
+        {
+          "number": 66,
+          "text": "Na minha conta são 29 horas por dia. A única"
+        },
+        {
+          "number": 67,
+          "text": "solução que me ocorre é fazer várias dessas"
+        },
+        {
+          "number": 68,
+          "text": "coisas ao mesmo tempo!"
+        },
+        {
+          "number": 69,
+          "text": "Por exemplo, tomar banho frio com a boca"
+        },
+        {
+          "number": 70,
+          "text": "aberta, assim você toma água e escova os"
+        },
+        {
+          "number": 71,
+          "text": "dentes."
+        },
+        {
+          "number": 72,
+          "text": "Chame os amigos junto com os seus pais."
+        },
+        {
+          "number": 73,
+          "text": "Beba o vinho, coma a maçã e a banana junto"
+        },
+        {
+          "number": 74,
+          "text": "com a sua mulher… na sua cama."
+        },
+        {
+          "number": null,
+          "text": "6"
+        },
+        {
+          "number": 75,
+          "text": "Ainda bem que somos crescidinhos, senão"
+        },
+        {
+          "number": 76,
+          "text": "ainda teria um Danoninho e se sobrarem 5"
+        },
+        {
+          "number": 77,
+          "text": "minutos, uma colherada de leite de"
+        },
+        {
+          "number": 78,
+          "text": "magnésio."
+        },
+        {
+          "number": 79,
+          "text": "Agora tenho que ir."
+        },
+        {
+          "number": 80,
+          "text": "É o meio do dia, e depois da cerveja, do"
+        },
+        {
+          "number": 81,
+          "text": "vinho e da maçã, tenho que ir ao banheiro. E"
+        },
+        {
+          "number": 82,
+          "text": "já que vou, levo um jornal… Tchau!"
+        },
+        {
+          "number": 83,
+          "text": "Viva a vida com bom humor!!!"
+        },
+        {
+          "number": null,
+          "text": "VERÍSSIMO, Luís Fernando. Exigências da vida"
+        },
+        {
+          "number": null,
+          "text": "moderna. Disponível em:"
+        },
+        {
+          "number": null,
+          "text": "http://www.refletirpararefletir.com.br/4-cronicas-"
+        },
+        {
+          "number": null,
+          "text": "de-luis-fernando-verissimo. Acesso: 22.06.2018."
+        }
+      ],
+      "questionIds": [
+        "uece-2018-2-f2-portuguese-q01",
+        "uece-2018-2-f2-portuguese-q02",
+        "uece-2018-2-f2-portuguese-q03",
+        "uece-2018-2-f2-portuguese-q04",
+        "uece-2018-2-f2-portuguese-q05",
+        "uece-2018-2-f2-portuguese-q06",
+        "uece-2018-2-f2-portuguese-q07",
+        "uece-2018-2-f2-portuguese-q08",
+        "uece-2018-2-f2-portuguese-q09",
+        "uece-2018-2-f2-portuguese-q10",
+        "uece-2018-2-f2-portuguese-q11",
+        "uece-2018-2-f2-portuguese-q12"
+      ]
+    },
+    {
+      "id": "uece-2018-2-f2-portuguese-t2",
+      "label": "TEXTO 2",
+      "title": "A casa",
+      "lines": [
+        {
+          "number": null,
+          "text": "José Paulo Paes"
+        },
+        {
+          "number": 84,
+          "text": "Vendam logo esta casa, ela está cheia de"
+        },
+        {
+          "number": 85,
+          "text": "fantasmas."
+        },
+        {
+          "number": 86,
+          "text": "Na livraria, há um avô que faz cartões de"
+        },
+        {
+          "number": 87,
+          "text": "boas-festas com corações de purpurina."
+        },
+        {
+          "number": 88,
+          "text": "Na tipografia, um tio que imprime avisos"
+        },
+        {
+          "number": 89,
+          "text": "fúnebres e programas de circo."
+        },
+        {
+          "number": 90,
+          "text": "Na sala de visitas, um pai que lê romances"
+        },
+        {
+          "number": 91,
+          "text": "policiais até o fim dos tempos."
+        },
+        {
+          "number": 92,
+          "text": "No quarto, uma mãe que está sempre"
+        },
+        {
+          "number": 93,
+          "text": "parindo a última filha."
+        },
+        {
+          "number": 94,
+          "text": "Na sala de jantar, uma tia que lustra"
+        },
+        {
+          "number": 95,
+          "text": "cuidadosamente o seu próprio caixão."
+        },
+        {
+          "number": 96,
+          "text": "Na copa, uma prima que passa a ferro"
+        },
+        {
+          "number": 97,
+          "text": "todas as mortalhas da família."
+        },
+        {
+          "number": 98,
+          "text": "Na cozinha, uma avó que conta noite e dia"
+        },
+        {
+          "number": 99,
+          "text": "histórias do outro mundo."
+        },
+        {
+          "number": 100,
+          "text": "No quintal, um preto velho que morreu na"
+        },
+        {
+          "number": 101,
+          "text": "Guerra do Paraguai rachando lenha."
+        },
+        {
+          "number": 102,
+          "text": "E no telhado um menino medroso que espia"
+        },
+        {
+          "number": 103,
+          "text": "todos eles; só que está vivo: trouxe-o até"
+        },
+        {
+          "number": 104,
+          "text": "ali o pássaro dos sonhos."
+        },
+        {
+          "number": 105,
+          "text": "Deixem o menino dormir, mas vendam a"
+        },
+        {
+          "number": 106,
+          "text": "casa, vendam-na depressa."
+        },
+        {
+          "number": null,
+          "text": "9"
+        },
+        {
+          "number": 107,
+          "text": "Antes que ele acorde e se descubra também"
+        },
+        {
+          "number": 108,
+          "text": "morto."
+        },
+        {
+          "number": null,
+          "text": "PAES, José Paulo. Prosas seguidas de Odes"
+        },
+        {
+          "number": null,
+          "text": "mínimas. São Paulo, Cia. das Letras, 1992."
+        }
+      ],
+      "questionIds": [
+        "uece-2018-2-f2-portuguese-q13",
+        "uece-2018-2-f2-portuguese-q14",
+        "uece-2018-2-f2-portuguese-q15",
+        "uece-2018-2-f2-portuguese-q16",
+        "uece-2018-2-f2-portuguese-q17"
+      ]
+    },
+    {
+      "id": "uece-2018-2-f2-portuguese-t3",
+      "label": "TEXTO 3",
+      "title": "Tempo Rei",
+      "lines": [
+        {
+          "number": null,
+          "text": "Gilberto Gil"
+        },
+        {
+          "number": 109,
+          "text": "Não me iludo"
+        },
+        {
+          "number": 110,
+          "text": "Tudo permanecerá do jeito"
+        },
+        {
+          "number": 111,
+          "text": "Que tem sido"
+        },
+        {
+          "number": 112,
+          "text": "Transcorrendo, transformando"
+        },
+        {
+          "number": 113,
+          "text": "Tempo e espaço navegando todos os"
+        },
+        {
+          "number": 114,
+          "text": "sentidos"
+        },
+        {
+          "number": 115,
+          "text": "Pães de Açúcar, Corcovados"
+        },
+        {
+          "number": 116,
+          "text": "Fustigados pela chuva e pelo eterno vento"
+        },
+        {
+          "number": 117,
+          "text": "Água mole, pedra dura"
+        },
+        {
+          "number": 118,
+          "text": "Tanto bate que não restará nem"
+        },
+        {
+          "number": 119,
+          "text": "pensamento"
+        },
+        {
+          "number": 120,
+          "text": "Tempo rei, ó tempo rei, ó tempo rei"
+        },
+        {
+          "number": 121,
+          "text": "Transformai as velhas formas do viver"
+        },
+        {
+          "number": 122,
+          "text": "Ensinai-me, ó Pai, o que eu ainda não sei"
+        },
+        {
+          "number": 123,
+          "text": "Mãe Senhora do Perpétuo socorrei"
+        },
+        {
+          "number": null,
+          "text": "10"
+        },
+        {
+          "number": 124,
+          "text": "Pensamento, mesmo fundamento singular"
+        },
+        {
+          "number": 125,
+          "text": "Do ser humano, de um momento para o"
+        },
+        {
+          "number": 126,
+          "text": "outro"
+        },
+        {
+          "number": 127,
+          "text": "Poderá não mais fundar nem gregos nem"
+        },
+        {
+          "number": 128,
+          "text": "baianos"
+        },
+        {
+          "number": 129,
+          "text": "Mães zelosas, pais corujas"
+        },
+        {
+          "number": 130,
+          "text": "Vejam como as águas de repente ficam"
+        },
+        {
+          "number": 131,
+          "text": "sujas"
+        },
+        {
+          "number": 132,
+          "text": "Não se iludam, não me iludo"
+        },
+        {
+          "number": 133,
+          "text": "Tudo agora mesmo pode estar por um"
+        },
+        {
+          "number": 134,
+          "text": "segundo"
+        },
+        {
+          "number": 135,
+          "text": "Tempo rei, ó tempo rei, ó tempo rei"
+        },
+        {
+          "number": 136,
+          "text": "Transformai as velhas formas do viver"
+        },
+        {
+          "number": 137,
+          "text": "Ensinai-me, ó Pai, o que eu ainda não sei"
+        },
+        {
+          "number": 138,
+          "text": "Mãe Senhora do Perpétuo socorrei"
+        },
+        {
+          "number": null,
+          "text": "GIL, Gilberto. Tempo Rei. Disponível em:"
+        },
+        {
+          "number": null,
+          "text": "https://www.vagalume.com.br/gilberto-"
+        },
+        {
+          "number": null,
+          "text": "gil/tempo-rei.html. Acesso: 22.06.2018."
+        }
+      ],
+      "questionIds": [
+        "uece-2018-2-f2-portuguese-q18",
+        "uece-2018-2-f2-portuguese-q19",
+        "uece-2018-2-f2-portuguese-q20"
+      ]
+    }
+  ]
+}

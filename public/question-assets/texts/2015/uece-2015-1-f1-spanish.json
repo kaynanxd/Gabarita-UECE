@@ -1,0 +1,189 @@
+{
+  "paperId": "uece-2015-1-f1-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2015-1-f1-spanish-t1",
+      "label": "TEXTO",
+      "title": "Templo Ibérico de la Alcudia",
+      "lines": [
+        {
+          "number": null,
+          "text": "La Dama de Elche podría no pertenecer al"
+        },
+        {
+          "number": 1,
+          "text": "El yacimiento de la Alcudia ha sido uno de"
+        },
+        {
+          "number": 2,
+          "text": "los lugares donde más vestigios arqueológicos"
+        },
+        {
+          "number": 3,
+          "text": "de la cultura ibérica se han encontrado, entre"
+        },
+        {
+          "number": 4,
+          "text": "ellos la Dama de Elche. La escultura, encontrada"
+        },
+        {
+          "number": 5,
+          "text": "en 1897 por un muchacho que realizaba en un"
+        },
+        {
+          "number": 6,
+          "text": "campo agrícola cercano al yacimiento, se cree"
+        },
+        {
+          "number": 7,
+          "text": "que, pese a haber sido hallada un poco más"
+        },
+        {
+          "number": 8,
+          "text": "lejos, podría haber pertenecido al Templo"
+        },
+        {
+          "number": 9,
+          "text": "Ibérico de la Alcudia de Elche."
+        },
+        {
+          "number": 10,
+          "text": "Sin embargo, un estudio realizado por el"
+        },
+        {
+          "number": 11,
+          "text": "profesor y arqueólogo Pedro Peña Domínguez"
+        },
+        {
+          "number": 12,
+          "text": "podría romper con todo lo que se conoce hasta"
+        },
+        {
+          "number": 13,
+          "text": "el momento sobre este templo y la Dama de"
+        },
+        {
+          "number": 14,
+          "text": "Elche. Gracias a las nuevas tecnologías, Pedro"
+        },
+        {
+          "number": 15,
+          "text": "Peña (también técnico superior de 3D Studio"
+        },
+        {
+          "number": 16,
+          "text": "Max y Virtualizador de Patrimonio) ha"
+        },
+        {
+          "number": 17,
+          "text": "descubierto errores en la planimetría del templo"
+        },
+        {
+          "number": 18,
+          "text": "y descartado la presencia de la Dama de Elche"
+        },
+        {
+          "number": 19,
+          "text": "dentro de la estructura cultural, ya que no hay"
+        },
+        {
+          "number": 20,
+          "text": "evidencias de ello."
+        },
+        {
+          "number": 21,
+          "text": "“Mi objetivo era hacer una recreación para"
+        },
+        {
+          "number": 22,
+          "text": "comprobar lo que se había reflejado hasta el"
+        },
+        {
+          "number": 23,
+          "text": "momento, para que no se difundiera un único"
+        },
+        {
+          "number": 24,
+          "text": "modelo erróneo”, explica Peña Domínguez para"
+        },
+        {
+          "number": 25,
+          "text": "justificar su investigación. Para ello, reconstruyó"
+        },
+        {
+          "number": 26,
+          "text": "virtualmente el templo ibérico de la Alcudia"
+        },
+        {
+          "number": 27,
+          "text": "mediante material de los años 90 del parque"
+        },
+        {
+          "number": 28,
+          "text": "arqueológico, procedente en su mayoría de las"
+        },
+        {
+          "number": 29,
+          "text": "excavaciones de Rafael Ramos. “Me llamó la"
+        },
+        {
+          "number": 30,
+          "text": "atención que sólo hay algunos párrafos en su"
+        },
+        {
+          "number": 31,
+          "text": "estudio que hacen referencia al proceso del"
+        },
+        {
+          "number": 32,
+          "text": "registro de excavación, pero es normal teniendo"
+        },
+        {
+          "number": 33,
+          "text": "en cuenta la metodología de la época, y no"
+        },
+        {
+          "number": 34,
+          "text": "desmerece en nada la labor profesional de"
+        },
+        {
+          "number": 35,
+          "text": "Rafael Ramos, que descubrió uno de los restos"
+        },
+        {
+          "number": 36,
+          "text": "más extraordinarios del mundo ibérico”, explica"
+        },
+        {
+          "number": 37,
+          "text": "el profesor y arqueólogo."
+        },
+        {
+          "number": null,
+          "text": "Patricia Ariño"
+        },
+        {
+          "number": null,
+          "text": "Periódico ABC - Madrid 13/09/2014"
+        },
+        {
+          "number": null,
+          "text": "(Texto adaptado)"
+        },
+        {
+          "number": null,
+          "text": "C U E S T I O N E S"
+        }
+      ],
+      "questionIds": [
+        "uece-2015-1-f1-spanish-q55",
+        "uece-2015-1-f1-spanish-q56",
+        "uece-2015-1-f1-spanish-q57",
+        "uece-2015-1-f1-spanish-q58",
+        "uece-2015-1-f1-spanish-q59",
+        "uece-2015-1-f1-spanish-q60"
+      ]
+    }
+  ]
+}

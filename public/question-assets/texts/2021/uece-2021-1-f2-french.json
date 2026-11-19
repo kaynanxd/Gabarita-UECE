@@ -1,0 +1,399 @@
+{
+  "paperId": "uece-2021-1-f2-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2021-1-f2-french-t1",
+      "label": "Texto 1",
+      "title": "T E X T E",
+      "lines": [
+        {
+          "number": null,
+          "text": "La force du bonheur"
+        },
+        {
+          "number": 1,
+          "text": "Le bonheur est un état de satisfaction"
+        },
+        {
+          "number": 2,
+          "text": "complète caractérisé par sa stabilité et sa"
+        },
+        {
+          "number": 3,
+          "text": "durabilité. Il ne suffit pas de ressentir un bref"
+        },
+        {
+          "number": 4,
+          "text": "contentement pour être heureux. Une joie"
+        },
+        {
+          "number": 5,
+          "text": "intense n’est pas le bonheur. Un plaisir"
+        },
+        {
+          "number": 6,
+          "text": "éphémère non plus. Le bonheur est un état"
+        },
+        {
+          "number": 7,
+          "text": "global. L’homme heureux est comblé. Il vit"
+        },
+        {
+          "number": 8,
+          "text": "une forme de plénitude. Sa situation est"
+        },
+        {
+          "number": 9,
+          "text": "stable: elle présente un équilibre et seul un"
+        },
+        {
+          "number": 10,
+          "text": "élément extérieur pourrait la modifier."
+        },
+        {
+          "number": 11,
+          "text": "En tant qu’optimum de la vie humaine,"
+        },
+        {
+          "number": 12,
+          "text": "le bonheur est universellement recherché. On"
+        },
+        {
+          "number": 13,
+          "text": "le présente souvent comme le but le plus"
+        },
+        {
+          "number": 14,
+          "text": "élevé de l’existence. Celui que tout homme"
+        },
+        {
+          "number": 15,
+          "text": "cherche à atteindre, consciemment ou non."
+        },
+        {
+          "number": 16,
+          "text": "Être heureux est une expérience"
+        },
+        {
+          "number": 17,
+          "text": "individuelle et humaine. Mais peut bien aussi"
+        },
+        {
+          "number": 18,
+          "text": "caractériser un état collectif. C’est l’homme"
+        },
+        {
+          "number": 19,
+          "text": "qui connaît la félicité, pas l’animal. État"
+        },
+        {
+          "number": 20,
+          "text": "stable et prolongé dans lequel on vit une"
+        },
+        {
+          "number": 21,
+          "text": "insatisfaction totale, le malheur est l’opposé"
+        },
+        {
+          "number": 22,
+          "text": "du bonheur. Il représente la situation fuite"
+        },
+        {
+          "number": 23,
+          "text": "par chacun, que personne ne recherche"
+        },
+        {
+          "number": 24,
+          "text": "volontairement."
+        },
+        {
+          "number": 25,
+          "text": "La notion de bonheur est intimement"
+        },
+        {
+          "number": 26,
+          "text": "liée au désir. Être heureux, ce serait réaliser"
+        },
+        {
+          "number": 27,
+          "text": "les désirs, ou du moins réaliser les désirs"
+        },
+        {
+          "number": 28,
+          "text": "importants . L’homme heureux accomplit les"
+        },
+        {
+          "number": 29,
+          "text": "objectifs qu’il s’est fixé, ceux qui ont une"
+        },
+        {
+          "number": 30,
+          "text": "valeur pour lui-même. Le bonheur est donc"
+        },
+        {
+          "number": 31,
+          "text": "ancré dans l’individu, dans ses projets et ses"
+        },
+        {
+          "number": 32,
+          "text": "représentations."
+        },
+        {
+          "number": 33,
+          "text": "Le « contenu » du bonheur est"
+        },
+        {
+          "number": 34,
+          "text": "indéterminé. Il n’y a pas d’accord sur des"
+        },
+        {
+          "number": 35,
+          "text": "éléments particuliers et précis qui seraient"
+        },
+        {
+          "number": 36,
+          "text": "constitutifs du bonheur. La richesse, la"
+        },
+        {
+          "number": 37,
+          "text": "beauté et le pouvoir ne font pas le bonheur."
+        },
+        {
+          "number": 38,
+          "text": "Aucun élément concret ne peut être mis en"
+        },
+        {
+          "number": 39,
+          "text": "avant."
+        },
+        {
+          "number": 40,
+          "text": "Lorsqu’il y a un accord sur ce qui rend"
+        },
+        {
+          "number": 41,
+          "text": "heureux, il ne porte que sur des éléments"
+        },
+        {
+          "number": 42,
+          "text": "vagues, des principes généraux. L’amour,"
+        },
+        {
+          "number": 43,
+          "text": "l’amitié, le plaisir sont sûrement des"
+        },
+        {
+          "number": 44,
+          "text": "composantes du bonheur. Mais ces éléments"
+        },
+        {
+          "number": 45,
+          "text": "sont profondément abstraits. Savoir que"
+        },
+        {
+          "number": 46,
+          "text": "l’amitié compte ne donne pas de bons et"
+        },
+        {
+          "number": 47,
+          "text": "vrais amis."
+        },
+        {
+          "number": null,
+          "text": "7"
+        },
+        {
+          "number": 48,
+          "text": "On pose en général le bonheur comme"
+        },
+        {
+          "number": 49,
+          "text": "la fin suprême de l’existence humaine. Le"
+        },
+        {
+          "number": 50,
+          "text": "bonheur serait la fin en-soi vis-à-vis de"
+        },
+        {
+          "number": 51,
+          "text": "laquelle tous nos autres buts seraient"
+        },
+        {
+          "number": 52,
+          "text": "seconds. Toutes nos actions seraient faites"
+        },
+        {
+          "number": 53,
+          "text": "en vue d’être heureux, de façon plus ou"
+        },
+        {
+          "number": 54,
+          "text": "moins directe."
+        },
+        {
+          "number": 55,
+          "text": "Dans cette perspective, sa recherche"
+        },
+        {
+          "number": 56,
+          "text": "semble inévitable. Qu’on le veuille ou non,"
+        },
+        {
+          "number": 57,
+          "text": "qu’on l’admette ou pas, le bonheur serait"
+        },
+        {
+          "number": 58,
+          "text": "impossible à ne pas rechercher. Problème: il"
+        },
+        {
+          "number": 59,
+          "text": "n’est pas certain que le bonheur soit"
+        },
+        {
+          "number": 60,
+          "text": "atteignable. Ce pourrait bien être un idéal"
+        },
+        {
+          "number": 61,
+          "text": "inaccessible, un optimum fantasmé, mais"
+        },
+        {
+          "number": 62,
+          "text": "impossible à réaliser."
+        },
+        {
+          "number": 63,
+          "text": "On considère souvent que l’individu"
+        },
+        {
+          "number": 64,
+          "text": "joue un rôle dans son propre bonheur. Le"
+        },
+        {
+          "number": 65,
+          "text": "sujet recherche activement son bonheur et"
+        },
+        {
+          "number": 66,
+          "text": "tente de le réaliser. Il met en œuvre des"
+        },
+        {
+          "number": 67,
+          "text": "moyens en vue de cette fin. Des éléments"
+        },
+        {
+          "number": 68,
+          "text": "extérieurs peuvent favoriser ou empêcher ce"
+        },
+        {
+          "number": 69,
+          "text": "bonheur, mais il ne sont pas pensés comme"
+        },
+        {
+          "number": 70,
+          "text": "des causes initiales et exclusives."
+        },
+        {
+          "number": 71,
+          "text": "Mais, dans la question concernée, quoi"
+        },
+        {
+          "number": 72,
+          "text": "dire sur la crise mondiale provoquée par une"
+        },
+        {
+          "number": 73,
+          "text": "pandémie? Quelle serait la recherche du"
+        },
+        {
+          "number": 74,
+          "text": "bonheur vis-à-vis de cette situation très"
+        },
+        {
+          "number": 75,
+          "text": "difficile à surmonter? Heureusement, une"
+        },
+        {
+          "number": 76,
+          "text": "leçon en devient, le désir de vivre est"
+        },
+        {
+          "number": 77,
+          "text": "toujours le plus fort; et, à la fin, les humains"
+        },
+        {
+          "number": 78,
+          "text": "renversent tout ce qui les empêche de jouir"
+        },
+        {
+          "number": 79,
+          "text": "des rares moments de leur passage sur la"
+        },
+        {
+          "number": 80,
+          "text": "terre. Voilà la valeur de notre bonheur en ce"
+        },
+        {
+          "number": 81,
+          "text": "moment de crise. Voilà la valeur du bonheur"
+        },
+        {
+          "number": 82,
+          "text": "fait d'énergie, de persévérance... Comme le"
+        },
+        {
+          "number": 83,
+          "text": "dit Albert Camus, dans une lettre à un ami"
+        },
+        {
+          "number": 84,
+          "text": "allemand, “... le bonheur est la plus grande"
+        },
+        {
+          "number": 85,
+          "text": "des conquêtes, celle qu’on fait contre le"
+        },
+        {
+          "number": 86,
+          "text": "destin qui nous est imposé”."
+        },
+        {
+          "number": null,
+          "text": "Texte adapté du https://dicophilo.fr/definition/bonheur/"
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez"
+        },
+        {
+          "number": null,
+          "text": "aux questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2021-1-f2-french-q01",
+        "uece-2021-1-f2-french-q02",
+        "uece-2021-1-f2-french-q03",
+        "uece-2021-1-f2-french-q04",
+        "uece-2021-1-f2-french-q05",
+        "uece-2021-1-f2-french-q06",
+        "uece-2021-1-f2-french-q07",
+        "uece-2021-1-f2-french-q08",
+        "uece-2021-1-f2-french-q09",
+        "uece-2021-1-f2-french-q10",
+        "uece-2021-1-f2-french-q11",
+        "uece-2021-1-f2-french-q12",
+        "uece-2021-1-f2-french-q13",
+        "uece-2021-1-f2-french-q14",
+        "uece-2021-1-f2-french-q15",
+        "uece-2021-1-f2-french-q16",
+        "uece-2021-1-f2-french-q17",
+        "uece-2021-1-f2-french-q18",
+        "uece-2021-1-f2-french-q19",
+        "uece-2021-1-f2-french-q20"
+      ]
+    }
+  ]
+}

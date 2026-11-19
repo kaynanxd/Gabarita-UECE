@@ -1,0 +1,240 @@
+{
+  "paperId": "uece-2022-1-f1-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2022-1-f1-spanish-t1",
+      "label": "Texto 1",
+      "title": "DE LA CIUDAD AL CAMPO",
+      "lines": [
+        {
+          "number": 1,
+          "text": "En los últimos años, con la crisis"
+        },
+        {
+          "number": 2,
+          "text": "económica, volver al campo es una alternativa"
+        },
+        {
+          "number": 3,
+          "text": "a vivir en la ciudad, porque ofrece nuevas"
+        },
+        {
+          "number": 4,
+          "text": "posibilidades de trabajo y la vida es más"
+        },
+        {
+          "number": 5,
+          "text": "barata."
+        },
+        {
+          "number": 6,
+          "text": "Los jóvenes que deciden ir al campo, los"
+        },
+        {
+          "number": 7,
+          "text": "llamados neorrurales, también buscan un"
+        },
+        {
+          "number": 8,
+          "text": "estilo de vida más sano, lejos del estrés, del"
+        },
+        {
+          "number": 9,
+          "text": "ruido y de la contaminación de la ciudad."
+        },
+        {
+          "number": 10,
+          "text": "El campo ofrece interesantes"
+        },
+        {
+          "number": 11,
+          "text": "oportunidades de trabajo: en la ganadería y en"
+        },
+        {
+          "number": 12,
+          "text": "la agricultura, con productos ecológicos o con"
+        },
+        {
+          "number": null,
+          "text": "22"
+        },
+        {
+          "number": 13,
+          "text": "la elaboración de productos hechos de forma"
+        },
+        {
+          "number": 14,
+          "text": "artesanal, y también en el ocio, con el turismo"
+        },
+        {
+          "number": 15,
+          "text": "rural. Por otro lado y gracias a las nuevas"
+        },
+        {
+          "number": 16,
+          "text": "tecnologías, los neorrurales pueden hacer el"
+        },
+        {
+          "number": 17,
+          "text": "mismo trabajo que en la ciudad, pero en un"
+        },
+        {
+          "number": 18,
+          "text": "entorno más natural y relajado."
+        },
+        {
+          "number": 19,
+          "text": "En resumen, volver al campo es una"
+        },
+        {
+          "number": 20,
+          "text": "alternativa que ayuda a la recuperación del"
+        },
+        {
+          "number": 21,
+          "text": "mundo rural, porque aumenta su población,"
+        },
+        {
+          "number": 22,
+          "text": "crece su economía, se llenan las escuelas de"
+        },
+        {
+          "number": 23,
+          "text": "niños y ofrece un nuevo estilo de vida para"
+        },
+        {
+          "number": 24,
+          "text": "todos los que buscan una segunda"
+        },
+        {
+          "number": 25,
+          "text": "oportunidad."
+        },
+        {
+          "number": null,
+          "text": "Fonte: Experiencias (Curso de español lengua extranjera)"
+        }
+      ],
+      "questionIds": [
+        "uece-2022-1-f1-spanish-q78",
+        "uece-2022-1-f1-spanish-q79",
+        "uece-2022-1-f1-spanish-q80",
+        "uece-2022-1-f1-spanish-q81"
+      ]
+    },
+    {
+      "id": "uece-2022-1-f1-spanish-t2",
+      "label": "Texto 2",
+      "title": "PRODUCTOS INTERNACIONALES",
+      "lines": [
+        {
+          "number": 26,
+          "text": "El arroz y la papa, o patata, son dos de"
+        },
+        {
+          "number": 27,
+          "text": "los productos más consumidos en el mundo,"
+        },
+        {
+          "number": 28,
+          "text": "junto con la yuca, el maíz y el trigo. La historia"
+        },
+        {
+          "number": 29,
+          "text": "del arroz es muy interesante. Su origen está"
+        },
+        {
+          "number": 30,
+          "text": "en Asia, aunque no se sabe su origen exacto."
+        },
+        {
+          "number": 31,
+          "text": "En España se empezó a cultivar en el siglo"
+        },
+        {
+          "number": 32,
+          "text": "VIII, durante el periodo de los árabes. Llegó a"
+        },
+        {
+          "number": 33,
+          "text": "América en los barcos de Colón. La primera"
+        },
+        {
+          "number": 34,
+          "text": "vez que se hizo un plato con este producto en"
+        },
+        {
+          "number": 35,
+          "text": "Europa fue arroz con leche, un postre que se"
+        },
+        {
+          "number": 36,
+          "text": "sirvió a un rey de Francia. En el mundo"
+        },
+        {
+          "number": 37,
+          "text": "oriental antiguo, el arroz simbolizaba la vida y,"
+        },
+        {
+          "number": 38,
+          "text": "por eso, se tira arroz en las bodas."
+        },
+        {
+          "number": 39,
+          "text": "La papa, llamada patata en algunas zonas"
+        },
+        {
+          "number": 40,
+          "text": "de España, es un alimento que tiene su origen"
+        },
+        {
+          "number": 41,
+          "text": "en Sudamérica, en concreto en Chile y en"
+        },
+        {
+          "number": 42,
+          "text": "Perú. Existen más de 4.000 variedades de"
+        },
+        {
+          "number": 43,
+          "text": "papas o patatas. Los conquistadores españoles"
+        },
+        {
+          "number": 44,
+          "text": "la trajeron a España en el siglo XVI. La papa"
+        },
+        {
+          "number": 45,
+          "text": "no se empezó a cultivar hasta el siglo XVIII"
+        },
+        {
+          "number": 46,
+          "text": "porque, al principio, fue considerada como una"
+        },
+        {
+          "number": 47,
+          "text": "planta exótica para los jardines. Durante la"
+        },
+        {
+          "number": 48,
+          "text": "revolución industrial fue un alimento muy"
+        },
+        {
+          "number": 49,
+          "text": "importante para muchas personas."
+        },
+        {
+          "number": null,
+          "text": "Fonte: Experiencias (Curso de español lengua extranjera)"
+        }
+      ],
+      "questionIds": [
+        "uece-2022-1-f1-spanish-q82",
+        "uece-2022-1-f1-spanish-q83",
+        "uece-2022-1-f1-spanish-q84",
+        "uece-2022-1-f1-spanish-q85"
+      ]
+    }
+  ]
+}

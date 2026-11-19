@@ -1,0 +1,321 @@
+{
+  "paperId": "uece-2015-1-f1-english",
+  "subject": "english",
+  "texts": [
+    {
+      "id": "uece-2015-1-f1-english-t1",
+      "label": "TEXT",
+      "title": "The global mortality rate for children",
+      "lines": [
+        {
+          "number": null,
+          "text": "younger than 5 has dropped by nearly half since"
+        },
+        {
+          "number": null,
+          "text": "1990, the United Nations said Tuesday in an annual"
+        },
+        {
+          "number": null,
+          "text": "report on progress aimed at ensuring child survival,"
+        },
+        {
+          "number": null,
+          "text": "but the decline still falls short of meeting the"
+        },
+        {
+          "number": null,
+          "text": "organization’s goal of a two-thirds reduction by next"
+        },
+        {
+          "number": null,
+          "text": "year. Without accelerated improvements in reducing"
+        },
+        {
+          "number": null,
+          "text": "health risks to young children, the report said, that"
+        },
+        {
+          "number": null,
+          "text": "goal will not be reached until 2026, 11 years behind"
+        },
+        {
+          "number": null,
+          "text": "schedule."
+        },
+        {
+          "number": null,
+          "text": "Nearly all of the countries with the highest"
+        },
+        {
+          "number": null,
+          "text": "mortality rates are in Africa, the report said, and two"
+        },
+        {
+          "number": null,
+          "text": "countries that are among the world’s most populous"
+        },
+        {
+          "number": null,
+          "text": "— India and Nigeria — account for nearly a third of"
+        },
+        {
+          "number": null,
+          "text": "all deaths among children younger than 5."
+        },
+        {
+          "number": null,
+          "text": "A collaboration of Unicef, other United"
+        },
+        {
+          "number": null,
+          "text": "Nations agencies and the World Bank, the report"
+        },
+        {
+          "number": null,
+          "text": "provides a barometer of health care and nutrition in"
+        },
+        {
+          "number": null,
+          "text": "every country. A child mortality rate can be a potent"
+        },
+        {
+          "number": null,
+          "text": "indicator of other elements in a country’s basic"
+        },
+        {
+          "number": null,
+          "text": "quality of life."
+        },
+        {
+          "number": null,
+          "text": "The report showed that the mortality rate"
+        },
+        {
+          "number": null,
+          "text": "for children younger than 5, the most vulnerable"
+        },
+        {
+          "number": null,
+          "text": "period, fell to 46 deaths per 1,000 live births last"
+        },
+        {
+          "number": null,
+          "text": "year, from 90 per 1,000 births in 1990. It also"
+        },
+        {
+          "number": null,
+          "text": "showed that the gap in mortality rates between the"
+        },
+        {
+          "number": null,
+          "text": "richest and poorest households had fallen in all"
+        },
+        {
+          "number": null,
+          "text": "regions over most of the past two decades, except"
+        },
+        {
+          "number": null,
+          "text": "for sub-Saharan Africa."
+        },
+        {
+          "number": null,
+          "text": "The report attributed much of the progress"
+        },
+        {
+          "number": null,
+          "text": "to broad interventions over the years against leading"
+        },
+        {
+          "number": null,
+          "text": "infectious diseases in some of the most impoverished"
+        },
+        {
+          "number": null,
+          "text": "regions, including immunizations and the use of"
+        },
+        {
+          "number": null,
+          "text": "insecticide-treated mosquito nets, as well"
+        },
+        {
+          "number": null,
+          "text": "improvements in health care to expectant mothers"
+        },
+        {
+          "number": null,
+          "text": "and in battling the effects of diarrhea and other"
+        },
+        {
+          "number": null,
+          "text": "dehydrating maladies that pose acute risks to the"
+        },
+        {
+          "number": null,
+          "text": "young."
+        },
+        {
+          "number": null,
+          "text": "“There has been dramatic and accelerating"
+        },
+        {
+          "number": null,
+          "text": "progress in reducing mortality among children, and"
+        },
+        {
+          "number": null,
+          "text": "the data prove that success is possible even for"
+        },
+        {
+          "number": null,
+          "text": "poorly resourced countries,” Dr. Mickey Chopra, the"
+        },
+        {
+          "number": null,
+          "text": "head of global health programs for Unicef, said in a"
+        },
+        {
+          "number": null,
+          "text": "statement about the report’s conclusions."
+        },
+        {
+          "number": null,
+          "text": "Geeta Rao Gupta, Unicef’s deputy executive"
+        },
+        {
+          "number": null,
+          "text": "director, said, “The data clearly demonstrate that an"
+        },
+        {
+          "number": null,
+          "text": "infant’s chances of survival increase dramatically"
+        },
+        {
+          "number": null,
+          "text": "when their mother has sustained access to quality"
+        },
+        {
+          "number": null,
+          "text": "health care during pregnancy and delivery.”"
+        },
+        {
+          "number": null,
+          "text": "Despite the advances, from 1990 and 2013,"
+        },
+        {
+          "number": null,
+          "text": "223 million children worldwide died before their fifth"
+        },
+        {
+          "number": null,
+          "text": "birthday, a number that the report called"
+        },
+        {
+          "number": null,
+          "text": "“staggering.” In 2013, the report said, 6.3 million"
+        },
+        {
+          "number": null,
+          "text": "children younger than 5 died, 200,000 fewer than the"
+        },
+        {
+          "number": null,
+          "text": "year before. Nonetheless, that is still the equivalent"
+        },
+        {
+          "number": null,
+          "text": "of about 17,000 child deaths a day, largely"
+        },
+        {
+          "number": null,
+          "text": "attributable to preventable causes that include"
+        },
+        {
+          "number": null,
+          "text": "insufficient nutrition; complications during"
+        },
+        {
+          "number": null,
+          "text": "pregnancy, labor and delivery; pneumonia; diarrhea;"
+        },
+        {
+          "number": null,
+          "text": "and malaria."
+        },
+        {
+          "number": null,
+          "text": "While sub-Saharan Africa has reduced the"
+        },
+        {
+          "number": null,
+          "text": "under-5 mortality rate by 48 percent since 1990, the"
+        },
+        {
+          "number": null,
+          "text": "report said, the region still has the world’s highest"
+        },
+        {
+          "number": null,
+          "text": "rate: 92 deaths per 1,000 live births, nearly 15 times"
+        },
+        {
+          "number": null,
+          "text": "the average in the most affluent countries. Put"
+        },
+        {
+          "number": null,
+          "text": "another way, the report said, children born in Angola,"
+        },
+        {
+          "number": null,
+          "text": "which has the world’s highest rate — 167 deaths per"
+        },
+        {
+          "number": null,
+          "text": "1,000 live births — are 84 times as likely to die"
+        },
+        {
+          "number": null,
+          "text": "before they turn 5 as children born in Luxembourg,"
+        },
+        {
+          "number": null,
+          "text": "with the lowest rate — two per 1,000."
+        },
+        {
+          "number": null,
+          "text": "The report noted that “a child’s risk of dying"
+        },
+        {
+          "number": null,
+          "text": "increases if she or he is born in a remote rural area,"
+        },
+        {
+          "number": null,
+          "text": "into a poor household or to a mother with no"
+        },
+        {
+          "number": null,
+          "text": "education.”"
+        },
+        {
+          "number": null,
+          "text": "From: www.nytimes.com Sept. 16, 2014"
+        },
+        {
+          "number": null,
+          "text": "QUESTIONS"
+        }
+      ],
+      "questionIds": [
+        "uece-2015-1-f1-english-q55",
+        "uece-2015-1-f1-english-q56",
+        "uece-2015-1-f1-english-q57",
+        "uece-2015-1-f1-english-q58",
+        "uece-2015-1-f1-english-q59",
+        "uece-2015-1-f1-english-q60"
+      ]
+    }
+  ]
+}

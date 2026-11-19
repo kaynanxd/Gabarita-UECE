@@ -1,0 +1,925 @@
+{
+  "paperId": "uece-2022-2-f1-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2022-2-f1-portuguese-t1",
+      "label": "Texto 1",
+      "title": "Ser leve e líquido",
+      "lines": [
+        {
+          "number": null,
+          "text": "(Zygmunt Bauman)"
+        },
+        {
+          "number": 1,
+          "text": "A elite global contemporânea é"
+        },
+        {
+          "number": 2,
+          "text": "formada no padrão do velho estilo dos"
+        },
+        {
+          "number": 3,
+          "text": "“senhores ausentes”. Ela pode dominar sem"
+        },
+        {
+          "number": 4,
+          "text": "se ocupar com a administração,"
+        },
+        {
+          "number": 5,
+          "text": "gerenciamento, bem-estar, ou, ainda, com a"
+        },
+        {
+          "number": 6,
+          "text": "missão de “levar a luz”, “reformar os modos”,"
+        },
+        {
+          "number": 7,
+          "text": "elevar moralmente, “civilizar” e com cruzadas"
+        },
+        {
+          "number": 8,
+          "text": "culturais. O engajamento ativo na vida das"
+        },
+        {
+          "number": 9,
+          "text": "populações subordinadas não é mais"
+        },
+        {
+          "number": 10,
+          "text": "necessário (ao contrário, é fortemente"
+        },
+        {
+          "number": 11,
+          "text": "evitado como desnecessariamente custoso e"
+        },
+        {
+          "number": 12,
+          "text": "ineficaz) — e, portanto, o “maior” não só não"
+        },
+        {
+          "number": 13,
+          "text": "é mais o “melhor”, mas carece de significado"
+        },
+        {
+          "number": 14,
+          "text": "racional. Agora é o menor, mais leve e mais"
+        },
+        {
+          "number": 15,
+          "text": "portátil que significa melhoria e “progresso”."
+        },
+        {
+          "number": 16,
+          "text": "Mover-se leve, e não mais aferrar-se a coisas"
+        },
+        {
+          "number": 17,
+          "text": "vistas como atraentes por sua confiabilidade"
+        },
+        {
+          "number": 18,
+          "text": "e solidez — isto é, por seu peso,"
+        },
+        {
+          "number": 19,
+          "text": "substancialidade e capacidade de resistência"
+        },
+        {
+          "number": 20,
+          "text": "— é hoje recurso de poder."
+        },
+        {
+          "number": 21,
+          "text": "Fixar-se ao solo não é tão importante"
+        },
+        {
+          "number": 22,
+          "text": "se o solo pode ser alcançado e abandonado à"
+        },
+        {
+          "number": 23,
+          "text": "vontade, imediatamente ou em pouquíssimo"
+        },
+        {
+          "number": 24,
+          "text": "tempo. Por outro lado, fixar-se muito"
+        },
+        {
+          "number": 25,
+          "text": "fortemente, sobrecarregando os laços com"
+        },
+        {
+          "number": 26,
+          "text": "compromissos mutuamente vinculantes, pode"
+        },
+        {
+          "number": 27,
+          "text": "ser positivamente prejudicial, dadas as novas"
+        },
+        {
+          "number": 28,
+          "text": "oportunidades que surgem em outros"
+        },
+        {
+          "number": 29,
+          "text": "lugares. Rockefeller pode ter desejado"
+        },
+        {
+          "number": 30,
+          "text": "construir suas fábricas, estradas de ferro e"
+        },
+        {
+          "number": 31,
+          "text": "torres de petróleo altas e volumosas e ser"
+        },
+        {
+          "number": 32,
+          "text": "dono delas por um longo tempo (pela"
+        },
+        {
+          "number": 33,
+          "text": "eternidade, se medirmos o tempo pela"
+        },
+        {
+          "number": 34,
+          "text": "duração da própria vida ou pela da família)."
+        },
+        {
+          "number": 35,
+          "text": "Bill Gates, no entanto, não sente remorsos"
+        },
+        {
+          "number": 36,
+          "text": "quando abandona posses de que se"
+        },
+        {
+          "number": 37,
+          "text": "orgulhava ontem; é a velocidade atordoante"
+        },
+        {
+          "number": 38,
+          "text": "da circulação, da reciclagem, do"
+        },
+        {
+          "number": 39,
+          "text": "envelhecimento, do entulho e da substituição"
+        },
+        {
+          "number": 40,
+          "text": "que traz lucro hoje — não a durabilidade e"
+        },
+        {
+          "number": 41,
+          "text": "confiabilidade do produto. Numa notável"
+        },
+        {
+          "number": 42,
+          "text": "reversão da tradição milenar, são os grandes"
+        },
+        {
+          "number": 43,
+          "text": "e poderosos que evitam o durável e desejam"
+        },
+        {
+          "number": 44,
+          "text": "o transitório, enquanto os da base da"
+        },
+        {
+          "number": 45,
+          "text": "pirâmide — contra todas as chances — lutam"
+        },
+        {
+          "number": 46,
+          "text": "desesperadamente para fazer suas frágeis,"
+        },
+        {
+          "number": 47,
+          "text": "mesquinhas e transitórias posses durarem"
+        },
+        {
+          "number": 48,
+          "text": "mais tempo. Os dois se encontram hoje em"
+        },
+        {
+          "number": 49,
+          "text": "dia principalmente nos lados opostos dos"
+        },
+        {
+          "number": 50,
+          "text": "balcões das mega-liquidações ou de vendas"
+        },
+        {
+          "number": 51,
+          "text": "de carros usados."
+        },
+        {
+          "number": 52,
+          "text": "A desintegração da rede social, a"
+        },
+        {
+          "number": 53,
+          "text": "derrocada das agências efetivas de ação"
+        },
+        {
+          "number": 54,
+          "text": "coletiva, é recebida muitas vezes com grande"
+        },
+        {
+          "number": 55,
+          "text": "ansiedade e lamentada como “efeito"
+        },
+        {
+          "number": 56,
+          "text": "colateral” não previsto da nova leveza e"
+        },
+        {
+          "number": 57,
+          "text": "fluidez do poder cada vez mais móvel,"
+        },
+        {
+          "number": 58,
+          "text": "escorregadio, evasivo e fugitivo. Mas a"
+        },
+        {
+          "number": 59,
+          "text": "desintegração social é tanto uma condição"
+        },
+        {
+          "number": 60,
+          "text": "quanto um resultado da nova técnica do"
+        },
+        {
+          "number": 61,
+          "text": "poder, que tem como ferramentas principais"
+        },
+        {
+          "number": 62,
+          "text": "o desengajamento e a arte da fuga. Para que"
+        },
+        {
+          "number": 63,
+          "text": "o poder tenha liberdade de fluir, o mundo"
+        },
+        {
+          "number": 64,
+          "text": "deve estar livre de cercas, barreiras,"
+        },
+        {
+          "number": 65,
+          "text": "fronteiras fortificadas e barricadas. Qualquer"
+        },
+        {
+          "number": 66,
+          "text": "rede densa de laços sociais, e em particular"
+        },
+        {
+          "number": 67,
+          "text": "uma que esteja territorialmente enraizada, é"
+        },
+        {
+          "number": 68,
+          "text": "um obstáculo a ser eliminado. Os poderes"
+        },
+        {
+          "number": 69,
+          "text": "globais se inclinam a desmantelar tais redes"
+        },
+        {
+          "number": 70,
+          "text": "em proveito de sua contínua e crescente"
+        },
+        {
+          "number": 71,
+          "text": "fluidez, principal fonte de sua força e garantia"
+        },
+        {
+          "number": 72,
+          "text": "de sua invencibilidade. E são esse derrocar, a"
+        },
+        {
+          "number": 73,
+          "text": "fragilidade, o quebradiço, o imediato dos"
+        },
+        {
+          "number": 74,
+          "text": "laços e redes humanos que permitem que"
+        },
+        {
+          "number": 75,
+          "text": "esses poderes operem."
+        },
+        {
+          "number": 76,
+          "text": "Se essas tendências entrelaçadas se"
+        },
+        {
+          "number": 77,
+          "text": "desenvolvessem sem freios, homens e"
+        },
+        {
+          "number": 78,
+          "text": "mulheres seriam reformulados no padrão da"
+        },
+        {
+          "number": 79,
+          "text": "toupeira eletrônica, essa orgulhosa invenção"
+        },
+        {
+          "number": 80,
+          "text": "dos tempos pioneiros da cibernética"
+        },
+        {
+          "number": 81,
+          "text": "imediatamente aclamada como arauto do"
+        },
+        {
+          "number": 82,
+          "text": "porvir: um plugue em castores atarantados"
+        },
+        {
+          "number": 83,
+          "text": "na desesperada busca de tomadas a que se"
+        },
+        {
+          "number": 84,
+          "text": "ligar. Mas no futuro anunciado pelos"
+        },
+        {
+          "number": 85,
+          "text": "telefones celulares, as tomadas serão"
+        },
+        {
+          "number": 86,
+          "text": "provavelmente declaradas obsoletas e de"
+        },
+        {
+          "number": 87,
+          "text": "mau gosto, e passarão a ser fornecidas em"
+        },
+        {
+          "number": 88,
+          "text": "quantidades cada vez menores e com"
+        },
+        {
+          "number": 89,
+          "text": "qualidade cada vez mais duvidosa. No"
+        },
+        {
+          "number": 90,
+          "text": "momento, muitos fornecedores de"
+        },
+        {
+          "number": 91,
+          "text": "eletricidade exaltam as vantagens da"
+        },
+        {
+          "number": 92,
+          "text": "conexão a suas respectivas redes e disputam"
+        },
+        {
+          "number": 93,
+          "text": "os favores dos que procuram por tomadas."
+        },
+        {
+          "number": 94,
+          "text": "Mas a longo prazo (o que quer que “longo"
+        },
+        {
+          "number": 95,
+          "text": "prazo” signifique na era da instantaneidade)"
+        },
+        {
+          "number": 96,
+          "text": "as tomadas serão provavelmente banidas e"
+        },
+        {
+          "number": 97,
+          "text": "suplantadas por baterias descartáveis"
+        },
+        {
+          "number": 98,
+          "text": "compradas individualmente nas lojas e em"
+        },
+        {
+          "number": 99,
+          "text": "oferta em cada quiosque de aeroporto e"
+        },
+        {
+          "number": 100,
+          "text": "posto de gasolina ao longo das estradas."
+        },
+        {
+          "number": 101,
+          "text": "Essa parece ser a distopia feita sob"
+        },
+        {
+          "number": 102,
+          "text": "medida para a modernidade líquida."
+        },
+        {
+          "number": null,
+          "text": "BAUMAN, Zygmunt. Ser leve e líquido. In: BAUMAN,"
+        },
+        {
+          "number": null,
+          "text": "Zygmunt. Modernidade líquida. Tradução de Plínio Dentzien."
+        },
+        {
+          "number": null,
+          "text": "São Paulo: Zahar, 2008. p. 17-18."
+        }
+      ],
+      "questionIds": [
+        "uece-2022-2-f1-portuguese-q01",
+        "uece-2022-2-f1-portuguese-q02",
+        "uece-2022-2-f1-portuguese-q03",
+        "uece-2022-2-f1-portuguese-q04",
+        "uece-2022-2-f1-portuguese-q05",
+        "uece-2022-2-f1-portuguese-q06",
+        "uece-2022-2-f1-portuguese-q07"
+      ]
+    },
+    {
+      "id": "uece-2022-2-f1-portuguese-t2",
+      "label": "Texto 2",
+      "title": "LETRAS",
+      "lines": [
+        {
+          "number": null,
+          "text": "LYGIA FAGUNDES TELLES FOI A 3ª MULHER A"
+        },
+        {
+          "number": null,
+          "text": "INGRESSAR NA ACADEMIA BRASILEIRA DE"
+        },
+        {
+          "number": 103,
+          "text": "Livro Ciranda de Pedra, publicado em"
+        },
+        {
+          "number": 104,
+          "text": "1954, é considerado o início da sua"
+        },
+        {
+          "number": 105,
+          "text": "maturidade literária. Escritora morreu aos 98"
+        },
+        {
+          "number": 106,
+          "text": "anos em São Paulo."
+        },
+        {
+          "number": 107,
+          "text": "Lygia Fagundes Telles, nasceu em São"
+        },
+        {
+          "number": 108,
+          "text": "Paulo e foi criada no interior do estado."
+        },
+        {
+          "number": 109,
+          "text": "Voltou a morar na capital paulista na"
+        },
+        {
+          "number": 110,
+          "text": "adolescência, quando manifestou sua"
+        },
+        {
+          "number": 111,
+          "text": "vocação pela literatura. Ao atingir o que ela"
+        },
+        {
+          "number": 112,
+          "text": "considera sua maturidade literária, a"
+        },
+        {
+          "number": 113,
+          "text": "escritora rejeitou suas primeiras produções:"
+        },
+        {
+          "number": 114,
+          "text": "“a pouca idade não justifica o nascimento de"
+        },
+        {
+          "number": 115,
+          "text": "textos prematuros, que deveriam continuar"
+        },
+        {
+          "number": 116,
+          "text": "no limbo”, disse Lygia segundo sua biografia"
+        },
+        {
+          "number": 117,
+          "text": "na Academia Brasileira de Letras."
+        },
+        {
+          "number": 118,
+          "text": "O livro Ciranda de Pedra (1954) é"
+        },
+        {
+          "number": 119,
+          "text": "considerado por ela mesma o marco inicial de"
+        },
+        {
+          "number": 120,
+          "text": "suas obras completas. O romance serviu de"
+        },
+        {
+          "number": 121,
+          "text": "inspiração para uma novela de sucesso que"
+        },
+        {
+          "number": 122,
+          "text": "foi ao ar em 1981 na TV Globo, com uma"
+        },
+        {
+          "number": 123,
+          "text": "segunda versão em 2008."
+        },
+        {
+          "number": 124,
+          "text": "Seu segundo romance, Verão no"
+        },
+        {
+          "number": 125,
+          "text": "Aquário (1963), lhe rendeu seu primeiro"
+        },
+        {
+          "number": 126,
+          "text": "prêmio Jabuti. Depois ela recebeu outros"
+        },
+        {
+          "number": 127,
+          "text": "três, que se juntam a uma enorme lista de"
+        },
+        {
+          "number": 128,
+          "text": "premiações por suas obras."
+        },
+        {
+          "number": 129,
+          "text": "A década de 1970 foi de intensa"
+        },
+        {
+          "number": 130,
+          "text": "atividade literária e marca a sua consagração"
+        },
+        {
+          "number": 131,
+          "text": "na carreira. A escritora publicou alguns de"
+        },
+        {
+          "number": 132,
+          "text": "seus livros mais importantes: Antes do Baile"
+        },
+        {
+          "number": 133,
+          "text": "Verde (1970), As Meninas (1973), Seminário"
+        },
+        {
+          "number": 134,
+          "text": "dos Ratos (1977) e o livro de contos Filhos"
+        },
+        {
+          "number": 135,
+          "text": "Pródigos (1978)."
+        },
+        {
+          "number": 136,
+          "text": "De acordo com a ABL, a consagração"
+        },
+        {
+          "number": 137,
+          "text": "definitiva viria com o Prêmio Camões (2005),"
+        },
+        {
+          "number": 138,
+          "text": "distinção maior em língua portuguesa pelo"
+        },
+        {
+          "number": 139,
+          "text": "conjunto de obra."
+        },
+        {
+          "number": 140,
+          "text": "Lygia foi a terceira mulher a ingressar"
+        },
+        {
+          "number": 141,
+          "text": "na Academia Brasileira de Letras, em 1985."
+        },
+        {
+          "number": 142,
+          "text": "Além dela, tornaram-se imortais Rachel de"
+        },
+        {
+          "number": 143,
+          "text": "Queiroz (1977), Dinah Silveira de Queiroz"
+        },
+        {
+          "number": 144,
+          "text": "(1980), Nélida Piñon (1989), Zélia Gattai"
+        },
+        {
+          "number": 145,
+          "text": "(2001), Ana Maria Machado (2003), Cleonice"
+        },
+        {
+          "number": 146,
+          "text": "Berardinelli (2009), Rosiska Darcy de Oliveira"
+        },
+        {
+          "number": 147,
+          "text": "(2013) e, mais recentemente, Fernanda"
+        },
+        {
+          "number": 148,
+          "text": "Montenegro (2022)."
+        },
+        {
+          "number": 149,
+          "text": "Teve seus livros publicados em"
+        },
+        {
+          "number": 150,
+          "text": "diversos países: Portugal, França, Estados"
+        },
+        {
+          "number": 151,
+          "text": "Unidos, Alemanha, Itália, Holanda, Suécia e"
+        },
+        {
+          "number": 152,
+          "text": "Espanha, entre outros, com obras adaptadas"
+        },
+        {
+          "number": 153,
+          "text": "para TV, teatro e cinema."
+        },
+        {
+          "number": null,
+          "text": "Adaptado de https://g1.globo.com/pop-"
+        },
+        {
+          "number": null,
+          "text": "arte/noticia/2022/04/03/escritora-lygia-fagundes-telles-"
+        },
+        {
+          "number": null,
+          "text": "biografia.ghtml. Acesso em 03 de abril de 2022."
+        }
+      ],
+      "questionIds": [
+        "uece-2022-2-f1-portuguese-q08",
+        "uece-2022-2-f1-portuguese-q09"
+      ]
+    },
+    {
+      "id": "uece-2022-2-f1-portuguese-t3",
+      "label": "Texto 3",
+      "title": "Os sapos",
+      "lines": [
+        {
+          "number": null,
+          "text": "(Manuel Bandeira)"
+        },
+        {
+          "number": 154,
+          "text": "Enfunando os papos,"
+        },
+        {
+          "number": 155,
+          "text": "Saem da penumbra,"
+        },
+        {
+          "number": 156,
+          "text": "Aos pulos, os sapos."
+        },
+        {
+          "number": 157,
+          "text": "A luz os deslumbra."
+        },
+        {
+          "number": 158,
+          "text": "Em ronco que aterra,"
+        },
+        {
+          "number": 159,
+          "text": "Berra o sapo-boi:"
+        },
+        {
+          "number": 160,
+          "text": "– “Meu pai foi à guerra!”"
+        },
+        {
+          "number": 161,
+          "text": "– “Não foi!” – “Foi!” – “Não foi!”."
+        },
+        {
+          "number": 162,
+          "text": "O sapo-tanoeiro,"
+        },
+        {
+          "number": 163,
+          "text": "Parnasiano aguado,"
+        },
+        {
+          "number": 164,
+          "text": "Diz: – “Meu cancioneiro"
+        },
+        {
+          "number": 165,
+          "text": "É bem martelado."
+        },
+        {
+          "number": 166,
+          "text": "Vede como primo"
+        },
+        {
+          "number": 167,
+          "text": "Em comer os hiatos!"
+        },
+        {
+          "number": 168,
+          "text": "Que arte! E nunca rimo"
+        },
+        {
+          "number": 169,
+          "text": "Os termos cognatos."
+        },
+        {
+          "number": 170,
+          "text": "O meu verso é bom"
+        },
+        {
+          "number": 171,
+          "text": "Frumento sem joio."
+        },
+        {
+          "number": 172,
+          "text": "Faço rimas com"
+        },
+        {
+          "number": 173,
+          "text": "Consoantes de apoio."
+        },
+        {
+          "number": 174,
+          "text": "Vai por cinquenta anos"
+        },
+        {
+          "number": 175,
+          "text": "Que lhes dei a norma:"
+        },
+        {
+          "number": 176,
+          "text": "Reduzi sem danos"
+        },
+        {
+          "number": 177,
+          "text": "A fôrmas a forma."
+        },
+        {
+          "number": 178,
+          "text": "Clame a saparia"
+        },
+        {
+          "number": 179,
+          "text": "Em críticas céticas:"
+        },
+        {
+          "number": 180,
+          "text": "Não há mais poesia,"
+        },
+        {
+          "number": 181,
+          "text": "Mas há artes poéticas…”"
+        },
+        {
+          "number": 182,
+          "text": "Urra o sapo-boi:"
+        },
+        {
+          "number": 183,
+          "text": "– “Meu pai foi rei!”- “Foi!”"
+        },
+        {
+          "number": 184,
+          "text": "– “Não foi!” – “Foi!” – “Não foi!”."
+        },
+        {
+          "number": 185,
+          "text": "Brada em um assomo"
+        },
+        {
+          "number": 186,
+          "text": "O sapo-tanoeiro:"
+        },
+        {
+          "number": 187,
+          "text": "– “A grande arte é como"
+        },
+        {
+          "number": 188,
+          "text": "Lavor de joalheiro."
+        },
+        {
+          "number": 189,
+          "text": "Ou bem de estatuário."
+        },
+        {
+          "number": 190,
+          "text": "Tudo quanto é belo,"
+        },
+        {
+          "number": 191,
+          "text": "Tudo quanto é vário,"
+        },
+        {
+          "number": 192,
+          "text": "Canta no martelo”."
+        },
+        {
+          "number": 193,
+          "text": "Outros, sapos-pipas"
+        },
+        {
+          "number": 194,
+          "text": "(Um mal em si cabe),"
+        },
+        {
+          "number": 195,
+          "text": "Falam pelas tripas,"
+        },
+        {
+          "number": 196,
+          "text": "– “Sei!” – “Não sabe!” – “Sabe!”."
+        },
+        {
+          "number": 197,
+          "text": "Longe dessa grita,"
+        },
+        {
+          "number": 198,
+          "text": "Lá onde mais densa"
+        },
+        {
+          "number": 199,
+          "text": "A noite infinita"
+        },
+        {
+          "number": 200,
+          "text": "Veste a sombra imensa;"
+        },
+        {
+          "number": 201,
+          "text": "Lá, fugido ao mundo,"
+        },
+        {
+          "number": 202,
+          "text": "Sem glória, sem fé,"
+        },
+        {
+          "number": 203,
+          "text": "No perau profundo"
+        },
+        {
+          "number": 204,
+          "text": "E solitário, é"
+        },
+        {
+          "number": 205,
+          "text": "Que soluças tu,"
+        },
+        {
+          "number": 206,
+          "text": "Transido de frio,"
+        },
+        {
+          "number": 207,
+          "text": "Sapo-cururu"
+        },
+        {
+          "number": 208,
+          "text": "Da beira do rio…"
+        },
+        {
+          "number": null,
+          "text": "BANDEIRA, Manuel. Os sapos. In: Estrela da Vida Inteira."
+        },
+        {
+          "number": null,
+          "text": "Rio de Janeiro: Editora José Olympio, 2009, p. 51-52."
+        }
+      ],
+      "questionIds": [
+        "uece-2022-2-f1-portuguese-q10",
+        "uece-2022-2-f1-portuguese-q11",
+        "uece-2022-2-f1-portuguese-q12"
+      ]
+    }
+  ]
+}

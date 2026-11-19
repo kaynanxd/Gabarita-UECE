@@ -1,0 +1,579 @@
+{
+  "paperId": "uece-2022-2-f2-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2022-2-f2-french-t1",
+      "label": "Texto 1",
+      "title": "T E X T E",
+      "lines": [
+        {
+          "number": null,
+          "text": "L’éducation à la paix, le rôle de l’école"
+        },
+        {
+          "number": 1,
+          "text": "L’année 2000 a été déclarée l’année"
+        },
+        {
+          "number": 2,
+          "text": "de la culture de la paix par la communauté"
+        },
+        {
+          "number": 3,
+          "text": "internationale, visant amener les hommes à"
+        },
+        {
+          "number": 4,
+          "text": "privilégier le dialogue dans la résolution des"
+        },
+        {
+          "number": 5,
+          "text": "conflits, développer des capacités à"
+        },
+        {
+          "number": 6,
+          "text": "apprécier les différences et entreprendre"
+        },
+        {
+          "number": 7,
+          "text": "des actions constructives avec autrui pour"
+        },
+        {
+          "number": 8,
+          "text": "asseoir durablement la paix, le"
+        },
+        {
+          "number": 9,
+          "text": "développement économique et social."
+        },
+        {
+          "number": 10,
+          "text": "L’école en tant qu’institution de la"
+        },
+        {
+          "number": 11,
+          "text": "société ne saurait se mettre à l’écart d’une"
+        },
+        {
+          "number": 12,
+          "text": "telle réflexion, parce qu’elle subit les"
+        },
+        {
+          "number": 13,
+          "text": "contrecoups de cette violence structurelle et"
+        },
+        {
+          "number": 14,
+          "text": "qu’elle est un formidable laboratoire pour"
+        },
+        {
+          "number": 15,
+          "text": "les idées nouvelles. L’éducation doit"
+        },
+        {
+          "number": 16,
+          "text": "promouvoir les valeurs dans lesquelles une"
+        },
+        {
+          "number": 17,
+          "text": "nation se reconnaît: elle est éducation pour"
+        },
+        {
+          "number": 18,
+          "text": "la liberté, démocratie pluraliste, respect des"
+        },
+        {
+          "number": 19,
+          "text": "droits de l’homme, développant le sens"
+        },
+        {
+          "number": 20,
+          "text": "moral et civique de ceux qu’elle forme."
+        },
+        {
+          "number": 21,
+          "text": "D’abord si l’on examine les"
+        },
+        {
+          "number": 22,
+          "text": "représentations que les uns et les autres"
+        },
+        {
+          "number": 23,
+          "text": "ont de la paix, l’on se rend compte que le"
+        },
+        {
+          "number": 24,
+          "text": "concept recouvre des significations variées."
+        },
+        {
+          "number": 25,
+          "text": "Nous savons tous que pour le"
+        },
+        {
+          "number": 26,
+          "text": "nourrisson, c’est l’affection, la sécurité;"
+        },
+        {
+          "number": 27,
+          "text": "chez l’enfant, c’est la joie, la découverte;"
+        },
+        {
+          "number": 28,
+          "text": "chez l’adolescent, la paix se traduit par la"
+        },
+        {
+          "number": 29,
+          "text": "confiance, l’entente, un contrat avec la"
+        },
+        {
+          "number": 30,
+          "text": "nature; chez l’adulte, la paix se situe dans"
+        },
+        {
+          "number": 31,
+          "text": "un emploi stable, au foyer, dans ses loisirs;"
+        },
+        {
+          "number": 32,
+          "text": "chez les personnes agées, la paix devient"
+        },
+        {
+          "number": 33,
+          "text": "un sentiment affectif, un sentiment de"
+        },
+        {
+          "number": 34,
+          "text": "sécurité."
+        },
+        {
+          "number": 35,
+          "text": "Selon le dictionnaire Petit Robert la"
+        },
+        {
+          "number": 36,
+          "text": "paix, c’est “la situation d’une nation, d’un"
+        },
+        {
+          "number": 37,
+          "text": "état qui n’est pas en guerre, ce sont des"
+        },
+        {
+          "number": 38,
+          "text": "rapports calmes entre nations, c’est la"
+        },
+        {
+          "number": 39,
+          "text": "concorde\". La paix est donc polysémique,"
+        },
+        {
+          "number": 40,
+          "text": "c’est l’entente, la sécurité, l’harmonie. La"
+        },
+        {
+          "number": 41,
+          "text": "paix est en même temps un état d’esprit"
+        },
+        {
+          "number": 42,
+          "text": "intérieur résultant d’une harmonie"
+        },
+        {
+          "number": 43,
+          "text": "personnelle, un état d’harmonie sociale"
+        },
+        {
+          "number": 44,
+          "text": "résultant d’une aptitude à la solution"
+        },
+        {
+          "number": 45,
+          "text": "pacifique des conflits, une harmonie avec la"
+        },
+        {
+          "number": 46,
+          "text": "nature."
+        },
+        {
+          "number": 47,
+          "text": "Malheureusement aujourd’hui, la"
+        },
+        {
+          "number": 48,
+          "text": "paix est très menacée et cela pose la"
+        },
+        {
+          "number": 49,
+          "text": "nécessité d’une éducation à la paix face aux"
+        },
+        {
+          "number": 50,
+          "text": "conflits et aux tensions existant dans"
+        },
+        {
+          "number": 51,
+          "text": "chaque région du monde, minés par une"
+        },
+        {
+          "number": 52,
+          "text": "prolifération des armes, par une violence"
+        },
+        {
+          "number": 53,
+          "text": "institutionnelle qui est le résultat de la"
+        },
+        {
+          "number": 54,
+          "text": "pauvreté, des inégalités sociales"
+        },
+        {
+          "number": 55,
+          "text": "caractérisées par la faim, l‘analphabétisme,"
+        },
+        {
+          "number": 56,
+          "text": "un état d’injustice et d’oppression qui sévit"
+        },
+        {
+          "number": 57,
+          "text": "plusieurs états en développement."
+        },
+        {
+          "number": 58,
+          "text": "L’école n’est pas en reste et subit les"
+        },
+        {
+          "number": 59,
+          "text": "contrecoups de cette violence structurelle"
+        },
+        {
+          "number": 60,
+          "text": "car c’est une institution de la société et"
+        },
+        {
+          "number": 61,
+          "text": "épouse ses contours, reproduit ses"
+        },
+        {
+          "number": 62,
+          "text": "inégalités, ses conflits de valeurs."
+        },
+        {
+          "number": 63,
+          "text": "L’éducation à la paix apparaît donc comme"
+        },
+        {
+          "number": 64,
+          "text": "une nécessité à l’école dans l’objectif"
+        },
+        {
+          "number": 65,
+          "text": "d’amener les enfants à comprendre et à"
+        },
+        {
+          "number": 66,
+          "text": "envisager avec sympathie les notions de"
+        },
+        {
+          "number": 67,
+          "text": "justice, d’égalité, de liberté, de tolérance,"
+        },
+        {
+          "number": 68,
+          "text": "de démocratie et à leur donner envie"
+        },
+        {
+          "number": 69,
+          "text": "d’œuvrer pour un monde plus humain, plus"
+        },
+        {
+          "number": 70,
+          "text": "solidaire."
+        },
+        {
+          "number": 71,
+          "text": "L’interdisciplinarité et la"
+        },
+        {
+          "number": 72,
+          "text": "transdisciplinarité permettent une"
+        },
+        {
+          "number": 73,
+          "text": "acquisition de compétences pour l’éducation"
+        },
+        {
+          "number": 74,
+          "text": "à la paix. Mais plus que la discipline c’est la"
+        },
+        {
+          "number": 75,
+          "text": "façon d’enseigner qui compte car elle est"
+        },
+        {
+          "number": 76,
+          "text": "porteuse d’habiletés sociales. Il faut"
+        },
+        {
+          "number": 77,
+          "text": "remarquer que plusieurs cours transversaux"
+        },
+        {
+          "number": 78,
+          "text": "existent et peuvent développer la culture de"
+        },
+        {
+          "number": 79,
+          "text": "la paix qui est un ensemble d’attitudes et de"
+        },
+        {
+          "number": 80,
+          "text": "comportements individuels et collectifs qui"
+        },
+        {
+          "number": 81,
+          "text": "l’inspirent et la fondent:"
+        },
+        {
+          "number": 82,
+          "text": "- l’éducation interculturelle: pour"
+        },
+        {
+          "number": 83,
+          "text": "consolider l’affirmation des cultures et"
+        },
+        {
+          "number": 84,
+          "text": "surtout  établir des liens entre les cultures"
+        },
+        {
+          "number": 85,
+          "text": "pour la tolérance active;"
+        },
+        {
+          "number": 86,
+          "text": "- l’éducation pour le développement:"
+        },
+        {
+          "number": 87,
+          "text": "elle vise le développement d’un civisme"
+        },
+        {
+          "number": 88,
+          "text": "global qui amène les enfants à œuvrer pour"
+        },
+        {
+          "number": 89,
+          "text": "la construction de leur avenir; elle est"
+        },
+        {
+          "number": 90,
+          "text": "globale et comprend les droits de l’homme,"
+        },
+        {
+          "number": 91,
+          "text": "la résolution non violente des conflits,"
+        },
+        {
+          "number": 92,
+          "text": "l’éducation environnementale;"
+        },
+        {
+          "number": 93,
+          "text": "- l’éducation environnementale: elle vise"
+        },
+        {
+          "number": 94,
+          "text": "développer des capacités pour comprendre"
+        },
+        {
+          "number": 95,
+          "text": "l’environnement, les interrelations entre les"
+        },
+        {
+          "number": 96,
+          "text": "éléments constitutifs et agir pour"
+        },
+        {
+          "number": 97,
+          "text": "sauvegarder cet équilibre;"
+        },
+        {
+          "number": 98,
+          "text": "- l’éducation à la démocratie: elle vise"
+        },
+        {
+          "number": 99,
+          "text": "l’acquisition de compétences pour le"
+        },
+        {
+          "number": 100,
+          "text": "dialogue, la négociation et la résolution non"
+        },
+        {
+          "number": 101,
+          "text": "violente de conflits;"
+        },
+        {
+          "number": null,
+          "text": "6"
+        },
+        {
+          "number": 102,
+          "text": "- l’éducation à vocation internationale:"
+        },
+        {
+          "number": 103,
+          "text": "c’est l’éducation pour la compréhension , la"
+        },
+        {
+          "number": 104,
+          "text": "coopération et la paix internationales,"
+        },
+        {
+          "number": 105,
+          "text": "l’éducation relative aux droits de l’homme"
+        },
+        {
+          "number": 106,
+          "text": "et aux libertés fondamentales;"
+        },
+        {
+          "number": 107,
+          "text": "- l’éducation à la citoyenneté: elle vise"
+        },
+        {
+          "number": 108,
+          "text": "développer des capacités pour reconnaître"
+        },
+        {
+          "number": 109,
+          "text": "et apprécier les valeurs requises pour la vie"
+        },
+        {
+          "number": 110,
+          "text": "en commun."
+        },
+        {
+          "number": 111,
+          "text": "Il est important que l’organisation"
+        },
+        {
+          "number": 112,
+          "text": "scolaire soit imprégnée des principes de"
+        },
+        {
+          "number": 113,
+          "text": "droits de l’homme. Ces droits doivent se"
+        },
+        {
+          "number": 114,
+          "text": "vivre en classe et dans toutes les structures"
+        },
+        {
+          "number": 115,
+          "text": "de l’école. L’organisation scolaire doit se"
+        },
+        {
+          "number": 116,
+          "text": "centrer sur l’enfant, branchée sur la réalité"
+        },
+        {
+          "number": 117,
+          "text": "du quotidien et fondée sur la collaboration."
+        },
+        {
+          "number": 118,
+          "text": "Pour conclure, l’école, parce qu’elle"
+        },
+        {
+          "number": 119,
+          "text": "est un des lieux privilégiés de formation des"
+        },
+        {
+          "number": 120,
+          "text": "futurs citoyens, le vecteur de nouvelles"
+        },
+        {
+          "number": 121,
+          "text": "valeurs, mais surtout parce qu’elle n’est pas"
+        },
+        {
+          "number": 122,
+          "text": "épargnée par la vague de violence qui sévit"
+        },
+        {
+          "number": 123,
+          "text": "la société, elle doit éduquer à la paix. Pour"
+        },
+        {
+          "number": 124,
+          "text": "cela elle doit s’inscrire dans un véritable"
+        },
+        {
+          "number": 125,
+          "text": "projet d’éducation à la citoyenneté,"
+        },
+        {
+          "number": 126,
+          "text": "s’appuyant sur le dialogue, la concertation,"
+        },
+        {
+          "number": 127,
+          "text": "la participation, la coopération et la lutte"
+        },
+        {
+          "number": 128,
+          "text": "contre l’exclusion."
+        },
+        {
+          "number": null,
+          "text": "Adapté du texte de Saliou Sarr, professeur et membre de"
+        },
+        {
+          "number": null,
+          "text": "l’équipe pédagogique du Centre International de Formation"
+        },
+        {
+          "number": null,
+          "text": "à l’Enseignement des Droits de l’Homme et de la Paix -"
+        },
+        {
+          "number": null,
+          "text": "CIFEDHOP, à Génève SUISSE."
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez"
+        },
+        {
+          "number": null,
+          "text": "aux questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2022-2-f2-french-q01",
+        "uece-2022-2-f2-french-q02",
+        "uece-2022-2-f2-french-q03",
+        "uece-2022-2-f2-french-q04",
+        "uece-2022-2-f2-french-q05",
+        "uece-2022-2-f2-french-q06",
+        "uece-2022-2-f2-french-q07",
+        "uece-2022-2-f2-french-q08",
+        "uece-2022-2-f2-french-q09",
+        "uece-2022-2-f2-french-q10",
+        "uece-2022-2-f2-french-q11",
+        "uece-2022-2-f2-french-q12",
+        "uece-2022-2-f2-french-q13",
+        "uece-2022-2-f2-french-q14",
+        "uece-2022-2-f2-french-q15",
+        "uece-2022-2-f2-french-q16",
+        "uece-2022-2-f2-french-q17",
+        "uece-2022-2-f2-french-q18",
+        "uece-2022-2-f2-french-q19",
+        "uece-2022-2-f2-french-q20"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "paperId": "uece-2016-1-f2-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2016-1-f2-french-t1",
+      "label": "Texto 1",
+      "title": "L’HOMME - PREAMBULE",
+      "lines": [
+        {
+          "number": null,
+          "text": "DÉCLARATION UNIVERSELLE DES DROITS DE"
+        },
+        {
+          "number": 1,
+          "text": "Considérant que la reconnaissance de la"
+        },
+        {
+          "number": 2,
+          "text": "dignité inhérente à tous les membres de la"
+        },
+        {
+          "number": 3,
+          "text": "famille humaine et de leurs droits égaux et"
+        },
+        {
+          "number": 4,
+          "text": "inaliénables constitue le fondement de la"
+        },
+        {
+          "number": 5,
+          "text": "liberté, de la justice et de la paix dans le"
+        },
+        {
+          "number": 6,
+          "text": "monde."
+        },
+        {
+          "number": 7,
+          "text": "Considérant que la méconnaissance et le"
+        },
+        {
+          "number": 8,
+          "text": "mépris des droits de l’homme ont conduit à des"
+        },
+        {
+          "number": 9,
+          "text": "actes de barbarie qui révoltent la conscience de"
+        },
+        {
+          "number": 10,
+          "text": "l’humanité et que l’avènement d’un monde où"
+        },
+        {
+          "number": 11,
+          "text": "les êtres humains seront libres de parler et de"
+        },
+        {
+          "number": 12,
+          "text": "croire, libérés de la terreur et de la misère, a"
+        },
+        {
+          "number": 13,
+          "text": "été proclamé comme la plus haute aspiration"
+        },
+        {
+          "number": 14,
+          "text": "de l’homme."
+        },
+        {
+          "number": 15,
+          "text": "Considérant qu’il est essentiel que les"
+        },
+        {
+          "number": 16,
+          "text": "droits de l’homme soient protégés par un"
+        },
+        {
+          "number": 17,
+          "text": "régime de droit pour que l’homme ne soit pas"
+        },
+        {
+          "number": 18,
+          "text": "contraint, en suprême recours, à la révolte"
+        },
+        {
+          "number": 19,
+          "text": "contre la tyrannie et l’oppression."
+        },
+        {
+          "number": 20,
+          "text": "Considérant qu’il est essentiel"
+        },
+        {
+          "number": 21,
+          "text": "d’encourager le développement de relations"
+        },
+        {
+          "number": 22,
+          "text": "amicales entre nations."
+        },
+        {
+          "number": 23,
+          "text": "Considérant que dans la Charte les"
+        },
+        {
+          "number": 24,
+          "text": "peuples des Nations Unies ont proclamé à"
+        },
+        {
+          "number": 25,
+          "text": "nouveau leur foi dans les droits fondamentaux"
+        },
+        {
+          "number": 26,
+          "text": "de l’homme, dans la dignité et la valeur de la"
+        },
+        {
+          "number": 27,
+          "text": "personne humaine, dans l’égalité des droits des"
+        },
+        {
+          "number": 28,
+          "text": "hommes et des femmes, et qu’ils se sont"
+        },
+        {
+          "number": 29,
+          "text": "déclarés résolus à favoriser le progrès social et"
+        },
+        {
+          "number": 30,
+          "text": "à instaurer de meilleures conditions de vie dans"
+        },
+        {
+          "number": 31,
+          "text": "une liberté plus grande."
+        },
+        {
+          "number": 32,
+          "text": "Considérant que les États Membres se"
+        },
+        {
+          "number": 33,
+          "text": "sont engagés à assurer, en coopération avec"
+        },
+        {
+          "number": 34,
+          "text": "l’Organisation des Nations Unies, le respect"
+        },
+        {
+          "number": 35,
+          "text": "universel et effectif des droits de l’homme et"
+        },
+        {
+          "number": 36,
+          "text": "des libertés fondamentales."
+        },
+        {
+          "number": 37,
+          "text": "Considérant qu’une conception"
+        },
+        {
+          "number": 38,
+          "text": "commune de ces droits et libertés est de la plus"
+        },
+        {
+          "number": 39,
+          "text": "haute importance pour remplir pleinement cet"
+        },
+        {
+          "number": 40,
+          "text": "engagement."
+        },
+        {
+          "number": 41,
+          "text": "L’Assemblée générale proclame la"
+        },
+        {
+          "number": 42,
+          "text": "présente Déclaration universelle des droits de"
+        },
+        {
+          "number": 43,
+          "text": "l’homme comme l’idéal à atteindre par tous les"
+        },
+        {
+          "number": 44,
+          "text": "peuples et toutes les nations afin que tous les"
+        },
+        {
+          "number": 45,
+          "text": "individus et tous les organes de la société,"
+        },
+        {
+          "number": 46,
+          "text": "ayant cette Déclaration constamment à l’esprit,"
+        },
+        {
+          "number": 47,
+          "text": "s’efforcent, par l’enseignement et l’éducation,"
+        },
+        {
+          "number": 48,
+          "text": "de développer le respect de ces droits et"
+        },
+        {
+          "number": 49,
+          "text": "libertés et d’en assurer, par des mesures"
+        },
+        {
+          "number": 50,
+          "text": "progressives d’ordre national et international, la"
+        },
+        {
+          "number": 51,
+          "text": "reconnaissance et l’application universelles et"
+        },
+        {
+          "number": 52,
+          "text": "effectives, tant parmi les populations des États"
+        },
+        {
+          "number": 53,
+          "text": "Membres eux-mêmes que parmi celles des"
+        },
+        {
+          "number": 54,
+          "text": "territoires placés sous leur juridiction."
+        },
+        {
+          "number": null,
+          "text": "Adoptée par"
+        },
+        {
+          "number": null,
+          "text": "l’Assemblée générale des Nations Unies le 10"
+        },
+        {
+          "number": null,
+          "text": "décembre 1948"
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez"
+        },
+        {
+          "number": null,
+          "text": "aux questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2016-1-f2-french-q01",
+        "uece-2016-1-f2-french-q02",
+        "uece-2016-1-f2-french-q03",
+        "uece-2016-1-f2-french-q04",
+        "uece-2016-1-f2-french-q05",
+        "uece-2016-1-f2-french-q06",
+        "uece-2016-1-f2-french-q07",
+        "uece-2016-1-f2-french-q08",
+        "uece-2016-1-f2-french-q09",
+        "uece-2016-1-f2-french-q10",
+        "uece-2016-1-f2-french-q11",
+        "uece-2016-1-f2-french-q12",
+        "uece-2016-1-f2-french-q13",
+        "uece-2016-1-f2-french-q14",
+        "uece-2016-1-f2-french-q15",
+        "uece-2016-1-f2-french-q16",
+        "uece-2016-1-f2-french-q17",
+        "uece-2016-1-f2-french-q18",
+        "uece-2016-1-f2-french-q19",
+        "uece-2016-1-f2-french-q20"
+      ]
+    }
+  ]
+}

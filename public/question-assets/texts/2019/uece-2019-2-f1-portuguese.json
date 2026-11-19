@@ -1,0 +1,774 @@
+{
+  "paperId": "uece-2019-2-f1-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2019-2-f1-portuguese-t1",
+      "label": "TEXTO 1",
+      "title": "A Banda",
+      "lines": [
+        {
+          "number": 1,
+          "text": "Estava à toa na vida"
+        },
+        {
+          "number": 2,
+          "text": "O meu amor me chamou"
+        },
+        {
+          "number": 3,
+          "text": "Pra ver a banda passar"
+        },
+        {
+          "number": 4,
+          "text": "Cantando coisas de amor"
+        },
+        {
+          "number": 5,
+          "text": "A minha gente sofrida"
+        },
+        {
+          "number": 6,
+          "text": "Despediu-se da dor"
+        },
+        {
+          "number": 7,
+          "text": "Pra ver a banda passar"
+        },
+        {
+          "number": 8,
+          "text": "Cantando coisas de amor"
+        },
+        {
+          "number": null,
+          "text": "[...]"
+        },
+        {
+          "number": 9,
+          "text": "O homem sério que contava dinheiro parou"
+        },
+        {
+          "number": 10,
+          "text": "O faroleiro que contava vantagem parou"
+        },
+        {
+          "number": 11,
+          "text": "A namorada que contava as estrelas parou"
+        },
+        {
+          "number": 12,
+          "text": "Para ver, ouvir e dar passagem"
+        },
+        {
+          "number": 13,
+          "text": "A moça triste que vivia calada sorriu"
+        },
+        {
+          "number": 14,
+          "text": "A rosa triste que vivia fechada se abriu"
+        },
+        {
+          "number": 15,
+          "text": "E a meninada toda se assanhou"
+        },
+        {
+          "number": 16,
+          "text": "Pra ver a banda passar"
+        },
+        {
+          "number": 17,
+          "text": "Cantando coisas de amor"
+        },
+        {
+          "number": null,
+          "text": "[...]"
+        },
+        {
+          "number": 18,
+          "text": "O velho fraco se esqueceu do cansaço e"
+        },
+        {
+          "number": 19,
+          "text": "pensou"
+        },
+        {
+          "number": 20,
+          "text": "Que ainda era moço pra sair no terraço e"
+        },
+        {
+          "number": 21,
+          "text": "dançou"
+        },
+        {
+          "number": 22,
+          "text": "A moça feia debruçou na janela"
+        },
+        {
+          "number": 23,
+          "text": "Pensando que a banda tocava pra ela"
+        },
+        {
+          "number": 24,
+          "text": "A marcha alegre se espalhou na avenida e"
+        },
+        {
+          "number": 25,
+          "text": "insistiu"
+        },
+        {
+          "number": 26,
+          "text": "A lua cheia que vivia escondida surgiu"
+        },
+        {
+          "number": 27,
+          "text": "Minha cidade toda se enfeitou"
+        },
+        {
+          "number": 28,
+          "text": "Pra ver a banda passar"
+        },
+        {
+          "number": 29,
+          "text": "Cantando coisas de amor"
+        },
+        {
+          "number": 30,
+          "text": "Mas para meu desencanto"
+        },
+        {
+          "number": 31,
+          "text": "O que era doce acabou"
+        },
+        {
+          "number": 32,
+          "text": "Tudo tomou seu lugar"
+        },
+        {
+          "number": 33,
+          "text": "Depois que a banda passou"
+        },
+        {
+          "number": 34,
+          "text": "E cada qual no seu canto"
+        },
+        {
+          "number": 35,
+          "text": "E em cada canto uma dor"
+        },
+        {
+          "number": 36,
+          "text": "Depois da banda passar"
+        },
+        {
+          "number": 37,
+          "text": "Cantando coisas de amor"
+        },
+        {
+          "number": null,
+          "text": "[...]"
+        },
+        {
+          "number": null,
+          "text": "HOLLANDA, Francisco Buarque de; RUSSEL, Bob. A banda."
+        },
+        {
+          "number": null,
+          "text": "Rio de Janeiro: RGE. 1966. Disponível em:"
+        },
+        {
+          "number": null,
+          "text": "https://www.vagalume.com.br/chico-buarque/a-banda.html."
+        },
+        {
+          "number": null,
+          "text": "Acessado em 27 de abril de 2019."
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f1-portuguese-q01",
+        "uece-2019-2-f1-portuguese-q02",
+        "uece-2019-2-f1-portuguese-q03"
+      ]
+    },
+    {
+      "id": "uece-2019-2-f1-portuguese-t2",
+      "label": "TEXTO 2",
+      "title": "Em Busca de Novas Armas Contra o",
+      "lines": [
+        {
+          "number": null,
+          "text": "Aedes Aegypt"
+        },
+        {
+          "number": 38,
+          "text": "O infectologista Rivaldo Venâncio da Cunha já"
+        },
+        {
+          "number": 39,
+          "text": "foi diagnosticado com dengue duas vezes."
+        },
+        {
+          "number": 40,
+          "text": "Nenhuma surpresa. O coordenador de"
+        },
+        {
+          "number": 41,
+          "text": "Vigilância em Saúde e Laboratórios de"
+        },
+        {
+          "number": 42,
+          "text": "Referência da Fundação Oswaldo Cruz"
+        },
+        {
+          "number": 43,
+          "text": "(Fiocruz) e professor da Medicina da"
+        },
+        {
+          "number": null,
+          "text": "3"
+        },
+        {
+          "number": 44,
+          "text": "Universidade Federal do Mato Grosso do Sul"
+        },
+        {
+          "number": 45,
+          "text": "vive no Brasil, país castigado pela doença nas"
+        },
+        {
+          "number": 46,
+          "text": "últimas três décadas e por outras também"
+        },
+        {
+          "number": 47,
+          "text": "transmitidas pelo Aedes aegypt. Essas"
+        },
+        {
+          "number": 48,
+          "text": "epidemias, explica o pesquisador nesta"
+        },
+        {
+          "number": 49,
+          "text": "entrevista, devem continuar décadas adiante:"
+        },
+        {
+          "number": 50,
+          "text": "“Ainda utilizamos o modelo de controle do"
+        },
+        {
+          "number": 51,
+          "text": "mosquito que foi exitoso há 110 anos com"
+        },
+        {
+          "number": 52,
+          "text": "Oswaldo Cruz”. Nem as águas de março que"
+        },
+        {
+          "number": 53,
+          "text": "acabaram de fechar o verão são promessa de"
+        },
+        {
+          "number": 54,
+          "text": "uma trégua. “Temos observado que, em"
+        },
+        {
+          "number": 55,
+          "text": "algumas localidades do Brasil, o padrão de"
+        },
+        {
+          "number": 56,
+          "text": "ocorrência da dengue tem se mantido estável"
+        },
+        {
+          "number": 57,
+          "text": "mesmo fora do verão. Isso aponta o óbvio: a"
+        },
+        {
+          "number": 58,
+          "text": "população e as autoridades sanitárias têm de"
+        },
+        {
+          "number": 59,
+          "text": "atuar durante todo o ano, e não somente no"
+        },
+        {
+          "number": 60,
+          "text": "verão. Infelizmente, isso não ocorre em um"
+        },
+        {
+          "number": 61,
+          "text": "padrão homogêneo”, ensina Cunha, que"
+        },
+        {
+          "number": 62,
+          "text": "comemora, no entanto, abordagens"
+        },
+        {
+          "number": 63,
+          "text": "promissoras para o controle do mosquito e vê"
+        },
+        {
+          "number": 64,
+          "text": "uma melhora da vigilância nas últimas"
+        },
+        {
+          "number": 65,
+          "text": "décadas."
+        },
+        {
+          "number": 66,
+          "text": "Ciência Hoje: O Brasil sofreu"
+        },
+        {
+          "number": 67,
+          "text": "recentemente com grandes surtos de"
+        },
+        {
+          "number": 68,
+          "text": "dengue, zika e febre amarela. Devemos"
+        },
+        {
+          "number": 69,
+          "text": "esperar novos surtos em breve? O que"
+        },
+        {
+          "number": 70,
+          "text": "dizem os dados epidemiológicos?"
+        },
+        {
+          "number": 71,
+          "text": "Rivaldo Venâncio da Cunha: As doenças"
+        },
+        {
+          "number": 72,
+          "text": "transmitidas pelo Aedes continuarão ocorrendo"
+        },
+        {
+          "number": 73,
+          "text": "nos próximos 20 ou 30 anos. Por que"
+        },
+        {
+          "number": 74,
+          "text": "continuarão ocorrendo? Porque utilizamos o"
+        },
+        {
+          "number": 75,
+          "text": "modelo de controle do mosquito que foi"
+        },
+        {
+          "number": 76,
+          "text": "exitoso há 110 anos com Oswaldo Cruz e,"
+        },
+        {
+          "number": 77,
+          "text": "depois, com Clementino Fraga e outros. Se"
+        },
+        {
+          "number": 78,
+          "text": "não houver uma nova abordagem para"
+        },
+        {
+          "number": 79,
+          "text": "controle do vetor, continuaremos tendo"
+        },
+        {
+          "number": 80,
+          "text": "epidemias, porque, infelizmente, as questões"
+        },
+        {
+          "number": 81,
+          "text": "estruturais da sociedade permanecem"
+        },
+        {
+          "number": 82,
+          "text": "praticamente inalteradas. Essa bárbara"
+        },
+        {
+          "number": 83,
+          "text": "segregação social que o Brasil tem,"
+        },
+        {
+          "number": 84,
+          "text": "esse apartheid social, que é fruto de séculos,"
+        },
+        {
+          "number": 85,
+          "text": "criou condições para haver comunidades"
+        },
+        {
+          "number": 86,
+          "text": "extremamente vulneráveis, onde a coleta do"
+        },
+        {
+          "number": 87,
+          "text": "lixo, quando existe, é feita de forma"
+        },
+        {
+          "number": 88,
+          "text": "inadequada, e nas quais o fornecimento de"
+        },
+        {
+          "number": 89,
+          "text": "água é irregular. São lugares onde o Estado"
+        },
+        {
+          "number": 90,
+          "text": "inexiste. Há comunidades em que policiais não"
+        },
+        {
+          "number": 91,
+          "text": "podem entrar a qualquer hora, imagine um"
+        },
+        {
+          "number": 92,
+          "text": "agente de controle de vetores. Essa"
+        },
+        {
+          "number": 93,
+          "text": "complexidade urbana não aparenta que será"
+        },
+        {
+          "number": 94,
+          "text": "modificada nos próximos anos."
+        },
+        {
+          "number": null,
+          "text": "CUNHA, Rivaldo Venâncio da. Em Busca de Novas Armas"
+        },
+        {
+          "number": null,
+          "text": "Contra o Aedes Aegypt. Ciência Hoje, São Paulo, n.353, abr."
+        },
+        {
+          "number": null,
+          "text": "2019. Entrevista concedida a Valquíria Daher. Disponível"
+        },
+        {
+          "number": null,
+          "text": "em: http://cienciahoje.org.br/artigo/em-busca-de-novas-"
+        },
+        {
+          "number": null,
+          "text": "armas-contra-o-aedes-aegypt/."
+        },
+        {
+          "number": null,
+          "text": "Acessado em 27 de abril de 2019."
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f1-portuguese-q04",
+        "uece-2019-2-f1-portuguese-q05",
+        "uece-2019-2-f1-portuguese-q06",
+        "uece-2019-2-f1-portuguese-q07"
+      ]
+    },
+    {
+      "id": "uece-2019-2-f1-portuguese-t3",
+      "label": "TEXTO 3",
+      "title": "No Mundo das Letras",
+      "lines": [
+        {
+          "number": 95,
+          "text": "Vem à livraria nas horas de maior"
+        },
+        {
+          "number": 96,
+          "text": "movimento, mas isso, já se sabe, é de"
+        },
+        {
+          "number": 97,
+          "text": "propósito: facilita-lhe o trabalho."
+        },
+        {
+          "number": 98,
+          "text": "Rouba livros. Faz isso há muitos anos,"
+        },
+        {
+          "number": 99,
+          "text": "desde a infância, praticamente. Começou"
+        },
+        {
+          "number": 100,
+          "text": "roubando um texto escolar que precisava"
+        },
+        {
+          "number": 101,
+          "text": "para o colégio: foi tão fácil que gostou; e"
+        },
+        {
+          "number": 102,
+          "text": "passou a roubar romances de aventura, livros"
+        },
+        {
+          "number": 103,
+          "text": "de ficção científica, textos sobre arte,"
+        },
+        {
+          "number": 104,
+          "text": "política, ciência, economia. Aperfeiçoou tanto"
+        },
+        {
+          "number": 105,
+          "text": "a técnica que chegava a furtar quatro, cinco"
+        },
+        {
+          "number": 106,
+          "text": "livros de uma vez. Roubou livros em todas as"
+        },
+        {
+          "number": 107,
+          "text": "cidades por onde passou. Em Londres, uma"
+        },
+        {
+          "number": 108,
+          "text": "vez, quase o pegaram; um incidente que"
+        },
+        {
+          "number": 109,
+          "text": "recorda com divertida emoção."
+        },
+        {
+          "number": 110,
+          "text": "No início, lia os livros que roubava."
+        },
+        {
+          "number": 111,
+          "text": "Depois, a leitura deixou de lhe interessar. A"
+        },
+        {
+          "number": 112,
+          "text": "coisa era roubar por roubar, por amor à arte;"
+        },
+        {
+          "number": 113,
+          "text": "dava os livros de presente ou simplesmente"
+        },
+        {
+          "number": 114,
+          "text": "os jogava fora. Mas cada vez tinha menos"
+        },
+        {
+          "number": 115,
+          "text": "tempo para ir às livrarias; os negócios o"
+        },
+        {
+          "number": 116,
+          "text": "absorviam demais. Além disso, não podia,"
+        },
+        {
+          "number": 117,
+          "text": "como empresário, correr o risco de um"
+        },
+        {
+          "number": 118,
+          "text": "flagrante. Um problema – que ele resolveu"
+        },
+        {
+          "number": 119,
+          "text": "como resolve todos os problemas, com"
+        },
+        {
+          "number": 120,
+          "text": "argúcia, com arrojo, com imaginação."
+        },
+        {
+          "number": 121,
+          "text": "Zás! Acabou de surrupiar um. Nada de"
+        },
+        {
+          "number": 122,
+          "text": "espetacular nessa operação: simplesmente"
+        },
+        {
+          "number": 123,
+          "text": "pegou um pequeno livro e o enfiou no bolso."
+        },
+        {
+          "number": 124,
+          "text": "Olha para os lados; aparentemente ninguém"
+        },
+        {
+          "number": 125,
+          "text": "notou nada. Cumprimenta-me e se vai."
+        },
+        {
+          "number": 126,
+          "text": "Um minuto depois retorna. Como é que"
+        },
+        {
+          "number": 127,
+          "text": "me saí, pergunta, não sem ansiedade."
+        },
+        {
+          "number": 128,
+          "text": "Perfeito, respondo, e ele sorri, agradecido. O"
+        },
+        {
+          "number": 129,
+          "text": "que me deixa satisfeito; elogiá-lo é não"
+        },
+        {
+          "number": 130,
+          "text": "apenas um ato de compaixão, é também uma"
+        },
+        {
+          "number": 131,
+          "text": "medida de prudência. Afinal, ele é o dono da"
+        },
+        {
+          "number": 132,
+          "text": "livraria."
+        },
+        {
+          "number": null,
+          "text": "SCLIAR, Moacyr. No Mundo das Letras. In: SCLIAR, Moacyr;"
+        },
+        {
+          "number": null,
+          "text": "FONSECA, Rubem; MIRANDA, Ana. Pipocas. São Paulo:"
+        },
+        {
+          "number": null,
+          "text": "Companhia das Letras, 2003."
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f1-portuguese-q08",
+        "uece-2019-2-f1-portuguese-q09"
+      ]
+    },
+    {
+      "id": "uece-2019-2-f1-portuguese-t4",
+      "label": "TEXTO 4",
+      "title": "Não Espere Pelo Fim",
+      "lines": [
+        {
+          "number": 133,
+          "text": "Foi com palavras aprazíveis e um"
+        },
+        {
+          "number": 134,
+          "text": "ingênuo sorriso que o homem de rosto"
+        },
+        {
+          "number": 135,
+          "text": "enrugado e cabelos acinzentados dirigiu-se à"
+        },
+        {
+          "number": 136,
+          "text": "sua ranzinza colega de abrigo:"
+        },
+        {
+          "number": 137,
+          "text": "– A vida não acabou. Não é chegada a"
+        },
+        {
+          "number": 138,
+          "text": "hora de postar-se diante do túmulo como se"
+        },
+        {
+          "number": null,
+          "text": "5"
+        },
+        {
+          "number": 139,
+          "text": "a morte estivesse à espreita. É tempo de se"
+        },
+        {
+          "number": 140,
+          "text": "renovar, tomar novas escolhas e trilhar por"
+        },
+        {
+          "number": 141,
+          "text": "novos caminhos. Alimente os sonhos! Seja"
+        },
+        {
+          "number": 142,
+          "text": "jovem novamente!"
+        },
+        {
+          "number": 143,
+          "text": "Tão rápido, naquele dia, nasceu uma"
+        },
+        {
+          "number": 144,
+          "text": "inesperada paixão entre os dois. Aquele"
+        },
+        {
+          "number": 145,
+          "text": "carinho que Emanuel sempre sentira por"
+        },
+        {
+          "number": 146,
+          "text": "Maria das Dores enfim foi retribuído."
+        },
+        {
+          "number": 147,
+          "text": "Quem disse que os velhos não podem"
+        },
+        {
+          "number": 148,
+          "text": "se apaixonar?"
+        },
+        {
+          "number": 149,
+          "text": "Maldito preconceito que cria raízes"
+        },
+        {
+          "number": 150,
+          "text": "profundas, inclusive na alma dos segregados!"
+        },
+        {
+          "number": 151,
+          "text": "E, assim, tão logo o tempo passou."
+        },
+        {
+          "number": 152,
+          "text": "Anos de risos fáceis."
+        },
+        {
+          "number": 153,
+          "text": "No entanto, não foi com lágrimas de"
+        },
+        {
+          "number": 154,
+          "text": "arrependimento que Maria fitou o epitáfio de"
+        },
+        {
+          "number": 155,
+          "text": "Emanuel, mas sim com olhos aquosos de"
+        },
+        {
+          "number": 156,
+          "text": "saudade e uma profunda paz em seu coração"
+        },
+        {
+          "number": 157,
+          "text": "renovado."
+        },
+        {
+          "number": null,
+          "text": "JONES, Sebastião. Não Espere Pelo Fim. Disponível em:"
+        },
+        {
+          "number": null,
+          "text": "http://autoressaconcursosliterarios.blogspot.com/2013/05/o"
+        },
+        {
+          "number": null,
+          "text": "s-20-minicontos-classificados.html. [online]. 2013. Acessado"
+        },
+        {
+          "number": null,
+          "text": "em 26 de abril de 2019."
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f1-portuguese-q10",
+        "uece-2019-2-f1-portuguese-q11",
+        "uece-2019-2-f1-portuguese-q12"
+      ]
+    }
+  ]
+}

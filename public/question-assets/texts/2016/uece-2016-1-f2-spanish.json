@@ -1,0 +1,299 @@
+{
+  "paperId": "uece-2016-1-f2-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2016-1-f2-spanish-t1",
+      "label": "Texto 1",
+      "title": "Bajo la piel de Picasso",
+      "lines": [
+        {
+          "number": 1,
+          "text": "“El proyecto y la idea no era descubrir"
+        },
+        {
+          "number": 2,
+          "text": "obras nuevas de Picasso, sino conocer de forma"
+        },
+        {
+          "number": 3,
+          "text": "objetiva su proceso de trabajo a partir de"
+        },
+        {
+          "number": 4,
+          "text": "algunas de las obras de juventud, además de"
+        },
+        {
+          "number": 5,
+          "text": "conocer mejor nuestra colección y abrir nuevas"
+        },
+        {
+          "number": 6,
+          "text": "líneas de investigación”, explica Reyes Jiménez,"
+        },
+        {
+          "number": 7,
+          "text": "responsable del Departamento de Conservación"
+        },
+        {
+          "number": 8,
+          "text": "Preventiva del Museo Picasso de Barcelona."
+        },
+        {
+          "number": 9,
+          "text": "Pero el análisis de seis de las obras, todos"
+        },
+        {
+          "number": 10,
+          "text": "retratos, de los fondos de este museo; dos"
+        },
+        {
+          "number": 11,
+          "text": "realizadas en el periodo en el que Picasso vivió"
+        },
+        {
+          "number": 12,
+          "text": "con su familia en Galicia y cuatro de su estancia"
+        },
+        {
+          "number": 13,
+          "text": "en Barcelona, hasta 1904 en que se instala en"
+        },
+        {
+          "number": 14,
+          "text": "París, han hecho aflorado otras obras"
+        },
+        {
+          "number": 15,
+          "text": "anteriores."
+        },
+        {
+          "number": 16,
+          "text": "Es el caso de Hombre con boina, de 1895,"
+        },
+        {
+          "number": 17,
+          "text": "bajo el que se ha descubierto una composición"
+        },
+        {
+          "number": 18,
+          "text": "subyacente, una pintura  estrechamente ligada"
+        },
+        {
+          "number": 19,
+          "text": "a la escasa producción de su padre en el que"
+        },
+        {
+          "number": 20,
+          "text": "pueden verse dos palomas, por lo que no se"
+        },
+        {
+          "number": 21,
+          "text": "descarta que Picasso pintara sobre una obra de"
+        },
+        {
+          "number": 22,
+          "text": "su padre José Ruiz. En Josep Cardona Furró, de"
+        },
+        {
+          "number": 23,
+          "text": "1899, el pintor trabajó en la tela tres veces, en"
+        },
+        {
+          "number": 24,
+          "text": "una hizo un paisaje de tejados de Barcelona"
+        },
+        {
+          "number": 25,
+          "text": "que no pertenece a su época azul, sino que lo"
+        },
+        {
+          "number": 26,
+          "text": "llenó de colores. En Retrato de un desconocido"
+        },
+        {
+          "number": 27,
+          "text": "al estilo de El Greco (1899) el malagueño, que"
+        },
+        {
+          "number": 28,
+          "text": "había pintado un torso desnudo en un  ejercicio"
+        },
+        {
+          "number": 29,
+          "text": "académico de la Llotja donde estudiaba, no"
+        },
+        {
+          "number": 30,
+          "text": "dudó en trocearlo y reutilizarlo después de"
+        },
+        {
+          "number": 31,
+          "text": "haber sido puntuado por su profesor; mientras"
+        },
+        {
+          "number": 32,
+          "text": "que debajo de Autorretrato con peluca aparece"
+        },
+        {
+          "number": 33,
+          "text": "otra imagen de un personaje con un enorme"
+        },
+        {
+          "number": 34,
+          "text": "sombrero, que quizá es el periodista Pompeu"
+        },
+        {
+          "number": 35,
+          "text": "Gener, amigo del artista de los Quatre Gats y,"
+        },
+        {
+          "number": 36,
+          "text": "por encima, antes de la última imagen, un"
+        },
+        {
+          "number": 37,
+          "text": "retrato del joven Picasso sin peluca."
+        },
+        {
+          "number": 38,
+          "text": "“Esta forma de trabajar no es una"
+        },
+        {
+          "number": 39,
+          "text": "novedad”, remarca Jiménez por cuyas manos"
+        },
+        {
+          "number": 40,
+          "text": "han pasado muchas obras del museo"
+        },
+        {
+          "number": 41,
+          "text": "barcelonés que han detectado obras"
+        },
+        {
+          "number": 42,
+          "text": "conservadas bajo la primera piel de las"
+        },
+        {
+          "number": 43,
+          "text": "pinturas. Pasó en 2010 con Ciencia y Caridad,"
+        },
+        {
+          "number": 44,
+          "text": "una obra de 1897 que el adolescente"
+        },
+        {
+          "number": 45,
+          "text": "Picasso pintó sobre otra anterior dándole la"
+        },
+        {
+          "number": 46,
+          "text": "vuelta al lienzo y más reciente, en 2013,"
+        },
+        {
+          "number": 47,
+          "text": "con Azoteas de Barcelona, pintado en 1903, en"
+        },
+        {
+          "number": 48,
+          "text": "el que se vio en una capa inferior una pareja,"
+        },
+        {
+          "number": 49,
+          "text": "un tema recurrente en la producción picassiana"
+        },
+        {
+          "number": 50,
+          "text": "de los años 1902 y 1903 que concluyó"
+        },
+        {
+          "number": 51,
+          "text": "magistralmente con La vida, su obra más"
+        },
+        {
+          "number": 52,
+          "text": "destacada del periodo azul y que es una de las"
+        },
+        {
+          "number": 53,
+          "text": "obras más destacadas del Museo de Arte de"
+        },
+        {
+          "number": 54,
+          "text": "Cleveland."
+        },
+        {
+          "number": 55,
+          "text": "“Queríamos conocer mejor la datación, la"
+        },
+        {
+          "number": 56,
+          "text": "estructura, el proceso creativo, los materiales y"
+        },
+        {
+          "number": 57,
+          "text": "los pigmentos empleados en seis obras"
+        },
+        {
+          "number": 58,
+          "text": "realizadas entre 1895 y 1900, del periodo de"
+        },
+        {
+          "number": 59,
+          "text": "formación del artista y realizar nuevas lecturas"
+        },
+        {
+          "number": 60,
+          "text": "de estas obras”, prosigue la investigadora,"
+        },
+        {
+          "number": 61,
+          "text": "convencida de que Picasso no repintaba por un"
+        },
+        {
+          "number": 62,
+          "text": "tema económico, sino que “buscaba la textura"
+        },
+        {
+          "number": 63,
+          "text": "y la forma que le daba el pintar sobre una obra"
+        },
+        {
+          "number": 64,
+          "text": "acabada, como si fuera un objeto encontrado”."
+        },
+        {
+          "number": null,
+          "text": "Periódico EL PAIS – 24/11/2015"
+        },
+        {
+          "number": null,
+          "text": "Texto adaptado."
+        }
+      ],
+      "questionIds": [
+        "uece-2016-1-f2-spanish-q01",
+        "uece-2016-1-f2-spanish-q02",
+        "uece-2016-1-f2-spanish-q03",
+        "uece-2016-1-f2-spanish-q04",
+        "uece-2016-1-f2-spanish-q05",
+        "uece-2016-1-f2-spanish-q06",
+        "uece-2016-1-f2-spanish-q07",
+        "uece-2016-1-f2-spanish-q08",
+        "uece-2016-1-f2-spanish-q09",
+        "uece-2016-1-f2-spanish-q10",
+        "uece-2016-1-f2-spanish-q11",
+        "uece-2016-1-f2-spanish-q12",
+        "uece-2016-1-f2-spanish-q13",
+        "uece-2016-1-f2-spanish-q14",
+        "uece-2016-1-f2-spanish-q15",
+        "uece-2016-1-f2-spanish-q16",
+        "uece-2016-1-f2-spanish-q17",
+        "uece-2016-1-f2-spanish-q18",
+        "uece-2016-1-f2-spanish-q19",
+        "uece-2016-1-f2-spanish-q20"
+      ]
+    }
+  ]
+}

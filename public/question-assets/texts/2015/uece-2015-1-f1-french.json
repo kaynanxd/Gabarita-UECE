@@ -1,0 +1,173 @@
+{
+  "paperId": "uece-2015-1-f1-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2015-1-f1-french-t1",
+      "label": "TEXTE",
+      "title": "Le savoir-faire",
+      "lines": [
+        {
+          "number": null,
+          "text": "La chose que j’aurais vraiment voulu faire,"
+        },
+        {
+          "number": null,
+          "text": "beaucoup plus que celle que je fais aujourd’hui et qui"
+        },
+        {
+          "number": null,
+          "text": "(je le dis avec toute l’honnêteté dont je suis capable)"
+        },
+        {
+          "number": null,
+          "text": "ne m’apporte que la satisfaction de pouvoir rester"
+        },
+        {
+          "number": null,
+          "text": "souvent seul chez moi, la chose que j’aurais vraiment"
+        },
+        {
+          "number": null,
+          "text": "voulu faire donc, c’est construire des ponts, des"
+        },
+        {
+          "number": null,
+          "text": "tunnels et des autoroutes. Surtout des ponts ou des"
+        },
+        {
+          "number": null,
+          "text": "viaducs qui sont, à mon sens, les plus beaux"
+        },
+        {
+          "number": null,
+          "text": "ouvrages que l’on puisse concevoir: ce tas de"
+        },
+        {
+          "number": null,
+          "text": "poutrelles, d’écrous, de câbles d’acier, de béton armé"
+        },
+        {
+          "number": null,
+          "text": "et de tous ces éléments que le savoir-faire"
+        },
+        {
+          "number": null,
+          "text": "d’ingénieur s’alliant à la force des ouvriers"
+        },
+        {
+          "number": null,
+          "text": "assemblent et agencent en un élégant ouvrage d’art"
+        },
+        {
+          "number": null,
+          "text": "dégageant, et c’est un paradoxe pour quelque chose"
+        },
+        {
+          "number": null,
+          "text": "d’aussi solide qu’on lui fait passer dessus camions et"
+        },
+        {
+          "number": null,
+          "text": "train, un tel sentiment de légèreté."
+        },
+        {
+          "number": null,
+          "text": "Il m’arrive souvent de passer du temps sur mon"
+        },
+        {
+          "number": null,
+          "text": "ordinateur, à regarder des photographies de ponts,"
+        },
+        {
+          "number": null,
+          "text": "de tunnels, de viaducs et de me sentir, à leur vue, à"
+        },
+        {
+          "number": null,
+          "text": "la fois solide et bien ancré et libre et léger et"
+        },
+        {
+          "number": null,
+          "text": "imposant et réconfortant et responsable, enfin bref"
+        },
+        {
+          "number": null,
+          "text": "d’avoir toutes ces caractéristiques que l’on attend"
+        },
+        {
+          "number": null,
+          "text": "généralement d’un père."
+        },
+        {
+          "number": null,
+          "text": "Être ingénieur, le maître de ces ouvrages, aurait"
+        },
+        {
+          "number": null,
+          "text": "été pour moi une source de haute satisfaction."
+        },
+        {
+          "number": null,
+          "text": "Savoir, à la fin de la journée, que mes efforts, que"
+        },
+        {
+          "number": null,
+          "text": "mon travail, que mon “savoir-faire” se seront traduits"
+        },
+        {
+          "number": null,
+          "text": "en quelque chose d’immensément réel, dont"
+        },
+        {
+          "number": null,
+          "text": "l’existence puiserait sa source dans l’implacable"
+        },
+        {
+          "number": null,
+          "text": "logique des mathématiques, dans la connaissance"
+        },
+        {
+          "number": null,
+          "text": "approfondie de la physique et surtout dans la"
+        },
+        {
+          "number": null,
+          "text": "maîtrise de la matière, aurait confirmé que dans la"
+        },
+        {
+          "number": null,
+          "text": "course bizarre de l’humanité, je tenais un rôle"
+        },
+        {
+          "number": null,
+          "text": "modeste mais clair: celui de permettre des passages,"
+        },
+        {
+          "number": null,
+          "text": "par dessus ou par dessous, comme un flux de vie."
+        },
+        {
+          "number": null,
+          "text": "GUNZIG, Thomas. Dis-moi dix mots semés au loin.2013."
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez"
+        },
+        {
+          "number": null,
+          "text": "aux questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2015-1-f1-french-q55",
+        "uece-2015-1-f1-french-q56",
+        "uece-2015-1-f1-french-q57",
+        "uece-2015-1-f1-french-q58",
+        "uece-2015-1-f1-french-q59",
+        "uece-2015-1-f1-french-q60"
+      ]
+    }
+  ]
+}

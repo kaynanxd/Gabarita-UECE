@@ -1,0 +1,219 @@
+{
+  "paperId": "uece-2017-1-f2-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2017-1-f2-spanish-t1",
+      "label": "Texto 1",
+      "title": "CUANDO SE HACEN MAYORES",
+      "lines": [
+        {
+          "number": null,
+          "text": "LOS BONOBOS TAMBIÉN NECESITAN GAFAS"
+        },
+        {
+          "number": 1,
+          "text": "El estudio ha consistido en la observación"
+        },
+        {
+          "number": 2,
+          "text": "de 14 bonobos salvajes de una reserva del"
+        },
+        {
+          "number": 3,
+          "text": "Congo con edades que oscilaban entre los 11 y"
+        },
+        {
+          "number": 4,
+          "text": "los 45 años de edad. Los primatólogos tomaron"
+        },
+        {
+          "number": 5,
+          "text": "fotografías mientras los animales se"
+        },
+        {
+          "number": 6,
+          "text": "desparasitaban y se comparó la distancia en la"
+        },
+        {
+          "number": 7,
+          "text": "que los diferentes individuos realizaban el"
+        },
+        {
+          "number": 8,
+          "text": "despiojado en función de su edad y sexo."
+        },
+        {
+          "number": 9,
+          "text": "Curiosamente, la distancia para acicalarse"
+        },
+        {
+          "number": 10,
+          "text": "aumentó en medida que aumentaba su edad."
+        },
+        {
+          "number": 11,
+          "text": "\"Encontramos que los bonobos silvestres"
+        },
+        {
+          "number": 12,
+          "text": "mostraban los síntomas de miopía alrededor de"
+        },
+        {
+          "number": 13,
+          "text": "los 40 años de edad\", ha asegurado Heungjin"
+        },
+        {
+          "number": 14,
+          "text": "Ryu, del Instituto de Investigación de Primates"
+        },
+        {
+          "number": 15,
+          "text": "de la Universidad de Kyoto. \"Nos sorprendió que"
+        },
+        {
+          "number": 16,
+          "text": "el patrón encontrado en bonobos es similar al"
+        },
+        {
+          "number": 17,
+          "text": "patrón de los seres humanos. Esto sugiere que"
+        },
+        {
+          "number": 18,
+          "text": "el deterioro de los ojos no ha cambiado mucho"
+        },
+        {
+          "number": 19,
+          "text": "desde el antepasado común entre los"
+        },
+        {
+          "number": 20,
+          "text": "géneros Pan (chimpancés y bonobos) y Homo (el"
+        },
+        {
+          "number": 21,
+          "text": "ser humano), a pesar de que la longevidad de"
+        },
+        {
+          "number": 22,
+          "text": "los seres humanos modernos es mucho más"
+        },
+        {
+          "number": 23,
+          "text": "larga que la de los chimpancés y los bonobos\"."
+        },
+        {
+          "number": 24,
+          "text": "Los científicos consideran que estos"
+        },
+        {
+          "number": 25,
+          "text": "problemas de visión, generados por un deterioro"
+        },
+        {
+          "number": 26,
+          "text": "del cristalino, podrían tener serias consecuencias"
+        },
+        {
+          "number": 27,
+          "text": "para la supervivencia y los ejemplares más"
+        },
+        {
+          "number": 28,
+          "text": "ancianos. Por ejemplo, este deterioro repercute"
+        },
+        {
+          "number": 29,
+          "text": "en su visión nocturna siendo un obstáculo para"
+        },
+        {
+          "number": 30,
+          "text": "estos animales que viven gran parte del tiempo"
+        },
+        {
+          "number": 31,
+          "text": "en la selva tropical donde no hay mucha luz."
+        },
+        {
+          "number": 32,
+          "text": "Asimismo, la miopía podría explicar porque los"
+        },
+        {
+          "number": 33,
+          "text": "más longevos no están entre los favoritos para"
+        },
+        {
+          "number": 34,
+          "text": "ser seleccionados como compañeros de aseo."
+        },
+        {
+          "number": 35,
+          "text": "Este descubrimiento sugiere que la vista"
+        },
+        {
+          "number": 36,
+          "text": "cansada no es una consecuencia de las vidas"
+        },
+        {
+          "number": 37,
+          "text": "modernas y del tiempo que pasamos pegados a"
+        },
+        {
+          "number": 38,
+          "text": "una pantalla sino que es un proceso natural de"
+        },
+        {
+          "number": 39,
+          "text": "envejecimiento que ya sufrían nuestros"
+        },
+        {
+          "number": 40,
+          "text": "antepasados los primatas. Ryu y sus colegas"
+        },
+        {
+          "number": 41,
+          "text": "seguirán estudiando estos aspectos del"
+        },
+        {
+          "number": 42,
+          "text": "envejecimiento en los bonobos para aprender"
+        },
+        {
+          "number": 43,
+          "text": "más sobre ellos y también sobre nosotros."
+        },
+        {
+          "number": null,
+          "text": "www.elmundo.es/ciencia/2016/11/10"
+        },
+        {
+          "number": null,
+          "text": "C U E S T I O N E S"
+        }
+      ],
+      "questionIds": [
+        "uece-2017-1-f2-spanish-q01",
+        "uece-2017-1-f2-spanish-q02",
+        "uece-2017-1-f2-spanish-q03",
+        "uece-2017-1-f2-spanish-q04",
+        "uece-2017-1-f2-spanish-q05",
+        "uece-2017-1-f2-spanish-q06",
+        "uece-2017-1-f2-spanish-q07",
+        "uece-2017-1-f2-spanish-q08",
+        "uece-2017-1-f2-spanish-q09",
+        "uece-2017-1-f2-spanish-q10",
+        "uece-2017-1-f2-spanish-q11",
+        "uece-2017-1-f2-spanish-q12",
+        "uece-2017-1-f2-spanish-q13",
+        "uece-2017-1-f2-spanish-q14",
+        "uece-2017-1-f2-spanish-q15",
+        "uece-2017-1-f2-spanish-q16",
+        "uece-2017-1-f2-spanish-q17",
+        "uece-2017-1-f2-spanish-q18",
+        "uece-2017-1-f2-spanish-q19",
+        "uece-2017-1-f2-spanish-q20"
+      ]
+    }
+  ]
+}

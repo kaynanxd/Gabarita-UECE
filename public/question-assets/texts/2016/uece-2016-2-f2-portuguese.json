@@ -1,0 +1,799 @@
+{
+  "paperId": "uece-2016-2-f2-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2016-2-f2-portuguese-t1",
+      "label": "Texto 1",
+      "title": null,
+      "lines": [
+        {
+          "number": null,
+          "text": "Prezado(a) candidato(a),"
+        },
+        {
+          "number": null,
+          "text": "Esta prova específica de Língua Portuguesa toma"
+        },
+        {
+          "number": null,
+          "text": "por base o texto a seguir, adaptado de um capítulo"
+        },
+        {
+          "number": null,
+          "text": "do livro O CONTADOR DE HISTÓRIAS, publicado"
+        },
+        {
+          "number": null,
+          "text": "pela Editora Globo em 1972 em homenagem aos"
+        },
+        {
+          "number": null,
+          "text": "quarenta anos de produção literária do escritor Érico"
+        },
+        {
+          "number": null,
+          "text": "Veríssimo."
+        },
+        {
+          "number": null,
+          "text": "QUERIDO ÉRICO"
+        },
+        {
+          "number": null,
+          "text": "Lygia Fagundes Telles"
+        },
+        {
+          "number": 1,
+          "text": "Érico Veríssimo, meu querido:"
+        },
+        {
+          "number": 2,
+          "text": "Tão prontamente aceitei o convite para"
+        },
+        {
+          "number": 3,
+          "text": "escrever uma página sobre você, com tanta"
+        },
+        {
+          "number": 4,
+          "text": "alegria fui dizendo sim que em seguida nem"
+        },
+        {
+          "number": 5,
+          "text": "pude me lamentar pelo que paguei — pelo que"
+        },
+        {
+          "number": 6,
+          "text": "tenho pago sempre por essa minha face"
+        },
+        {
+          "number": 7,
+          "text": "arrebatada e fácil no sentido de não calcular."
+        },
+        {
+          "number": 8,
+          "text": "Não prever os cipós nos quais acabo me"
+        },
+        {
+          "number": 9,
+          "text": "enrolando todas as vezes que saio do meu"
+        },
+        {
+          "number": 10,
+          "text": "gênero e faço outra coisa que não seja"
+        },
+        {
+          "number": 11,
+          "text": "nitidamente a minha ficção. Fico insegura."
+        },
+        {
+          "number": 12,
+          "text": "Gauche. E então? Medo de ser pedante. Medo"
+        },
+        {
+          "number": 13,
+          "text": "de ser sentimental. Aceitam os senhores da"
+        },
+        {
+          "number": 14,
+          "text": "Globo um conto com Érico na pele de"
+        },
+        {
+          "number": 15,
+          "text": "personagem principal? – tive vontade de"
+        },
+        {
+          "number": 16,
+          "text": "perguntar."
+        },
+        {
+          "number": 17,
+          "text": "Como descobrir a palavra exata, num"
+        },
+        {
+          "number": 18,
+          "text": "depoimento tão pessoal, sem tocar nas"
+        },
+        {
+          "number": 19,
+          "text": "detestáveis pontas que pareciam me aguardar"
+        },
+        {
+          "number": 20,
+          "text": "com a implacabilidade do monstro de duas"
+        },
+        {
+          "number": 21,
+          "text": "cabeças desafiando o viajante na"
+        },
+        {
+          "number": 22,
+          "text": "encruzilhada? A cabeça da direita — a da"
+        },
+        {
+          "number": 23,
+          "text": "razão — soltando fogo e fumo pelas narinas, a"
+        },
+        {
+          "number": 24,
+          "text": "cabeça da esquerda — a do coração —"
+        },
+        {
+          "number": 25,
+          "text": "soltando a mesma massa espessa de fumaça"
+        },
+        {
+          "number": 26,
+          "text": "e chamas, tão perigosas quanto as da sua"
+        },
+        {
+          "number": 27,
+          "text": "irmã gêmea. Nem possessa nem lúcida."
+        },
+        {
+          "number": 28,
+          "text": "Sentei-me diante da folha em branco,"
+        },
+        {
+          "number": 29,
+          "text": "tirei do copo de pedra minha caneta Bic e"
+        },
+        {
+          "number": 30,
+          "text": "fiquei olhando, através da transparência"
+        },
+        {
+          "number": 31,
+          "text": "plástica, a veia estática de tinta vermelha —"
+        },
+        {
+          "number": 32,
+          "text": "sangue do pensamento ainda não pensado. E"
+        },
+        {
+          "number": 33,
+          "text": "então? — perguntei-me ainda naquele estado"
+        },
+        {
+          "number": 34,
+          "text": "de perplexidade que me faz crepúsculo, nem"
+        },
+        {
+          "number": 35,
+          "text": "dia nem noite, mas uma coisa ambígua à"
+        },
+        {
+          "number": 36,
+          "text": "espera do milagre de uma definição. A caneta"
+        },
+        {
+          "number": 37,
+          "text": "plena e eu oca. E essa ideia do conto? Hein?"
+        },
+        {
+          "number": 38,
+          "text": "Não serve um conto?..."
+        },
+        {
+          "number": 39,
+          "text": "Nem pedante nem sentimental, que ele"
+        },
+        {
+          "number": 40,
+          "text": "não merece isso, repeti e fiquei sorrindo,"
+        },
+        {
+          "number": 41,
+          "text": "porque nesse instante senti que você sorriu"
+        },
+        {
+          "number": 42,
+          "text": "também. O sorriso foi se transformando num"
+        },
+        {
+          "number": 43,
+          "text": "riso lento e descontraído, sem nenhuma"
+        },
+        {
+          "number": 44,
+          "text": "ironia, apenas divertido. Rimos juntos"
+        },
+        {
+          "number": 45,
+          "text": "enquanto tomei um café e acendi meu"
+        },
+        {
+          "number": 46,
+          "text": "cigarro: você tem razão, Érico, por que a"
+        },
+        {
+          "number": 47,
+          "text": "palavra exata? Lá sei por onde andará a"
+        },
+        {
+          "number": 48,
+          "text": "palavra exata, tão melhor usar nosso habitual"
+        },
+        {
+          "number": 49,
+          "text": "diálogo, testemunho de que não só a arte é"
+        },
+        {
+          "number": 50,
+          "text": "diálogo, mas principalmente a amizade. E"
+        },
+        {
+          "number": 51,
+          "text": "como amizade também é memória, quero me"
+        },
+        {
+          "number": 52,
+          "text": "estender à margem do rio do Passado Mais"
+        },
+        {
+          "number": 53,
+          "text": "que Perfeito e ficar olhando a correnteza com"
+        },
+        {
+          "number": 54,
+          "text": "a mesma antiga voz e a mesma cor, em meio"
+        },
+        {
+          "number": 55,
+          "text": "do alarido delirante do presente [...]. Sou raiz"
+        },
+        {
+          "number": 56,
+          "text": "que se apega e sou folha que se abandona"
+        },
+        {
+          "number": 57,
+          "text": "nessa evocação orientada apenas pela terna"
+        },
+        {
+          "number": 58,
+          "text": "vigilância de quem escreve a um amigo com a"
+        },
+        {
+          "number": 59,
+          "text": "espontaneidade de poder dizer lá no alto: meu"
+        },
+        {
+          "number": 60,
+          "text": "querido."
+        },
+        {
+          "number": 61,
+          "text": "Érico Veríssimo, meu querido, é manhã e"
+        },
+        {
+          "number": 62,
+          "text": "estamos no ano de 1943. [...] Concorri à vaga"
+        },
+        {
+          "number": 63,
+          "text": "da Academia de Letras da escola [...] e a"
+        },
+        {
+          "number": 64,
+          "text": "primeira coisa que me ocorreu fazer foi"
+        },
+        {
+          "number": 65,
+          "text": "convidar você e Cecília Meireles para uma"
+        },
+        {
+          "number": 66,
+          "text": "conferência na nossa Academia. [...]"
+        },
+        {
+          "number": 67,
+          "text": "No dia da sua chegada, não pudemos"
+        },
+        {
+          "number": 68,
+          "text": "sequer ir buscá-lo no aeroporto. [...] Não,"
+        },
+        {
+          "number": 69,
+          "text": "ninguém tinha carro nem nada, os"
+        },
+        {
+          "number": 70,
+          "text": "motorizados da Faculdade não liam."
+        },
+        {
+          "number": 71,
+          "text": "Sugeri que lhe déssemos uma pequena"
+        },
+        {
+          "number": 72,
+          "text": "lembrança após a conferência [...] E,"
+        },
+        {
+          "number": 73,
+          "text": "terminada a sessão, não seria interessante"
+        },
+        {
+          "number": 74,
+          "text": "oferecer um uísque ao romancista? [...] Em"
+        },
+        {
+          "number": 75,
+          "text": "que casa seria essa reunião?"
+        },
+        {
+          "number": 76,
+          "text": "Lembrei-me de telefonar a Mário de"
+        },
+        {
+          "number": 77,
+          "text": "Andrade: estava viajando. Fomos procurar"
+        },
+        {
+          "number": 78,
+          "text": "Oswald de Andrade, que nos recebeu com o"
+        },
+        {
+          "number": 79,
+          "text": "maior calor, mas esfriou quando um colega"
+        },
+        {
+          "number": 80,
+          "text": "deu sua baixaria: já que o Mário não estava"
+        },
+        {
+          "number": 81,
+          "text": "em São Paulo, quem sabe ele, Oswald,"
+        },
+        {
+          "number": 82,
+          "text": "poderia?... Uma reuniãozinha simpática, com"
+        },
+        {
+          "number": 83,
+          "text": "uma dúzia de pessoas, quem sabe... Não"
+        },
+        {
+          "number": 84,
+          "text": "podia, não. Estava fortemente implicado com"
+        },
+        {
+          "number": 85,
+          "text": "o gaúcho, que tinha dois defeitos"
+        },
+        {
+          "number": 86,
+          "text": "irremovíveis: primeiro, não se definia"
+        },
+        {
+          "number": 87,
+          "text": "politicamente, quer dizer, não caíra nos"
+        },
+        {
+          "number": 88,
+          "text": "braços do partido quando devidamente"
+        },
+        {
+          "number": 89,
+          "text": "sondado. “Mas é possível uma coisa dessas?"
+        },
+        {
+          "number": 90,
+          "text": "Num momento como este que atravessamos,"
+        },
+        {
+          "number": 91,
+          "text": "um escritor ficar indiferente? Apático?! E"
+        },
+        {
+          "number": 92,
+          "text": "bebemos mais um copo de cerveja, “enquanto"
+        },
+        {
+          "number": 93,
+          "text": "Oswald passava ao segundo item da sua"
+        },
+        {
+          "number": 94,
+          "text": "implicância. Então desatamos a rir, porque era"
+        },
+        {
+          "number": 95,
+          "text": "mesmo engraçado, aquilo de ele se invocar"
+        },
+        {
+          "number": 96,
+          "text": "com romancista por ser um romancista feliz."
+        },
+        {
+          "number": 97,
+          "text": "“Ele é feliz demais, não pode! Vende os livros,"
+        },
+        {
+          "number": 98,
+          "text": "joga tênis e se casou, e continua casado a"
+        },
+        {
+          "number": 99,
+          "text": "vida inteira com uma mulher só, é abusar! Ele"
+        },
+        {
+          "number": 100,
+          "text": "ainda está casado com a mesma?”, perguntou"
+        },
+        {
+          "number": 101,
+          "text": "e, antes mesmo de ouvir a resposta, explodiu:"
+        },
+        {
+          "number": 102,
+          "text": "“O dia em que ele comer o pão que o diabo"
+        },
+        {
+          "number": 103,
+          "text": "amassou, nesse dia escreverá um grande"
+        },
+        {
+          "number": 104,
+          "text": "livro, e eu lhe oferecerei uma festa. Mas antes"
+        },
+        {
+          "number": 105,
+          "text": "tem que ficar desesperado, rasgado, preso e"
+        },
+        {
+          "number": 106,
+          "text": "corneado até pelo cachorro”."
+        },
+        {
+          "number": 107,
+          "text": "Artista é todo aquele que bebe fel e"
+        },
+        {
+          "number": 108,
+          "text": "querosene — concluí, enquanto assistia a uma"
+        },
+        {
+          "number": 109,
+          "text": "aula de Legislação Social, onde sempre me"
+        },
+        {
+          "number": 110,
+          "text": "entregava a pensamentos sobre Deus, a arte"
+        },
+        {
+          "number": 111,
+          "text": "e a morte, etecetera. Esse e outros"
+        },
+        {
+          "number": 112,
+          "text": "preconceitos adquiri e perdi com o tempo: foi"
+        },
+        {
+          "number": 113,
+          "text": "na carne que senti, um dia, o julgamento de"
+        },
+        {
+          "number": null,
+          "text": "8"
+        },
+        {
+          "number": 114,
+          "text": "um crítico, que ficou uma fúria comigo porque"
+        },
+        {
+          "number": 115,
+          "text": "eu escrevia coisas mórbidas e em seguida ia"
+        },
+        {
+          "number": 116,
+          "text": "fazer ginástica e jogar voleibol na Associação"
+        },
+        {
+          "number": 117,
+          "text": "Cristã dos Moços. Mas como é que pode?"
+        },
+        {
+          "number": 118,
+          "text": "“O bom romancista é ao mesmo tempo"
+        },
+        {
+          "number": 119,
+          "text": "um anjo e um cavalão, trabalha com as asas"
+        },
+        {
+          "number": 120,
+          "text": "(as coisas mais finas, mais espirituais, mais"
+        },
+        {
+          "number": 121,
+          "text": "belas) e com as patas, isto é, trabalho braçal,"
+        },
+        {
+          "number": 122,
+          "text": "a resistência física e a paciência cavalar. Mas"
+        },
+        {
+          "number": 123,
+          "text": "confio acima de tudo no Instinto. Que o anjo"
+        },
+        {
+          "number": 124,
+          "text": "trabalhe montado no cavalo. E que no fim"
+        },
+        {
+          "number": 125,
+          "text": "desapareça de todo a marca das patas e fique"
+        },
+        {
+          "number": 126,
+          "text": "apenas a luz das asas. Bonito, não?” (Porto"
+        },
+        {
+          "number": 127,
+          "text": "Alegre, 29 de agosto de 1950.)"
+        },
+        {
+          "number": 128,
+          "text": "Você dizia que não gostava nem de"
+        },
+        {
+          "number": 129,
+          "text": "tango, nem de gato, nem de cachorro. Mas"
+        },
+        {
+          "number": 130,
+          "text": "gostava de Bach, de criança e de cavalo. Eram"
+        },
+        {
+          "number": 131,
+          "text": "os primeiros elementos de um gaúcho"
+        },
+        {
+          "number": 132,
+          "text": "tranquilo que não dançava tango, mas tinha a"
+        },
+        {
+          "number": 133,
+          "text": "cara do próprio. De um gaúcho discreto, de"
+        },
+        {
+          "number": 134,
+          "text": "fala baixa, riso breve e fácil comunicação com"
+        },
+        {
+          "number": 135,
+          "text": "o público, como ficou provado naquela noite"
+        },
+        {
+          "number": 136,
+          "text": "de invierno, quando nos disse que acreditava,"
+        },
+        {
+          "number": 137,
+          "text": "acima de tudo, na trilogia tão batida da"
+        },
+        {
+          "number": 138,
+          "text": "verdade, da bondade e da beleza. Durante um"
+        },
+        {
+          "number": 139,
+          "text": "dos debates que promovemos, um estudante"
+        },
+        {
+          "number": 140,
+          "text": "lhe fez uma pergunta, não me lembro da"
+        },
+        {
+          "number": 141,
+          "text": "pergunta, mas me lembro da sua resposta:"
+        },
+        {
+          "number": 142,
+          "text": "“sou apenas um contador de histórias”."
+        },
+        {
+          "number": 143,
+          "text": "Fiquei meio chocada: estava no começo"
+        },
+        {
+          "number": 144,
+          "text": "da carreira e minha autoconfiança e meu"
+        },
+        {
+          "number": 145,
+          "text": "orgulho não aceitavam esse tipo de confissão."
+        },
+        {
+          "number": 146,
+          "text": "Um simples contador de histórias?"
+        },
+        {
+          "number": 147,
+          "text": "A um entrevistador que lhe fazia"
+        },
+        {
+          "number": 148,
+          "text": "perguntas agudíssimas William Faulkner"
+        },
+        {
+          "number": 149,
+          "text": "respondeu de repente; “Sou fazendeiro,"
+        },
+        {
+          "number": 150,
+          "text": "moço”. O entrevistador um crítico formado em"
+        },
+        {
+          "number": 151,
+          "text": "Harvard, ficou histérico: “Escritor, diga"
+        },
+        {
+          "number": 152,
+          "text": "escritor!” Então ele sorriu e se levantou para"
+        },
+        {
+          "number": 153,
+          "text": "ir embora: “Sou fazendeiro”. Mas nessa época"
+        },
+        {
+          "number": 154,
+          "text": "eu ainda não tinha lido essa entrevista, que"
+        },
+        {
+          "number": 155,
+          "text": "poderia ter me impressionado. Nessa época,"
+        },
+        {
+          "number": 156,
+          "text": "eu ainda tateava no ofício: tamanho"
+        },
+        {
+          "number": 157,
+          "text": "despojamento não fazia mesmo sentido diante"
+        },
+        {
+          "number": 158,
+          "text": "da minha ambição."
+        },
+        {
+          "number": 159,
+          "text": "É difícil encontrar uma criatura tão"
+        },
+        {
+          "number": 160,
+          "text": "coerente no seu comportamento de absoluta"
+        },
+        {
+          "number": 161,
+          "text": "fidelidade a si próprio e aos outros, aqueles"
+        },
+        {
+          "number": 162,
+          "text": "nos quais você acreditou. Sua gente. Seus"
+        },
+        {
+          "number": 163,
+          "text": "amigos. Sua música. Seus livros — ah, com"
+        },
+        {
+          "number": 164,
+          "text": "que amor você se devotou ao seu doce"
+        },
+        {
+          "number": 165,
+          "text": "mundo. Já naquele distante 1943 você parecia"
+        },
+        {
+          "number": 166,
+          "text": "saber que o importante é cuidar da rosa do"
+        },
+        {
+          "number": 167,
+          "text": "nosso jardim. Sem, contudo, se ausentar sem"
+        },
+        {
+          "number": 168,
+          "text": "se omitir. E em algum momento você ficou"
+        },
+        {
+          "number": 169,
+          "text": "indiferente aos problemas do nosso povo? Ao"
+        },
+        {
+          "number": 170,
+          "text": "sofrimento desse povo? Aí estão os seus"
+        },
+        {
+          "number": 171,
+          "text": "livros, através dos quais você se manifesta,"
+        },
+        {
+          "number": 172,
+          "text": "participa deste tempo e deste vento. Sua voz"
+        },
+        {
+          "number": 173,
+          "text": "transparece na boca das personagens,"
+        },
+        {
+          "number": 174,
+          "text": "centenas de personagens falando alto da sela"
+        },
+        {
+          "number": 175,
+          "text": "de um cavalo, da poltrona de uma sala"
+        },
+        {
+          "number": 176,
+          "text": "governamental, de um coreto. Falando baixo"
+        },
+        {
+          "number": 177,
+          "text": "do catre de uma prisão, que nas prisões se"
+        },
+        {
+          "number": 178,
+          "text": "fala em baixo tom. A injustiça — eis o que"
+        },
+        {
+          "number": 179,
+          "text": "mais fundamente parece tocá-lo —, a injustiça"
+        },
+        {
+          "number": 180,
+          "text": "e todo o seu leque maldito, que vai da"
+        },
+        {
+          "number": 181,
+          "text": "servidão à tortura."
+        }
+      ],
+      "questionIds": [
+        "uece-2016-2-f2-portuguese-q01",
+        "uece-2016-2-f2-portuguese-q02",
+        "uece-2016-2-f2-portuguese-q03",
+        "uece-2016-2-f2-portuguese-q04",
+        "uece-2016-2-f2-portuguese-q05",
+        "uece-2016-2-f2-portuguese-q06",
+        "uece-2016-2-f2-portuguese-q07",
+        "uece-2016-2-f2-portuguese-q08",
+        "uece-2016-2-f2-portuguese-q09",
+        "uece-2016-2-f2-portuguese-q10",
+        "uece-2016-2-f2-portuguese-q11",
+        "uece-2016-2-f2-portuguese-q12",
+        "uece-2016-2-f2-portuguese-q13",
+        "uece-2016-2-f2-portuguese-q14",
+        "uece-2016-2-f2-portuguese-q15",
+        "uece-2016-2-f2-portuguese-q16",
+        "uece-2016-2-f2-portuguese-q17",
+        "uece-2016-2-f2-portuguese-q18",
+        "uece-2016-2-f2-portuguese-q19",
+        "uece-2016-2-f2-portuguese-q20"
+      ]
+    }
+  ]
+}

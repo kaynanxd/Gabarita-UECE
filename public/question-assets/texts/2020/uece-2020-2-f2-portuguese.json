@@ -1,0 +1,847 @@
+{
+  "paperId": "uece-2020-2-f2-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2020-2-f2-portuguese-t1",
+      "label": "TEXTO 2",
+      "title": "Samba do Arnesto",
+      "lines": [
+        {
+          "number": 10,
+          "text": "O Arnesto nos convidô prum samba,"
+        },
+        {
+          "number": 11,
+          "text": "[ele mora no Brás"
+        },
+        {
+          "number": 12,
+          "text": "Nóis fumo e não encontremos ninguém"
+        },
+        {
+          "number": 13,
+          "text": "Nóis vortemo cuma baita duma reiva"
+        },
+        {
+          "number": 14,
+          "text": "Da outra veiz nóis num vai mais"
+        },
+        {
+          "number": 15,
+          "text": "Nóis não semos tatu!"
+        },
+        {
+          "number": 16,
+          "text": "Outro dia encontremo com o Arnesto"
+        },
+        {
+          "number": 17,
+          "text": "Que pidiu descurpa mais nóis não aceitemos"
+        },
+        {
+          "number": 18,
+          "text": "Isso não se faz, Arnesto, nóis não se importa"
+        },
+        {
+          "number": 19,
+          "text": "Mais você devia ter ponhado um recado na"
+        },
+        {
+          "number": 20,
+          "text": "[porta"
+        },
+        {
+          "number": 21,
+          "text": "Anssim: “Ói, turma, num deu prá esperá"
+        },
+        {
+          "number": 22,
+          "text": "A vez que isso num tem importância,"
+        },
+        {
+          "number": 23,
+          "text": "[num faz má"
+        },
+        {
+          "number": 24,
+          "text": "Depois que nóis vai, depois que nóis vorta"
+        },
+        {
+          "number": 25,
+          "text": "Assinado em cruz porque não sei escrever"
+        },
+        {
+          "number": 26,
+          "text": "Arnesto\""
+        },
+        {
+          "number": null,
+          "text": "BARBOSA, Adoniran, Gravações Elétricas"
+        },
+        {
+          "number": null,
+          "text": "Continental S/A, 1953."
+        }
+      ],
+      "questionIds": [
+        "uece-2020-2-f2-portuguese-q01",
+        "uece-2020-2-f2-portuguese-q02",
+        "uece-2020-2-f2-portuguese-q03",
+        "uece-2020-2-f2-portuguese-q04"
+      ]
+    },
+    {
+      "id": "uece-2020-2-f2-portuguese-t2",
+      "label": "TEXTO 3",
+      "title": "Meu Caro Amigo",
+      "lines": [
+        {
+          "number": null,
+          "text": "Chico Buarque"
+        },
+        {
+          "number": 27,
+          "text": "Meu caro amigo, me perdoe, por favor"
+        },
+        {
+          "number": 28,
+          "text": "Se eu não lhe faço uma visita"
+        },
+        {
+          "number": 29,
+          "text": "Mas como agora apareceu um portador"
+        },
+        {
+          "number": 30,
+          "text": "Mando notícias nessa fita"
+        },
+        {
+          "number": 31,
+          "text": "Aqui na terra tão jogando futebol"
+        },
+        {
+          "number": 32,
+          "text": "Tem muito samba, muito choro e rock'n'roll"
+        },
+        {
+          "number": 33,
+          "text": "Uns dias chove, noutros dias bate o sol"
+        },
+        {
+          "number": 34,
+          "text": "Mas o que eu quero é lhe dizer que a coisa"
+        },
+        {
+          "number": 35,
+          "text": "[aqui tá preta"
+        },
+        {
+          "number": 36,
+          "text": "Muita mutreta pra levar a situação"
+        },
+        {
+          "number": 37,
+          "text": "Que a gente vai levando de teimoso e de"
+        },
+        {
+          "number": 38,
+          "text": "[pirraça"
+        },
+        {
+          "number": 39,
+          "text": "E a gente vai tomando que também sem a"
+        },
+        {
+          "number": 40,
+          "text": "[cachaça"
+        },
+        {
+          "number": 41,
+          "text": "Ninguém segura esse rojão"
+        },
+        {
+          "number": 42,
+          "text": "Meu caro amigo, eu não pretendo provocar"
+        },
+        {
+          "number": 43,
+          "text": "Nem atiçar suas saudades"
+        },
+        {
+          "number": 44,
+          "text": "Mas acontece que não posso me furtar"
+        },
+        {
+          "number": 45,
+          "text": "A lhe contar as novidades"
+        },
+        {
+          "number": 46,
+          "text": "É pirueta pra cavar o ganha-pão"
+        },
+        {
+          "number": 47,
+          "text": "Que a gente vai cavando só de birra,"
+        },
+        {
+          "number": 48,
+          "text": "[só de sarro"
+        },
+        {
+          "number": 49,
+          "text": "E a gente vai fumando que, também,"
+        },
+        {
+          "number": 50,
+          "text": "[sem um cigarro"
+        },
+        {
+          "number": 51,
+          "text": "Ninguém segura esse rojão"
+        },
+        {
+          "number": 52,
+          "text": "Meu caro amigo, eu quis até telefonar"
+        },
+        {
+          "number": 53,
+          "text": "Mas a tarifa não tem graça"
+        },
+        {
+          "number": 54,
+          "text": "Eu ando aflito pra fazer você ficar"
+        },
+        {
+          "number": 55,
+          "text": "A par de tudo que se passa"
+        },
+        {
+          "number": 56,
+          "text": "Muita careta pra engolir a transação"
+        },
+        {
+          "number": 57,
+          "text": "Que a gente tá engolindo cada sapo no"
+        },
+        {
+          "number": 58,
+          "text": "[caminho"
+        },
+        {
+          "number": 59,
+          "text": "E a gente vai se amando que, também,"
+        },
+        {
+          "number": 60,
+          "text": "[sem um carinho"
+        },
+        {
+          "number": 61,
+          "text": "Ninguém segura esse rojão"
+        },
+        {
+          "number": 62,
+          "text": "Meu caro amigo, eu bem queria lhe"
+        },
+        {
+          "number": 63,
+          "text": "[escrever"
+        },
+        {
+          "number": 64,
+          "text": "Mas o correio andou arisco"
+        },
+        {
+          "number": null,
+          "text": "8"
+        },
+        {
+          "number": 65,
+          "text": "Se me permitem, vou tentar lhe remeter"
+        },
+        {
+          "number": 66,
+          "text": "Notícias frescas nesse disco"
+        },
+        {
+          "number": 67,
+          "text": "A Marieta manda um beijo para os seus"
+        },
+        {
+          "number": 68,
+          "text": "Um beijo na família, na Cecília e nas crianças"
+        },
+        {
+          "number": 69,
+          "text": "O Francis aproveita pra também mandar"
+        },
+        {
+          "number": 70,
+          "text": "[lembranças"
+        },
+        {
+          "number": 71,
+          "text": "A todo o pessoal"
+        },
+        {
+          "number": 72,
+          "text": "Adeus!"
+        },
+        {
+          "number": null,
+          "text": "BUARQUE, Chico. Phonogram, 1976."
+        }
+      ],
+      "questionIds": [
+        "uece-2020-2-f2-portuguese-q05",
+        "uece-2020-2-f2-portuguese-q06",
+        "uece-2020-2-f2-portuguese-q07",
+        "uece-2020-2-f2-portuguese-q08"
+      ]
+    },
+    {
+      "id": "uece-2020-2-f2-portuguese-t3",
+      "label": "TEXTO 4",
+      "title": "9",
+      "lines": [
+        {
+          "number": null,
+          "text": "Reinvenção"
+        },
+        {
+          "number": 73,
+          "text": "A vida só é possível"
+        },
+        {
+          "number": 74,
+          "text": "reinventada."
+        },
+        {
+          "number": 75,
+          "text": "Anda o sol pelas campinas"
+        },
+        {
+          "number": 76,
+          "text": "e passeia a mão dourada"
+        },
+        {
+          "number": 77,
+          "text": "pelas águas, pelas folhas..."
+        },
+        {
+          "number": 78,
+          "text": "Ah! tudo bolhas"
+        },
+        {
+          "number": 79,
+          "text": "que vem de fundas piscinas"
+        },
+        {
+          "number": 80,
+          "text": "de ilusionismo... — mais nada."
+        },
+        {
+          "number": 81,
+          "text": "Mas a vida, a vida, a vida,"
+        },
+        {
+          "number": 82,
+          "text": "a vida só é possível"
+        },
+        {
+          "number": 83,
+          "text": "reinventada."
+        },
+        {
+          "number": 84,
+          "text": "Vem a lua, vem, retira"
+        },
+        {
+          "number": 85,
+          "text": "as algemas dos meus braços."
+        },
+        {
+          "number": 86,
+          "text": "Projeto-me por espaços"
+        },
+        {
+          "number": 87,
+          "text": "cheios da tua Figura."
+        },
+        {
+          "number": 88,
+          "text": "Tudo mentira! Mentira"
+        },
+        {
+          "number": 89,
+          "text": "da lua, na noite escura."
+        },
+        {
+          "number": 90,
+          "text": "Não te encontro, não te alcanço..."
+        },
+        {
+          "number": 91,
+          "text": "Só — no tempo equilibrada,"
+        },
+        {
+          "number": 92,
+          "text": "desprendo-me do balanço"
+        },
+        {
+          "number": 93,
+          "text": "que além do tempo me leva."
+        },
+        {
+          "number": 94,
+          "text": "Só — na treva,"
+        },
+        {
+          "number": 95,
+          "text": "fico: recebida e dada."
+        },
+        {
+          "number": 96,
+          "text": "Porque a vida, a vida, a vida,"
+        },
+        {
+          "number": 97,
+          "text": "a vida só é possível"
+        },
+        {
+          "number": 98,
+          "text": "reinventada."
+        },
+        {
+          "number": null,
+          "text": "MEIRELES, Cecília. Reinvenção. In. MEIRELES, Cecília."
+        },
+        {
+          "number": null,
+          "text": "Vaga música. São Paulo: Global Editora, 1942."
+        }
+      ],
+      "questionIds": [
+        "uece-2020-2-f2-portuguese-q09",
+        "uece-2020-2-f2-portuguese-q10"
+      ]
+    },
+    {
+      "id": "uece-2020-2-f2-portuguese-t4",
+      "label": "TEXTO 5",
+      "title": "tem QI mais baixo que seus antecessores",
+      "lines": [
+        {
+          "number": null,
+          "text": "Pela primeira vez na história, nova geração"
+        },
+        {
+          "number": 99,
+          "text": "A BBC News Brasil publicou uma"
+        },
+        {
+          "number": 100,
+          "text": "matéria explicando um novo fenômeno em"
+        },
+        {
+          "number": 101,
+          "text": "que a geração atual está demonstrando"
+        },
+        {
+          "number": 102,
+          "text": "um QI (Quociente de inteligência) mais"
+        },
+        {
+          "number": 103,
+          "text": "baixo do que a anterior. Conhecidos como"
+        },
+        {
+          "number": 104,
+          "text": "\"nativos digitais\", esses são"
+        },
+        {
+          "number": 105,
+          "text": "os primeiros filhos com QI inferior aos"
+        },
+        {
+          "number": 106,
+          "text": "pais e estão sendo registrados em diversos"
+        },
+        {
+          "number": 107,
+          "text": "países ao redor do mundo, incluindo"
+        },
+        {
+          "number": 108,
+          "text": "Noruega, Dinamarca, Finlândia, Holanda,"
+        },
+        {
+          "number": 109,
+          "text": "França, etc. De acordo com o"
+        },
+        {
+          "number": 110,
+          "text": "neurocientista francês Michel Desmurget,"
+        },
+        {
+          "number": 111,
+          "text": "o QI diminui proporcionalmente ao uso da"
+        },
+        {
+          "number": 112,
+          "text": "TV e videogame."
+        },
+        {
+          "number": 113,
+          "text": "Os testes de QI têm apontado"
+        },
+        {
+          "number": 114,
+          "text": "que as novas gerações são menos"
+        },
+        {
+          "number": 115,
+          "text": "inteligentes que as anteriores, mas ainda"
+        },
+        {
+          "number": 116,
+          "text": "não há uma comprovação do porquê isso"
+        },
+        {
+          "number": 117,
+          "text": "está acontecendo. Desmurget diz que"
+        },
+        {
+          "number": 118,
+          "text": "a poluição e exposição a telas podem ser"
+        },
+        {
+          "number": 119,
+          "text": "fatores muito influentes atualmente. A"
+        },
+        {
+          "number": 120,
+          "text": "saúde, concentração e memória, que"
+        },
+        {
+          "number": 121,
+          "text": "contribuem para um QI mais alto, podem"
+        },
+        {
+          "number": 122,
+          "text": "ser facilmente prejudicadas por pesticidas"
+        },
+        {
+          "number": 123,
+          "text": "inalados no ar e perturbação do sono,"
+        },
+        {
+          "number": 124,
+          "text": "respectivamente."
+        },
+        {
+          "number": 125,
+          "text": "O neurocientista deu outros"
+        },
+        {
+          "number": 126,
+          "text": "exemplos do porquê o uso de dispositivos"
+        },
+        {
+          "number": 127,
+          "text": "digitais pode afetar nossa inteligência."
+        },
+        {
+          "number": 128,
+          "text": "Quanto mais tempo passamos num"
+        },
+        {
+          "number": 129,
+          "text": "computador ou celular, temos menos"
+        },
+        {
+          "number": 130,
+          "text": "interações pessoais reais, a prática de"
+        },
+        {
+          "number": 131,
+          "text": "outros exercícios e atividades diminuem e a"
+        },
+        {
+          "number": 132,
+          "text": "qualidade do sono é reduzida. Isso resulta"
+        },
+        {
+          "number": 133,
+          "text": "em distúrbios na concentração,"
+        },
+        {
+          "number": 134,
+          "text": "aprendizagem e impulsividade, além do"
+        },
+        {
+          "number": 135,
+          "text": "sedentarismo que pode afetar a maturação"
+        },
+        {
+          "number": 136,
+          "text": "cerebral."
+        },
+        {
+          "number": 137,
+          "text": "O neurocientista também diz que"
+        },
+        {
+          "number": 138,
+          "text": "nosso cotidiano contribui para a evolução"
+        },
+        {
+          "number": 139,
+          "text": "do nosso QI. A nossa forma de vida"
+        },
+        {
+          "number": 140,
+          "text": "modifica tanto a estrutura quanto o"
+        },
+        {
+          "number": 141,
+          "text": "funcionamento do cérebro. Por isso, o"
+        },
+        {
+          "number": 142,
+          "text": "tempo em frente a uma tela poderia"
+        },
+        {
+          "number": 143,
+          "text": "diminuir o trabalho intelectual, já que não"
+        },
+        {
+          "number": 144,
+          "text": "estaríamos praticando outras atividades"
+        },
+        {
+          "number": 145,
+          "text": "para manter nosso cérebro sempre bem"
+        },
+        {
+          "number": 146,
+          "text": "treinado em outras funções."
+        },
+        {
+          "number": 147,
+          "text": "Apesar da análise, Desmurget"
+        },
+        {
+          "number": 148,
+          "text": "defende que a revolução digital não é"
+        },
+        {
+          "number": 149,
+          "text": "maléfica ou algo que deve ser"
+        },
+        {
+          "number": 150,
+          "text": "interrompido. Muitas pessoas"
+        },
+        {
+          "number": 151,
+          "text": "trabalham com ferramentas digitais."
+        },
+        {
+          "number": 152,
+          "text": "Softwares e soluções como a internet"
+        },
+        {
+          "number": 153,
+          "text": "vieram para facilitar nossos trabalhos,"
+        },
+        {
+          "number": 154,
+          "text": "interações à longa distância e cotidiano"
+        },
+        {
+          "number": 155,
+          "text": "também. A crítica feita pelo neurocientista"
+        },
+        {
+          "number": 156,
+          "text": "é relacionada à falta de \"exercitação\" do"
+        },
+        {
+          "number": 157,
+          "text": "cérebro das gerações atuais, o que resultou"
+        },
+        {
+          "number": null,
+          "text": "10"
+        },
+        {
+          "number": 158,
+          "text": "em um QI mais baixo que a anterior pela"
+        },
+        {
+          "number": 159,
+          "text": "primeira vez na história."
+        },
+        {
+          "number": null,
+          "text": "CANCELIER, Mariela. Pela primeira vez na história,"
+        },
+        {
+          "number": null,
+          "text": "nova geração tem QI mais baixo que seus"
+        },
+        {
+          "number": null,
+          "text": "antecessores. Mundo conectado.com.br."
+        },
+        {
+          "number": null,
+          "text": "31 de outubro de 2020."
+        }
+      ],
+      "questionIds": [
+        "uece-2020-2-f2-portuguese-q11",
+        "uece-2020-2-f2-portuguese-q12",
+        "uece-2020-2-f2-portuguese-q13",
+        "uece-2020-2-f2-portuguese-q14",
+        "uece-2020-2-f2-portuguese-q15",
+        "uece-2020-2-f2-portuguese-q16"
+      ]
+    },
+    {
+      "id": "uece-2020-2-f2-portuguese-t5",
+      "label": "TEXTO 6",
+      "title": "O Poeta da Roça",
+      "lines": [
+        {
+          "number": 160,
+          "text": "Sou fio das mata, cantô da mão grosa"
+        },
+        {
+          "number": 161,
+          "text": "Trabaio na roça, de inverno e de estio"
+        },
+        {
+          "number": 162,
+          "text": "A minha chupana é tapada de barro"
+        },
+        {
+          "number": 163,
+          "text": "Só fumo cigarro de paia de mio"
+        },
+        {
+          "number": 164,
+          "text": "Sou poeta das brenha, não faço o papé"
+        },
+        {
+          "number": 165,
+          "text": "De argum menestrê, ou errante cantô"
+        },
+        {
+          "number": 166,
+          "text": "Que veve vagando, com sua viola"
+        },
+        {
+          "number": 167,
+          "text": "Cantando, pachola, à percura de amô"
+        },
+        {
+          "number": 168,
+          "text": "Não tenho sabença, pois nunca estudei"
+        },
+        {
+          "number": 169,
+          "text": "Apenas eu seio o meu nome assiná"
+        },
+        {
+          "number": 170,
+          "text": "Meu pai, coitadinho! vivia sem cobre"
+        },
+        {
+          "number": 171,
+          "text": "E o fio do pobre não pode estudá"
+        },
+        {
+          "number": 172,
+          "text": "Meu verso rastero, singelo e sem graça"
+        },
+        {
+          "number": 173,
+          "text": "Não entra na praça, no rico salão"
+        },
+        {
+          "number": 174,
+          "text": "Meu verso só entra no campo da roça e"
+        },
+        {
+          "number": 175,
+          "text": "[dos eito"
+        },
+        {
+          "number": 176,
+          "text": "E às vezes, recordando feliz mocidade"
+        },
+        {
+          "number": 177,
+          "text": "Canto uma sodade que mora em meu peito."
+        },
+        {
+          "number": 178,
+          "text": "[...]"
+        },
+        {
+          "number": 179,
+          "text": "Eu canto o mendigo de sujo farrapo,"
+        },
+        {
+          "number": 180,
+          "text": "Coberto de trapo e mochila na mão,"
+        },
+        {
+          "number": 181,
+          "text": "Que chora pedindo o socorro dos home,"
+        },
+        {
+          "number": 182,
+          "text": "E tomba de fome, sem casa e sem pão."
+        },
+        {
+          "number": 183,
+          "text": "E assim, sem cobiça dos cofre luzente,"
+        },
+        {
+          "number": 184,
+          "text": "Eu vivo contente e feliz com a sorte,"
+        },
+        {
+          "number": 185,
+          "text": "Morando no campo, sem vê a cidade,"
+        },
+        {
+          "number": 186,
+          "text": "Cantando as verdade das coisa do Norte."
+        },
+        {
+          "number": null,
+          "text": "Adaptada de ASSARÉ, Patativa do."
+        },
+        {
+          "number": null,
+          "text": "Cante lá que eu canto cá: Filosofia de um trovador"
+        },
+        {
+          "number": null,
+          "text": "nordestino. 2. Ed. Petrópolis: Vozes, 1978."
+        }
+      ],
+      "questionIds": [
+        "uece-2020-2-f2-portuguese-q17",
+        "uece-2020-2-f2-portuguese-q18",
+        "uece-2020-2-f2-portuguese-q19",
+        "uece-2020-2-f2-portuguese-q20"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "paperId": "uece-2017-1-f2-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2017-1-f2-portuguese-t1",
+      "label": "Texto 1",
+      "title": "GRITO",
+      "lines": [
+        {
+          "number": null,
+          "text": "Quadro que fundou o expressionismo nasceu de um"
+        },
+        {
+          "number": null,
+          "text": "ataque de pânico."
+        },
+        {
+          "number": 1,
+          "text": "Edvard Munch nasceu em 1863, mesmo"
+        },
+        {
+          "number": 2,
+          "text": "ano em que O piquenique no bosque, de"
+        },
+        {
+          "number": 3,
+          "text": "Édouard Manet, era exposto no Salão dos"
+        },
+        {
+          "number": 4,
+          "text": "Rejeitados, chamando a atenção para um"
+        },
+        {
+          "number": 5,
+          "text": "movimento que nem nome tinha ainda. Era o"
+        },
+        {
+          "number": 6,
+          "text": "impressionismo, superando séculos de pintura"
+        },
+        {
+          "number": 7,
+          "text": "acadêmica. Os impressionistas deixaram o"
+        },
+        {
+          "number": 8,
+          "text": "realismo para a fotografia e se focaram no que"
+        },
+        {
+          "number": 9,
+          "text": "ela não podia mostrar: as sensações, a parte"
+        },
+        {
+          "number": 10,
+          "text": "subjetiva do que se vê."
+        },
+        {
+          "number": 11,
+          "text": "Crescendo durante essa revolução, Munch"
+        },
+        {
+          "number": 12,
+          "text": "– que, aliás, também seria fotógrafo – achava a"
+        },
+        {
+          "number": 13,
+          "text": "linguagem dos impressionistas superficial e"
+        },
+        {
+          "number": 14,
+          "text": "científica, discreta demais para expressar o que"
+        },
+        {
+          "number": 15,
+          "text": "sentia. E ele sentia: Munch tinha uma história"
+        },
+        {
+          "number": 16,
+          "text": "familiar trágica: perdeu a mãe e uma irmã na"
+        },
+        {
+          "number": 17,
+          "text": "infância, teve outra irmã que passou a vida em"
+        },
+        {
+          "number": 18,
+          "text": "asilos psiquiátricos. Tornou-se artista sob forte"
+        },
+        {
+          "number": 19,
+          "text": "oposição do pai, que morreria quando Munch"
+        },
+        {
+          "number": 20,
+          "text": "tinha 25 anos e o deixaria na pobreza. O artista"
+        },
+        {
+          "number": 21,
+          "text": "sempre viveu na boemia, entre bebedeiras,"
+        },
+        {
+          "number": 22,
+          "text": "brigas e romances passageiros, tornando-se"
+        },
+        {
+          "number": 23,
+          "text": "amigo do filósofo niilista Hans Jæger, que"
+        },
+        {
+          "number": 24,
+          "text": "acreditava que o suicídio era a forma máxima"
+        },
+        {
+          "number": 25,
+          "text": "da libertação."
+        },
+        {
+          "number": 26,
+          "text": "Fruto de suas obsessões, O Grito não foi"
+        },
+        {
+          "number": 27,
+          "text": "seu primeiro quadro, mas o que o tornaria"
+        },
+        {
+          "number": 28,
+          "text": "célebre.  A inspiração veio do que parece ter"
+        },
+        {
+          "number": 29,
+          "text": "sido um ataque de pânico, que ele escreveu em"
+        },
+        {
+          "number": 30,
+          "text": "seu diário, pouco mais de um ano antes do"
+        },
+        {
+          "number": 31,
+          "text": "quadro: “Estava andando por um caminho com"
+        },
+        {
+          "number": 32,
+          "text": "dois amigos – o sol estava se pondo – quando,"
+        },
+        {
+          "number": 33,
+          "text": "de repente, o sol tornou-se vermelho como o"
+        },
+        {
+          "number": 34,
+          "text": "sangue. Eu parei, sentindo-me exausto, e me"
+        },
+        {
+          "number": 35,
+          "text": "encostei na cerca – havia sangue e línguas de"
+        },
+        {
+          "number": 36,
+          "text": "fogo sobre o fiorde negro e a cidade. Meus"
+        },
+        {
+          "number": 37,
+          "text": "amigos continuaram andando, e eu fiquei lá,"
+        },
+        {
+          "number": 38,
+          "text": "tremendo de ansiedade – e senti um  grito"
+        },
+        {
+          "number": 39,
+          "text": "infinito atravessando a natureza”."
+        },
+        {
+          "number": 40,
+          "text": "Ali nasceria um novo movimento artístico."
+        },
+        {
+          "number": 41,
+          "text": "O Grito seria a pedra fundadora do"
+        },
+        {
+          "number": 42,
+          "text": "expressionismo, a principal vanguarda alemã"
+        },
+        {
+          "number": 43,
+          "text": "dos anos 1910 aos 1930."
+        },
+        {
+          "number": null,
+          "text": "(Aventuras na História)"
+        }
+      ],
+      "questionIds": [
+        "uece-2017-1-f2-portuguese-q01",
+        "uece-2017-1-f2-portuguese-q02",
+        "uece-2017-1-f2-portuguese-q03",
+        "uece-2017-1-f2-portuguese-q04",
+        "uece-2017-1-f2-portuguese-q05",
+        "uece-2017-1-f2-portuguese-q06",
+        "uece-2017-1-f2-portuguese-q07",
+        "uece-2017-1-f2-portuguese-q08",
+        "uece-2017-1-f2-portuguese-q09",
+        "uece-2017-1-f2-portuguese-q10",
+        "uece-2017-1-f2-portuguese-q11",
+        "uece-2017-1-f2-portuguese-q12",
+        "uece-2017-1-f2-portuguese-q13",
+        "uece-2017-1-f2-portuguese-q14",
+        "uece-2017-1-f2-portuguese-q15"
+      ]
+    },
+    {
+      "id": "uece-2017-1-f2-portuguese-t2",
+      "label": "Texto 2",
+      "title": "O GRITO",
+      "lines": [
+        {
+          "number": null,
+          "text": "Um tranquilo riacho suburbano,"
+        },
+        {
+          "number": null,
+          "text": "Uma choupana embaixo de um coqueiro,"
+        },
+        {
+          "number": null,
+          "text": "Uma junta de bois e um carreteiro:"
+        },
+        {
+          "number": null,
+          "text": "Eis o pano de fundo e, contra o pano,"
+        },
+        {
+          "number": null,
+          "text": "Figurantes – cavalos e cavaleiros,"
+        },
+        {
+          "number": null,
+          "text": "Ressaltando o motivo soberano,"
+        },
+        {
+          "number": null,
+          "text": "A quem foi reservado o meio plano"
+        },
+        {
+          "number": null,
+          "text": "Onde avulta solene e sobranceiro."
+        },
+        {
+          "number": null,
+          "text": "Complete-se a figura mentalmente"
+        },
+        {
+          "number": null,
+          "text": "Com o grito famoso, postergando"
+        },
+        {
+          "number": null,
+          "text": "Qualquer simbologia irreverente."
+        },
+        {
+          "number": null,
+          "text": "Nem se indague do artista, casto obreiro,"
+        },
+        {
+          "number": null,
+          "text": "Fiel ao mecenato e ao seu comando,"
+        },
+        {
+          "number": null,
+          "text": "Quem o povo, se os bois, se o carreteiro."
+        },
+        {
+          "number": null,
+          "text": "PAES, José Paulo. Poesia Completa. São Paulo: Companhia"
+        },
+        {
+          "number": null,
+          "text": "das Letras, 2008. P.105."
+        }
+      ],
+      "questionIds": [
+        "uece-2017-1-f2-portuguese-q16",
+        "uece-2017-1-f2-portuguese-q17",
+        "uece-2017-1-f2-portuguese-q18",
+        "uece-2017-1-f2-portuguese-q19",
+        "uece-2017-1-f2-portuguese-q20"
+      ]
+    }
+  ]
+}

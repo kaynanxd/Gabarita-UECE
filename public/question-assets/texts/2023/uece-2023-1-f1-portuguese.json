@@ -1,0 +1,420 @@
+{
+  "paperId": "uece-2023-1-f1-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2023-1-f1-portuguese-t1",
+      "label": "Texto 1",
+      "title": "A ARMADILHA DOS VAPES",
+      "lines": [
+        {
+          "number": 1,
+          "text": "No Brasil, 20% dos jovens adultos já"
+        },
+        {
+          "number": 2,
+          "text": "experimentaram. Nos EUA, virou um problema de saúde"
+        },
+        {
+          "number": 3,
+          "text": "pública grave. Entenda em que pé se encontra a febre dos"
+        },
+        {
+          "number": 4,
+          "text": "cigarros eletrônicos – que têm se mostrado tão perigosos"
+        },
+        {
+          "number": 5,
+          "text": "quanto os convencionais."
+        },
+        {
+          "number": 6,
+          "text": "7 a 19 segundos. É o tempo que a nicotina do cigarro"
+        },
+        {
+          "number": 7,
+          "text": "leva para chegar ao cérebro. Lá dentro, ela ativa o principal"
+        },
+        {
+          "number": 8,
+          "text": "neurotransmissor do prazer. E dá-lhe prazer: comer"
+        },
+        {
+          "number": 9,
+          "text": "chocolate eleva em 55% a liberação de dopamina; fazer sexo,"
+        },
+        {
+          "number": 10,
+          "text": "100%. A nicotina? 150%. Com o tempo, essas doses"
+        },
+        {
+          "number": 11,
+          "text": "contínuas de prazer acostumam o cérebro, que passa a"
+        },
+        {
+          "number": 12,
+          "text": "precisar de doses maiores para se satisfazer. Instaura-se um"
+        },
+        {
+          "number": 13,
+          "text": "vício. E não é só a descarga de dopamina que importa aí. É"
+        },
+        {
+          "number": 14,
+          "text": "também a velocidade com a qual você obtém o efeito."
+        },
+        {
+          "number": 15,
+          "text": "Cocaína inalável, por exemplo, sobe os níveis de dopamina"
+        },
+        {
+          "number": 16,
+          "text": "em 400%, mas essa descarga vem só 3 minutos após o"
+        },
+        {
+          "number": 17,
+          "text": "consumo. Já o cigarro, embora não cause tanta disrupção"
+        },
+        {
+          "number": 18,
+          "text": "neuronal, tem efeito praticamente instantâneo. Isso torna a"
+        },
+        {
+          "number": 19,
+          "text": "nicotina no mínimo tão viciante quanto cocaína, heroína ou"
+        },
+        {
+          "number": 20,
+          "text": "metanfetaminas. Com uma perversidade adicional: ela não"
+        },
+        {
+          "number": 21,
+          "text": "altera nosso estado consciente, então o usuário pode passar"
+        },
+        {
+          "number": 22,
+          "text": "o dia inteiro mimando os neurônios."
+        },
+        {
+          "number": null,
+          "text": "(Disponível em:  https://super.abril.com.br)."
+        }
+      ],
+      "questionIds": [
+        "uece-2023-1-f1-portuguese-q01",
+        "uece-2023-1-f1-portuguese-q02",
+        "uece-2023-1-f1-portuguese-q03",
+        "uece-2023-1-f1-portuguese-q04",
+        "uece-2023-1-f1-portuguese-q05",
+        "uece-2023-1-f1-portuguese-q06",
+        "uece-2023-1-f1-portuguese-q07"
+      ]
+    },
+    {
+      "id": "uece-2023-1-f1-portuguese-t2",
+      "label": "Texto 2",
+      "title": "Da solidão",
+      "lines": [
+        {
+          "number": 1,
+          "text": "Há muitas pessoas que sofrem do mal da solidão."
+        },
+        {
+          "number": 2,
+          "text": "Basta que em redor delas se arme o silêncio, que não se"
+        },
+        {
+          "number": 3,
+          "text": "manifeste aos seus olhos nenhuma presença humana, para"
+        },
+        {
+          "number": 4,
+          "text": "que delas se apodere imensa angústia: como se o peso do"
+        },
+        {
+          "number": 5,
+          "text": "céu desabasse sobre sua cabeça, como se dos horizontes"
+        },
+        {
+          "number": 6,
+          "text": "se levantasse o anúncio do fim do mundo."
+        },
+        {
+          "number": 7,
+          "text": "No entanto, haverá na terra verdadeira solidão?"
+        },
+        {
+          "number": 8,
+          "text": "Não estamos todos cercados por inúmeros objetos, por"
+        },
+        {
+          "number": 9,
+          "text": "infinitas formas da Natureza e o nosso mundo particular"
+        },
+        {
+          "number": 10,
+          "text": "não está cheio de lembranças, de sonhos, de raciocínios,"
+        },
+        {
+          "number": 11,
+          "text": "de ideias, que impedem uma total solidão?"
+        },
+        {
+          "number": 12,
+          "text": "Tudo é vivo e tudo fala, em redor de nós, embora"
+        },
+        {
+          "number": 13,
+          "text": "com vida e voz que não são humanas, mas que podemos"
+        },
+        {
+          "number": 14,
+          "text": "aprender a escutar, porque muitas vezes essa linguagem"
+        },
+        {
+          "number": 15,
+          "text": "secreta ajuda a esclarecer o nosso próprio mistério. Como"
+        },
+        {
+          "number": 16,
+          "text": "aquele Sultão Mamude, que entendia a fala dos pássaros,"
+        },
+        {
+          "number": 17,
+          "text": "podemos aplicar toda a nossa sensibilidade a esse"
+        },
+        {
+          "number": 18,
+          "text": "aparente vazio de solidão: e pouco a pouco nos sentiremos"
+        },
+        {
+          "number": 19,
+          "text": "enriquecidos."
+        },
+        {
+          "number": 20,
+          "text": "Pintores e fotógrafos andam em volta dos objetos"
+        },
+        {
+          "number": 21,
+          "text": "à procura de ângulos, jogos de luz, eloquência de formas,"
+        },
+        {
+          "number": 22,
+          "text": "para revelarem aquilo que lhes parece não só o mais"
+        },
+        {
+          "number": 23,
+          "text": "estático dos seus aspectos, mas também o mais"
+        },
+        {
+          "number": 24,
+          "text": "comunicável, o mais rico de sugestões, o mais capaz de"
+        },
+        {
+          "number": 25,
+          "text": "transmitir aquilo que excede os limites físicos desses"
+        },
+        {
+          "number": 26,
+          "text": "objetos, constituindo, de certo modo, seu espírito e sua"
+        },
+        {
+          "number": 27,
+          "text": "alma."
+        },
+        {
+          "number": 28,
+          "text": "Façamo-nos também desse modo videntes:"
+        },
+        {
+          "number": 29,
+          "text": "olhemos devagar para a cor das paredes, o desenho das"
+        },
+        {
+          "number": 30,
+          "text": "cadeiras, a transparência das vidraças, os dóceis panos"
+        },
+        {
+          "number": 31,
+          "text": "tecidos sem maiores pretensões. Não procuremos neles a"
+        },
+        {
+          "number": 32,
+          "text": "beleza que arrebata logo o olhar, o equilíbrio de linhas, a"
+        },
+        {
+          "number": 33,
+          "text": "graça das proporções: muitas vezes seu aspecto – como o"
+        },
+        {
+          "number": 34,
+          "text": "das criaturas humanas – é inábil e desajeitado. Mas não é"
+        },
+        {
+          "number": 35,
+          "text": "isso que procuramos, apenas: é o seu sentido íntimo que"
+        },
+        {
+          "number": 36,
+          "text": "tentamos discernir. Amemos nessas humildes coisas a"
+        },
+        {
+          "number": 37,
+          "text": "carga de experiências que representam, e a repercussão,"
+        },
+        {
+          "number": 38,
+          "text": "nelas sensível, de tanto trabalho humano, por infindáveis"
+        },
+        {
+          "number": 39,
+          "text": "séculos."
+        },
+        {
+          "number": 40,
+          "text": "Amemos o que sentimos de nós mesmos, nessas"
+        },
+        {
+          "number": 41,
+          "text": "variadas coisas, já que, por egoístas que somos, não"
+        },
+        {
+          "number": 42,
+          "text": "sabemos amar senão aquilo em que nos encontramos."
+        },
+        {
+          "number": 43,
+          "text": "Amemos o antigo encantamento dos nossos olhos infantis,"
+        },
+        {
+          "number": 44,
+          "text": "quando começavam a descobrir o mundo: as nervuras das"
+        },
+        {
+          "number": 45,
+          "text": "madeiras, com seus caminhos de bosques e ondas e"
+        },
+        {
+          "number": 46,
+          "text": "horizontes; o desenho dos azulejos; o esmalte das louças;"
+        },
+        {
+          "number": 47,
+          "text": "os tranquilos, metódicos telhados... Amemos o rumor da"
+        },
+        {
+          "number": 48,
+          "text": "água que corre, os sons das máquinas, a inquieta voz dos"
+        },
+        {
+          "number": 49,
+          "text": "animais, que desejaríamos traduzir."
+        },
+        {
+          "number": 50,
+          "text": "Tudo palpita em redor de nós, e é como um dever"
+        },
+        {
+          "number": 51,
+          "text": "de amor aplicarmos o ouvido, a vista, o coração a essa"
+        },
+        {
+          "number": 52,
+          "text": "infinidade de formas naturais ou artificiais que encerram"
+        },
+        {
+          "number": 53,
+          "text": "seu segredo, suas memórias, suas silenciosas experiências."
+        },
+        {
+          "number": 54,
+          "text": "A rosa que se despede de si mesma, o espelho onde pousa"
+        },
+        {
+          "number": 55,
+          "text": "o nosso rosto, a fronha por onde se desenham os sonhos"
+        },
+        {
+          "number": 56,
+          "text": "de quem dorme, tudo, tudo é um mundo com passado,"
+        },
+        {
+          "number": 57,
+          "text": "presente, futuro, pelo qual transitamos atentos ou"
+        },
+        {
+          "number": 58,
+          "text": "distraídos. Mundo delicado, que não se impõe com"
+        },
+        {
+          "number": 59,
+          "text": "violência: que aceita a nossa frivolidade ou o nosso"
+        },
+        {
+          "number": 60,
+          "text": "respeito; que espera que o descubramos, sem anunciar"
+        },
+        {
+          "number": 61,
+          "text": "nem pretender prevalecer; que pode ficar para sempre"
+        },
+        {
+          "number": 62,
+          "text": "ignorado, sem que por isso deixe de existir; que não faz da"
+        },
+        {
+          "number": 63,
+          "text": "sua presença um anúncio exigente \" Estou aqui! estou"
+        },
+        {
+          "number": 64,
+          "text": "aqui! \". Mas, concentrado em sua essência, só se revela"
+        },
+        {
+          "number": 65,
+          "text": "quando os nossos sentidos estão aptos para descobrirem."
+        },
+        {
+          "number": 66,
+          "text": "E que em silêncio nos oferece sua múltipla companhia,"
+        },
+        {
+          "number": 67,
+          "text": "generosa e invisível."
+        },
+        {
+          "number": 68,
+          "text": "Oh! se vos queixais de solidão humana, prestai"
+        },
+        {
+          "number": 69,
+          "text": "atenção, em redor de vós, a essa prestigiosa presença, a"
+        },
+        {
+          "number": 70,
+          "text": "essa copiosa linguagem que de tudo transborda, e que"
+        },
+        {
+          "number": 71,
+          "text": "conversará convosco interminavelmente."
+        },
+        {
+          "number": null,
+          "text": "MEIRELES, Cecília. Da solidão. In: MEIRELES, Cecília. Janela Mágica. São"
+        },
+        {
+          "number": null,
+          "text": "Paulo: Global, 2016, pp. 71-74."
+        }
+      ],
+      "questionIds": [
+        "uece-2023-1-f1-portuguese-q08",
+        "uece-2023-1-f1-portuguese-q09",
+        "uece-2023-1-f1-portuguese-q10",
+        "uece-2023-1-f1-portuguese-q11",
+        "uece-2023-1-f1-portuguese-q12"
+      ]
+    }
+  ]
+}

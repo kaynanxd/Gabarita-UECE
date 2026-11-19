@@ -1,0 +1,729 @@
+{
+  "paperId": "uece-2021-1-f1-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2021-1-f1-portuguese-t1",
+      "label": "Texto 1",
+      "title": null,
+      "lines": [
+        {
+          "number": null,
+          "text": "As mulheres negras e a ciência no Brasil: “E eu,"
+        },
+        {
+          "number": null,
+          "text": "não sou uma cientista?”"
+        },
+        {
+          "number": 1,
+          "text": "O título deste texto é uma adaptação"
+        },
+        {
+          "number": 2,
+          "text": "do emblemático discurso da militante negra"
+        },
+        {
+          "number": 3,
+          "text": "ex-excravizada Sojouner Truth em 1851,"
+        },
+        {
+          "number": 4,
+          "text": "numa conferência feminista em Ohio, Estados"
+        },
+        {
+          "number": 5,
+          "text": "Unidos. Neste antológico discurso, Sojouner"
+        },
+        {
+          "number": 6,
+          "text": "problematizava a opressão das mulheres"
+        },
+        {
+          "number": 7,
+          "text": "negras nos Estados Unidos, buscando"
+        },
+        {
+          "number": 8,
+          "text": "explicitar os graus de desumanização dessas"
+        },
+        {
+          "number": 9,
+          "text": "mulheres a ponto de não lhes serem"
+        },
+        {
+          "number": 10,
+          "text": "conferidas as características socialmente"
+        },
+        {
+          "number": 11,
+          "text": "construídas do gênero feminino."
+        },
+        {
+          "number": 12,
+          "text": "Mas o que que um discurso do século"
+        },
+        {
+          "number": 13,
+          "text": "XIX de uma feminista negra ex-escravizada"
+        },
+        {
+          "number": 14,
+          "text": "estadunidense tem a ver com o histórico das"
+        },
+        {
+          "number": 15,
+          "text": "cientistas negras brasileiras? Acontece que"
+        },
+        {
+          "number": 16,
+          "text": "cientistas negras são mulheres que estão"
+        },
+        {
+          "number": 17,
+          "text": "imersas nos segregadores processos de"
+        },
+        {
+          "number": 18,
+          "text": "subjugação racial que o racismo estrutural"
+        },
+        {
+          "number": 19,
+          "text": "nos impõe em qualquer lugar do mundo."
+        },
+        {
+          "number": 20,
+          "text": "Mulheres negras, assim como todas as"
+        },
+        {
+          "number": 21,
+          "text": "pessoas oriundas do processo diaspórico de"
+        },
+        {
+          "number": 22,
+          "text": "escravização brasileira, só tiveram a sua"
+        },
+        {
+          "number": 23,
+          "text": "liberdade legal a partir de 1888, quando a"
+        },
+        {
+          "number": 24,
+          "text": "pressão exercida secularmente pelo"
+        },
+        {
+          "number": 25,
+          "text": "movimento quilombola articulada à"
+        },
+        {
+          "number": 26,
+          "text": "necessidade de expansão mercantil do"
+        },
+        {
+          "number": 27,
+          "text": "capitalismo inglês intensificaram o"
+        },
+        {
+          "number": 28,
+          "text": "movimento abolicionista no Brasil, o último"
+        },
+        {
+          "number": 29,
+          "text": "país da América Latina a abolir a escravatura."
+        },
+        {
+          "number": 30,
+          "text": "Nesse sentido, cabe refletirmos:"
+        },
+        {
+          "number": 31,
+          "text": "tendo o Brasil abolido a escravidão no final"
+        },
+        {
+          "number": 32,
+          "text": "do século XIX, é plausível imaginarmos que"
+        },
+        {
+          "number": 33,
+          "text": "pessoas negras brasileiras tiveram um"
+        },
+        {
+          "number": 34,
+          "text": "processo tardio de acesso a direitos sociais"
+        },
+        {
+          "number": 35,
+          "text": "tais como educação, saúde e moradia, dentre"
+        },
+        {
+          "number": 36,
+          "text": "outros. Assim sendo, a universidade"
+        },
+        {
+          "number": 37,
+          "text": "brasileira, que teve a sua fundação com a"
+        },
+        {
+          "number": 38,
+          "text": "Escola Baiana de Medicina em 1808, foi por"
+        },
+        {
+          "number": 39,
+          "text": "muito tempo uma instituição branca, criada"
+        },
+        {
+          "number": 40,
+          "text": "no contexto da escravização para suprir as"
+        },
+        {
+          "number": 41,
+          "text": "necessidades de uma elite intelectual branca"
+        },
+        {
+          "number": 42,
+          "text": "colonizadora e imperialista."
+        },
+        {
+          "number": 43,
+          "text": "Pouquíssimas pessoas negras tiveram"
+        },
+        {
+          "number": 44,
+          "text": "acesso à escolarização básica, quem dirá"
+        },
+        {
+          "number": 45,
+          "text": "àquela de nível superior. No contexto da"
+        },
+        {
+          "number": 46,
+          "text": "primeira metade do século XX, enquanto"
+        },
+        {
+          "number": 47,
+          "text": "mulheres brancas lutavam pelos direitos"
+        },
+        {
+          "number": 48,
+          "text": "sufragistas e de trabalharem fora de casa,"
+        },
+        {
+          "number": 49,
+          "text": "mulheres negras trabalhavam nas casas"
+        },
+        {
+          "number": 50,
+          "text": "destas tomando conta dos seus filhos e"
+        },
+        {
+          "number": 51,
+          "text": "filhas, lavando roupa, sendo empregadas"
+        },
+        {
+          "number": 52,
+          "text": "domésticas; sustentavam famílias vendendo"
+        },
+        {
+          "number": 53,
+          "text": "quitutes nos tabuleiros… em um presente"
+        },
+        {
+          "number": 54,
+          "text": "bem distante de um futuro emancipado"
+        },
+        {
+          "number": 55,
+          "text": "academicamente. Nesses termos, mesmo"
+        },
+        {
+          "number": 56,
+          "text": "sabendo dos processos de alterização"
+        },
+        {
+          "number": 57,
+          "text": "negativa que mulheres em geral sofrem na"
+        },
+        {
+          "number": 58,
+          "text": "sociedade, há um descompasso histórico"
+        },
+        {
+          "number": 59,
+          "text": "entre a ausência de privilégios das mulheres"
+        },
+        {
+          "number": 60,
+          "text": "brancas comparadas às mulheres negras que"
+        },
+        {
+          "number": 61,
+          "text": "se perpetuam até os dias de hoje mesmo"
+        },
+        {
+          "number": 62,
+          "text": "com todos os direitos alcançados nos últimos"
+        },
+        {
+          "number": 63,
+          "text": "anos como a PEC das domésticas, como as"
+        },
+        {
+          "number": 64,
+          "text": "cotas raciais, como os programas de combate"
+        },
+        {
+          "number": 65,
+          "text": "à miséria no Brasil."
+        },
+        {
+          "number": 66,
+          "text": "Infelizmente, essa é uma realidade"
+        },
+        {
+          "number": 67,
+          "text": "que persiste aos dias atuais, mesmo com os"
+        },
+        {
+          "number": 68,
+          "text": "avanços dos últimos anos. De acordo com"
+        },
+        {
+          "number": 69,
+          "text": "uma pesquisa realizada pelo Instituto"
+        },
+        {
+          "number": 70,
+          "text": "Brasileiro de Geografia e Estatística (IBGE)"
+        },
+        {
+          "number": 71,
+          "text": "em 2018, apenas 10,4% das mulheres"
+        },
+        {
+          "number": 72,
+          "text": "negras com idade entre 25 a 44 anos"
+        },
+        {
+          "number": 73,
+          "text": "concluem o ensino superior. De acordo com"
+        },
+        {
+          "number": 74,
+          "text": "uma pesquisa realizada pelo Instituto"
+        },
+        {
+          "number": 75,
+          "text": "Nacional de Estudos e Pesquisas Educacionais"
+        },
+        {
+          "number": 76,
+          "text": "Anísio Teixeira (Inep), o percentual de"
+        },
+        {
+          "number": 77,
+          "text": "mulheres negras (pretas e pardas) doutoras"
+        },
+        {
+          "number": 78,
+          "text": "professoras de programa de pós-graduação é"
+        },
+        {
+          "number": 79,
+          "text": "inferior a 3%. Segundo uma pesquisa"
+        },
+        {
+          "number": 80,
+          "text": "realizada pelo Conselho Nacional de"
+        },
+        {
+          "number": 81,
+          "text": "Desenvolvimento Científico e Tecnológico"
+        },
+        {
+          "number": 82,
+          "text": "(CNPQ) em 2015 apenas 7% das bolsas de"
+        },
+        {
+          "number": 83,
+          "text": "produtividade são destinadas a mulheres"
+        },
+        {
+          "number": 84,
+          "text": "negras."
+        },
+        {
+          "number": 85,
+          "text": "A marginalidade supracitada no"
+        },
+        {
+          "number": 86,
+          "text": "ambiente científico não versa sobre a baixa"
+        },
+        {
+          "number": 87,
+          "text": "capacidade intelectual de mulheres negras,"
+        },
+        {
+          "number": 88,
+          "text": "nem tampouco sobre uma ausência de"
+        },
+        {
+          "number": 89,
+          "text": "propensão genética de mulheres negras à"
+        },
+        {
+          "number": 90,
+          "text": "produção epistêmica, mas sim sobre um"
+        },
+        {
+          "number": 91,
+          "text": "brutal processo social de produção e"
+        },
+        {
+          "number": 92,
+          "text": "reprodução de padrões de subalternidade"
+        },
+        {
+          "number": 93,
+          "text": "cognitivamente e materialmente a nós"
+        },
+        {
+          "number": 94,
+          "text": "impostos."
+        },
+        {
+          "number": 95,
+          "text": "Nos contaram acerca de uma história"
+        },
+        {
+          "number": 96,
+          "text": "de inferioridade programada da população"
+        },
+        {
+          "number": 97,
+          "text": "negra no mundo nos últimos quatro séculos e"
+        },
+        {
+          "number": 98,
+          "text": "“esqueceram” de nos contar sobre os"
+        },
+        {
+          "number": 99,
+          "text": "milênios de pioneirismo intelectual desses"
+        },
+        {
+          "number": 100,
+          "text": "nossos e nossas ancestrais nas ciências, na"
+        },
+        {
+          "number": 101,
+          "text": "matemática, na filosofia, no desenvolvimento"
+        },
+        {
+          "number": 102,
+          "text": "da escrita, na arquitetura, na medicina etc."
+        },
+        {
+          "number": 103,
+          "text": "Nos ensinaram uma história negra que"
+        },
+        {
+          "number": 104,
+          "text": "ontologicamente remonta à escravidão,"
+        },
+        {
+          "number": 105,
+          "text": "entretanto “deixaram passar” informações"
+        },
+        {
+          "number": 106,
+          "text": "relevantes, como o fato de a humanidade ter"
+        },
+        {
+          "number": 107,
+          "text": "nascido em África – o verdadeiro velho"
+        },
+        {
+          "number": 108,
+          "text": "mundo –; de uma mulher negra africana,"
+        },
+        {
+          "number": 109,
+          "text": "Merit Ptah (2700 a.C), ser a primeira médica"
+        },
+        {
+          "number": 110,
+          "text": "de que se tem conhecimento; como o fato de"
+        },
+        {
+          "number": 111,
+          "text": "não conhecermos grandes impérios africanos"
+        },
+        {
+          "number": 112,
+          "text": "como Axum, Meroé, Núbia, Numídia, a Terra"
+        },
+        {
+          "number": 113,
+          "text": "de Punt, o Império de Kush, o Império"
+        },
+        {
+          "number": 114,
+          "text": "Ashanti e o Império de Gana, dentre outros."
+        },
+        {
+          "number": 115,
+          "text": "Concluo informando que é preciso"
+        },
+        {
+          "number": 116,
+          "text": "revisitarmos os porões da nossa história para"
+        },
+        {
+          "number": 117,
+          "text": "darmos vez e voz a narrativas históricas"
+        },
+        {
+          "number": 118,
+          "text": "invisibilizadas, que nos propiciarão uma"
+        },
+        {
+          "number": 119,
+          "text": "descolonização dos padrões do que vem a ser"
+        },
+        {
+          "number": 120,
+          "text": "ciência e do que vem a ser cientista. É"
+        },
+        {
+          "number": 121,
+          "text": "preciso um olhar atento para a história para"
+        },
+        {
+          "number": null,
+          "text": "4"
+        },
+        {
+          "number": 122,
+          "text": "compreendermos os passos que nos"
+        },
+        {
+          "number": 123,
+          "text": "conduziram até aqui e para termos"
+        },
+        {
+          "number": 124,
+          "text": "sensibilidade e empatia com essas"
+        },
+        {
+          "number": 125,
+          "text": "existências negadas e inferiorizadas."
+        },
+        {
+          "number": null,
+          "text": "Pinheiro, Bárbara Carine Soares. As mulheres negras e"
+        },
+        {
+          "number": null,
+          "text": "a ciência no Brasil: “e eu, não sou uma cientista?”."
+        },
+        {
+          "number": null,
+          "text": "Disponível em https://www.comciencia.br/as-mulheres-"
+        },
+        {
+          "number": null,
+          "text": "negras-e-ciencia-no-brasil-e-eu-nao-sou-uma-cientista/."
+        },
+        {
+          "number": null,
+          "text": "Acesso em 5 de abril de 2021. Texto adaptado."
+        }
+      ],
+      "questionIds": [
+        "uece-2021-1-f1-portuguese-q01",
+        "uece-2021-1-f1-portuguese-q02",
+        "uece-2021-1-f1-portuguese-q03",
+        "uece-2021-1-f1-portuguese-q04"
+      ]
+    },
+    {
+      "id": "uece-2021-1-f1-portuguese-t2",
+      "label": "Texto 2",
+      "title": "Mulher (Sexo Frágil)",
+      "lines": [
+        {
+          "number": null,
+          "text": "Erasmo Carlos"
+        },
+        {
+          "number": 126,
+          "text": "Dizem que a mulher é o sexo frágil"
+        },
+        {
+          "number": 127,
+          "text": "Mas que mentira absurda!"
+        },
+        {
+          "number": 128,
+          "text": "Eu que faço parte da rotina de uma delas"
+        },
+        {
+          "number": 129,
+          "text": "Sei que a força está com elas"
+        },
+        {
+          "number": 130,
+          "text": "Vejam como é forte a que eu conheço"
+        },
+        {
+          "number": 131,
+          "text": "Sua sapiência não tem preço"
+        },
+        {
+          "number": 132,
+          "text": "Satisfaz meu ego, se fingindo submissa"
+        },
+        {
+          "number": 133,
+          "text": "Mas no fundo me enfeitiça"
+        },
+        {
+          "number": 134,
+          "text": "Quando eu chego em casa à noitinha"
+        },
+        {
+          "number": 135,
+          "text": "Quero uma mulher só minha"
+        },
+        {
+          "number": 136,
+          "text": "Mas pra quem deu luz não tem mais jeito"
+        },
+        {
+          "number": 137,
+          "text": "Porque um filho quer seu peito"
+        },
+        {
+          "number": 138,
+          "text": "O outro já reclama a sua mão"
+        },
+        {
+          "number": 139,
+          "text": "E o outro quer o amor que ela tiver"
+        },
+        {
+          "number": 140,
+          "text": "Quatro homens dependentes e carentes"
+        },
+        {
+          "number": 141,
+          "text": "Da força da mulher"
+        },
+        {
+          "number": 142,
+          "text": "Mulher! Mulher!"
+        },
+        {
+          "number": 143,
+          "text": "Do barro de que você foi gerada"
+        },
+        {
+          "number": 144,
+          "text": "Me veio inspiração"
+        },
+        {
+          "number": 145,
+          "text": "Pra decantar você nessa canção"
+        },
+        {
+          "number": 146,
+          "text": "Mulher! Mulher!"
+        },
+        {
+          "number": 147,
+          "text": "Na escola em que você foi ensinada"
+        },
+        {
+          "number": 148,
+          "text": "Jamais tirei um 10"
+        },
+        {
+          "number": 149,
+          "text": "Sou forte, mas não chego aos seus pés"
+        }
+      ],
+      "questionIds": [
+        "uece-2021-1-f1-portuguese-q05",
+        "uece-2021-1-f1-portuguese-q06",
+        "uece-2021-1-f1-portuguese-q07",
+        "uece-2021-1-f1-portuguese-q08",
+        "uece-2021-1-f1-portuguese-q09"
+      ]
+    },
+    {
+      "id": "uece-2021-1-f1-portuguese-t3",
+      "label": "Texto 3",
+      "title": "Retrato",
+      "lines": [
+        {
+          "number": null,
+          "text": "Cecília Meireles"
+        },
+        {
+          "number": 150,
+          "text": "Eu não tinha este rosto de hoje,"
+        },
+        {
+          "number": 151,
+          "text": "Assim calmo, assim triste, assim magro,"
+        },
+        {
+          "number": 152,
+          "text": "Nem estes olhos tão vazios,"
+        },
+        {
+          "number": 153,
+          "text": "Nem o lábio amargo."
+        },
+        {
+          "number": 154,
+          "text": "Eu não tinha estas mãos sem força,"
+        },
+        {
+          "number": 155,
+          "text": "Tão paradas e frias e mortas;"
+        },
+        {
+          "number": 156,
+          "text": "Eu não tinha este coração"
+        },
+        {
+          "number": 157,
+          "text": "Que nem se mostra."
+        },
+        {
+          "number": 158,
+          "text": "Eu não dei por esta mudança,"
+        },
+        {
+          "number": 159,
+          "text": "Tão simples, tão certa, tão fácil:"
+        },
+        {
+          "number": 160,
+          "text": "— Em que espelho ficou perdida"
+        },
+        {
+          "number": 161,
+          "text": "a minha face?"
+        }
+      ],
+      "questionIds": [
+        "uece-2021-1-f1-portuguese-q10",
+        "uece-2021-1-f1-portuguese-q11",
+        "uece-2021-1-f1-portuguese-q12"
+      ]
+    }
+  ]
+}

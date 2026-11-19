@@ -1,0 +1,380 @@
+{
+  "paperId": "uece-2018-1-f2-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2018-1-f2-spanish-t1",
+      "label": "TEXTO 1",
+      "title": "desvanecen",
+      "lines": [
+        {
+          "number": null,
+          "text": "Los árboles más grandes del planeta se"
+        },
+        {
+          "number": 1,
+          "text": "Algunos de los árboles más grandes y"
+        },
+        {
+          "number": 2,
+          "text": "viejos del mundo ya estaban en el planeta"
+        },
+        {
+          "number": 3,
+          "text": "cuando la mayoría de los humanos vivía"
+        },
+        {
+          "number": 4,
+          "text": "literalmente en la Edad de Piedra. Sin"
+        },
+        {
+          "number": 5,
+          "text": "embargo, un abanico de acciones humanas,"
+        },
+        {
+          "number": 6,
+          "text": "como la tala, la degradación de ecosistemas"
+        },
+        {
+          "number": 7,
+          "text": "y ahora el cambio climático están acabando"
+        },
+        {
+          "number": 8,
+          "text": "con los ejemplares más antiguos de"
+        },
+        {
+          "number": 9,
+          "text": "secuoyas, eucaliptos de 100 metros o árboles"
+        },
+        {
+          "number": 10,
+          "text": "tan mágicos como el baobab. Lo peor es que"
+        },
+        {
+          "number": 11,
+          "text": "ya no existen las condiciones para que los"
+        },
+        {
+          "number": 12,
+          "text": "ejemplares más jóvenes alcancen la altura y"
+        },
+        {
+          "number": 13,
+          "text": "edad de sus antecesores."
+        },
+        {
+          "number": 14,
+          "text": "Aunque hay muchas especies"
+        },
+        {
+          "number": 15,
+          "text": "de árboles milenarios, solo unas pocas"
+        },
+        {
+          "number": 16,
+          "text": "crecen durante siglos hasta alcanzar los 50,"
+        },
+        {
+          "number": 17,
+          "text": "los 100 y hasta los 115 metros que superan"
+        },
+        {
+          "number": 18,
+          "text": "algunos ejemplares de secuoya roja. No hay"
+        },
+        {
+          "number": 19,
+          "text": "una categoría bien definida de lo que los"
+        },
+        {
+          "number": 20,
+          "text": "botánicos llaman LOT, Large Old Trees"
+        },
+        {
+          "number": 21,
+          "text": "(grandes árboles viejos, en inglés). Tampoco"
+        },
+        {
+          "number": 22,
+          "text": "hay fijado un mínimo de altura o"
+        },
+        {
+          "number": 23,
+          "text": "envergadura para determinar qué es un gran"
+        },
+        {
+          "number": 24,
+          "text": "árbol. Un dato objetivo es el carácter central"
+        },
+        {
+          "number": 25,
+          "text": "que juegan en su ecosistema. Y un dato"
+        },
+        {
+          "number": 26,
+          "text": "subjetivo es la majestuosidad que inspiran a"
+        },
+        {
+          "number": 27,
+          "text": "los humanos."
+        },
+        {
+          "number": 28,
+          "text": "Por eso LOT son las dos especies de"
+        },
+        {
+          "number": 29,
+          "text": "secuoyas que crecen en la costa oeste de EE"
+        },
+        {
+          "number": 30,
+          "text": "UU, el fresno de montaña (Eucalyptus"
+        },
+        {
+          "number": 31,
+          "text": "regnans) que crece durante 400 años hasta"
+        },
+        {
+          "number": 32,
+          "text": "los 100 o más metros o el Petersianthus"
+        },
+        {
+          "number": 33,
+          "text": "quadrialatus, una especie de palo rosa que"
+        },
+        {
+          "number": 34,
+          "text": "crece en Filipinas. Pero también son árboles"
+        },
+        {
+          "number": 35,
+          "text": "viejos y grandes los abetos de más de 50"
+        },
+        {
+          "number": 36,
+          "text": "metros que hay en el viejísimo bosque de"
+        },
+        {
+          "number": 37,
+          "text": "Bialowieza (Polonia) o el baobab africano que"
+        },
+        {
+          "number": 38,
+          "text": "en algunas especies alcanza los 30 metros de"
+        },
+        {
+          "number": 39,
+          "text": "altura y más de 10 de circunferencia. Casi"
+        },
+        {
+          "number": 40,
+          "text": "todos ellos están en retirada."
+        },
+        {
+          "number": null,
+          "text": "Miguel Ángel Criado (periódico EL PAÍS)"
+        },
+        {
+          "number": null,
+          "text": "C U E S T I O N E S"
+        }
+      ],
+      "questionIds": [
+        "uece-2018-1-f2-spanish-q01",
+        "uece-2018-1-f2-spanish-q02",
+        "uece-2018-1-f2-spanish-q03",
+        "uece-2018-1-f2-spanish-q04",
+        "uece-2018-1-f2-spanish-q05"
+      ]
+    },
+    {
+      "id": "uece-2018-1-f2-spanish-t2",
+      "label": "TEXTO 2",
+      "title": "El nacimiento del río Titicaca",
+      "lines": [
+        {
+          "number": 41,
+          "text": "Hace mucho tiempo, existía una"
+        },
+        {
+          "number": 42,
+          "text": "ciudad de la que sus habitantes estaban muy"
+        },
+        {
+          "number": 43,
+          "text": "orgullosos. Es más, estaban tan orgullosos"
+        },
+        {
+          "number": 44,
+          "text": "que decían que ni había otra ciudad tan"
+        },
+        {
+          "number": 45,
+          "text": "perfecta en ninguna otra parte."
+        },
+        {
+          "number": 46,
+          "text": "Un buen día llegaron unos forasteros"
+        },
+        {
+          "number": 47,
+          "text": "sucios y con ropas viejas y, cuando llevaban"
+        },
+        {
+          "number": 48,
+          "text": "horas recorriendo las empedradas calles, se"
+        },
+        {
+          "number": 49,
+          "text": "presentaron ante los sacerdotes. El motivo"
+        },
+        {
+          "number": 50,
+          "text": "era avisarles de que todo lo que estaba en"
+        },
+        {
+          "number": 51,
+          "text": "pie iba a desaparecer en los próximos días"
+        },
+        {
+          "number": 52,
+          "text": "debido a una catástrofe natural. Asustados,"
+        },
+        {
+          "number": 53,
+          "text": "los sacerdotes reunieron a todos los"
+        },
+        {
+          "number": 54,
+          "text": "ciudadanos en la plaza para contarles lo"
+        },
+        {
+          "number": 55,
+          "text": "sucedido. De forma altanera y orgullosa toda"
+        },
+        {
+          "number": 56,
+          "text": "la gente gritó que eso era imposible, porque"
+        },
+        {
+          "number": 57,
+          "text": "no había edificios, ni carreteras tan bien"
+        },
+        {
+          "number": 58,
+          "text": "construidas como las suyas y nadie ni nada"
+        },
+        {
+          "number": 59,
+          "text": "podía destruirlos. Estaban tan enfadados que"
+        },
+        {
+          "number": 60,
+          "text": "llegaron a echar a pedradas a los sacerdotes"
+        },
+        {
+          "number": 61,
+          "text": "que habían dicho palabras tan tontas. Sin"
+        },
+        {
+          "number": 62,
+          "text": "embargo, más precavidos, los sacerdotes se"
+        },
+        {
+          "number": 63,
+          "text": "instalaron en la montaña más alta que"
+        },
+        {
+          "number": 64,
+          "text": "pudieron encontrar, y allí vivieron un tiempo"
+        },
+        {
+          "number": 65,
+          "text": "bajo la burla de sus vecinos."
+        },
+        {
+          "number": 66,
+          "text": "De pronto, pasadas algunas"
+        },
+        {
+          "number": 67,
+          "text": "semanas, apareció sin más una negra y roja"
+        },
+        {
+          "number": 68,
+          "text": "nube que cubría la ciudad, y empezó a llover"
+        },
+        {
+          "number": 69,
+          "text": "con fuerza. En el mismo instante, se oyó un"
+        },
+        {
+          "number": 70,
+          "text": "fuerte ruido y el suelo empezó a abrirse por"
+        },
+        {
+          "number": 71,
+          "text": "mil sitios. Bajo la mirada aterrorizada de la"
+        },
+        {
+          "number": 72,
+          "text": "gente, la tierra empezó a tragarse todo lo"
+        },
+        {
+          "number": 73,
+          "text": "que estaba levantado sobre ella y una fuerte"
+        },
+        {
+          "number": 74,
+          "text": "corriente arrastró lo poco que quedaba en"
+        },
+        {
+          "number": 75,
+          "text": "pie. En pocos minutos, donde antes había"
+        },
+        {
+          "number": 76,
+          "text": "una hermosa ciudad, se creó una inmensa"
+        },
+        {
+          "number": 77,
+          "text": "extensión de agua."
+        },
+        {
+          "number": 78,
+          "text": "Así fue como nació el lago de agua"
+        },
+        {
+          "number": 79,
+          "text": "dulce más extenso de América del Sur, el río"
+        },
+        {
+          "number": 80,
+          "text": "Titicaca; lugar sagrado para los incas."
+        },
+        {
+          "number": null,
+          "text": "(Leyenda india.)"
+        }
+      ],
+      "questionIds": [
+        "uece-2018-1-f2-spanish-q06",
+        "uece-2018-1-f2-spanish-q07",
+        "uece-2018-1-f2-spanish-q08",
+        "uece-2018-1-f2-spanish-q09",
+        "uece-2018-1-f2-spanish-q10",
+        "uece-2018-1-f2-spanish-q11",
+        "uece-2018-1-f2-spanish-q12",
+        "uece-2018-1-f2-spanish-q13",
+        "uece-2018-1-f2-spanish-q14",
+        "uece-2018-1-f2-spanish-q15",
+        "uece-2018-1-f2-spanish-q16",
+        "uece-2018-1-f2-spanish-q17",
+        "uece-2018-1-f2-spanish-q18",
+        "uece-2018-1-f2-spanish-q19",
+        "uece-2018-1-f2-spanish-q20"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "paperId": "uece-2023-2-f1-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2023-2-f1-portuguese-t1",
+      "label": "Texto 1",
+      "title": null,
+      "lines": [
+        {
+          "number": null,
+          "text": "Fomo, Fobo e Jomo: conheça as síndromes que podem"
+        },
+        {
+          "number": null,
+          "text": "surgir com o uso excessivo dos aparelhos eletrônicos"
+        },
+        {
+          "number": 1,
+          "text": "A internet e as redes sociais aumentaram a"
+        },
+        {
+          "number": 2,
+          "text": "velocidade em que as informações são atualizadas e"
+        },
+        {
+          "number": 3,
+          "text": "provocaram, consequentemente, uma necessidade"
+        },
+        {
+          "number": 4,
+          "text": "de conexão e atualização permanente na"
+        },
+        {
+          "number": 5,
+          "text": "humanidade. Segundo o Estudo Longitudinal da"
+        },
+        {
+          "number": 6,
+          "text": "Saúde do Adulto (ELSA-Brasil), a pandemia"
+        },
+        {
+          "number": 7,
+          "text": "aumentou em mais de 62% dos brasileiros o tempo"
+        },
+        {
+          "number": 8,
+          "text": "de exposição contínua a telas. De acordo com Ticiana"
+        },
+        {
+          "number": 9,
+          "text": "Macedo, médica psiquiatra e diretora do Nosso Lar"
+        },
+        {
+          "number": 10,
+          "text": "Hospital, esse aumento pode acarretar implicações"
+        },
+        {
+          "number": 11,
+          "text": "para a saúde mental, e alguns termos como Fomo,"
+        },
+        {
+          "number": 12,
+          "text": "Fobo e Jomo surgiram para definir fenômenos"
+        },
+        {
+          "number": 13,
+          "text": "comportamentais decorrentes dessa"
+        },
+        {
+          "number": 14,
+          "text": "hiperconectividade."
+        },
+        {
+          "number": 15,
+          "text": "A Fomo, sigla advinda da expressão em inglês"
+        },
+        {
+          "number": 16,
+          "text": "“fear of missing out” – traduzida para o português"
+        },
+        {
+          "number": 17,
+          "text": "significa “medo de ficar de fora” – é caracterizada"
+        },
+        {
+          "number": 18,
+          "text": "por sentimentos de ansiedade decorrentes da"
+        },
+        {
+          "number": 19,
+          "text": "sensação de estar perdendo a vivência de"
+        },
+        {
+          "number": 20,
+          "text": "experiências satisfatórias de outras pessoas."
+        },
+        {
+          "number": 21,
+          "text": "“É aquela necessidade de estar por dentro de"
+        },
+        {
+          "number": 22,
+          "text": "tudo que acontece, o medo e ansiedade vêm quando"
+        },
+        {
+          "number": 23,
+          "text": "pensam estar perdendo algo importante. Essa"
+        },
+        {
+          "number": 24,
+          "text": "síndrome faz com que sentimentos de inferioridade,"
+        },
+        {
+          "number": 25,
+          "text": "inveja e o receio de estar sendo excluído de qualquer"
+        },
+        {
+          "number": 26,
+          "text": "ocasião surjam”, explica a psiquiatra."
+        },
+        {
+          "number": 27,
+          "text": "De acordo com a especialista, é fundamental"
+        },
+        {
+          "number": 28,
+          "text": "prestar atenção em sinais que podem indicar Fomo,"
+        },
+        {
+          "number": 29,
+          "text": "como a necessidade de checagem frenética das"
+        },
+        {
+          "number": 30,
+          "text": "mídias sociais, o desejo de permanecer"
+        },
+        {
+          "number": 31,
+          "text": "constantemente conectado e a intensificação do uso"
+        },
+        {
+          "number": 32,
+          "text": "dos aplicativos de comunicação, na tentativa de"
+        },
+        {
+          "number": 33,
+          "text": "aliviar o sofrimento causado por eles, caracterizando"
+        },
+        {
+          "number": 34,
+          "text": "o início de um ciclo vicioso."
+        },
+        {
+          "number": 35,
+          "text": "Já a Fobo, sigla que vem da expressão “fear of"
+        },
+        {
+          "number": 36,
+          "text": "a better option\" – que significa medo de uma opção"
+        },
+        {
+          "number": 37,
+          "text": "melhor – gera um sentimento de ansiedade pelo"
+        },
+        {
+          "number": 38,
+          "text": "excesso de opções e informações disponibilizadas"
+        },
+        {
+          "number": 39,
+          "text": "online, ocasionando o medo de escolher algo que"
+        },
+        {
+          "number": 40,
+          "text": "não seja perfeito e a dificuldade de tomar decisões."
+        },
+        {
+          "number": 41,
+          "text": "“Sempre parece existir uma oportunidade"
+        },
+        {
+          "number": 42,
+          "text": "melhor. A pessoa vive em constantes"
+        },
+        {
+          "number": 43,
+          "text": "questionamentos sobre o que poderia ter acontecido"
+        },
+        {
+          "number": 44,
+          "text": "e o que pode acontecer, não se atenta ao presente e"
+        },
+        {
+          "number": 45,
+          "text": "vive em atormentações de possibilidades. Perguntas"
+        },
+        {
+          "number": 46,
+          "text": "como “e se?” e “mas talvez?” se tornam frequentes”,"
+        },
+        {
+          "number": 47,
+          "text": "explica Ticiana Macedo."
+        },
+        {
+          "number": 48,
+          "text": "O portador de Fobo também costuma cancelar"
+        },
+        {
+          "number": 49,
+          "text": "compromissos no último minuto, por preferir outra"
+        },
+        {
+          "number": 50,
+          "text": "opção e tem dificuldade de iniciar e finalizar planos."
+        },
+        {
+          "number": 51,
+          "text": "Diferente de Fomo e Fobo, o termo Jomo não"
+        },
+        {
+          "number": 52,
+          "text": "representa uma síndrome, mas um estilo de vida em"
+        },
+        {
+          "number": 53,
+          "text": "contraposição às síndromes citadas, pregando o"
+        },
+        {
+          "number": 54,
+          "text": "prazer em não estar conectado a todo momento e a"
+        },
+        {
+          "number": 55,
+          "text": "valorização da vida fora das telas. A prática está"
+        },
+        {
+          "number": 56,
+          "text": "ligada às mudanças de hábitos com melhoria da"
+        },
+        {
+          "number": 57,
+          "text": "produtividade, qualidade de vida, redução da"
+        },
+        {
+          "number": 58,
+          "text": "procrastinação e desenvolvimento das relações"
+        },
+        {
+          "number": 59,
+          "text": "sociais."
+        },
+        {
+          "number": 60,
+          "text": "Segundo ela, por evitar a comparação típica"
+        },
+        {
+          "number": 61,
+          "text": "das redes sociais e diminuir as chances do"
+        },
+        {
+          "number": 62,
+          "text": "desenvolvimento de ansiedade e depressão, a"
+        },
+        {
+          "number": 63,
+          "text": "prática traz benefícios para a saúde, em especial a"
+        },
+        {
+          "number": 64,
+          "text": "mental. Para inserir a prática Jomo na rotina,"
+        },
+        {
+          "number": 65,
+          "text": "algumas dicas como diminuir o tempo nos"
+        },
+        {
+          "number": 66,
+          "text": "aplicativos, estabelecer metas diárias de tempo fora"
+        },
+        {
+          "number": 67,
+          "text": "do celular ou computador e determinação de"
+        },
+        {
+          "number": 68,
+          "text": "horários para desligar-se completamente do mundo"
+        },
+        {
+          "number": 69,
+          "text": "virtual podem ser seguidas. A psiquiatra orienta"
+        },
+        {
+          "number": 70,
+          "text": "inserir na rotina atividades sem telas que"
+        },
+        {
+          "number": 71,
+          "text": "proporcionem prazer e evitar checar notificações do"
+        },
+        {
+          "number": 72,
+          "text": "celular em momentos de descontração."
+        },
+        {
+          "number": 73,
+          "text": "Para Ticiana, dialogar sobre bem-estar e saúde"
+        },
+        {
+          "number": 74,
+          "text": "emocional na era da conexão e imersão digital é"
+        },
+        {
+          "number": 75,
+          "text": "extremamente necessário. A psiquiatra atenta, no"
+        },
+        {
+          "number": 76,
+          "text": "entanto, para a importância de procurar ajuda e"
+        },
+        {
+          "number": 77,
+          "text": "orientação profissional caso esses sinais e sintomas"
+        },
+        {
+          "number": 78,
+          "text": "se tornem frequentes e comecem a atrapalhar a"
+        },
+        {
+          "number": 79,
+          "text": "rotina."
+        },
+        {
+          "number": 80,
+          "text": "“O estresse causado pela necessidade de estar"
+        },
+        {
+          "number": 81,
+          "text": "participando de tudo ao mesmo tempo gerou"
+        },
+        {
+          "number": 82,
+          "text": "consequências que afetam relações no geral”,"
+        },
+        {
+          "number": 83,
+          "text": "comenta. A psiquiatra alerta que a falta de foco nas"
+        },
+        {
+          "number": 84,
+          "text": "atividades, o não estar presente nas interações e a"
+        },
+        {
+          "number": 85,
+          "text": "baixa produtividade foram os sintomas mais citados"
+        },
+        {
+          "number": 86,
+          "text": "nos últimos tempos."
+        },
+        {
+          "number": 87,
+          "text": "“É importante citar que as redes sociais têm"
+        },
+        {
+          "number": 88,
+          "text": "um impacto negativo quando consumidas em"
+        },
+        {
+          "number": 89,
+          "text": "excesso. Por isso, é ideal impor limites para o uso"
+        },
+        {
+          "number": 90,
+          "text": "excessivo e que cause dependência”, finaliza."
+        },
+        {
+          "number": null,
+          "text": "BRUNO, Elias.  Fomo, Fobo e Jomo: conheça as síndromes que"
+        },
+        {
+          "number": null,
+          "text": "podem surgir com o uso excessivo dos aparelhos eletrônicos."
+        },
+        {
+          "number": null,
+          "text": "Disponível em https://www.segs.com.br/demais/352747-fomo-"
+        },
+        {
+          "number": null,
+          "text": "fobo-e-jomo-conheca-as-sindromes-que-podem-surgir-com-o-uso-"
+        },
+        {
+          "number": null,
+          "text": "excessivo-dos-aparelhos-eletronicos"
+        }
+      ],
+      "questionIds": [
+        "uece-2023-2-f1-portuguese-q01",
+        "uece-2023-2-f1-portuguese-q02",
+        "uece-2023-2-f1-portuguese-q03",
+        "uece-2023-2-f1-portuguese-q04",
+        "uece-2023-2-f1-portuguese-q05",
+        "uece-2023-2-f1-portuguese-q06",
+        "uece-2023-2-f1-portuguese-q07",
+        "uece-2023-2-f1-portuguese-q08",
+        "uece-2023-2-f1-portuguese-q09",
+        "uece-2023-2-f1-portuguese-q10"
+      ]
+    },
+    {
+      "id": "uece-2023-2-f1-portuguese-t2",
+      "label": "Texto II",
+      "title": "4",
+      "lines": [
+        {
+          "number": null,
+          "text": "Certidão de óbito"
+        },
+        {
+          "number": null,
+          "text": "Os ossos de nossos antepassados"
+        },
+        {
+          "number": null,
+          "text": "colhem as nossas perenes lágrimas"
+        },
+        {
+          "number": null,
+          "text": "pelos mortos de hoje."
+        },
+        {
+          "number": null,
+          "text": "Os olhos de nossos antepassados,"
+        },
+        {
+          "number": null,
+          "text": "negras estrelas tingidas de sangue,"
+        },
+        {
+          "number": null,
+          "text": "elevam-se das profundezas do tempo"
+        },
+        {
+          "number": null,
+          "text": "cuidando de nossa dolorida memória."
+        },
+        {
+          "number": null,
+          "text": "A terra está coberta de valas"
+        },
+        {
+          "number": null,
+          "text": "e a qualquer descuido da vida"
+        },
+        {
+          "number": null,
+          "text": "a morte é certa."
+        },
+        {
+          "number": null,
+          "text": "A bala não erra o alvo, no escuro"
+        },
+        {
+          "number": null,
+          "text": "um corpo negro bambeia e dança."
+        },
+        {
+          "number": null,
+          "text": "A certidão de óbito, os antigos sabem,"
+        },
+        {
+          "number": null,
+          "text": "veio lavrada desde os negreiros."
+        },
+        {
+          "number": null,
+          "text": "EVARISTO, Conceição. Poemas da recordação e outros"
+        },
+        {
+          "number": null,
+          "text": "movimentos. Ed. Rio de Janeiro: Malê, 2017, p. 17."
+        }
+      ],
+      "questionIds": [
+        "uece-2023-2-f1-portuguese-q11",
+        "uece-2023-2-f1-portuguese-q12"
+      ]
+    }
+  ]
+}

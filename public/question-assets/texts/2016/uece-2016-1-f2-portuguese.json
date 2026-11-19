@@ -1,0 +1,524 @@
+{
+  "paperId": "uece-2016-1-f2-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2016-1-f2-portuguese-t1",
+      "label": "Texto 1",
+      "title": "Pessoas habitadas",
+      "lines": [
+        {
+          "number": 1,
+          "text": "Estava conversando com uma amiga, dia"
+        },
+        {
+          "number": 2,
+          "text": "desses. Ela comentava sobre uma terceira"
+        },
+        {
+          "number": 3,
+          "text": "pessoa, que eu não conhecia. Descreveu-a"
+        },
+        {
+          "number": 4,
+          "text": "como sendo boa gente, esforçada, ótimo"
+        },
+        {
+          "number": 5,
+          "text": "caráter. \"Só tem um probleminha: não é"
+        },
+        {
+          "number": 6,
+          "text": "habitada\". Rimos. Uma expressão coloquial na"
+        },
+        {
+          "number": 7,
+          "text": "França - habité‚ - mas nunca tinha escutado"
+        },
+        {
+          "number": 8,
+          "text": "por estas paragens e com este sentido."
+        },
+        {
+          "number": 9,
+          "text": "Lembrei-me de uma outra amiga que, de forma"
+        },
+        {
+          "number": 10,
+          "text": "parecida, também costuma dizer \"aquela ali"
+        },
+        {
+          "number": 11,
+          "text": "tem gente em casa\" quando se refere a"
+        },
+        {
+          "number": 12,
+          "text": "pessoas que fazem diferença."
+        },
+        {
+          "number": 13,
+          "text": "Uma pessoa pode ser altamente confiável,"
+        },
+        {
+          "number": 14,
+          "text": "gentil, carinhosa, simpática, mas, se não é"
+        },
+        {
+          "number": 15,
+          "text": "habitada, rapidinho coloca os outros pra"
+        },
+        {
+          "number": 16,
+          "text": "dormir. Uma pessoa habitada é uma pessoa"
+        },
+        {
+          "number": 17,
+          "text": "possuída, não necessariamente pelo demo,"
+        },
+        {
+          "number": 18,
+          "text": "ainda que satanás esteja longe de ser má"
+        },
+        {
+          "number": 19,
+          "text": "referência. Clarice Lispector certa vez escreveu"
+        },
+        {
+          "number": 20,
+          "text": "uma carta a Fernando Sabino dizendo que"
+        },
+        {
+          "number": 21,
+          "text": "faltava demônio em Berna, onde morava na"
+        },
+        {
+          "number": 22,
+          "text": "ocasião. A Suíça, de fato, é um país de contos"
+        },
+        {
+          "number": 23,
+          "text": "de fada onde tudo funciona, onde todos são"
+        },
+        {
+          "number": 24,
+          "text": "belos, onde a vida parece uma pintura, um"
+        },
+        {
+          "number": 25,
+          "text": "rótulo de chocolate. Mas falta uma ebulição que"
+        },
+        {
+          "number": 26,
+          "text": "a salve do marasmo."
+        },
+        {
+          "number": 27,
+          "text": "Retornando ao assunto: pessoas habitadas"
+        },
+        {
+          "number": 28,
+          "text": "são aquelas possuídas por si mesmas, em"
+        },
+        {
+          "number": 29,
+          "text": "diversas versões. Os habitados estão"
+        },
+        {
+          "number": 30,
+          "text": "preenchidos de indagações, angústias,"
+        },
+        {
+          "number": 31,
+          "text": "incertezas, mas não são menos felizes por"
+        },
+        {
+          "number": 32,
+          "text": "causa disso. Não transformam suas"
+        },
+        {
+          "number": 33,
+          "text": "\"inadequações\" em doença, mas em força e"
+        },
+        {
+          "number": 34,
+          "text": "curiosidade. Não recuam diante de"
+        },
+        {
+          "number": 35,
+          "text": "encruzilhadas, não se amedrontam com"
+        },
+        {
+          "number": 36,
+          "text": "transgressões, não adotam as opiniões dos"
+        },
+        {
+          "number": 37,
+          "text": "outros para facilitar o diálogo. São pessoas que"
+        },
+        {
+          "number": 38,
+          "text": "surpreendem com um gesto ou uma fala fora"
+        },
+        {
+          "number": 39,
+          "text": "do script, sem nenhuma disposição para serem"
+        },
+        {
+          "number": 40,
+          "text": "bonecos de ventríloquos. Ao contrário,"
+        },
+        {
+          "number": 41,
+          "text": "encantam pela verdade pessoal que defendem."
+        },
+        {
+          "number": 42,
+          "text": "Além disso, mantêm com a solidão uma relação"
+        },
+        {
+          "number": 43,
+          "text": "mais do que cordial."
+        },
+        {
+          "number": 44,
+          "text": "Então são as criaturas mais incríveis do"
+        },
+        {
+          "number": 45,
+          "text": "universo? Não necessariamente. Entre os"
+        },
+        {
+          "number": 46,
+          "text": "habitados há  de tudo, gente fenomenal e"
+        },
+        {
+          "number": 47,
+          "text": "também assassinos, pervertidos e demais"
+        },
+        {
+          "number": 48,
+          "text": "malucos que não merecem abrandamento de"
+        },
+        {
+          "number": 49,
+          "text": "pena pelo fato de serem, em certos aspectos,"
+        },
+        {
+          "number": 50,
+          "text": "bastante interessantes. Interessam, mas"
+        },
+        {
+          "number": 51,
+          "text": "assustam. Interessam, mas causam dano. Eu"
+        },
+        {
+          "number": 52,
+          "text": "não gostaria de repartir a mesa de um"
+        },
+        {
+          "number": 53,
+          "text": "restaurante com Hannibal Lecter, \"The"
+        },
+        {
+          "number": 54,
+          "text": "Cannibal\", ainda que eu não tenha dúvida de"
+        },
+        {
+          "number": 55,
+          "text": "que o personagem imortalizado por Anthony"
+        },
+        {
+          "number": 56,
+          "text": "Hopkins renderia um papo mais estimulante do"
+        },
+        {
+          "number": 57,
+          "text": "que uma conversa com, sei lá, Britney Spears,"
+        },
+        {
+          "number": 58,
+          "text": "que só tem gente em casa porque está grávida."
+        },
+        {
+          "number": 59,
+          "text": "Que tenhamos a sorte de esbarrar com"
+        },
+        {
+          "number": 60,
+          "text": "seres habitados e ao mesmo tempo"
+        },
+        {
+          "number": 61,
+          "text": "inofensivos, cujo único mal que possam fazer"
+        },
+        {
+          "number": 62,
+          "text": "seja nos fascinar e nos manter acordados uma"
+        },
+        {
+          "number": 63,
+          "text": "madrugada inteira. Ou a vida inteira, o que é"
+        },
+        {
+          "number": 64,
+          "text": "melhor ainda."
+        },
+        {
+          "number": null,
+          "text": "MEDEIROS, Martha. In: Org. e Int. SANTOS,"
+        },
+        {
+          "number": null,
+          "text": "Joaquim Ferreira dos. As Cem Melhores"
+        },
+        {
+          "number": null,
+          "text": "Crônicas Brasileiras. Objetiva, 324-325."
+        }
+      ],
+      "questionIds": [
+        "uece-2016-1-f2-portuguese-q01",
+        "uece-2016-1-f2-portuguese-q02",
+        "uece-2016-1-f2-portuguese-q03",
+        "uece-2016-1-f2-portuguese-q04",
+        "uece-2016-1-f2-portuguese-q05",
+        "uece-2016-1-f2-portuguese-q06",
+        "uece-2016-1-f2-portuguese-q07",
+        "uece-2016-1-f2-portuguese-q08",
+        "uece-2016-1-f2-portuguese-q09",
+        "uece-2016-1-f2-portuguese-q10",
+        "uece-2016-1-f2-portuguese-q11",
+        "uece-2016-1-f2-portuguese-q12",
+        "uece-2016-1-f2-portuguese-q13",
+        "uece-2016-1-f2-portuguese-q14",
+        "uece-2016-1-f2-portuguese-q15"
+      ]
+    },
+    {
+      "id": "uece-2016-1-f2-portuguese-t2",
+      "label": "Texto 2",
+      "title": "“Unde Malum”",
+      "lines": [
+        {
+          "number": 65,
+          "text": "Os sapatinhos sem meias, a roupa"
+        },
+        {
+          "number": 66,
+          "text": "encharcada, o rosto suavemente deitado"
+        },
+        {
+          "number": 67,
+          "text": "sobre a areia da praia em Bodrum, na"
+        },
+        {
+          "number": 68,
+          "text": "Turquia. Aylan Shenu, o refugiado sírio de 3"
+        },
+        {
+          "number": 69,
+          "text": "anos, parecia adormecido, em uma daquelas"
+        },
+        {
+          "number": 70,
+          "text": "imagens de desconcertante inocência que só"
+        },
+        {
+          "number": 71,
+          "text": "uma criança subitamente vencida pelo"
+        },
+        {
+          "number": 72,
+          "text": "cansaço é capaz de produzir. A sensação boa"
+        },
+        {
+          "number": 73,
+          "text": "dura pouco. Logo se percebe que Aylan está"
+        },
+        {
+          "number": 74,
+          "text": "morto. Seu corpo inerte foi jogado na areia"
+        },
+        {
+          "number": 75,
+          "text": "pelas ondas do Mediterrâneo. A legenda da"
+        },
+        {
+          "number": 76,
+          "text": "foto informa que Aylan morreu afogado com a"
+        },
+        {
+          "number": 77,
+          "text": "mãe, Rehan, e o irmão de 5 anos, Galip,"
+        },
+        {
+          "number": 78,
+          "text": "quando o barco precário que os transportava"
+        },
+        {
+          "number": 79,
+          "text": "afundou. Só Abdullah, o pai do menino,"
+        },
+        {
+          "number": 80,
+          "text": "sobreviveu. Como dezenas de milhares de"
+        },
+        {
+          "number": 81,
+          "text": "outros sírios vêm fazendo em desespero, os"
+        },
+        {
+          "number": 82,
+          "text": "Shenu lançaram-se ao mar para fugir da"
+        },
+        {
+          "number": 83,
+          "text": "guerra civil insana que arrasa o seu país."
+        },
+        {
+          "number": 84,
+          "text": "As cenas do corpo de Aylan na areia – e,"
+        },
+        {
+          "number": 85,
+          "text": "em outra foto, carregado nos braços por um"
+        },
+        {
+          "number": 86,
+          "text": "policial turco – foram fortes demais mesmo"
+        },
+        {
+          "number": 87,
+          "text": "para um mundo anestesiado por desgraças"
+        },
+        {
+          "number": 88,
+          "text": "que chegam sem parar a bilhões de pessoas"
+        },
+        {
+          "number": 89,
+          "text": "instantaneamente pela internet. A mente"
+        },
+        {
+          "number": 90,
+          "text": "humana só tem a fé e a arte para não perder"
+        },
+        {
+          "number": 91,
+          "text": "a razão diante de imagens como as de Aylan."
+        },
+        {
+          "number": 92,
+          "text": "Santo Agostinho, um portento da inteligência"
+        },
+        {
+          "number": 93,
+          "text": "cristã, nunca conseguiu conciliar a ideia de um"
+        },
+        {
+          "number": 94,
+          "text": "Deus onipotente, soberanamente bom, com a"
+        },
+        {
+          "number": 95,
+          "text": "existência do mal no mundo. Sua indagação"
+        },
+        {
+          "number": 96,
+          "text": "em latim “Unde malum” (“De onde vem o"
+        },
+        {
+          "number": 97,
+          "text": "mal?”) atravessa os séculos sem resposta"
+        },
+        {
+          "number": 98,
+          "text": "inteiramente satisfatória. No poema com esse"
+        },
+        {
+          "number": 99,
+          "text": "título, o polonês Czeslaw Milosz, ganhador do"
+        },
+        {
+          "number": 100,
+          "text": "Nobel de literatura em 1980, responde que o"
+        },
+        {
+          "number": 101,
+          "text": "bem e o mal só existem no homem – e se a"
+        },
+        {
+          "number": 102,
+          "text": "espécie humana deixar de existir eles também"
+        },
+        {
+          "number": 103,
+          "text": "desaparecerão."
+        },
+        {
+          "number": 104,
+          "text": "“El pie del niño aún no sabe que es pie” –"
+        },
+        {
+          "number": 105,
+          "text": "assim o poeta chileno Pablo Neruda descreveu"
+        },
+        {
+          "number": 106,
+          "text": "sua perplexidade metafísica ante os mistérios"
+        },
+        {
+          "number": 107,
+          "text": "da caminhada humana. O escritor americano"
+        },
+        {
+          "number": 108,
+          "text": "Ernest Hemingway famosamente venceu os"
+        },
+        {
+          "number": 109,
+          "text": "amigos em uma disputa literária para ver"
+        },
+        {
+          "number": 110,
+          "text": "quem conseguiria comover os demais com a"
+        },
+        {
+          "number": 111,
+          "text": "história mais curta: “Vendo sapatinho de"
+        },
+        {
+          "number": 112,
+          "text": "bebê. Nunca usado”. Pendendo solto dos"
+        },
+        {
+          "number": 113,
+          "text": "braços do policial turco em Bodrum, os"
+        },
+        {
+          "number": 114,
+          "text": "pezinhos de Aylan, dentro dos sapatos sem"
+        },
+        {
+          "number": 115,
+          "text": "serventia, ainda não sabiam que eram pés."
+        },
+        {
+          "number": 116,
+          "text": "Isso é que mais dói."
+        },
+        {
+          "number": null,
+          "text": "(Carta ao Leitor. Veja. 9/09/2015. p. 12)"
+        }
+      ],
+      "questionIds": [
+        "uece-2016-1-f2-portuguese-q16",
+        "uece-2016-1-f2-portuguese-q17",
+        "uece-2016-1-f2-portuguese-q18",
+        "uece-2016-1-f2-portuguese-q19",
+        "uece-2016-1-f2-portuguese-q20"
+      ]
+    }
+  ]
+}

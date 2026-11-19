@@ -1,0 +1,576 @@
+{
+  "paperId": "uece-2015-1-f2-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2015-1-f2-portuguese-t1",
+      "label": "Texto 1",
+      "title": "O milagre das folhas",
+      "lines": [
+        {
+          "number": 1,
+          "text": "Não, nunca me acontecem milagres. Ouço"
+        },
+        {
+          "number": 2,
+          "text": "falar, e às vezes isso me basta como"
+        },
+        {
+          "number": 3,
+          "text": "esperança. Mas também me revolta: por que"
+        },
+        {
+          "number": 4,
+          "text": "não a mim? Por que só de ouvir falar? Pois já"
+        },
+        {
+          "number": 5,
+          "text": "cheguei a ouvir conversas assim, sobre"
+        },
+        {
+          "number": 6,
+          "text": "milagres: “Avisou-me que, ao ser dita"
+        },
+        {
+          "number": 7,
+          "text": "determinada palavra, um objeto de estimação"
+        },
+        {
+          "number": 8,
+          "text": "se quebraria”. Meus objetos  se quebram"
+        },
+        {
+          "number": 9,
+          "text": "banalmente e pelas mãos das empregadas."
+        },
+        {
+          "number": 10,
+          "text": "Até que fui obrigada a chegar à conclusão"
+        },
+        {
+          "number": 11,
+          "text": "de que sou daqueles que rolam pedras durante"
+        },
+        {
+          "number": 12,
+          "text": "séculos, e não daqueles para os quais os seixos"
+        },
+        {
+          "number": 13,
+          "text": "já vêm prontos, polidos e brancos. Bem que"
+        },
+        {
+          "number": 14,
+          "text": "tenho visões fugitivas antes de adormecer –"
+        },
+        {
+          "number": 15,
+          "text": "seria milagre? Mas já me foi tranquilamente"
+        },
+        {
+          "number": 16,
+          "text": "explicado que isso até nome tem: cidetismo"
+        },
+        {
+          "number": 17,
+          "text": "(sic), capacidade de projetar no alucinatório as"
+        },
+        {
+          "number": 18,
+          "text": "imagens inconscientes."
+        },
+        {
+          "number": 19,
+          "text": "Milagre, não. Mas as coincidências. Vivo de"
+        },
+        {
+          "number": 20,
+          "text": "coincidências, vivo de linhas que incidem uma"
+        },
+        {
+          "number": 21,
+          "text": "na outra e se cruzam e no cruzamento formam"
+        },
+        {
+          "number": 22,
+          "text": "um leve e instantâneo ponto, tão leve e"
+        },
+        {
+          "number": 23,
+          "text": "instantâneo que mais é feito de pudor e"
+        },
+        {
+          "number": 24,
+          "text": "segredo: mal eu falasse nele, já estaria falando"
+        },
+        {
+          "number": 25,
+          "text": "em nada."
+        },
+        {
+          "number": 26,
+          "text": "Mas tenho um milagre, sim. O milagre das"
+        },
+        {
+          "number": 27,
+          "text": "folhas. Estou andando pela rua e do vento  me"
+        },
+        {
+          "number": 28,
+          "text": "cai uma folha exatamente nos cabelos. A"
+        },
+        {
+          "number": 29,
+          "text": "incidência da linha de milhões de folhas"
+        },
+        {
+          "number": 30,
+          "text": "transformadas em uma única, e de milhões de"
+        },
+        {
+          "number": 31,
+          "text": "pessoas a incidência de reduzi-las a mim. Isso"
+        },
+        {
+          "number": 32,
+          "text": "me acontece tantas vezes que passei a me"
+        },
+        {
+          "number": 33,
+          "text": "considerar modestamente a escolhida das"
+        },
+        {
+          "number": 34,
+          "text": "folhas. Com gestos furtivos tiro a folha dos"
+        },
+        {
+          "number": 35,
+          "text": "cabelos e guardo-a na bolsa, como o mais"
+        },
+        {
+          "number": 36,
+          "text": "diminuto diamante."
+        },
+        {
+          "number": 37,
+          "text": "Até que um dia, abrindo a bolsa, encontro"
+        },
+        {
+          "number": 38,
+          "text": "entre os objetos a folha seca, engelhada,"
+        },
+        {
+          "number": 39,
+          "text": "morta. Jogo-a fora: não me interessa fetiche"
+        },
+        {
+          "number": 40,
+          "text": "morto como lembrança. E também porque sei"
+        },
+        {
+          "number": 41,
+          "text": "que novas folhas coincidirão comigo."
+        },
+        {
+          "number": 42,
+          "text": "Um dia uma folha me bateu nos cílios. Achei"
+        },
+        {
+          "number": 43,
+          "text": "Deus de uma grande delicadeza."
+        },
+        {
+          "number": null,
+          "text": "LISPECTOR, Clarice. In: SANTOS, Joaquim Ferreira"
+        },
+        {
+          "number": null,
+          "text": "dos. Organização e introdução. As cem melhores"
+        },
+        {
+          "number": null,
+          "text": "crônicas brasileiras. Rio de Janeiro: Objetiva, 2007."
+        },
+        {
+          "number": null,
+          "text": "p. 186-187."
+        }
+      ],
+      "questionIds": [
+        "uece-2015-1-f2-portuguese-q01",
+        "uece-2015-1-f2-portuguese-q02",
+        "uece-2015-1-f2-portuguese-q03",
+        "uece-2015-1-f2-portuguese-q04",
+        "uece-2015-1-f2-portuguese-q05",
+        "uece-2015-1-f2-portuguese-q06",
+        "uece-2015-1-f2-portuguese-q07",
+        "uece-2015-1-f2-portuguese-q08",
+        "uece-2015-1-f2-portuguese-q09",
+        "uece-2015-1-f2-portuguese-q10",
+        "uece-2015-1-f2-portuguese-q11",
+        "uece-2015-1-f2-portuguese-q12",
+        "uece-2015-1-f2-portuguese-q13",
+        "uece-2015-1-f2-portuguese-q14",
+        "uece-2015-1-f2-portuguese-q15"
+      ]
+    },
+    {
+      "id": "uece-2015-1-f2-portuguese-t2",
+      "label": "Texto 2",
+      "title": "A Internet e a neutralidade da rede",
+      "lines": [
+        {
+          "number": 44,
+          "text": "A Internet vista, unanimemente, como o"
+        },
+        {
+          "number": 45,
+          "text": "território livre, a tecnologia libertadora que, em"
+        },
+        {
+          "number": 46,
+          "text": "muitos países, permitiu o florescimento da"
+        },
+        {
+          "number": 47,
+          "text": "cidadania, a ampliação das oportunidades de"
+        },
+        {
+          "number": 48,
+          "text": "educação, o ambiente para novas empresas e"
+        },
+        {
+          "number": 49,
+          "text": "novos empreendedores, para o trabalho"
+        },
+        {
+          "number": 50,
+          "text": "colaborativo em rede."
+        },
+        {
+          "number": 51,
+          "text": "Graças a seu ambiente libertário,"
+        },
+        {
+          "number": 52,
+          "text": "internacionalmente ajudou a derrubar"
+        },
+        {
+          "number": 53,
+          "text": "ditaduras e monopólios de mídia, o controle da"
+        },
+        {
+          "number": 54,
+          "text": "informação, tanto por governos como por"
+        },
+        {
+          "number": 55,
+          "text": "cartéis."
+        },
+        {
+          "number": 56,
+          "text": "No entanto, não se considere um modelo"
+        },
+        {
+          "number": 57,
+          "text": "consolidado. Em outros momentos da história"
+        },
+        {
+          "number": 58,
+          "text": "surgiram novas tecnologias, promovendo"
+        },
+        {
+          "number": 59,
+          "text": "rupturas, abrindo espaço para a"
+        },
+        {
+          "number": 60,
+          "text": "democratização e, no momento seguinte,"
+        },
+        {
+          "number": 61,
+          "text": "quedaram dominadas por novos cartéis e"
+        },
+        {
+          "number": 62,
+          "text": "monopólios que se formaram."
+        },
+        {
+          "number": 63,
+          "text": "Foi assim com o início da telefonia."
+        },
+        {
+          "number": 64,
+          "text": "Enquanto a Bell Co se consolidava, como"
+        },
+        {
+          "number": 65,
+          "text": "grande companhia nacional, surgiram"
+        },
+        {
+          "number": 66,
+          "text": "inúmeras experiências locais, como a Mesa"
+        },
+        {
+          "number": 67,
+          "text": "Telephone, para localidades rurais norte-"
+        },
+        {
+          "number": 68,
+          "text": "americanas, de tecnologia rudimentar porém"
+        },
+        {
+          "number": 69,
+          "text": "útil para ligar comunidades agrícolas."
+        },
+        {
+          "number": 70,
+          "text": "Nasceram centenas de outras companhias"
+        },
+        {
+          "number": 71,
+          "text": "por todo o país. Esse mesmo modelo"
+        },
+        {
+          "number": 72,
+          "text": "disseminou-se pelo Brasil dos anos 40 em"
+        },
+        {
+          "number": 73,
+          "text": "diante, com companhias municipais levando o"
+        },
+        {
+          "number": 74,
+          "text": "telefone a cidades menores, em um surto de"
+        },
+        {
+          "number": 75,
+          "text": "pioneirismo extraordinário."
+        },
+        {
+          "number": 76,
+          "text": "Nos Estados Unidos, o movimento dos"
+        },
+        {
+          "number": 77,
+          "text": "\"independentes\" permitiu às comunidades"
+        },
+        {
+          "number": 78,
+          "text": "rurais estreitar laços, criar amizades, sistemas"
+        },
+        {
+          "number": 79,
+          "text": "de informação, da mesma maneira que as"
+        },
+        {
+          "number": 80,
+          "text": "redes sociais de agora. Através do telefone"
+        },
+        {
+          "number": 81,
+          "text": "desenvolveram noticiários sobre o clima, sobre"
+        },
+        {
+          "number": 82,
+          "text": "a região, relatórios de mercado etc."
+        },
+        {
+          "number": 83,
+          "text": "Os \"independentes\" chegaram a ter 3"
+        },
+        {
+          "number": 84,
+          "text": "milhões de aparelhos, contra 2,5 milhões da"
+        },
+        {
+          "number": 85,
+          "text": "Bell."
+        },
+        {
+          "number": 86,
+          "text": "Com a ajuda do J.P.Morgan, o mais"
+        },
+        {
+          "number": 87,
+          "text": "influente banco da época, a Bell reestruturou-"
+        },
+        {
+          "number": 88,
+          "text": "se em torno da AT&T."
+        },
+        {
+          "number": 89,
+          "text": "Em vez de declarar guerra aos"
+        },
+        {
+          "number": 90,
+          "text": "\"independentes\", a nova direção propôs um"
+        },
+        {
+          "number": 91,
+          "text": "trabalho conjunto, facilitando para eles as"
+        },
+        {
+          "number": 92,
+          "text": "ligações de longa distância, desde que"
+        },
+        {
+          "number": 93,
+          "text": "trocassem seus sistemas rústicos pelos padrões"
+        },
+        {
+          "number": 94,
+          "text": "Bell. Quem não aderisse, não teria ligações de"
+        },
+        {
+          "number": 95,
+          "text": "longa distância."
+        },
+        {
+          "number": 96,
+          "text": "Como resultado, a AT&T matou a"
+        },
+        {
+          "number": 97,
+          "text": "concorrência dos \"independentes\" e construiu"
+        },
+        {
+          "number": 98,
+          "text": "o mais longevo e poderoso monopólio da"
+        },
+        {
+          "number": 99,
+          "text": "história, só desmembrado na década de 1980."
+        },
+        {
+          "number": 100,
+          "text": "O mesmo processo de concentração se"
+        },
+        {
+          "number": 101,
+          "text": "repetiu no rádio."
+        },
+        {
+          "number": 102,
+          "text": "No início, o rádio tornou-se uma ferramenta"
+        },
+        {
+          "number": 103,
+          "text": "tão democrática e disseminada quanto a"
+        },
+        {
+          "number": 104,
+          "text": "Internet. Não havia controle e qualquer"
+        },
+        {
+          "number": 105,
+          "text": "pessoa, adquirindo um kit de rádio, montava"
+        },
+        {
+          "number": 106,
+          "text": "sua estação sem fio."
+        },
+        {
+          "number": 107,
+          "text": "Em 1921 havia 525 estatais transmissoras"
+        },
+        {
+          "number": 108,
+          "text": "nos Estados Unidos. Até o final de 1924, mais"
+        },
+        {
+          "number": 109,
+          "text": "de 2 milhões de aparelhos de rádio. Segundo"
+        },
+        {
+          "number": 110,
+          "text": "Tim Wu, autor do importante \"Impérios da"
+        },
+        {
+          "number": 111,
+          "text": "Comunicação\", antes da Internet os rádios"
+        },
+        {
+          "number": 112,
+          "text": "foram a maior mídia aberta do século."
+        },
+        {
+          "number": 113,
+          "text": "Repetiu-se o mesmo processo do telefone."
+        },
+        {
+          "number": 114,
+          "text": "À medida que aumentava o público e criava"
+        },
+        {
+          "number": 115,
+          "text": "escala, o mercado libertário era enquadrado"
+        },
+        {
+          "number": 116,
+          "text": "pelo poder público e a ocupação do espaço"
+        },
+        {
+          "number": 117,
+          "text": "entregue a grupos particulares."
+        },
+        {
+          "number": 118,
+          "text": "Hoje em dia, as concessões de rádio se"
+        },
+        {
+          "number": 119,
+          "text": "tornaram ativos de empresas privadas, as"
+        },
+        {
+          "number": 120,
+          "text": "rádios comunitárias são criminalizadas e o"
+        },
+        {
+          "number": 121,
+          "text": "exercício pessoal se restringe aos rádios"
+        },
+        {
+          "number": 122,
+          "text": "amadores."
+        },
+        {
+          "number": 123,
+          "text": "Esse é o desafio atual da Internet. Se não"
+        },
+        {
+          "number": 124,
+          "text": "for garantida a neutralidade da rede - isto é, o"
+        },
+        {
+          "number": 125,
+          "text": "direito de qualquer site ou pessoa de ter"
+        },
+        {
+          "number": 126,
+          "text": "acesso à rede, sem privilégios - em breve o"
+        },
+        {
+          "number": 127,
+          "text": "grande sonho libertário da Internet terá o"
+        },
+        {
+          "number": 128,
+          "text": "mesmo destino do telefone e do rádio."
+        },
+        {
+          "number": null,
+          "text": "Luís Nassif. Coluna Econômica.07/09/2013."
+        }
+      ],
+      "questionIds": [
+        "uece-2015-1-f2-portuguese-q16",
+        "uece-2015-1-f2-portuguese-q17",
+        "uece-2015-1-f2-portuguese-q18",
+        "uece-2015-1-f2-portuguese-q19",
+        "uece-2015-1-f2-portuguese-q20"
+      ]
+    }
+  ]
+}

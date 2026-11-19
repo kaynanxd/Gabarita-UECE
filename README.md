@@ -121,25 +121,55 @@ A aplicação adota uma arquitetura fullstack unificada (Monorepo), otimizando t
 
 ```
 Gabarita-UECE/
-├── .env.example            # Modelo de variáveis de ambiente
+├── .env.example                    # Modelo de variáveis de ambiente
 ├── prisma/
-│   └── schema.prisma       # Modelos do banco (Users, Subjects, Exams, Questions, etc.)
-├── public/                 # Imagens e ativos estáticos
+│   └── schema.prisma               # Modelos do banco (Users, Subjects, Exams, Questions, etc.)
+├── public/
+│   └── question-assets/            # Assets das questões (figures/, crops/, texts/ e manifest.json)
+├── question-bank/                  # Acervo estruturado em JSONL (2015.1 a 2023.2) e schemas
+├── scripts/question-bank/          # Scripts de extração, normalização e validação
 ├── src/
-│   ├── app/                # App Router (Páginas e APIs Serverless)
+│   ├── app/                        # App Router (Páginas, Acervo, Prática e APIs Serverless)
+│   │   ├── acervo/                 # Visualização de provas por edição, fase e disciplina
+│   │   ├── praticar/               # Simulados e modo treino
 │   │   ├── api/
-│   │   │   ├── health/     # Endpoint de healthcheck da API
-│   │   │   └── validation/ # Endpoint da pesquisa de escuta ativa
-│   │   ├── globals.css     # Design tokens e classes globais
-│   │   ├── layout.tsx      # Root Layout e metadados SEO
-│   │   └── page.tsx        # Landing Page da plataforma
-│   ├── components/         # Componentes de interface reutilizáveis
-│   │   └── ValidationForm.tsx # Formulário de escuta dos vestibulandos
+│   │   │   ├── health/             # Endpoint de healthcheck da API
+│   │   │   ├── questions/          # Endpoint de consulta de questões
+│   │   │   └── validation/         # Endpoint da pesquisa de escuta ativa
+│   │   ├── globals.css             # Design tokens e classes globais
+│   │   ├── layout.tsx              # Root Layout e metadados SEO
+│   │   └── page.tsx                # Landing Page da plataforma
+│   ├── components/                 # Componentes de interface reutilizáveis
+│   │   ├── ArchiveQuestionViewer.tsx # Visualizador de questões no Acervo
+│   │   ├── PracticeApp.tsx         # Aplicação interativa de simulados/treino
+│   │   ├── QuestionVisuals.tsx     # Renderização de textos de apoio, figuras e recortes
+│   │   └── ValidationForm.tsx      # Formulário de escuta dos vestibulandos
 │   └── lib/
-│       └── prisma.ts       # Singleton do Prisma Client
+│       ├── prisma.ts               # Singleton do Prisma Client
+│       └── question-bank.ts        # Loader do acervo e mapeamento de assets visuais
+├── AUDITORIA_BANCO_QUESTOES.md     # Relatório de auditoria e correções do banco
 ├── package.json
 └── tsconfig.json
 ```
+
+---
+
+## ✅ 7. Estado do Banco de Questões & Assets
+
+O banco textual conta com **5.286 questões canônicas** (edições **2015.1 a 2023.2**, 1ª e 2ª fase), validadas sem erros via `node scripts/question-bank/validate.mjs` após higienização de enunciados truncados, alinhamento de alternativas e normalização de símbolos matemáticos/químicos legados.
+
+Os recursos visuais e textos-base compartilhados estão extraídos em `public/question-assets/` e integrados ao carregamento ([question-bank.ts](src/lib/question-bank.ts)) e à exibição ([QuestionVisuals.tsx](src/components/QuestionVisuals.tsx), [ArchiveQuestionViewer.tsx](src/components/ArchiveQuestionViewer.tsx) e [PracticeApp.tsx](src/components/PracticeApp.tsx)):
+
+```text
+public/question-assets/
+├── manifest.json   # Índice por questionId: { figures, crops }
+├── figures/        # 67 figuras de enunciados (mapas, charges, gráficos, tabelas)
+├── crops/          # 3 recortes de questões de Química com alternativas visuais
+└── texts/          # 206 textos-base compartilhados (135 provas de Línguas, 1.948 questões em index.json)
+```
+
+- **Ordem de exibição na interface:** Texto de apoio (com numeração de linhas preservada) -> Enunciado -> Figuras/recortes -> Alternativas.
+- **Scripts de extração e validação:** `scripts/question-bank/extract-visual-assets.py`, `scripts/question-bank/extract-shared-texts.py` e `scripts/question-bank/validate.mjs`.
 
 ---
 

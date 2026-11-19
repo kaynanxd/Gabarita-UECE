@@ -1,0 +1,325 @@
+{
+  "paperId": "uece-2020-2-f1-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2020-2-f1-portuguese-t1",
+      "label": "TEXTO 1",
+      "title": "Com licença poética",
+      "lines": [
+        {
+          "number": 1,
+          "text": "Quando nasci um anjo esbelto,"
+        },
+        {
+          "number": 2,
+          "text": "desses que tocam trombeta, anunciou:"
+        },
+        {
+          "number": 3,
+          "text": "vai carregar bandeira."
+        },
+        {
+          "number": 4,
+          "text": "Cargo muito pesado pra mulher,"
+        },
+        {
+          "number": 5,
+          "text": "esta espécie ainda envergonhada."
+        },
+        {
+          "number": 6,
+          "text": "Aceito os subterfúgios que me cabem,"
+        },
+        {
+          "number": 7,
+          "text": "sem precisar mentir."
+        },
+        {
+          "number": 8,
+          "text": "Não tão feia que não possa casar,"
+        },
+        {
+          "number": 9,
+          "text": "acho o Rio de Janeiro uma beleza e"
+        },
+        {
+          "number": 10,
+          "text": "ora sim, ora não, creio em parto sem dor."
+        },
+        {
+          "number": 11,
+          "text": "Mas, o que sinto escrevo. Cumpro a sina."
+        },
+        {
+          "number": 12,
+          "text": "Inauguro linhagens, fundo reinos"
+        },
+        {
+          "number": 13,
+          "text": "— dor não é amargura."
+        },
+        {
+          "number": 14,
+          "text": "Minha tristeza não tem pedigree,"
+        },
+        {
+          "number": 15,
+          "text": "já a minha vontade de alegria,"
+        },
+        {
+          "number": 16,
+          "text": "sua raiz vai ao meu avô."
+        },
+        {
+          "number": 17,
+          "text": "Vai ser coxo na vida, é maldição pra homem."
+        },
+        {
+          "number": 18,
+          "text": "Mulher é desdobrável. Eu sou."
+        },
+        {
+          "number": null,
+          "text": "PRADO, Adélia Prado. Com Licença Poética."
+        },
+        {
+          "number": null,
+          "text": "In: PRADO, Adélia. Adélia Prado: Poesia reunida. 6. ed. São"
+        },
+        {
+          "number": null,
+          "text": "Paulo: Siciliano, 1996. p. 11."
+        }
+      ],
+      "questionIds": [
+        "uece-2020-2-f1-portuguese-q01",
+        "uece-2020-2-f1-portuguese-q02",
+        "uece-2020-2-f1-portuguese-q03",
+        "uece-2020-2-f1-portuguese-q04",
+        "uece-2020-2-f1-portuguese-q05",
+        "uece-2020-2-f1-portuguese-q06"
+      ]
+    },
+    {
+      "id": "uece-2020-2-f1-portuguese-t2",
+      "label": "Texto 2",
+      "title": "Desconstruindo Amélia",
+      "lines": [
+        {
+          "number": 39,
+          "text": "Já é tarde, tudo está certo"
+        },
+        {
+          "number": 40,
+          "text": "Cada coisa posta em seu lugar"
+        },
+        {
+          "number": 41,
+          "text": "Filho dorme, ela arruma o uniforme"
+        },
+        {
+          "number": 42,
+          "text": "Tudo pronto pra quando despertar"
+        },
+        {
+          "number": 43,
+          "text": "O ensejo a fez tão prendada"
+        },
+        {
+          "number": 44,
+          "text": "Ela foi educada pra cuidar e servir"
+        },
+        {
+          "number": 45,
+          "text": "De costume, esquecia-se dela"
+        },
+        {
+          "number": 46,
+          "text": "Sempre a última a sair"
+        },
+        {
+          "number": 47,
+          "text": "Disfarça e segue em frente"
+        },
+        {
+          "number": 48,
+          "text": "Todo dia até cansar"
+        },
+        {
+          "number": 49,
+          "text": "E eis que de repente ela resolve então mudar"
+        },
+        {
+          "number": 50,
+          "text": "Vira a mesa, assume o jogo"
+        },
+        {
+          "number": 51,
+          "text": "Faz questão de se cuidar"
+        },
+        {
+          "number": 52,
+          "text": "Nem serva, nem objeto"
+        },
+        {
+          "number": 53,
+          "text": "Já não quer ser o outro"
+        },
+        {
+          "number": 54,
+          "text": "Hoje ela é um também"
+        },
+        {
+          "number": 55,
+          "text": "A despeito de tanto mestrado"
+        },
+        {
+          "number": 56,
+          "text": "Ganha menos que o namorado"
+        },
+        {
+          "number": 57,
+          "text": "E não entende o porquê"
+        },
+        {
+          "number": 58,
+          "text": "Tem talento de equilibrista"
+        },
+        {
+          "number": 59,
+          "text": "Ela é muita, se você quer saber"
+        },
+        {
+          "number": null,
+          "text": "Pitty. Desconstruindo Amélia. Deck, 2009."
+        },
+        {
+          "number": null,
+          "text": "Disponível em https://www.letras.mus.br/pitty/1524312/"
+        }
+      ],
+      "questionIds": [
+        "uece-2020-2-f1-portuguese-q07",
+        "uece-2020-2-f1-portuguese-q08",
+        "uece-2020-2-f1-portuguese-q09"
+      ]
+    },
+    {
+      "id": "uece-2020-2-f1-portuguese-t3",
+      "label": "Texto 3",
+      "title": "Covid-19 é pauta de sessão na",
+      "lines": [
+        {
+          "number": null,
+          "text": "Assembleia Legislativa"
+        },
+        {
+          "number": 60,
+          "text": "O tema coronavírus foi pauta no começo"
+        },
+        {
+          "number": 61,
+          "text": "desta tarde de terça-feira, 17, do Segundo"
+        },
+        {
+          "number": 62,
+          "text": "Expediente na Assembleia Legislativa do"
+        },
+        {
+          "number": 63,
+          "text": "Ceará. Na ocasião, o Secretário da Saúde do"
+        },
+        {
+          "number": 64,
+          "text": "Ceará, Carlos Roberto Martins Rodrigues"
+        },
+        {
+          "number": 65,
+          "text": "Sobrinho (Dr. Cabeto), apresentou e tirou"
+        },
+        {
+          "number": 66,
+          "text": "dúvidas em relação às medidas adotadas pelo"
+        },
+        {
+          "number": 67,
+          "text": "Governo do Ceará na prevenção à doença."
+        },
+        {
+          "number": 68,
+          "text": "Para Dr. Cabeto, todos os setores da"
+        },
+        {
+          "number": 69,
+          "text": "sociedade podem colaborar. É preciso que"
+        },
+        {
+          "number": 70,
+          "text": "todos sejam proativos. “Não é momento de"
+        },
+        {
+          "number": 71,
+          "text": "apontar defeitos. Cada um precisa fazer sua"
+        },
+        {
+          "number": 72,
+          "text": "parte”, comentou."
+        },
+        {
+          "number": 73,
+          "text": "Durante a manhã, o gestor participou de"
+        },
+        {
+          "number": 74,
+          "text": "reunião com os prefeitos dos municípios e"
+        },
+        {
+          "number": 75,
+          "text": "membros do Ministério Público do Estado na"
+        },
+        {
+          "number": 76,
+          "text": "sede da Associação dos Municípios do Estado"
+        },
+        {
+          "number": 77,
+          "text": "do Ceará (Aprece)."
+        },
+        {
+          "number": 78,
+          "text": "“A informação é muito importante e"
+        },
+        {
+          "number": 79,
+          "text": "precisa ser repassada com qualidade. Temos"
+        },
+        {
+          "number": 80,
+          "text": "que conduzir com serenidade”, lembrou o"
+        },
+        {
+          "number": 81,
+          "text": "Secretário."
+        },
+        {
+          "number": null,
+          "text": "Disponível em"
+        },
+        {
+          "number": null,
+          "text": "https://www.saude.ce.gov.br/2020/03/17/covid-19-"
+        },
+        {
+          "number": null,
+          "text": "e-pauta-de-sessao-na-assembleia-legislativa/."
+        }
+      ],
+      "questionIds": [
+        "uece-2020-2-f1-portuguese-q10",
+        "uece-2020-2-f1-portuguese-q11",
+        "uece-2020-2-f1-portuguese-q12"
+      ]
+    }
+  ]
+}

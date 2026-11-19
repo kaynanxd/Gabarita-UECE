@@ -1,0 +1,407 @@
+{
+  "paperId": "uece-2023-1-f2-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2023-1-f2-french-t1",
+      "label": "Texto 1",
+      "title": "QU’EST-CE QUE LA BEAUTÉ?",
+      "lines": [
+        {
+          "number": 1,
+          "text": "Qu’est-ce que la beauté? Ou, plus précisément,"
+        },
+        {
+          "number": 2,
+          "text": "qu’en est-il de la beauté dans l’art du XXe siècle et"
+        },
+        {
+          "number": 3,
+          "text": "d’aujourd’hui? Question immense à laquelle on ne"
+        },
+        {
+          "number": 4,
+          "text": "peut pas répondre directement et que l’on ne peut"
+        },
+        {
+          "number": 5,
+          "text": "approcher que sous la forme de l’interrogation,"
+        },
+        {
+          "number": 6,
+          "text": "cédant parfois le pas au constat historique, aux"
+        },
+        {
+          "number": 7,
+          "text": "réflexions esthétiques et aux exemples que fournit"
+        },
+        {
+          "number": 8,
+          "text": "l’art contemporain. La question étant ici celle d’une"
+        },
+        {
+          "number": 9,
+          "text": "beauté qui n’est pas naturelle mais qui relève du"
+        },
+        {
+          "number": 10,
+          "text": "domaine de l’art, ce réservoir inépuisable du beau"
+        },
+        {
+          "number": 11,
+          "text": "sous différentes formes."
+        },
+        {
+          "number": 12,
+          "text": "À partir du XVIIe. siècle l’adjectif beau accolé à"
+        },
+        {
+          "number": 13,
+          "text": "arts, nommant l’ensemble de la production plastique,"
+        },
+        {
+          "number": 14,
+          "text": "donne lieu au substantif Beaux-Arts, reliant"
+        },
+        {
+          "number": 15,
+          "text": "intrinsèquement l’art et la beauté. Il s’agit de l’Art"
+        },
+        {
+          "number": 16,
+          "text": "dans sa manifestation noble, opposé à la production"
+        },
+        {
+          "number": 17,
+          "text": "artisanale et aussi aux Arts appliqués ou Arts"
+        },
+        {
+          "number": 18,
+          "text": "industriels. C’est «l’activité créatrice dans l’ordre"
+        },
+        {
+          "number": 19,
+          "text": "esthétique» car la création fait de l’artiste un"
+        },
+        {
+          "number": 20,
+          "text": "nouveau Dieu qui s’affranchit des normes pour créer"
+        },
+        {
+          "number": 21,
+          "text": "des formes nouvelles. L’art ne rend pas le visible mais"
+        },
+        {
+          "number": 22,
+          "text": "rend visible ce qui, sans l’entremise de l’art, ne se"
+        },
+        {
+          "number": 23,
+          "text": "montrerait pas. S’affranchissant de la mimesis"
+        },
+        {
+          "number": 24,
+          "text": "(imitation du réel), fondement de la poétique et de"
+        },
+        {
+          "number": 25,
+          "text": "l’esthétique depuis Aristote, l’art révélerait ce qui se"
+        },
+        {
+          "number": 26,
+          "text": "cache derrière l’opacité du visible."
+        },
+        {
+          "number": 27,
+          "text": "Pour l’écrivain français Stendhal, la beauté n’est"
+        },
+        {
+          "number": 28,
+          "text": "que promesse de bonheur. La grâce serait plus belle"
+        },
+        {
+          "number": 29,
+          "text": "encore que la beauté car elle aurait les charmes de"
+        },
+        {
+          "number": 30,
+          "text": "l’imprévu, tandis que la beauté serait liée à l’idée que"
+        },
+        {
+          "number": 31,
+          "text": "l’on s’en fait. C’est ainsi qu’il parle de « beau idéal"
+        },
+        {
+          "number": 32,
+          "text": "ancien» et de « beau idéal moderne ». La beauté"
+        },
+        {
+          "number": 33,
+          "text": "antique, expression de la force, de la raison, de la"
+        },
+        {
+          "number": 34,
+          "text": "prudence, s’oppose à la beauté moderne qui attache"
+        },
+        {
+          "number": 35,
+          "text": "les âmes tendres et leur parle à travers la magie des"
+        },
+        {
+          "number": 36,
+          "text": "lointains, la mélancolie et le souvenir."
+        },
+        {
+          "number": 37,
+          "text": "Dans les deux cas, la beauté est liée à un idéal."
+        },
+        {
+          "number": 38,
+          "text": "«Ainsi le charme divin de la nouveauté manque"
+        },
+        {
+          "number": 39,
+          "text": "presque entièrement à la beauté. Lorsqu’il s’y trouve"
+        },
+        {
+          "number": 40,
+          "text": "réuni, il y a ravissement.» C’est ce que Stendhal"
+        },
+        {
+          "number": 41,
+          "text": "éprouve devant les œuvres de ses peintres favoris,"
+        },
+        {
+          "number": 42,
+          "text": "d’où émane « l’air mutin, l’imprévu, le singulier qui"
+        },
+        {
+          "number": 43,
+          "text": "font la grâce ». Néanmoins, selon lui, c’est par"
+        },
+        {
+          "number": 44,
+          "text": "l’expression que l’art s’approche du plus grand but de"
+        },
+        {
+          "number": 45,
+          "text": "l’homme: penser et sentir. « L’expression est tout"
+        },
+        {
+          "number": 46,
+          "text": "l’art. Un tableau sans expression n’est qu’une image"
+        },
+        {
+          "number": 47,
+          "text": "pour amuser les yeux un instant », dira-t-il."
+        },
+        {
+          "number": 48,
+          "text": "Quelques années après Stendhal, Baudelaire"
+        },
+        {
+          "number": 49,
+          "text": "affirme que « Le beau est toujours bizarre », et"
+        },
+        {
+          "number": 50,
+          "text": "Rimbaud, anticipant sur le XX siècle, osera s’attaquer"
+        },
+        {
+          "number": 51,
+          "text": "à la beauté: «Un soir, j’ai assis la Beauté sur mes"
+        },
+        {
+          "number": 52,
+          "text": "genoux. - Et je l’ai trouvée amère. - Et je l’ai injuriée."
+        },
+        {
+          "number": 53,
+          "text": "»"
+        },
+        {
+          "number": 54,
+          "text": "Freud écrit un texte fondamental pour"
+        },
+        {
+          "number": 55,
+          "text": "l’approche de l’œuvre d’art: L’Inquiétante étrangeté."
+        },
+        {
+          "number": 56,
+          "text": "Dans cette étude, la psychanalyse se mesure à"
+        },
+        {
+          "number": 57,
+          "text": "l’esthétique, entendue non seulement comme"
+        },
+        {
+          "number": 58,
+          "text": "doctrine du beau mais aussi « comme la science des"
+        },
+        {
+          "number": 59,
+          "text": "qualités de notre sensibilité ». Le concept"
+        },
+        {
+          "number": 60,
+          "text": "d’inquiétante étrangeté, apparenté à celui de peur,"
+        },
+        {
+          "number": 61,
+          "text": "d’angoisse, d’effroi, présente néanmoins un sens qui"
+        },
+        {
+          "number": 62,
+          "text": "lui est propre. Pour Freud, c’est tout ce qui devrait"
+        },
+        {
+          "number": 63,
+          "text": "rester caché et qui se manifeste, c’est le symbole qui"
+        },
+        {
+          "number": 64,
+          "text": "se défait et renvoie à ce qu’il était tenu symboliser."
+        },
+        {
+          "number": 65,
+          "text": "Ce sentiment qui serait peu répandu dans la vie"
+        },
+        {
+          "number": 66,
+          "text": "courante, trouverait dans l’art ses plus importantes"
+        },
+        {
+          "number": 67,
+          "text": "manifestations. La peinture, la sculpture, l’écriture"
+        },
+        {
+          "number": 68,
+          "text": "peuvent aussi véhiculer une beauté trouble qui"
+        },
+        {
+          "number": 69,
+          "text": "accroche spectateurs et lecteurs, les interpellant des"
+        },
+        {
+          "number": 70,
+          "text": "zones obscures de l’inconscient."
+        },
+        {
+          "number": 71,
+          "text": "Belles sans doute, séduisantes même, certaines"
+        },
+        {
+          "number": 72,
+          "text": "œuvres attirent le spectateur dans leur espace et le"
+        },
+        {
+          "number": 73,
+          "text": "retiennent entre exclamation et émotion, enchanté"
+        },
+        {
+          "number": 74,
+          "text": "et troublé à la fois. Il s’agit parfois d’installations qui,"
+        },
+        {
+          "number": 75,
+          "text": "se déployant dans un espace réel et non pas"
+        },
+        {
+          "number": 76,
+          "text": "représenté, sollicitent une expérience totale des sens."
+        },
+        {
+          "number": 77,
+          "text": "La beauté qu’elles véhiculent n’est pas rassurante."
+        },
+        {
+          "number": 78,
+          "text": "Tenant les sens en éveil, elles se tiennent comme au"
+        },
+        {
+          "number": 79,
+          "text": "bord d’un précipice esthétique, sur le point de vaciller"
+        },
+        {
+          "number": 80,
+          "text": "dans le terrible ou la menace."
+        },
+        {
+          "number": 81,
+          "text": "Comme le soutient déjà Aristote et comme le"
+        },
+        {
+          "number": 82,
+          "text": "pensait la Renaissance, la mélancolie est-elle le"
+        },
+        {
+          "number": 83,
+          "text": "propre du génie? L’œuvre d’art serait-elle soumise au"
+        },
+        {
+          "number": 84,
+          "text": "versant dépressif qui doublerait chez l’artiste le côté"
+        },
+        {
+          "number": 85,
+          "text": "créateur? L’histoire de l’art et des arts nous prouvent"
+        },
+        {
+          "number": 86,
+          "text": "que la beauté naît souvent dans la mélancolie, s’en"
+        },
+        {
+          "number": 87,
+          "text": "nourrit, la véhicule, parlant au spectateur ou au"
+        },
+        {
+          "number": 88,
+          "text": "lecteur de cette zone sombre qui le rive à l’affect, à la"
+        },
+        {
+          "number": 89,
+          "text": "douleur et au non-sens."
+        },
+        {
+          "number": null,
+          "text": "http://mediation.centrepompidou.fr/education/ressources/ENS-"
+        },
+        {
+          "number": null,
+          "text": "beaute/ENS-beaute.html"
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez aux questions"
+        },
+        {
+          "number": null,
+          "text": "suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2023-1-f2-french-q01",
+        "uece-2023-1-f2-french-q02",
+        "uece-2023-1-f2-french-q03",
+        "uece-2023-1-f2-french-q04",
+        "uece-2023-1-f2-french-q05",
+        "uece-2023-1-f2-french-q06",
+        "uece-2023-1-f2-french-q07",
+        "uece-2023-1-f2-french-q08",
+        "uece-2023-1-f2-french-q09",
+        "uece-2023-1-f2-french-q10",
+        "uece-2023-1-f2-french-q11",
+        "uece-2023-1-f2-french-q12",
+        "uece-2023-1-f2-french-q13",
+        "uece-2023-1-f2-french-q14",
+        "uece-2023-1-f2-french-q15",
+        "uece-2023-1-f2-french-q16",
+        "uece-2023-1-f2-french-q17",
+        "uece-2023-1-f2-french-q18",
+        "uece-2023-1-f2-french-q19",
+        "uece-2023-1-f2-french-q20"
+      ]
+    }
+  ]
+}

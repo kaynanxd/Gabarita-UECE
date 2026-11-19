@@ -1,0 +1,387 @@
+{
+  "paperId": "uece-2023-2-f1-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2023-2-f1-french-t1",
+      "label": "Texto 1",
+      "title": "technologies",
+      "lines": [
+        {
+          "number": null,
+          "text": "Les avantages et les inconvénients des nouvelles"
+        },
+        {
+          "number": 1,
+          "text": "Les nouvelles technologies ont permis des"
+        },
+        {
+          "number": 2,
+          "text": "progrès dans de nombreux domaines, elles peuvent"
+        },
+        {
+          "number": 3,
+          "text": "être utilisées de différentes manières dans la vie de"
+        },
+        {
+          "number": 4,
+          "text": "tous les jours. Une communication facilitée et"
+        },
+        {
+          "number": 5,
+          "text": "améliorée, la disponibilité universelle de"
+        },
+        {
+          "number": 6,
+          "text": "l’information et l’amélioration de la vie des gens à"
+        },
+        {
+          "number": 7,
+          "text": "plusieurs niveaux, les avancées technologiques ont"
+        },
+        {
+          "number": 8,
+          "text": "rendu les activités quotidiennes plus faciles et plus"
+        },
+        {
+          "number": 9,
+          "text": "performantes."
+        },
+        {
+          "number": 10,
+          "text": "Cependant, les nouvelles technologies"
+        },
+        {
+          "number": 11,
+          "text": "peuvent affecter négativement les personnes et la"
+        },
+        {
+          "number": 12,
+          "text": "société. Perte de travail, des problèmes de"
+        },
+        {
+          "number": 13,
+          "text": "confidentialité des données personnelles et la"
+        },
+        {
+          "number": 14,
+          "text": "dépendance technologique."
+        },
+        {
+          "number": 15,
+          "text": "Par exemple, l’éducation a progressé grâce à"
+        },
+        {
+          "number": 16,
+          "text": "l’informatique. Grâce au progrès technologique, les"
+        },
+        {
+          "number": 17,
+          "text": "exploitations agricoles peuvent désormais"
+        },
+        {
+          "number": 18,
+          "text": "s’automatiser. Cela implique une meilleure"
+        },
+        {
+          "number": 19,
+          "text": "rentabilité pour les agriculteurs. Les découvertes"
+        },
+        {
+          "number": 20,
+          "text": "médicales se produisent beaucoup plus rapidement,"
+        },
+        {
+          "number": 21,
+          "text": "grâce aux nouvelles technologies qui peuvent aider"
+        },
+        {
+          "number": 22,
+          "text": "au processus de recherche. Les machines et les"
+        },
+        {
+          "number": 23,
+          "text": "ordinateurs ont permis une recherche pédagogique"
+        },
+        {
+          "number": 24,
+          "text": "intensive sur des questions médicales."
+        },
+        {
+          "number": 25,
+          "text": "On ajoute la question de la mobilité. Les"
+        },
+        {
+          "number": 26,
+          "text": "technologies modernes ont transformé l’industrie"
+        },
+        {
+          "number": 27,
+          "text": "du transport et de la mobilité, un élément"
+        },
+        {
+          "number": 28,
+          "text": "important dans la vie des gens et dans le monde des"
+        },
+        {
+          "number": 29,
+          "text": "affaires."
+        },
+        {
+          "number": 30,
+          "text": "Mais, malgré tous ces avantages déjà"
+        },
+        {
+          "number": 31,
+          "text": "présentés, elles apportent des inconvénients qu’on"
+        },
+        {
+          "number": 32,
+          "text": "ne doit plus ignorer. L’isolement social et la solitude"
+        },
+        {
+          "number": 33,
+          "text": "sont les chefs de file. De moins en moins d’enfants"
+        },
+        {
+          "number": 34,
+          "text": "jouent dans les parcs et on les retrouve de plus en"
+        },
+        {
+          "number": 35,
+          "text": "plus sur leur ordinateur ou Smartphone. Les adultes"
+        },
+        {
+          "number": 36,
+          "text": "également consacrent beaucoup de temps aux les"
+        },
+        {
+          "number": 37,
+          "text": "réseaux sociaux ou  aux vidéos  sur internet et"
+        },
+        {
+          "number": 38,
+          "text": "négligent parfois leur vie réelle. La technologie a"
+        },
+        {
+          "number": 39,
+          "text": "remplacé l’ancienne façon d’interagir."
+        },
+        {
+          "number": 40,
+          "text": "Malheureusement, cela peut engendrer la solitude"
+        },
+        {
+          "number": 41,
+          "text": "et des problèmes de santé mentale."
+        },
+        {
+          "number": 42,
+          "text": "Les gens deviennent de plus en plus"
+        },
+        {
+          "number": 43,
+          "text": "dépendants des appareils et des machines."
+        },
+        {
+          "number": 44,
+          "text": "Lorsqu’une machine tombe en panne les personnes"
+        },
+        {
+          "number": 45,
+          "text": "peuvent devenir presque inutiles jusqu’à ce que le"
+        },
+        {
+          "number": 46,
+          "text": "problème soit résolu. Cette dépendance à l’égard de"
+        },
+        {
+          "number": 47,
+          "text": "la technologie met les gens dans une situation très"
+        },
+        {
+          "number": 48,
+          "text": "désavantageuse car ils deviennent moins"
+        },
+        {
+          "number": 49,
+          "text": "autosuffisants."
+        },
+        {
+          "number": 50,
+          "text": "Il y a encore l’impact sur l’emploi. Dans"
+        },
+        {
+          "number": 51,
+          "text": "l’industrie, les travailleurs humains ont de moins en"
+        },
+        {
+          "number": 52,
+          "text": "moins de valeur. Les machines automatisent les"
+        },
+        {
+          "number": 53,
+          "text": "processus et peuvent remplacer dix personnes avec"
+        },
+        {
+          "number": 54,
+          "text": "un seul ordinateur; les entreprises n’embaucheront"
+        },
+        {
+          "number": 55,
+          "text": "peut-être pas autant de personnes pour faire le"
+        },
+        {
+          "number": 56,
+          "text": "travail."
+        },
+        {
+          "number": 57,
+          "text": "Il y a aussi l’impact sur la créativité et le"
+        },
+        {
+          "number": 58,
+          "text": "raisonnement logique une fois que la dépendance"
+        },
+        {
+          "number": 59,
+          "text": "accrue aux outils technologiques a réduit les"
+        },
+        {
+          "number": 60,
+          "text": "capacités de raisonnement et la créativité, ce qui"
+        },
+        {
+          "number": 61,
+          "text": "affecte la façon dont les gens utilisent leur cerveau"
+        },
+        {
+          "number": 62,
+          "text": "et réduit leur niveau de créativité."
+        },
+        {
+          "number": 63,
+          "text": "En face de ce qui a été explicité, un défi se"
+        },
+        {
+          "number": 64,
+          "text": "présente dans le contexte de l’éducation. Il faut"
+        },
+        {
+          "number": 65,
+          "text": "d’abord prendre conscience que la technologie n'est"
+        },
+        {
+          "number": 66,
+          "text": "pas neutre. Les enseignants et tous les acteurs de"
+        },
+        {
+          "number": 67,
+          "text": "l'éducation doivent commencer à collaborer et à"
+        },
+        {
+          "number": 68,
+          "text": "s'écouter. Il est essentiel d’entendre les critiques et"
+        },
+        {
+          "number": 69,
+          "text": "les avantages, et à partir de là, de collaborer afin"
+        },
+        {
+          "number": 70,
+          "text": "d'exercer une pression commune."
+        },
+        {
+          "number": 71,
+          "text": "Le principal intérêt des entreprises à se lancer"
+        },
+        {
+          "number": 72,
+          "text": "dans l'éducation est soit financier et économique,"
+        },
+        {
+          "number": 73,
+          "text": "soit plus insolite: orienter la société vers un certain"
+        },
+        {
+          "number": 74,
+          "text": "type d'apprentissage par exemple. Il est donc"
+        },
+        {
+          "number": 75,
+          "text": "essentiel d'ouvrir des espaces critiques, d'écouter"
+        },
+        {
+          "number": 76,
+          "text": "les personnes qui dénoncent certaines pratiques,"
+        },
+        {
+          "number": 77,
+          "text": "des algorithmes jusqu’à la certification de"
+        },
+        {
+          "number": 78,
+          "text": "l'enseignement. À partir d’une pédagogie critique, il"
+        },
+        {
+          "number": 79,
+          "text": "faut sensibiliser, rendre visible ce qui se passe et"
+        },
+        {
+          "number": 80,
+          "text": "comment cela se passe, pour ensuite mener des"
+        },
+        {
+          "number": 81,
+          "text": "actions, des discussions et une réflexion sur ce que"
+        },
+        {
+          "number": 82,
+          "text": "nous pouvons enseigner et contribuer dans le"
+        },
+        {
+          "number": 83,
+          "text": "monde à partir des nouvelles technologies. C’est"
+        },
+        {
+          "number": 84,
+          "text": "ainsi que la promotion d'un apprentissage fondé sur"
+        },
+        {
+          "number": 85,
+          "text": "la volonté de faire évoluer l’éducation et les sociétés"
+        },
+        {
+          "number": 86,
+          "text": "deviendra indispensable"
+        },
+        {
+          "number": null,
+          "text": "Texte adapté de https://izzoran.com/internet/les-"
+        },
+        {
+          "number": null,
+          "text": "avantages-et-les-inconvenients-des-nouvelles-technologies/"
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez aux questions"
+        },
+        {
+          "number": null,
+          "text": "suivantes:"
+        }
+      ],
+      "questionIds": [
+        "uece-2023-2-f1-french-q78",
+        "uece-2023-2-f1-french-q79",
+        "uece-2023-2-f1-french-q80",
+        "uece-2023-2-f1-french-q81",
+        "uece-2023-2-f1-french-q82",
+        "uece-2023-2-f1-french-q83",
+        "uece-2023-2-f1-french-q84",
+        "uece-2023-2-f1-french-q85"
+      ]
+    }
+  ]
+}

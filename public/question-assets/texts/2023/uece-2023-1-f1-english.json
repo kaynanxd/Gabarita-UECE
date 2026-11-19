@@ -1,0 +1,399 @@
+{
+  "paperId": "uece-2023-1-f1-english",
+  "subject": "english",
+  "texts": [
+    {
+      "id": "uece-2023-1-f1-english-t1",
+      "label": "Texto 1",
+      "title": "T E X T",
+      "lines": [
+        {
+          "number": null,
+          "text": "Nearly Half of Covid Patients Haven’t Fully Recovered Months"
+        },
+        {
+          "number": null,
+          "text": "Later, Study Finds"
+        },
+        {
+          "number": 1,
+          "text": "A study of tens of thousands of people in"
+        },
+        {
+          "number": 2,
+          "text": "Scotland found that one in 20 people who had been sick"
+        },
+        {
+          "number": 3,
+          "text": "with Covid reported not recovering at all, and another"
+        },
+        {
+          "number": 4,
+          "text": "four in 10 said they had not fully recovered from their"
+        },
+        {
+          "number": 5,
+          "text": "infections many months later."
+        },
+        {
+          "number": 6,
+          "text": "The authors of the study, published in the journal"
+        },
+        {
+          "number": 7,
+          "text": "Nature Communications, tried to home in on the long-"
+        },
+        {
+          "number": 8,
+          "text": "term risks of Covid by comparing the frequency of"
+        },
+        {
+          "number": 9,
+          "text": "symptoms in people with and without previous Covid"
+        },
+        {
+          "number": 10,
+          "text": "diagnoses."
+        },
+        {
+          "number": 11,
+          "text": "People with previous symptomatic Covid"
+        },
+        {
+          "number": 12,
+          "text": "infections reported certain persistent symptoms, such"
+        },
+        {
+          "number": 13,
+          "text": "as breathlessness, palpitations and confusion or"
+        },
+        {
+          "number": 14,
+          "text": "difficulty concentrating, at a rate roughly three times as"
+        },
+        {
+          "number": 15,
+          "text": "high as uninfected people in surveys from six to 18"
+        },
+        {
+          "number": 16,
+          "text": "months later, the study found. Those patients also"
+        },
+        {
+          "number": 17,
+          "text": "experienced elevated risks of more than 20 other"
+        },
+        {
+          "number": 18,
+          "text": "symptoms relating to the heart, respiratory health,"
+        },
+        {
+          "number": 19,
+          "text": "muscle aches, mental health and the sensory system."
+        },
+        {
+          "number": 20,
+          "text": "The findings strengthened calls from scientists"
+        },
+        {
+          "number": 21,
+          "text": "for more expansive care options for long Covid patients"
+        },
+        {
+          "number": 22,
+          "text": "in the United States and elsewhere, while also offering"
+        },
+        {
+          "number": 23,
+          "text": "some good news."
+        },
+        {
+          "number": 24,
+          "text": "The study did not identify greater risks of long-"
+        },
+        {
+          "number": 25,
+          "text": "term problems in people with asymptomatic"
+        },
+        {
+          "number": 26,
+          "text": "coronavirus infections. It also found, in a much more"
+        },
+        {
+          "number": 27,
+          "text": "limited subset of participants who had been given at"
+        },
+        {
+          "number": 28,
+          "text": "least one dose of Covid vaccine before their infections,"
+        },
+        {
+          "number": 29,
+          "text": "that vaccination appeared to help reduce if not"
+        },
+        {
+          "number": 30,
+          "text": "eliminate the risk of some long Covid symptoms."
+        },
+        {
+          "number": 31,
+          "text": "People with severe initial Covid cases were at"
+        },
+        {
+          "number": 32,
+          "text": "higher risk of long-term problems, the study found. “The"
+        },
+        {
+          "number": 33,
+          "text": "beauty of this study is they have a control group, and"
+        },
+        {
+          "number": 34,
+          "text": "they can isolate the proportion of symptomatology that"
+        },
+        {
+          "number": 35,
+          "text": "is attributable to Covid infection,” said Dr. Ziyad Al-Aly,"
+        },
+        {
+          "number": 36,
+          "text": "chief of research at the V.A. St. Louis Health Care System"
+        },
+        {
+          "number": 37,
+          "text": "and a clinical epidemiologist at Washington University in"
+        },
+        {
+          "number": 38,
+          "text": "St. Louis, who was not involved in the research. “It also"
+        },
+        {
+          "number": 39,
+          "text": "tracks with the broader idea that long Covid is truly a"
+        },
+        {
+          "number": 40,
+          "text": "multisystem disorder,” Dr. Al-Aly said, one that resides"
+        },
+        {
+          "number": 41,
+          "text": "“not only in the brain, not only in the heart — it’s all of"
+        },
+        {
+          "number": 42,
+          "text": "the above.”"
+        },
+        {
+          "number": 43,
+          "text": "Jill Pell, a professor of public health at the"
+        },
+        {
+          "number": 44,
+          "text": "University of Glasgow who led the research, said the"
+        },
+        {
+          "number": 45,
+          "text": "findings reinforced the importance of long Covid"
+        },
+        {
+          "number": 46,
+          "text": "patients being offered support that extends beyond"
+        },
+        {
+          "number": 47,
+          "text": "health care and also addresses needs related to jobs,"
+        },
+        {
+          "number": 48,
+          "text": "education, poverty and disability. “It told us that Covid"
+        },
+        {
+          "number": 49,
+          "text": "can appear differently in different individuals, and it can"
+        },
+        {
+          "number": 50,
+          "text": "have more than one impact on your life,” Dr. Pell said."
+        },
+        {
+          "number": 51,
+          "text": "“Any approach to supporting people has to be, firstly,"
+        },
+        {
+          "number": 52,
+          "text": "personalized and also holistic. The answer doesn’t just"
+        },
+        {
+          "number": 53,
+          "text": "lie within the health care sector."
+        },
+        {
+          "number": 54,
+          "text": "Long Covid refers to a constellation of problems"
+        },
+        {
+          "number": 55,
+          "text": "that can plague patients for months or longer after an"
+        },
+        {
+          "number": 56,
+          "text": "infection. Over the last year, researchers have given"
+        },
+        {
+          "number": 57,
+          "text": "more attention to understanding the daunting"
+        },
+        {
+          "number": 58,
+          "text": "aftereffects as the number of Covid cases exploded and"
+        },
+        {
+          "number": 59,
+          "text": "health systems learned to better manage the initial"
+        },
+        {
+          "number": 60,
+          "text": "stages of an infection. U.S. government estimates have"
+        },
+        {
+          "number": 61,
+          "text": "indicated that between 7.7 million and 23 million people"
+        },
+        {
+          "number": 62,
+          "text": "in the United States could have long Covid."
+        },
+        {
+          "number": 63,
+          "text": "Globally, “the condition is devastating people’s"
+        },
+        {
+          "number": 64,
+          "text": "lives and livelihoods,” Tedros Adhanom Ghebreyesus,"
+        },
+        {
+          "number": 65,
+          "text": "the director general of the World Health Organization,"
+        },
+        {
+          "number": 66,
+          "text": "wrote in an article for The Guardian. He called on all"
+        },
+        {
+          "number": 67,
+          "text": "countries to devote “immediate and sustained action"
+        },
+        {
+          "number": 68,
+          "text": "equivalent to its scale.”"
+        },
+        {
+          "number": 69,
+          "text": "The authors of the study in Scotland tracked"
+        },
+        {
+          "number": 70,
+          "text": "33,000 people who had tested positive for the virus"
+        },
+        {
+          "number": 71,
+          "text": "starting in April 2020 and 63,000 who had never been"
+        },
+        {
+          "number": 72,
+          "text": "diagnosed with Covid. In six-month intervals, those"
+        },
+        {
+          "number": 73,
+          "text": "people were asked about any symptoms they had,"
+        },
+        {
+          "number": 74,
+          "text": "including tiredness, muscle aches, chest pain and"
+        },
+        {
+          "number": 75,
+          "text": "neurological problems, and about any difficulties with"
+        },
+        {
+          "number": 76,
+          "text": "daily life."
+        },
+        {
+          "number": 77,
+          "text": "Of those with previous Covid cases, 6 percent"
+        },
+        {
+          "number": 78,
+          "text": "said on their most recent follow-up survey that they had"
+        },
+        {
+          "number": 79,
+          "text": "not recovered at all and 42 percent said that they had"
+        },
+        {
+          "number": 80,
+          "text": "only partly recovered. Women, older people and those"
+        },
+        {
+          "number": 81,
+          "text": "living in poorer areas faced more serious aftereffects"
+        },
+        {
+          "number": 82,
+          "text": "from a Covid infection. So, too, did those with pre-"
+        },
+        {
+          "number": 83,
+          "text": "existing health problems, including respiratory disease"
+        },
+        {
+          "number": 84,
+          "text": "and depression."
+        },
+        {
+          "number": 85,
+          "text": "Only a small portion of the study participants —"
+        },
+        {
+          "number": 86,
+          "text": "about 4 percent — had been vaccinated before their"
+        },
+        {
+          "number": 87,
+          "text": "infections, and many of those with only a single dose."
+        },
+        {
+          "number": 88,
+          "text": "“We’re now really heavily reliant upon vaccination,” Dr."
+        },
+        {
+          "number": 89,
+          "text": "Pell said, “which does confer some protection, but it’s"
+        },
+        {
+          "number": 90,
+          "text": "not absolute.”"
+        },
+        {
+          "number": null,
+          "text": "Adapted from: https://www.nytimes.com/2022/10/12/"
+        },
+        {
+          "number": null,
+          "text": "Q U E S T I O N S"
+        }
+      ],
+      "questionIds": [
+        "uece-2023-1-f1-english-q78",
+        "uece-2023-1-f1-english-q79",
+        "uece-2023-1-f1-english-q80",
+        "uece-2023-1-f1-english-q81",
+        "uece-2023-1-f1-english-q82",
+        "uece-2023-1-f1-english-q83",
+        "uece-2023-1-f1-english-q84",
+        "uece-2023-1-f1-english-q85"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "paperId": "uece-2022-1-f2-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2022-1-f2-spanish-t1",
+      "label": "Texto 1",
+      "title": "T E X T O",
+      "lines": [
+        {
+          "number": null,
+          "text": "IDENTIFICAN PARTE DEL CEREBRO QUE NOS HACE"
+        },
+        {
+          "number": null,
+          "text": "HUMANOS"
+        },
+        {
+          "number": 1,
+          "text": "Está en la parte delantera del cerebro,"
+        },
+        {
+          "number": 2,
+          "text": "justo por encima de las cejas. Allí"
+        },
+        {
+          "number": 3,
+          "text": "identificaron científicos de la Universidad de"
+        },
+        {
+          "number": 4,
+          "text": "Oxford, en Reino Unido, una región del"
+        },
+        {
+          "number": 5,
+          "text": "cerebro humano única, que no aparece en el"
+        },
+        {
+          "number": 6,
+          "text": "cerebro de nuestros parientes más"
+        },
+        {
+          "number": 7,
+          "text": "cercanos, los monos."
+        },
+        {
+          "number": 8,
+          "text": "Los investigadores de la universidad"
+        },
+        {
+          "number": 9,
+          "text": "británica compararon para su estudio"
+        },
+        {
+          "number": 10,
+          "text": "tomografías cerebrales de 25 humanos y 25"
+        },
+        {
+          "number": 11,
+          "text": "macacos y observaron un área específica –"
+        },
+        {
+          "number": 12,
+          "text": "generalmente relacionada con los procesos"
+        },
+        {
+          "number": 13,
+          "text": "de toma de decisiones, la capacidad de"
+        },
+        {
+          "number": 14,
+          "text": "hacer varias tareas de forma simultánea y"
+        },
+        {
+          "number": 15,
+          "text": "de anticipar estrategias -, que no está"
+        },
+        {
+          "number": 16,
+          "text": "presente en los cerebros de los monos"
+        },
+        {
+          "number": 17,
+          "text": "analizados."
+        },
+        {
+          "number": 18,
+          "text": "“Encontramos un área en el cerebro"
+        },
+        {
+          "number": 19,
+          "text": "humano que no está bastante adelante,"
+        },
+        {
+          "number": 20,
+          "text": "justo por encima de las cejas, que no"
+        },
+        {
+          "number": 21,
+          "text": "coincidía con ninguna región del cerebro del"
+        },
+        {
+          "number": 22,
+          "text": "mono, que parecía en el cerebro humano"
+        },
+        {
+          "number": 23,
+          "text": "bastante distintiva y muy diferente de todas"
+        },
+        {
+          "number": 24,
+          "text": "las regiones en el cerebro del mono”,"
+        },
+        {
+          "number": 25,
+          "text": "explica Franz-Xaver Neubert, experto en"
+        },
+        {
+          "number": 26,
+          "text": "psicología experimental y autor del estudio"
+        },
+        {
+          "number": 27,
+          "text": "publicado en la revista especializada"
+        },
+        {
+          "number": 28,
+          "text": "Neuron."
+        },
+        {
+          "number": 29,
+          "text": "“Toda clase de funciones se han"
+        },
+        {
+          "number": 30,
+          "text": "atribuido a esta región, pero en general creo"
+        },
+        {
+          "number": 31,
+          "text": "que la gente tiende a pensar que puede"
+        },
+        {
+          "number": 32,
+          "text": "estar involucrada en lo que algunos llaman"
+        },
+        {
+          "number": 33,
+          "text": "multitarea (o la capacidad de hacer varias"
+        },
+        {
+          "number": 34,
+          "text": "cosas a la vez)”, dice Neubert. También está"
+        },
+        {
+          "number": 35,
+          "text": "relacionada con la capacidad de planificar, o"
+        },
+        {
+          "number": 36,
+          "text": "de anticiparse a los acontecimientos, algo"
+        },
+        {
+          "number": 37,
+          "text": "que nos permite “tener en mente"
+        },
+        {
+          "number": 38,
+          "text": "estrategias que no estás usando en el"
+        },
+        {
+          "number": 39,
+          "text": "momento pero que puedes usar más tarde”."
+        },
+        {
+          "number": 40,
+          "text": "Sin embargo, otro de los hallazgos de"
+        },
+        {
+          "number": 41,
+          "text": "este estudio no se basa en lo que diferencia,"
+        },
+        {
+          "number": 42,
+          "text": "sino en lo que nos une. “Una de las cosas"
+        },
+        {
+          "number": 43,
+          "text": "sorprendentes es que encontramos enormes"
+        },
+        {
+          "number": 44,
+          "text": "similitudes en la organización de estas áreas"
+        },
+        {
+          "number": null,
+          "text": "7"
+        },
+        {
+          "number": 45,
+          "text": "en el cerebro humano y en de los monos”,"
+        },
+        {
+          "number": 46,
+          "text": "dice Neubert."
+        },
+        {
+          "number": 47,
+          "text": "“Alguna gente puede pensar que el"
+        },
+        {
+          "number": 48,
+          "text": "lenguaje es una habilidad exclusivamente"
+        },
+        {
+          "number": 49,
+          "text": "humana, por lo tanto debe estar apoyada en"
+        },
+        {
+          "number": 50,
+          "text": "áreas y conexiones que son exclusivamente"
+        },
+        {
+          "number": 51,
+          "text": "humanas. Pero estos resultados sugieren"
+        },
+        {
+          "number": 52,
+          "text": "que ese no es el caso, que quizás las"
+        },
+        {
+          "number": 53,
+          "text": "regiones que están involucradas en el"
+        },
+        {
+          "number": 54,
+          "text": "lenguaje de los humanos hacen algo"
+        },
+        {
+          "number": 55,
+          "text": "diferente en los monos, incluso aunque ellos"
+        },
+        {
+          "number": 56,
+          "text": "no tienen la habilidad del lenguaje”, explica"
+        },
+        {
+          "number": 57,
+          "text": "el investigador."
+        },
+        {
+          "number": 58,
+          "text": "Por lo tanto, dice Neubert, aunque se"
+        },
+        {
+          "number": 59,
+          "text": "podría pensar que estas zonas del lenguaje"
+        },
+        {
+          "number": 60,
+          "text": "y la flexibilidad cognitiva – que es la"
+        },
+        {
+          "number": 61,
+          "text": "capacidad de cambiar de forma dinámica"
+        },
+        {
+          "number": 62,
+          "text": "entre una tarea y otra – son un desarrollo"
+        },
+        {
+          "number": 63,
+          "text": "absolutamente nuevo en los humanos,"
+        },
+        {
+          "number": 64,
+          "text": "según estos resultados no lo son."
+        },
+        {
+          "number": null,
+          "text": "Extraído de www.lanación.com.ar"
+        }
+      ],
+      "questionIds": [
+        "uece-2022-1-f2-spanish-q01",
+        "uece-2022-1-f2-spanish-q02",
+        "uece-2022-1-f2-spanish-q03",
+        "uece-2022-1-f2-spanish-q04",
+        "uece-2022-1-f2-spanish-q05",
+        "uece-2022-1-f2-spanish-q06",
+        "uece-2022-1-f2-spanish-q07",
+        "uece-2022-1-f2-spanish-q08",
+        "uece-2022-1-f2-spanish-q09",
+        "uece-2022-1-f2-spanish-q10",
+        "uece-2022-1-f2-spanish-q11",
+        "uece-2022-1-f2-spanish-q12",
+        "uece-2022-1-f2-spanish-q13",
+        "uece-2022-1-f2-spanish-q14",
+        "uece-2022-1-f2-spanish-q15",
+        "uece-2022-1-f2-spanish-q16",
+        "uece-2022-1-f2-spanish-q17",
+        "uece-2022-1-f2-spanish-q18",
+        "uece-2022-1-f2-spanish-q19",
+        "uece-2022-1-f2-spanish-q20"
+      ]
+    }
+  ]
+}

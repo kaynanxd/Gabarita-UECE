@@ -1,0 +1,336 @@
+{
+  "paperId": "uece-2017-1-f1-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2017-1-f1-spanish-t1",
+      "label": "Texto I",
+      "title": "La pequeña políglota de cuatro años",
+      "lines": [
+        {
+          "number": 1,
+          "text": "Bella Devyatkina, de cuatro años, deslumbró"
+        },
+        {
+          "number": 2,
+          "text": "a la audiencia del programa Удивительные"
+        },
+        {
+          "number": 3,
+          "text": "люди, es decir, Gente increíble, la versión"
+        },
+        {
+          "number": 4,
+          "text": "rusa de Tú sí que vales. La niña tenía que"
+        },
+        {
+          "number": 5,
+          "text": "superar siete conversaciones con siete"
+        },
+        {
+          "number": 6,
+          "text": "personas en siete idiomas distintos: ruso,"
+        },
+        {
+          "number": 7,
+          "text": "inglés, francés, español, alemán, árabe y"
+        },
+        {
+          "number": 8,
+          "text": "chino. La pequeña políglota, que no dejaba"
+        },
+        {
+          "number": 9,
+          "text": "de estirar los brazos y dar saltos, respondió a"
+        },
+        {
+          "number": 10,
+          "text": "las preguntas en cada una de las lenguas con"
+        },
+        {
+          "number": 11,
+          "text": "una pronunciación perfecta. En una entrevista"
+        },
+        {
+          "number": 12,
+          "text": "al periódico ruso Metro, los padres han"
+        },
+        {
+          "number": 13,
+          "text": "explicado que desde que nació le enseñaron a"
+        },
+        {
+          "number": 14,
+          "text": "hablar inglés y ruso, los dos idiomas que"
+        },
+        {
+          "number": 15,
+          "text": "realmente domina. Mientras crecía, ha tenido"
+        },
+        {
+          "number": 16,
+          "text": "diferentes profesores nativos que le han"
+        },
+        {
+          "number": 17,
+          "text": "enseñado los otros cinco idiomas, con los que"
+        },
+        {
+          "number": 18,
+          "text": "puede tener conversaciones básicas, como las"
+        },
+        {
+          "number": 19,
+          "text": "que mantuvo en el programa. Además, los"
+        },
+        {
+          "number": 20,
+          "text": "padres le programan otro tipo de actividades"
+        },
+        {
+          "number": 21,
+          "text": "además de las clases de idiomas, por"
+        },
+        {
+          "number": 22,
+          "text": "ejemplo, patinaje artístico en alemán o teatro"
+        },
+        {
+          "number": 23,
+          "text": "en francés y español. También han"
+        },
+        {
+          "number": null,
+          "text": "16"
+        },
+        {
+          "number": 24,
+          "text": "manifestado que de momento no pretenden"
+        },
+        {
+          "number": 25,
+          "text": "enseñarle un octavo idioma a esta pequeña"
+        },
+        {
+          "number": 26,
+          "text": "políglota."
+        },
+        {
+          "number": null,
+          "text": "Periódico “El País”/España 20/10/2016"
+        }
+      ],
+      "questionIds": [
+        "uece-2017-1-f1-spanish-q63",
+        "uece-2017-1-f1-spanish-q64",
+        "uece-2017-1-f1-spanish-q65",
+        "uece-2017-1-f1-spanish-q66"
+      ]
+    },
+    {
+      "id": "uece-2017-1-f1-spanish-t2",
+      "label": "Texto II",
+      "title": null,
+      "lines": [
+        {
+          "number": null,
+          "text": "Piden la creación de un Santuario de Ballenas en"
+        },
+        {
+          "number": null,
+          "text": "el Atlántico Sur"
+        },
+        {
+          "number": 27,
+          "text": "Hasta el 28 de octubre, Eslovenia"
+        },
+        {
+          "number": 28,
+          "text": "acogerá la reunión de la Cumbre Ballenera"
+        },
+        {
+          "number": 29,
+          "text": "Internacional (CBI). El Fondo Mundial para la"
+        },
+        {
+          "number": 30,
+          "text": "Naturaleza (WWF) ha aprovechado la cita"
+        },
+        {
+          "number": 31,
+          "text": "para recordarles a los participantes de más"
+        },
+        {
+          "number": 32,
+          "text": "de 80 países que han recalado en la nación"
+        },
+        {
+          "number": 33,
+          "text": "europea que la captura accidental constituye"
+        },
+        {
+          "number": 34,
+          "text": "la principal causa de muerte para, al menos,"
+        },
+        {
+          "number": 35,
+          "text": "300.000 ballenas, delfines y marsopas cada"
+        },
+        {
+          "number": 36,
+          "text": "año."
+        },
+        {
+          "number": 37,
+          "text": "La captura accidental, concreta la"
+        },
+        {
+          "number": 38,
+          "text": "organización, ha sido determinante para la"
+        },
+        {
+          "number": 39,
+          "text": "reciente extinción del delfín del río Yangtze en"
+        },
+        {
+          "number": 40,
+          "text": "China. Y supone un riesgo para la ballena"
+        },
+        {
+          "number": 41,
+          "text": "franca glacial del Atlántico Norte (en peligro"
+        },
+        {
+          "number": 42,
+          "text": "de extinción), la ballena jorobada del Mar de"
+        },
+        {
+          "number": 43,
+          "text": "Arabia, la vaquita de México (en peligro"
+        },
+        {
+          "number": 44,
+          "text": "crítico), el delfín de Maui, los delfines de"
+        },
+        {
+          "number": 45,
+          "text": "Héctor o cabeza blanca de Nueva Zelanda,"
+        },
+        {
+          "number": 46,
+          "text": "las marsopas del Báltico y muchas especies"
+        },
+        {
+          "number": 47,
+          "text": "más de delfines de río."
+        },
+        {
+          "number": 48,
+          "text": "“Innumerables cetáceos pueden"
+        },
+        {
+          "number": 49,
+          "text": "salvarse cada año si la CBI asume el"
+        },
+        {
+          "number": 50,
+          "text": "liderazgo y ayuda a los países a"
+        },
+        {
+          "number": 51,
+          "text": "adoptar medidas eficaces para mitigar la"
+        },
+        {
+          "number": 52,
+          "text": "captura accidental, tanto en aguas nacionales"
+        },
+        {
+          "number": 53,
+          "text": "como internacionales”, manifiesta Aimee"
+        },
+        {
+          "number": 54,
+          "text": "Leslie, líder del programa de cetáceos de"
+        },
+        {
+          "number": 55,
+          "text": "WWF."
+        },
+        {
+          "number": 56,
+          "text": "Por su parte, Greenpeace considera que"
+        },
+        {
+          "number": 57,
+          "text": "la 66ª reunión de la CBI representa una"
+        },
+        {
+          "number": 58,
+          "text": "“oportunidad única” para la protección de"
+        },
+        {
+          "number": 59,
+          "text": "estos amenazados cetáceos mediante la"
+        },
+        {
+          "number": 60,
+          "text": "creación de un Santuario de Ballenas del"
+        },
+        {
+          "number": 61,
+          "text": "Atlántico Sur. Se necesitaría el 75% de los"
+        },
+        {
+          "number": 62,
+          "text": "votos de los presentes para que la propuesta"
+        },
+        {
+          "number": 63,
+          "text": "saliera adelante, ya que por cada uno en"
+        },
+        {
+          "number": 64,
+          "text": "contra se eliminan tres a favor. En la anterior"
+        },
+        {
+          "number": 65,
+          "text": "cita, en 2014, la iniciativa obtuvo el 69% de"
+        },
+        {
+          "number": 66,
+          "text": "los votos. Brasil, apoyado por Argentina,"
+        },
+        {
+          "number": 67,
+          "text": "Uruguay, Sudáfrica o Gabón, volverá a"
+        },
+        {
+          "number": 68,
+          "text": "defender este año la propuesta de Santuario,"
+        },
+        {
+          "number": 69,
+          "text": "que incluye un plan de gestión basado en"
+        },
+        {
+          "number": 70,
+          "text": "recomendaciones de la propia CBI."
+        },
+        {
+          "number": null,
+          "text": "Texto adaptado"
+        },
+        {
+          "number": null,
+          "text": "Periódico ABC/España 20/10/2016"
+        }
+      ],
+      "questionIds": [
+        "uece-2017-1-f1-spanish-q67",
+        "uece-2017-1-f1-spanish-q68",
+        "uece-2017-1-f1-spanish-q69",
+        "uece-2017-1-f1-spanish-q70"
+      ]
+    }
+  ]
+}

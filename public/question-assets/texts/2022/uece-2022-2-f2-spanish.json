@@ -1,0 +1,339 @@
+{
+  "paperId": "uece-2022-2-f2-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2022-2-f2-spanish-t1",
+      "label": "Texto 1",
+      "title": "T E X T O",
+      "lines": [
+        {
+          "number": null,
+          "text": "LOS DIEZ MONUMENTOS MÁS VISITADOS DEL"
+        },
+        {
+          "number": null,
+          "text": "MUNDO"
+        },
+        {
+          "number": 1,
+          "text": "En cada ciudad hay uno, porque además"
+        },
+        {
+          "number": 2,
+          "text": "de representar un valor arquitectónico o"
+        },
+        {
+          "number": 3,
+          "text": "artístico, tiene un valor histórico o social:"
+        },
+        {
+          "number": 4,
+          "text": "son los monumentos obras públicas con un"
+        },
+        {
+          "number": 5,
+          "text": "carácter conmemorativo que llaman la"
+        },
+        {
+          "number": 6,
+          "text": "atención de turistas del mundo entero. A"
+        },
+        {
+          "number": 7,
+          "text": "continuación veremos cuáles son los diez"
+        },
+        {
+          "number": 8,
+          "text": "monumentos preferidos por los viajeros de"
+        },
+        {
+          "number": 9,
+          "text": "todo el planeta. La Catedral de Notre-"
+        },
+        {
+          "number": 10,
+          "text": "Dame de París cuenta con doce millones"
+        },
+        {
+          "number": 11,
+          "text": "de visitantes al año. Es una de las más"
+        },
+        {
+          "number": 12,
+          "text": "antiguas del mundo y tiene un asombroso"
+        },
+        {
+          "number": 13,
+          "text": "diseño gótico, por lo que ha aparecido en"
+        },
+        {
+          "number": 14,
+          "text": "diferentes producciones cinematográficas."
+        },
+        {
+          "number": 15,
+          "text": "Muy cerca de la Catedral de Notre-Dame,"
+        },
+        {
+          "number": 16,
+          "text": "la Torre Eiffel se levanta como un símbolo"
+        },
+        {
+          "number": 17,
+          "text": "de Francia y su capital, París, recibiendo"
+        },
+        {
+          "number": 18,
+          "text": "algo menos de siete millones de visitas por"
+        },
+        {
+          "number": 19,
+          "text": "año. Se trata de uno de los monumentos"
+        },
+        {
+          "number": 20,
+          "text": "más famosos del planeta, diseñado y"
+        },
+        {
+          "number": 21,
+          "text": "construido por el ingeniero Gustave Eiffel,"
+        },
+        {
+          "number": 22,
+          "text": "en 1889. Este mismo arquitecto es el"
+        },
+        {
+          "number": 23,
+          "text": "responsable de otro de los monumentos"
+        },
+        {
+          "number": 24,
+          "text": "más famosos del mundo, esta vez"
+        },
+        {
+          "number": 25,
+          "text": "emplazado en Nueva York: la Estatua de la"
+        },
+        {
+          "number": 26,
+          "text": "Libertad recibe alrededor de cuatro"
+        },
+        {
+          "number": 27,
+          "text": "millones de visitantes al año y fue un"
+        },
+        {
+          "number": 28,
+          "text": "regalo de los franceses a los"
+        },
+        {
+          "number": 29,
+          "text": "estadounidenses para celebrar el"
+        },
+        {
+          "number": 30,
+          "text": "centenario de la Declaración de"
+        },
+        {
+          "number": 31,
+          "text": "Independencia del país americano en"
+        },
+        {
+          "number": 32,
+          "text": "1886. Pero Estados Unidos no solo tiene la"
+        },
+        {
+          "number": 33,
+          "text": "Estatua de la Libertad en este llamativo"
+        },
+        {
+          "number": 34,
+          "text": "listado. El Lincoln Memorial en"
+        },
+        {
+          "number": 35,
+          "text": "Washington, creado en memoria del ex"
+        },
+        {
+          "number": 36,
+          "text": "presidente Abraham Lincoln, también está"
+        },
+        {
+          "number": 37,
+          "text": "dentro de los más codiciados del mundo,"
+        },
+        {
+          "number": 38,
+          "text": "con cuatro millones de visitas anuales."
+        },
+        {
+          "number": 39,
+          "text": "España no se queda atrás. El Palacio de la"
+        },
+        {
+          "number": 40,
+          "text": "Alhambra recibe más de tres millones de"
+        },
+        {
+          "number": 41,
+          "text": "visitas cada año, constituyéndose como el"
+        },
+        {
+          "number": 42,
+          "text": "monumento más visitado en este país."
+        },
+        {
+          "number": 43,
+          "text": "También en Europa, la capital de Italia"
+        },
+        {
+          "number": 44,
+          "text": "cuenta con un monumento visitado por"
+        },
+        {
+          "number": 45,
+          "text": "más de cinco millones de turistas anuales:"
+        },
+        {
+          "number": 46,
+          "text": "El Coliseo es un anfiteatro de la época del"
+        },
+        {
+          "number": 47,
+          "text": "Imperio Romano que fue construido en el"
+        },
+        {
+          "number": 48,
+          "text": "siglo I. Siguiendo a la Catedral de Notre-"
+        },
+        {
+          "number": 49,
+          "text": "Dame, en número de visitantes,"
+        },
+        {
+          "number": 50,
+          "text": "sorprenden los nueve millones de visitas"
+        },
+        {
+          "number": 51,
+          "text": "anuales que recibe la Gran Muralla China,"
+        },
+        {
+          "number": 52,
+          "text": "así como la Ópera de Sidney, en Australia,"
+        },
+        {
+          "number": 53,
+          "text": "con siete millones de visitantes cada año."
+        },
+        {
+          "number": 54,
+          "text": "Finalmente, Egipto e India son otros de los"
+        },
+        {
+          "number": 55,
+          "text": "países favoritos de los turistas que buscan"
+        },
+        {
+          "number": 56,
+          "text": "monumentos. La Pirámide de Guiza, por"
+        },
+        {
+          "number": 57,
+          "text": "ejemplo, con tres millones de visitantes al"
+        },
+        {
+          "number": 58,
+          "text": "año, es la pirámide más grande de Egipto"
+        },
+        {
+          "number": 59,
+          "text": "y la más antigua de las Siete Maravillas"
+        },
+        {
+          "number": 60,
+          "text": "del mundo, pues se terminó de construir"
+        },
+        {
+          "number": 61,
+          "text": "en el año 2570 a.C. El Taj Mahal, por su"
+        },
+        {
+          "number": 62,
+          "text": "parte, tiene una sorprendente"
+        },
+        {
+          "number": 63,
+          "text": "arquitectura, pero sobre todo es un"
+        },
+        {
+          "number": 64,
+          "text": "símbolo de amor: las leyendas de la India"
+        },
+        {
+          "number": 65,
+          "text": "cuentan que el emperador Sha Jahan"
+        },
+        {
+          "number": 66,
+          "text": "mandó construir este palacio como un"
+        },
+        {
+          "number": 67,
+          "text": "regalo póstumo para su esposa. Más de"
+        },
+        {
+          "number": 68,
+          "text": "dos millones de turistas llegan cada año al"
+        },
+        {
+          "number": 69,
+          "text": "Taj Mahal para disfrutar de su lujo y sus"
+        },
+        {
+          "number": 70,
+          "text": "historias."
+        },
+        {
+          "number": null,
+          "text": "www.larevistaintegral.com/artículo_print.jsp?id=215217"
+        },
+        {
+          "number": null,
+          "text": "Q U E S T I O N E S"
+        },
+        {
+          "number": null,
+          "text": "Las cuestiones de 01 a 11 deben ser"
+        },
+        {
+          "number": null,
+          "text": "contestadas según el texto arriba."
+        }
+      ],
+      "questionIds": [
+        "uece-2022-2-f2-spanish-q01",
+        "uece-2022-2-f2-spanish-q02",
+        "uece-2022-2-f2-spanish-q03",
+        "uece-2022-2-f2-spanish-q04",
+        "uece-2022-2-f2-spanish-q05",
+        "uece-2022-2-f2-spanish-q06",
+        "uece-2022-2-f2-spanish-q07",
+        "uece-2022-2-f2-spanish-q08",
+        "uece-2022-2-f2-spanish-q09",
+        "uece-2022-2-f2-spanish-q10",
+        "uece-2022-2-f2-spanish-q11",
+        "uece-2022-2-f2-spanish-q12",
+        "uece-2022-2-f2-spanish-q13",
+        "uece-2022-2-f2-spanish-q14",
+        "uece-2022-2-f2-spanish-q15",
+        "uece-2022-2-f2-spanish-q16",
+        "uece-2022-2-f2-spanish-q17",
+        "uece-2022-2-f2-spanish-q18",
+        "uece-2022-2-f2-spanish-q19",
+        "uece-2022-2-f2-spanish-q20"
+      ]
+    }
+  ]
+}

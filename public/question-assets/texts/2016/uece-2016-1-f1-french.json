@@ -1,0 +1,157 @@
+{
+  "paperId": "uece-2016-1-f1-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2016-1-f1-french-t1",
+      "label": "TEXTE",
+      "title": null,
+      "lines": [
+        {
+          "number": null,
+          "text": "ELODIE GARAMOND – QUELLE BEAUTÉ"
+        },
+        {
+          "number": 1,
+          "text": "Elodie Garamond est un petit bout de"
+        },
+        {
+          "number": 2,
+          "text": "femme à la silhouette légère, à l’allure"
+        },
+        {
+          "number": 3,
+          "text": "dynamique et sportive, une des icônes de la"
+        },
+        {
+          "number": 4,
+          "text": "nouvelle génération du troisième millénaire."
+        },
+        {
+          "number": 5,
+          "text": "Ancienne femme d’affaire au rythme éffréné, elle"
+        },
+        {
+          "number": 6,
+          "text": "a troqué son poste prisé dans la communication,"
+        },
+        {
+          "number": 7,
+          "text": "et le stress ambient, pour développer, à Paris, un"
+        },
+        {
+          "number": 8,
+          "text": "centre de mieux-être spirituel et sportif. Succès"
+        },
+        {
+          "number": 9,
+          "text": "immédiat, son centre est devenu en une année"
+        },
+        {
+          "number": 10,
+          "text": "une adresse incontournable où chacun peut"
+        },
+        {
+          "number": 11,
+          "text": "trouver son havre de paix. Pour Elodie, le yoga,"
+        },
+        {
+          "number": 12,
+          "text": "par exemple, que l’on peut y pratiquer, est un"
+        },
+        {
+          "number": 13,
+          "text": "excellent exercice de postures et de respiration"
+        },
+        {
+          "number": 14,
+          "text": "qui cherche à réconcilier le corps et l’esprit."
+        },
+        {
+          "number": 15,
+          "text": "Pendant ses vacances elle est toujours"
+        },
+        {
+          "number": 16,
+          "text": "dans un hôtel magnifique à la montagne d’où elle"
+        },
+        {
+          "number": 17,
+          "text": "part tous les matins à cinq heures trente pour"
+        },
+        {
+          "number": 18,
+          "text": "faire sa salutation au soleil et voir le jour se"
+        },
+        {
+          "number": 19,
+          "text": "lever. “Pour moi les vacances sont synonymes de"
+        },
+        {
+          "number": 20,
+          "text": "bienveillance avec soi-même. C’est quand je"
+        },
+        {
+          "number": 21,
+          "text": "peux écouter le chant des cigales et m’enivrer"
+        },
+        {
+          "number": 22,
+          "text": "dans les odeurs de romarin, de lavande et de"
+        },
+        {
+          "number": 23,
+          "text": "laurier-rose. Ces changements d’air sont propices"
+        },
+        {
+          "number": 24,
+          "text": "à l’abandon, à la sieste et aux rêves. Tout cela"
+        },
+        {
+          "number": 25,
+          "text": "refait mon corps et mon esprit pour une nouvelle"
+        },
+        {
+          "number": 26,
+          "text": "année de travail. Je crois que l’essentiel dans la"
+        },
+        {
+          "number": 27,
+          "text": "vie, c’est de ne pas se perdre et je profite des"
+        },
+        {
+          "number": 28,
+          "text": "beaux jours tous les jours pour retrouver un sens"
+        },
+        {
+          "number": 29,
+          "text": "à tout ce que je fais”."
+        },
+        {
+          "number": null,
+          "text": "Adapté de Point de Vue, nº 3498, p.66, du 05 au 11"
+        },
+        {
+          "number": null,
+          "text": "août 2015."
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez"
+        },
+        {
+          "number": null,
+          "text": "aux questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2016-1-f1-french-q55",
+        "uece-2016-1-f1-french-q56",
+        "uece-2016-1-f1-french-q57",
+        "uece-2016-1-f1-french-q58",
+        "uece-2016-1-f1-french-q59",
+        "uece-2016-1-f1-french-q60"
+      ]
+    }
+  ]
+}

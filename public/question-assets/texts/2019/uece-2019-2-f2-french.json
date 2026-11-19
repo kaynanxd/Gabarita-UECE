@@ -1,0 +1,455 @@
+{
+  "paperId": "uece-2019-2-f2-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2019-2-f2-french-t1",
+      "label": "Texto 1",
+      "title": "à Notre-Dame de Paris",
+      "lines": [
+        {
+          "number": null,
+          "text": "Choc à travers le monde après l’incendie"
+        },
+        {
+          "number": 1,
+          "text": "Notre-Dame de Paris a traversé les"
+        },
+        {
+          "number": 2,
+          "text": "siècles et survécu aux guerres comme aux"
+        },
+        {
+          "number": 3,
+          "text": "révolutions, opposant aux changements de"
+        },
+        {
+          "number": 4,
+          "text": "nos sociétés un visage immuable. Après"
+        },
+        {
+          "number": 5,
+          "text": "l'incendie qui l'a ravagé le 15 avril 2019, cet"
+        },
+        {
+          "number": 6,
+          "text": "édifice, qui occupe une place à part dans"
+        },
+        {
+          "number": 7,
+          "text": "notre mémoire collective, a suscité à travers"
+        },
+        {
+          "number": 8,
+          "text": "le monde une émotion à la mesure de sa"
+        },
+        {
+          "number": 9,
+          "text": "portée symbolique: universelle."
+        },
+        {
+          "number": 10,
+          "text": "Un feu qui part des combles, une"
+        },
+        {
+          "number": 11,
+          "text": "flèche qui s’effondre et un monument"
+        },
+        {
+          "number": 12,
+          "text": "historique qui menace de vaciller: voilà ce"
+        },
+        {
+          "number": 13,
+          "text": "que l’on sait du violent incendie qui a ravagé"
+        },
+        {
+          "number": 14,
+          "text": "l’emblématique cathédrale Notre-Dame de"
+        },
+        {
+          "number": 15,
+          "text": "Paris. Le feu, dont l’origine est inconnue, est"
+        },
+        {
+          "number": 16,
+          "text": "parti des combles, puis s’est propagé"
+        },
+        {
+          "number": 17,
+          "text": "extrêmement vite à une grande partie du"
+        },
+        {
+          "number": 18,
+          "text": "toit."
+        },
+        {
+          "number": 19,
+          "text": "Les flammes ont dévoré la charpente,"
+        },
+        {
+          "number": 20,
+          "text": "longue de plus de 100 mètres et baptisée"
+        },
+        {
+          "number": 21,
+          "text": "\"la forêt\", en raison du grand nombre de"
+        },
+        {
+          "number": 22,
+          "text": "poutres qu’il a fallu utiliser pour la mettre en"
+        },
+        {
+          "number": 23,
+          "text": "place, chaque poutre provenant d’un arbre."
+        },
+        {
+          "number": 24,
+          "text": "Quatre cents pompiers, avec 18"
+        },
+        {
+          "number": 25,
+          "text": "lances à incendie, ont lutté pour tenter de"
+        },
+        {
+          "number": 26,
+          "text": "circonscrire au plus vite le feu. Mais la flèche"
+        },
+        {
+          "number": 27,
+          "text": "de la cathédrale, l’un des symboles de Paris"
+        },
+        {
+          "number": 28,
+          "text": "avec ses 93 mètres de hauteur, s’effondre."
+        },
+        {
+          "number": 29,
+          "text": "En quelques heures, une bonne partie du toit"
+        },
+        {
+          "number": 30,
+          "text": "de l’édifice semble avoir été réduite en"
+        },
+        {
+          "number": 31,
+          "text": "cendres."
+        },
+        {
+          "number": 32,
+          "text": "Heureusement la couronne d’épines"
+        },
+        {
+          "number": 33,
+          "text": "de Jésus Christ et la tunique de Saint Louis,"
+        },
+        {
+          "number": 34,
+          "text": "les reliques sacrées  de Notre Dame, ont pu"
+        },
+        {
+          "number": 35,
+          "text": "être sauvées des flammes, a indiqué"
+        },
+        {
+          "number": 36,
+          "text": "Mgr Patrick Chauvet, le recteur de la"
+        },
+        {
+          "number": 37,
+          "text": "cathédrale."
+        },
+        {
+          "number": 38,
+          "text": "Restaurer le bâtiment prendra \"des"
+        },
+        {
+          "number": 39,
+          "text": "années de travaux\", mais le président"
+        },
+        {
+          "number": 40,
+          "text": "français a assuré qu’une \"souscription"
+        },
+        {
+          "number": 41,
+          "text": "nationale sera lancée\", et que \"bien au-delà"
+        },
+        {
+          "number": 42,
+          "text": "de nos frontières, nous ferons appel aux plus"
+        },
+        {
+          "number": 43,
+          "text": "grands talents qui viendront y contribuer, et"
+        },
+        {
+          "number": 44,
+          "text": "nous la rebâtirons\"."
+        },
+        {
+          "number": 45,
+          "text": "Des réactions émues, en provenance"
+        },
+        {
+          "number": 46,
+          "text": "du monde entier. Alors que Notre-Dame de"
+        },
+        {
+          "number": 47,
+          "text": "Paris était en proie à ce dramatique incendie,"
+        },
+        {
+          "number": 48,
+          "text": "de nombreux dirigeants étrangers ont fait"
+        },
+        {
+          "number": 49,
+          "text": "part de leur tristesse et de leur soutien. Les"
+        },
+        {
+          "number": 50,
+          "text": "images impressionnantes de l’incendie ont"
+        },
+        {
+          "number": 51,
+          "text": "rapidement suscité une vague d’émotion"
+        },
+        {
+          "number": 52,
+          "text": "internationale."
+        },
+        {
+          "number": 53,
+          "text": "Les réactions ont été nombreuses en"
+        },
+        {
+          "number": 54,
+          "text": "provenance de plusieurs pays, dans la"
+        },
+        {
+          "number": 55,
+          "text": "compréhension selon laquelle Notre-Dame"
+        },
+        {
+          "number": 56,
+          "text": "est un trésor au monde et qu’elle doit être"
+        },
+        {
+          "number": 57,
+          "text": "reconstruite pour demain. Cet incendie"
+        },
+        {
+          "number": 58,
+          "text": "représente une triste nouvelle pour  l’histoire"
+        },
+        {
+          "number": 59,
+          "text": "et pour le patrimoine culturel universel."
+        },
+        {
+          "number": 60,
+          "text": "À Bruxelles, les images des flammes"
+        },
+        {
+          "number": 61,
+          "text": "sur la cathédrale durant de longues heures"
+        },
+        {
+          "number": 62,
+          "text": "ont aussi été un choc.  \"Notre-Dame de Paris"
+        },
+        {
+          "number": 63,
+          "text": "appartient à l’humanité toute entière. Quel"
+        },
+        {
+          "number": 64,
+          "text": "triste spectacle. Quelle horreur. Je partage"
+        },
+        {
+          "number": 65,
+          "text": "l’émotion de la nation française qui est aussi"
+        },
+        {
+          "number": 66,
+          "text": "la nôtre», réagit aussi le président de la"
+        },
+        {
+          "number": 67,
+          "text": "Commission Européenne.\""
+        },
+        {
+          "number": 68,
+          "text": "Depuis Strasbourg, le président du"
+        },
+        {
+          "number": 69,
+          "text": "Parlement européen a eu une pensée pour"
+        },
+        {
+          "number": 70,
+          "text": "les soldats du feu qui se battaient alors"
+        },
+        {
+          "number": 71,
+          "text": "contre les flammes: \"Courage aux sapeurs-"
+        },
+        {
+          "number": 72,
+          "text": "pompiers qui font tout pour maîtriser"
+        },
+        {
+          "number": 73,
+          "text": "l’incendie à Notre-Dame , symbole de la"
+        },
+        {
+          "number": 74,
+          "text": "France et dont nous, Européens, sommes"
+        },
+        {
+          "number": 75,
+          "text": "tous fiers\"."
+        },
+        {
+          "number": 76,
+          "text": "L’Unesco, l’Organisation des nations"
+        },
+        {
+          "number": 77,
+          "text": "unies pour l’éducation, la science et la"
+        },
+        {
+          "number": 78,
+          "text": "culture, se tient aux \"côtés de la France pour"
+        },
+        {
+          "number": 79,
+          "text": "sauvegarder et réhabiliter ce patrimoine"
+        },
+        {
+          "number": 80,
+          "text": "inestimable\", a déclaré sa directrice"
+        },
+        {
+          "number": 81,
+          "text": "générale."
+        },
+        {
+          "number": 82,
+          "text": "Et encore parmi d’autres"
+        },
+        {
+          "number": 83,
+          "text": "manifestations emblématiques le journal"
+        },
+        {
+          "number": 84,
+          "text": "quotidien régional \"Le Parisien\" pleure un"
+        },
+        {
+          "number": 85,
+          "text": "monument qui \"représente ce que l’homme"
+        },
+        {
+          "number": 86,
+          "text": "peut édifier de plus beau, de plus noble, que"
+        },
+        {
+          "number": 87,
+          "text": "l’on soit croyant ou non, Parisien ou"
+        },
+        {
+          "number": 88,
+          "text": "provincial, Français ou étranger\". \"Notre-"
+        },
+        {
+          "number": 89,
+          "text": "Dame, compagne fidèle des amoureux de"
+        },
+        {
+          "number": 90,
+          "text": "Paris, dans les beaux jours comme dans les"
+        },
+        {
+          "number": 91,
+          "text": "mauvais, dans la brume de l’hiver et l’éclat"
+        },
+        {
+          "number": 92,
+          "text": "rougeoyant d’un soleil couchant\". \"Il faudra"
+        },
+        {
+          "number": 93,
+          "text": "reconstruire\", annonce le journal, \"parce"
+        },
+        {
+          "number": 94,
+          "text": "qu’une nation se nourrit de symboles et"
+        },
+        {
+          "number": 95,
+          "text": "Notre-Dame en est l’un des plus éclatants.\""
+        },
+        {
+          "number": null,
+          "text": "Extraits et adaptés de"
+        },
+        {
+          "number": null,
+          "text": "https://eldorhaan.wordpress.com/2019/04/16/le-figaro-"
+        },
+        {
+          "number": null,
+          "text": "premium-choc-a-travers-le-monde-apres-lincendie-a-"
+        },
+        {
+          "number": null,
+          "text": "notre-dame-de-paris/ et de"
+        },
+        {
+          "number": null,
+          "text": "http://www.culture.gouv.fr/Restaurer-Notre-Dame-de-"
+        },
+        {
+          "number": null,
+          "text": "Paris/Ou-en-est-on/La-tragedie-de-Notre-Dame-de-Paris-"
+        },
+        {
+          "number": null,
+          "text": "suscite-un-emoi-international"
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez"
+        },
+        {
+          "number": null,
+          "text": "aux questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f2-french-q01",
+        "uece-2019-2-f2-french-q02",
+        "uece-2019-2-f2-french-q03",
+        "uece-2019-2-f2-french-q04",
+        "uece-2019-2-f2-french-q05",
+        "uece-2019-2-f2-french-q06",
+        "uece-2019-2-f2-french-q07",
+        "uece-2019-2-f2-french-q08",
+        "uece-2019-2-f2-french-q09",
+        "uece-2019-2-f2-french-q10",
+        "uece-2019-2-f2-french-q11",
+        "uece-2019-2-f2-french-q12",
+        "uece-2019-2-f2-french-q13",
+        "uece-2019-2-f2-french-q14",
+        "uece-2019-2-f2-french-q15",
+        "uece-2019-2-f2-french-q16",
+        "uece-2019-2-f2-french-q17",
+        "uece-2019-2-f2-french-q18",
+        "uece-2019-2-f2-french-q19",
+        "uece-2019-2-f2-french-q20"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "paperId": "uece-2015-1-f2-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2015-1-f2-french-t1",
+      "label": "TEXTE",
+      "title": "DES MOTS NOUVEAUX POUR",
+      "lines": [
+        {
+          "number": null,
+          "text": "UN MONDE QUI CHANGE"
+        },
+        {
+          "number": 1,
+          "text": "La langue française, heureusement, dispose"
+        },
+        {
+          "number": 2,
+          "text": "de toutes les ressources nécessaires pour"
+        },
+        {
+          "number": 3,
+          "text": "désigner les réalités nouvelles qui apparaissent"
+        },
+        {
+          "number": 4,
+          "text": "dans le paysage langagier français."
+        },
+        {
+          "number": 5,
+          "text": "Un des clichés les plus courants sur la"
+        },
+        {
+          "number": 6,
+          "text": "langue française voudrait que le français soit"
+        },
+        {
+          "number": 7,
+          "text": "peu propice aux inventions lexicales, peu"
+        },
+        {
+          "number": 8,
+          "text": "accueillant aux créations verbales. Certains y"
+        },
+        {
+          "number": 9,
+          "text": "voient même paradoxalement le gage de sa"
+        },
+        {
+          "number": 10,
+          "text": "pérennité: le français, superbement drapé dans"
+        },
+        {
+          "number": 11,
+          "text": "son lexique, résisterait impavide aux tumultes"
+        },
+        {
+          "number": 12,
+          "text": "de l’Histoire. Pour la plupart, cette apparente"
+        },
+        {
+          "number": 13,
+          "text": "rigidité serait au contraire le signe d’une"
+        },
+        {
+          "number": 14,
+          "text": "faiblesse congénitale."
+        },
+        {
+          "number": 15,
+          "text": "Rien de plus faux, bien sûr, et le français,"
+        },
+        {
+          "number": 16,
+          "text": "comme toutes les grandes langues du monde,"
+        },
+        {
+          "number": 17,
+          "text": "ne cesse d’évoluer. Peu dans sa morphologie,"
+        },
+        {
+          "number": 18,
+          "text": "encore moins dans sa syntaxe – qui en"
+        },
+        {
+          "number": 19,
+          "text": "constitue l’armature – mais beaucoup dans son"
+        },
+        {
+          "number": 20,
+          "text": "vocabulaire. Près de la moitié du lexique"
+        },
+        {
+          "number": 21,
+          "text": "français courant d’aujourd’hui, que l’on évalue à"
+        },
+        {
+          "number": 22,
+          "text": "environ 60.000 mots, se serait intégralement"
+        },
+        {
+          "number": 23,
+          "text": "renouvelée en l’espace d’un demi-siècle: c’est"
+        },
+        {
+          "number": 24,
+          "text": "bien la preuve que la langue française change"
+        },
+        {
+          "number": 25,
+          "text": "aussi vite que le monde qu’elle exprime."
+        },
+        {
+          "number": 26,
+          "text": "Dans son évolution, le français ne se"
+        },
+        {
+          "number": 27,
+          "text": "contente pas d’attribuer des sens nouveaux à"
+        },
+        {
+          "number": 28,
+          "text": "des mots préexistants - comme souris ou virus"
+        },
+        {
+          "number": 29,
+          "text": "dans le domaine de l’informatique -, voire de"
+        },
+        {
+          "number": 30,
+          "text": "ressusciter à l’occasion des mots tombés en"
+        },
+        {
+          "number": 31,
+          "text": "désuétude, il en crée par toutes sortes de"
+        },
+        {
+          "number": 32,
+          "text": "mécanismes qui font le délice des lexicologues:"
+        },
+        {
+          "number": 33,
+          "text": "par l’ajout de préfixes – agro, bio, éco – ou de"
+        },
+        {
+          "number": 34,
+          "text": "suffixes – tique, age, ité – et l’emprunt aux"
+        },
+        {
+          "number": 35,
+          "text": "langues étrangères. Ainsi, de nombreux"
+        },
+        {
+          "number": 36,
+          "text": "néologismes entrent chaque année dans le"
+        },
+        {
+          "number": 37,
+          "text": "dictionnaire: mots de la mode dans les annés"
+        },
+        {
+          "number": 38,
+          "text": "60, abréviations, sigles et acronymes dans les"
+        },
+        {
+          "number": 39,
+          "text": "années 70, mots composés avec certains"
+        },
+        {
+          "number": 40,
+          "text": "préfixes tels que cyber dans les années 90."
+        },
+        {
+          "number": 41,
+          "text": "Cette création est souvent spontanée: les"
+        },
+        {
+          "number": 42,
+          "text": "mots nouveaux s’inventent sur les trottoirs de"
+        },
+        {
+          "number": 43,
+          "text": "nos villes, dans les quartiers, dans les réseaux"
+        },
+        {
+          "number": 44,
+          "text": "sociaux, dans les différentes circonstances de la"
+        },
+        {
+          "number": 45,
+          "text": "vie quotidienne... Les jeunes, les journalistes,"
+        },
+        {
+          "number": 46,
+          "text": "les publicitaires, les chanteurs, les écrivains, les"
+        },
+        {
+          "number": 47,
+          "text": "poètes, les humoristes sont tous de grands"
+        },
+        {
+          "number": 48,
+          "text": "pourvoyeurs de mots nouveaux."
+        },
+        {
+          "number": 49,
+          "text": "Mais une langue n’est pas un composé"
+        },
+        {
+          "number": 50,
+          "text": "stable: il n’y a que des états de langue, et le"
+        },
+        {
+          "number": 51,
+          "text": "destin des mots nouveaux est imprévisible. Que"
+        },
+        {
+          "number": 52,
+          "text": "leur formation soit intuitive ou raisonnée,"
+        },
+        {
+          "number": 53,
+          "text": "l’usage en dernière instance fera toujours loi."
+        },
+        {
+          "number": 54,
+          "text": "Un mot n’en remplace durablement un autre"
+        },
+        {
+          "number": 55,
+          "text": "que s’il est seul à pouvoir exprimer ce qu’il"
+        },
+        {
+          "number": 56,
+          "text": "désigne. C’est pourquoi la meilleure manière de"
+        },
+        {
+          "number": 57,
+          "text": "“défendre” une langue est encore d’inventer des"
+        },
+        {
+          "number": 58,
+          "text": "notions ou des concepts dans cette langue. Car"
+        },
+        {
+          "number": 59,
+          "text": "ce sont les choses, et les notions qui leur sont"
+        },
+        {
+          "number": 60,
+          "text": "attachées, qui portent les mots. En définitive,"
+        },
+        {
+          "number": 61,
+          "text": "l’avenir d’une langue dépend de la capacité"
+        },
+        {
+          "number": 62,
+          "text": "créatrice des peuples qui la parlent. Tout autant"
+        },
+        {
+          "number": 63,
+          "text": "que sur des facteurs démographiques ou"
+        },
+        {
+          "number": 64,
+          "text": "économiques, tout autant que sur la puissance,"
+        },
+        {
+          "number": 65,
+          "text": "la vitalité d’une langue repose sur la créativité"
+        },
+        {
+          "number": 66,
+          "text": "scientifique, artistique, littéraire ou conceptuelle"
+        },
+        {
+          "number": 67,
+          "text": "de la culture qu’elle exprime."
+        },
+        {
+          "number": null,
+          "text": "(NORTH, Xavier. Des mots nouveaux pour un monde"
+        },
+        {
+          "number": null,
+          "text": "qui change. Le français dans le monde, nº 392, mars-"
+        },
+        {
+          "number": null,
+          "text": "avril 2014. p. 30-1.Texte adapté.)"
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez"
+        },
+        {
+          "number": null,
+          "text": "aux questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2015-1-f2-french-q01",
+        "uece-2015-1-f2-french-q02",
+        "uece-2015-1-f2-french-q03",
+        "uece-2015-1-f2-french-q04",
+        "uece-2015-1-f2-french-q05",
+        "uece-2015-1-f2-french-q06",
+        "uece-2015-1-f2-french-q07",
+        "uece-2015-1-f2-french-q08",
+        "uece-2015-1-f2-french-q09",
+        "uece-2015-1-f2-french-q10",
+        "uece-2015-1-f2-french-q11",
+        "uece-2015-1-f2-french-q12",
+        "uece-2015-1-f2-french-q13",
+        "uece-2015-1-f2-french-q14",
+        "uece-2015-1-f2-french-q15",
+        "uece-2015-1-f2-french-q16",
+        "uece-2015-1-f2-french-q17",
+        "uece-2015-1-f2-french-q18",
+        "uece-2015-1-f2-french-q19",
+        "uece-2015-1-f2-french-q20"
+      ]
+    }
+  ]
+}

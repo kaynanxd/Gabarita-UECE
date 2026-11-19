@@ -1,0 +1,587 @@
+{
+  "paperId": "uece-2019-2-f2-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2019-2-f2-spanish-t1",
+      "label": "Texto 1",
+      "title": "mundo animal",
+      "lines": [
+        {
+          "number": null,
+          "text": "Feria de monstruos: Las joyas más raras del"
+        },
+        {
+          "number": 1,
+          "text": "No cabe duda de que hoy se destinan"
+        },
+        {
+          "number": 2,
+          "text": "grandes esfuerzos a la conservación de"
+        },
+        {
+          "number": 3,
+          "text": "especies amenazadas. Pero no a todas por"
+        },
+        {
+          "number": 4,
+          "text": "igual: en los últimos años han sido varios los"
+        },
+        {
+          "number": 5,
+          "text": "expertos que han alertado de que nuestro"
+        },
+        {
+          "number": 6,
+          "text": "esfuerzo de conservación tiende a"
+        },
+        {
+          "number": 7,
+          "text": "centrarse en las especies que nos resultan"
+        },
+        {
+          "number": 8,
+          "text": "cercanas, simpáticas o carismáticas — como"
+        },
+        {
+          "number": 9,
+          "text": "los pandas, las ballenas, los elefantes o los"
+        },
+        {
+          "number": 10,
+          "text": "osos polares. Sin embargo, para la"
+        },
+        {
+          "number": 11,
+          "text": "naturaleza no existe la estética, sólo la"
+        },
+        {
+          "number": 12,
+          "text": "necesidad de conservar todas las especies"
+        },
+        {
+          "number": 13,
+          "text": "por su valor ecológico. He aquí algunos de"
+        },
+        {
+          "number": 14,
+          "text": "los animales más extraños y sorprendentes"
+        },
+        {
+          "number": 15,
+          "text": "de nuestro planeta. Algunos de ellos quizá no"
+        },
+        {
+          "number": 16,
+          "text": "inviten precisamente a abrazarlos, pero"
+        },
+        {
+          "number": 17,
+          "text": "también merecen sobrevivir."
+        },
+        {
+          "number": null,
+          "text": "Javier Yanes. Periódico: El País (España)"
+        },
+        {
+          "number": null,
+          "text": "Fecha: 27/06/2019"
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f2-spanish-q01",
+        "uece-2019-2-f2-spanish-q02",
+        "uece-2019-2-f2-spanish-q03",
+        "uece-2019-2-f2-spanish-q04"
+      ]
+    },
+    {
+      "id": "uece-2019-2-f2-spanish-t2",
+      "label": "Texto 2",
+      "title": "El murciélago yoda",
+      "lines": [
+        {
+          "number": 18,
+          "text": "Los mamíferos alados parecen especialmente"
+        },
+        {
+          "number": 19,
+          "text": "propensos a sorprendernos por su aspecto"
+        },
+        {
+          "number": 20,
+          "text": "peculiar. Uno de los más extraños es el que"
+        },
+        {
+          "number": 21,
+          "text": "hasta ahora se conoce únicamente como"
+        },
+        {
+          "number": 22,
+          "text": "murciélago Yoda, por lo que algunos juzgan"
+        },
+        {
+          "number": 23,
+          "text": "como un cierto parecido con el personaje de"
+        },
+        {
+          "number": 24,
+          "text": "la saga cinematográfica Star Wars. El animal,"
+        },
+        {
+          "number": 25,
+          "text": "que vive en las selvas de Papúa Nueva"
+        },
+        {
+          "number": 26,
+          "text": "Guinea, había sido observado anteriormente,"
+        },
+        {
+          "number": 27,
+          "text": "pero fue con ocasión de una expedición"
+        },
+        {
+          "number": 28,
+          "text": "auspiciada en 2009 por Conservation"
+        },
+        {
+          "number": 29,
+          "text": "International cuando se hizo popular en"
+        },
+        {
+          "number": 30,
+          "text": "internet. Por el momento los científicos sólo"
+        },
+        {
+          "number": 31,
+          "text": "saben que probablemente pertenece al"
+        },
+        {
+          "number": 32,
+          "text": "género Nyctimene, un tipo de murciélagos de"
+        },
+        {
+          "number": 33,
+          "text": "la fruta extendido por Oceanía y que"
+        },
+        {
+          "number": 34,
+          "text": "desempeña una importante función ecológica"
+        },
+        {
+          "number": 35,
+          "text": "en la dispersión de semillas. Por lo demás, lo"
+        },
+        {
+          "number": 36,
+          "text": "único que puede añadirse sobre este curioso"
+        },
+        {
+          "number": 37,
+          "text": "murciélago es que hay quienes niegan"
+        },
+        {
+          "number": 38,
+          "text": "categóricamente su parecido con Yoda."
+        },
+        {
+          "number": null,
+          "text": "Javier Yanes. Periódico: El País (España)"
+        },
+        {
+          "number": null,
+          "text": "Fecha: 27/06/2019"
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f2-spanish-q05",
+        "uece-2019-2-f2-spanish-q06",
+        "uece-2019-2-f2-spanish-q07",
+        "uece-2019-2-f2-spanish-q08"
+      ]
+    },
+    {
+      "id": "uece-2019-2-f2-spanish-t3",
+      "label": "Texto 3",
+      "title": "El pez borrón",
+      "lines": [
+        {
+          "number": 39,
+          "text": "En su hábitat natural, el pez borrón o"
+        },
+        {
+          "number": 40,
+          "text": "blobfish no presenta un aspecto"
+        },
+        {
+          "number": 41,
+          "text": "especialmente llamativo. Pero fuera del agua"
+        },
+        {
+          "number": 42,
+          "text": "es otra cosa. Al tratarse de una especie de"
+        },
+        {
+          "number": 43,
+          "text": "aguas profundas, observada entre 600 y"
+        },
+        {
+          "number": 44,
+          "text": "1.200 metros, este habitante de las costas"
+        },
+        {
+          "number": 45,
+          "text": "de Australia y Nueva Zelanda ha encontrado"
+        },
+        {
+          "number": 46,
+          "text": "un curioso sistema para mantener su"
+        },
+        {
+          "number": 47,
+          "text": "flotabilidad sin ayuda de vejigas natatorias"
+        },
+        {
+          "number": 48,
+          "text": "de gas que servirían de poco a tales"
+        },
+        {
+          "number": 49,
+          "text": "profundidades. En su lugar, este pez de unos"
+        },
+        {
+          "number": 50,
+          "text": "30 centímetros posee un cuerpo de"
+        },
+        {
+          "number": 51,
+          "text": "consistencia gelatinosa, que le ofrece una"
+        },
+        {
+          "number": 52,
+          "text": "densidad menor que la del agua. Pero"
+        },
+        {
+          "number": 53,
+          "text": "cuando se le saca a la superficie, su carne se"
+        },
+        {
+          "number": 54,
+          "text": "desparrama, resultando en un aspecto"
+        },
+        {
+          "number": 55,
+          "text": "chocante que le hizo muy popular en"
+        },
+        {
+          "number": 56,
+          "text": "internet; en 2013, su aparente rostro triste y"
+        },
+        {
+          "number": 57,
+          "text": "melancólico, que incluso ha sido recreado en"
+        },
+        {
+          "number": 58,
+          "text": "peluches, le valió el título de animal más"
+        },
+        {
+          "number": 59,
+          "text": "feo de la Ugly Animal Preservation Society."
+        },
+        {
+          "number": 60,
+          "text": "Los expertos advierten de que podría hallarse"
+        },
+        {
+          "number": 61,
+          "text": "en riesgo de extinción, ya que aparece con"
+        },
+        {
+          "number": 62,
+          "text": "frecuencia como captura accidental en las"
+        },
+        {
+          "number": 63,
+          "text": "redes de pesca en aguas profundas."
+        },
+        {
+          "number": null,
+          "text": "Javier Yanes. Periódico: El País (España)"
+        },
+        {
+          "number": null,
+          "text": "Fecha: 27/06/2019"
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f2-spanish-q09",
+        "uece-2019-2-f2-spanish-q10",
+        "uece-2019-2-f2-spanish-q11"
+      ]
+    },
+    {
+      "id": "uece-2019-2-f2-spanish-t4",
+      "label": "Texto 4",
+      "title": "El aye-aye",
+      "lines": [
+        {
+          "number": 64,
+          "text": "La isla de Madagascar es un experimento"
+        },
+        {
+          "number": 65,
+          "text": "natural de evolución independiente."
+        },
+        {
+          "number": 66,
+          "text": "Separada del resto de masas continentales"
+        },
+        {
+          "number": 67,
+          "text": "desde hace unos 88 millones de años, sirve"
+        },
+        {
+          "number": 68,
+          "text": "de hogar a innumerables linajes únicos en el"
+        },
+        {
+          "number": 69,
+          "text": "mundo. Sin duda los animales más conocidos"
+        },
+        {
+          "number": 70,
+          "text": "y representativos de la fauna malgache son"
+        },
+        {
+          "number": 71,
+          "text": "los lémures. Y este término, que en la"
+        },
+        {
+          "number": 72,
+          "text": "mitología romana hacía referencia a espíritus"
+        },
+        {
+          "number": 73,
+          "text": "malignos, tal vez comenzó a aplicarse a los"
+        },
+        {
+          "number": 74,
+          "text": "primates endémicos de Madagascar por"
+        },
+        {
+          "number": 75,
+          "text": "causa del aye-aye. Se trata de un raro"
+        },
+        {
+          "number": 76,
+          "text": "lémur, único en su familia. Su aspecto poco"
+        },
+        {
+          "number": 77,
+          "text": "agraciado para el ojo humano le ha"
+        },
+        {
+          "number": 78,
+          "text": "convertido en víctima de la superstición: los"
+        },
+        {
+          "number": 79,
+          "text": "habitantes locales lo exterminan por"
+        },
+        {
+          "number": 80,
+          "text": "considerarlo un mensajero de la desgracia"
+        },
+        {
+          "number": 81,
+          "text": "capaz incluso de provocar la muerte con su"
+        },
+        {
+          "number": 82,
+          "text": "huesudo y fino dedo medio — según contó"
+        },
+        {
+          "number": 83,
+          "text": "magistralmente el naturalista británico"
+        },
+        {
+          "number": 84,
+          "text": "Gerald Durrell en el libro “Rescate en"
+        },
+        {
+          "number": 85,
+          "text": "Madagascar”, tras una expedición en 1990."
+        },
+        {
+          "number": 86,
+          "text": "En realidad, el dedo central del aye-aye es"
+        },
+        {
+          "number": 87,
+          "text": "una adaptación única entre los mamíferos; lo"
+        },
+        {
+          "number": 88,
+          "text": "emplea para golpear los árboles en busca de"
+        },
+        {
+          "number": 89,
+          "text": "huecos donde se ocultan las larvas de las que"
+        },
+        {
+          "number": 90,
+          "text": "se alimenta."
+        },
+        {
+          "number": null,
+          "text": "Javier Yanes. Periódico: El País (España)"
+        },
+        {
+          "number": null,
+          "text": "Fecha: 27/06/2019"
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f2-spanish-q12",
+        "uece-2019-2-f2-spanish-q13",
+        "uece-2019-2-f2-spanish-q14",
+        "uece-2019-2-f2-spanish-q15",
+        "uece-2019-2-f2-spanish-q16"
+      ]
+    },
+    {
+      "id": "uece-2019-2-f2-spanish-t5",
+      "label": "Texto 5",
+      "title": "El tiburón duende",
+      "lines": [
+        {
+          "number": 91,
+          "text": "Los mares son especialmente pródigos en"
+        },
+        {
+          "number": 92,
+          "text": "criaturas desconocidas para el ser humano,"
+        },
+        {
+          "number": 93,
+          "text": "ya que el 95% de los océanos aún no ha"
+        },
+        {
+          "number": 94,
+          "text": "sido explorado, según datos de la"
+        },
+        {
+          "number": 95,
+          "text": "Administración Atmosférica y Oceánica de"
+        },
+        {
+          "number": 96,
+          "text": "EEUU (NOAA). Muchos de estos seres"
+        },
+        {
+          "number": 97,
+          "text": "marinos poseen extrañas adaptaciones"
+        },
+        {
+          "number": 98,
+          "text": "singulares que les confieren un aspecto"
+        },
+        {
+          "number": 99,
+          "text": "inusual. Es el caso del tiburón"
+        },
+        {
+          "number": 100,
+          "text": "duende. Aunque se conoce desde 1898, su"
+        },
+        {
+          "number": 101,
+          "text": "clasificación fue inicialmente dudosa debido"
+        },
+        {
+          "number": 102,
+          "text": "a su rasgo anatómico más sobresaliente: un"
+        },
+        {
+          "number": 103,
+          "text": "morro aplastado bajo el cual se esconde"
+        },
+        {
+          "number": 104,
+          "text": "una boca proyectable hacia delante con"
+        },
+        {
+          "number": 105,
+          "text": "temibles dientes. Con la boca totalmente"
+        },
+        {
+          "number": 106,
+          "text": "desplegada, se diría que es un cocodrilo lo"
+        },
+        {
+          "number": 107,
+          "text": "que sale por su hocico. Fue esta"
+        },
+        {
+          "number": 108,
+          "text": "peculiaridad la que dificultó su"
+        },
+        {
+          "number": 109,
+          "text": "identificación, ya que los ejemplares con la"
+        },
+        {
+          "number": 110,
+          "text": "boca oculta y proyectada parecían especies"
+        },
+        {
+          "number": 111,
+          "text": "distintas. Finalmente se determinó que el"
+        },
+        {
+          "number": 112,
+          "text": "tiburón duende es el único heredero de una"
+        },
+        {
+          "number": 113,
+          "text": "familia por lo demás extinta hace 125"
+        },
+        {
+          "number": 114,
+          "text": "millones de años. Está extendido por las"
+        },
+        {
+          "number": 115,
+          "text": "costas de todos los océanos, aunque no"
+        },
+        {
+          "number": 116,
+          "text": "suele interactuar con el ser humano porque"
+        },
+        {
+          "number": 117,
+          "text": "prefiere profundidades por debajo de los"
+        },
+        {
+          "number": 118,
+          "text": "100 metros."
+        },
+        {
+          "number": null,
+          "text": "Javier Yanes. Periódico: El País (España)"
+        },
+        {
+          "number": null,
+          "text": "Fecha: 27/06/2019"
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f2-spanish-q17",
+        "uece-2019-2-f2-spanish-q18",
+        "uece-2019-2-f2-spanish-q19",
+        "uece-2019-2-f2-spanish-q20"
+      ]
+    }
+  ]
+}

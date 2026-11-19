@@ -1,0 +1,551 @@
+{
+  "paperId": "uece-2020-1-f2-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2020-1-f2-french-t1",
+      "label": "Texto 1",
+      "title": "HUMAINE",
+      "lines": [
+        {
+          "number": null,
+          "text": "LES ROMANCIERS FRANÇAIS DE LA GRANDEUR"
+        },
+        {
+          "number": 1,
+          "text": "“Les faiblesses, les abandons, les"
+        },
+        {
+          "number": 2,
+          "text": "déchéances de l’homme, nous les"
+        },
+        {
+          "number": 3,
+          "text": "connaissons de reste, mais ce"
+        },
+        {
+          "number": 4,
+          "text": "surpassement de soi qu’obtient la volonté"
+        },
+        {
+          "number": 5,
+          "text": "tendue, c’est surtout ce que nous avons"
+        },
+        {
+          "number": 6,
+          "text": "besoin qu’on nous montre”, a partagé"
+        },
+        {
+          "number": 7,
+          "text": "l’écrivain André Gide. De fait, trois écrivains"
+        },
+        {
+          "number": 8,
+          "text": "français ont réintroduit au XXe. siècle dans"
+        },
+        {
+          "number": 9,
+          "text": "le roman et le théâtre des thèmes et des"
+        },
+        {
+          "number": 10,
+          "text": "sentiments qui semblaient oubliés depuis"
+        },
+        {
+          "number": 11,
+          "text": "longtemps."
+        },
+        {
+          "number": 12,
+          "text": "HENRI DE MONTHERLANT"
+        },
+        {
+          "number": 13,
+          "text": "Né à Paris en 1896, Montherlant"
+        },
+        {
+          "number": 14,
+          "text": "évoque dans ses oeuvres une jeunesse"
+        },
+        {
+          "number": 15,
+          "text": "partagée entre la guerre, le stade et"
+        },
+        {
+          "number": 16,
+          "text": "l’arène. Simple soldat, il est grièvement"
+        },
+        {
+          "number": 17,
+          "text": "blessé pendant la guerre; redevenu civil, il"
+        },
+        {
+          "number": 18,
+          "text": "retrouve le climat viril dans la pratique des"
+        },
+        {
+          "number": 19,
+          "text": "sports. Passionné de tauromachie, où l’on"
+        },
+        {
+          "number": 20,
+          "text": "peut retrouver une perpétuelle occasion de"
+        },
+        {
+          "number": 21,
+          "text": "victoire sur soi-même, il sera grièvement"
+        },
+        {
+          "number": 22,
+          "text": "blessé lors d’une course en Espagne. Dans"
+        },
+        {
+          "number": 23,
+          "text": "ses romans il donne le mieux à ses héros le"
+        },
+        {
+          "number": 24,
+          "text": "sens de la camaraderie et d’un noble"
+        },
+        {
+          "number": 25,
+          "text": "dépassement."
+        },
+        {
+          "number": 26,
+          "text": "Dans l’évolution de ses idées, il affirme"
+        },
+        {
+          "number": 27,
+          "text": "que l’erreur est de “croire que l’homme a"
+        },
+        {
+          "number": 28,
+          "text": "quelque chose à faire ici-bas”, toutefois “le"
+        },
+        {
+          "number": 29,
+          "text": "bien faire ne s’y perd pas, quelque soit son"
+        },
+        {
+          "number": 30,
+          "text": "inutilité”. L’aboutissement serait une"
+        },
+        {
+          "number": 31,
+          "text": "abnégation presque chrétienne si elle ne"
+        },
+        {
+          "number": 32,
+          "text": "s’accompagnait d’un orgueilleux sentiment"
+        },
+        {
+          "number": 33,
+          "text": "de lucidité et de supériorité."
+        },
+        {
+          "number": 34,
+          "text": "Les années, tour à tour, révèlent le"
+        },
+        {
+          "number": 35,
+          "text": "génie dramatique de Montherlant.  Son"
+        },
+        {
+          "number": 36,
+          "text": "théâtre a une aptitude exceptionnelle à faire"
+        },
+        {
+          "number": 37,
+          "text": "parler chacun selon ses sentiments. En"
+        },
+        {
+          "number": 38,
+          "text": "vertu de l’alternance, il est tantôt édifiant et"
+        },
+        {
+          "number": 39,
+          "text": "chrétien tantôt immoral et profane. Dans"
+        },
+        {
+          "number": 40,
+          "text": "une dramaturgie classique, son objet est"
+        },
+        {
+          "number": 41,
+          "text": "“d’exprimer avec le maximum d’intensité et"
+        },
+        {
+          "number": 42,
+          "text": "de profondeur un certain nombre de"
+        },
+        {
+          "number": 43,
+          "text": "mouvements de l’âme humaine”. Pour lui,"
+        },
+        {
+          "number": 44,
+          "text": "une pièce de théâtre “n’est qu’un prétexte à"
+        },
+        {
+          "number": 45,
+          "text": "l’exploration de l’homme”, tel que dans le"
+        },
+        {
+          "number": 46,
+          "text": "drame “La Reine Morte”."
+        },
+        {
+          "number": 47,
+          "text": "Le sujet de “La Reine Morte” est"
+        },
+        {
+          "number": 48,
+          "text": "emprunté à l’histoire d’Inès de Castro,"
+        },
+        {
+          "number": 49,
+          "text": "épouse secrète de l’Infant Pedro, assassinée"
+        },
+        {
+          "number": 50,
+          "text": "em 1355 sur l’ordre d’Alphonse IV de"
+        },
+        {
+          "number": 51,
+          "text": "Portugal: monté sur le trône, Pedro fait"
+        },
+        {
+          "number": 52,
+          "text": "exhumer le cadavre d’Inès et oblige la cour"
+        },
+        {
+          "number": 53,
+          "text": "à rendre à la Reine Morte les honneurs"
+        },
+        {
+          "number": 54,
+          "text": "royaux."
+        },
+        {
+          "number": 55,
+          "text": "ANDRÉ MALRAUX"
+        },
+        {
+          "number": 56,
+          "text": "Né à Paris en 1901, Malraux est un"
+        },
+        {
+          "number": 57,
+          "text": "acteur et un témoin des grands drames de"
+        },
+        {
+          "number": 58,
+          "text": "son époque. Il participe à des mouvements"
+        },
+        {
+          "number": 59,
+          "text": "révolutionnaires, milite contre le fascisme,"
+        },
+        {
+          "number": 60,
+          "text": "le hitlérisme  et combat  pour la libération"
+        },
+        {
+          "number": 61,
+          "text": "du sol français pendant la deuxième guerre"
+        },
+        {
+          "number": 62,
+          "text": "mondiale."
+        },
+        {
+          "number": 63,
+          "text": "S’il voit dans l’Art “la part victorieuse"
+        },
+        {
+          "number": 64,
+          "text": "du seul animal qui sache qu’il doit mourir”,"
+        },
+        {
+          "number": 65,
+          "text": "Malraux consacre son oeuvre aux seules"
+        },
+        {
+          "number": 66,
+          "text": "affirmations que l’homme puisse opposer à"
+        },
+        {
+          "number": 67,
+          "text": "la mort et aux servitudes de sa condition."
+        },
+        {
+          "number": 68,
+          "text": "Rapportant des événements devenus"
+        },
+        {
+          "number": 69,
+          "text": "historiques, il considère le roman comme"
+        },
+        {
+          "number": 70,
+          "text": "“un moyen d‘expression privilégié du"
+        },
+        {
+          "number": 71,
+          "text": "tragique de l’homme” et le consacre à des"
+        },
+        {
+          "number": 72,
+          "text": "héros qui, incarnant une attitude"
+        },
+        {
+          "number": 73,
+          "text": "significative, témoignent pour la noblesse"
+        },
+        {
+          "number": 74,
+          "text": "de l’espèce et contribuent à son salut sur la"
+        },
+        {
+          "number": 75,
+          "text": "terre."
+        },
+        {
+          "number": 76,
+          "text": "Malraux, qui excelle à évoquer des"
+        },
+        {
+          "number": 77,
+          "text": "groupes mêlés où paysans, ouvriers,"
+        },
+        {
+          "number": 78,
+          "text": "intellectuels de différentes nationalités"
+        },
+        {
+          "number": 79,
+          "text": "luttent ensemble sans souci de leurs"
+        },
+        {
+          "number": 80,
+          "text": "origines ni de leurs différences, exalte la"
+        },
+        {
+          "number": 81,
+          "text": "communion du courage. Constamment"
+        },
+        {
+          "number": 82,
+          "text": "menacés, parce qu’ils sont des hommes,"
+        },
+        {
+          "number": 83,
+          "text": "tous savent surmonter l’effroi naturel et"
+        },
+        {
+          "number": 84,
+          "text": "offrir au groupe leur part d’abnégation"
+        },
+        {
+          "number": 85,
+          "text": "virile. La mort est forcément le partenaire"
+        },
+        {
+          "number": 86,
+          "text": "commun à tant de ses héros voués à"
+        },
+        {
+          "number": 87,
+          "text": "l’action violente. Mais “il est facile de mourir"
+        },
+        {
+          "number": 88,
+          "text": "quand on ne meurt pas seul”. Voilà"
+        },
+        {
+          "number": 89,
+          "text": "pourquoi pour Malraux la fraternité est la"
+        },
+        {
+          "number": 90,
+          "text": "plus certaine victoire. Dans “La Conditon"
+        },
+        {
+          "number": 91,
+          "text": "Humaine”, le roman qui domine son oeuvre,"
+        },
+        {
+          "number": 92,
+          "text": "il évoque la naissance et la force d’une"
+        },
+        {
+          "number": 93,
+          "text": "fraternité vécue."
+        },
+        {
+          "number": 94,
+          "text": "ANTOINE DE SAINT-ÉXUPÉRY"
+        },
+        {
+          "number": 95,
+          "text": "Né à Lyon en 1900, Saint-Éxupéry"
+        },
+        {
+          "number": 96,
+          "text": "compose une brève et rayonnante oeuvre"
+        },
+        {
+          "number": 97,
+          "text": "tout entièrement tirée d’une expérience"
+        },
+        {
+          "number": 98,
+          "text": "vécue. Loin cependant de rester épisodiques"
+        },
+        {
+          "number": 99,
+          "text": "ou documentaires, ses livres s’enrichissent"
+        },
+        {
+          "number": 100,
+          "text": "d’une méditation constante qui en fait"
+        },
+        {
+          "number": 101,
+          "text": "l’unité et le prix."
+        },
+        {
+          "number": 102,
+          "text": "Ayant préparé l’École Navale, fréquenté"
+        },
+        {
+          "number": 103,
+          "text": "l’École des Beaux-Arts et étant formé à"
+        },
+        {
+          "number": 104,
+          "text": "l’aviation , il est pilote de ligne, chef"
+        },
+        {
+          "number": 105,
+          "text": "d‘aéroplace et vit les débuts de la liaison"
+        },
+        {
+          "number": 106,
+          "text": "aérienne France-Amérique. Cet écrivain sait"
+        },
+        {
+          "number": 107,
+          "text": "transformer des scènes réelles en tableaux"
+        },
+        {
+          "number": 108,
+          "text": "tantôt dramatiques, tantôt épiques; il les"
+        },
+        {
+          "number": 109,
+          "text": "accompagne aussi d’un fervent"
+        },
+        {
+          "number": 110,
+          "text": "commentaire qui, puisant dans son âme et"
+        },
+        {
+          "number": 111,
+          "text": "dans sa vision particulière du monde, leur"
+        },
+        {
+          "number": 112,
+          "text": "confère un caractère lyrique. Ses dons de"
+        },
+        {
+          "number": 113,
+          "text": "poète éclatent dans son oeuvre posthume,"
+        },
+        {
+          "number": 114,
+          "text": "“Le Petit Prince” qui, selon Saint-Exupéry,"
+        },
+        {
+          "number": 115,
+          "text": "est un livre pour enfants écrit à l’intention"
+        },
+        {
+          "number": 116,
+          "text": "des grandes personnes."
+        },
+        {
+          "number": 117,
+          "text": "De son métier et de son outil de"
+        },
+        {
+          "number": 118,
+          "text": "travail, l’avion, il retient l’occasion de"
+        },
+        {
+          "number": 119,
+          "text": "reconnaître chez les hommes leurs limites,"
+        },
+        {
+          "number": 120,
+          "text": "la puissance de leur volonté, leur"
+        },
+        {
+          "number": 121,
+          "text": "responsabilité à l’égard de tous et la"
+        },
+        {
+          "number": null,
+          "text": "7"
+        },
+        {
+          "number": 122,
+          "text": "primauté d’un but qui vaut plus que la vie."
+        },
+        {
+          "number": 123,
+          "text": "Selon lui, “On ne voit bien qu'avec le coeur."
+        },
+        {
+          "number": 124,
+          "text": "L'essentiel est invisible pour les yeux.”"
+        },
+        {
+          "number": null,
+          "text": "Extrait et adapté de XXe. Siècle, Lagarde & Michard."
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez"
+        },
+        {
+          "number": null,
+          "text": "aux questions suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2020-1-f2-french-q01",
+        "uece-2020-1-f2-french-q02",
+        "uece-2020-1-f2-french-q03",
+        "uece-2020-1-f2-french-q04",
+        "uece-2020-1-f2-french-q05",
+        "uece-2020-1-f2-french-q06",
+        "uece-2020-1-f2-french-q07",
+        "uece-2020-1-f2-french-q08",
+        "uece-2020-1-f2-french-q09",
+        "uece-2020-1-f2-french-q10",
+        "uece-2020-1-f2-french-q11",
+        "uece-2020-1-f2-french-q12",
+        "uece-2020-1-f2-french-q13",
+        "uece-2020-1-f2-french-q14",
+        "uece-2020-1-f2-french-q15",
+        "uece-2020-1-f2-french-q16",
+        "uece-2020-1-f2-french-q17",
+        "uece-2020-1-f2-french-q18",
+        "uece-2020-1-f2-french-q19",
+        "uece-2020-1-f2-french-q20"
+      ]
+    }
+  ]
+}

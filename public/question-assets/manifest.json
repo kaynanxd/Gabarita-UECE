@@ -1,0 +1,772 @@
+{
+  "uece-2015-1-f2-biology-q18": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2015/uece-2015-1-f2-biology-q18-fig-01.png",
+        "width": 514,
+        "height": 543
+      }
+    ],
+    "crops": []
+  },
+  "uece-2015-2-f1-chemistry-q43": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2015/uece-2015-2-f1-chemistry-q43-fig-01.png",
+        "width": 444,
+        "height": 164
+      }
+    ],
+    "crops": []
+  },
+  "uece-2015-2-f2-chemistry-q09": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2015/uece-2015-2-f2-chemistry-q09-fig-01.png",
+        "width": 517,
+        "height": 670
+      }
+    ],
+    "crops": []
+  },
+  "uece-2016-2-f2-biology-q11": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2016/uece-2016-2-f2-biology-q11-fig-01.png",
+        "width": 529,
+        "height": 466
+      }
+    ],
+    "crops": []
+  },
+  "uece-2016-2-f2-biology-q12": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2016/uece-2016-2-f2-biology-q12-fig-01.png",
+        "width": 366,
+        "height": 265
+      }
+    ],
+    "crops": []
+  },
+  "uece-2016-2-f2-chemistry-q02": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2016/uece-2016-2-f2-chemistry-q02-fig-01.png",
+        "width": 396,
+        "height": 200
+      }
+    ],
+    "crops": []
+  },
+  "uece-2016-2-f2-chemistry-q04": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2016/uece-2016-2-f2-chemistry-q04-fig-01.png",
+        "width": 530,
+        "height": 265
+      }
+    ],
+    "crops": []
+  },
+  "uece-2017-1-f2-chemistry-q09": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2017/uece-2017-1-f2-chemistry-q09-fig-01.png",
+        "width": 520,
+        "height": 532
+      }
+    ],
+    "crops": []
+  },
+  "uece-2017-1-f2-chemistry-q18": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2017/uece-2017-1-f2-chemistry-q18-fig-01.png",
+        "width": 520,
+        "height": 331
+      }
+    ],
+    "crops": []
+  },
+  "uece-2017-1-f2-mathematics-q08": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2017/uece-2017-1-f2-mathematics-q08-fig-01.png",
+        "width": 471,
+        "height": 267
+      }
+    ],
+    "crops": []
+  },
+  "uece-2017-2-f2-chemistry-q13": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2017/uece-2017-2-f2-chemistry-q13-fig-01.png",
+        "width": 517,
+        "height": 581
+      }
+    ],
+    "crops": []
+  },
+  "uece-2019-2-f2-mathematics-q03": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2019/uece-2019-2-f2-mathematics-q03-fig-01.png",
+        "width": 530,
+        "height": 627
+      }
+    ],
+    "crops": []
+  },
+  "uece-2019-2-f2-sociology-q14": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2019/uece-2019-2-f2-sociology-q14-fig-01.png",
+        "width": 521,
+        "height": 814
+      }
+    ],
+    "crops": []
+  },
+  "uece-2020-1-f1-mathematics-q14": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2020/uece-2020-1-f1-mathematics-q14-fig-01.png",
+        "width": 530,
+        "height": 471
+      }
+    ],
+    "crops": []
+  },
+  "uece-2020-1-f2-mathematics-q09": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2020/uece-2020-1-f2-mathematics-q09-fig-01.png",
+        "width": 530,
+        "height": 496
+      }
+    ],
+    "crops": []
+  },
+  "uece-2020-1-f2-sociology-q09": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2020/uece-2020-1-f2-sociology-q09-fig-01.png",
+        "width": 517,
+        "height": 1087
+      }
+    ],
+    "crops": []
+  },
+  "uece-2020-1-f2-sociology-q18": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2020/uece-2020-1-f2-sociology-q18-fig-01.png",
+        "width": 486,
+        "height": 478
+      }
+    ],
+    "crops": []
+  },
+  "uece-2021-1-f2-physics-q03": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2021/uece-2021-1-f2-physics-q03-fig-01.png",
+        "width": 408,
+        "height": 148
+      }
+    ],
+    "crops": []
+  },
+  "uece-2022-1-f1-chemistry-q47": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2022/uece-2022-1-f1-chemistry-q47-fig-01.png",
+        "width": 485,
+        "height": 316
+      }
+    ],
+    "crops": []
+  },
+  "uece-2022-1-f2-chemistry-q14": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2022/uece-2022-1-f2-chemistry-q14-fig-01.png",
+        "width": 517,
+        "height": 204
+      }
+    ],
+    "crops": []
+  },
+  "uece-2023-1-f2-chemistry-q10": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2023/uece-2023-1-f2-chemistry-q10-fig-01.png",
+        "width": 526,
+        "height": 161
+      }
+    ],
+    "crops": []
+  },
+  "uece-2015-1-f2-chemistry-q13": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2015/uece-2015-1-f2-chemistry-q13-fig-01.png",
+        "width": 242,
+        "height": 175
+      }
+    ],
+    "crops": []
+  },
+  "uece-2015-1-f2-chemistry-q16": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2015/uece-2015-1-f2-chemistry-q16-fig-01.png",
+        "width": 160,
+        "height": 140
+      }
+    ],
+    "crops": []
+  },
+  "uece-2015-2-f1-chemistry-q46": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2015/uece-2015-2-f1-chemistry-q46-fig-01.png",
+        "width": 347,
+        "height": 173
+      }
+    ],
+    "crops": []
+  },
+  "uece-2015-2-f1-chemistry-q47": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2015/uece-2015-2-f1-chemistry-q47-fig-01.png",
+        "width": 238,
+        "height": 201
+      }
+    ],
+    "crops": []
+  },
+  "uece-2016-2-f2-biology-q01": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2016/uece-2016-2-f2-biology-q01-fig-01.png",
+        "width": 393,
+        "height": 337
+      }
+    ],
+    "crops": []
+  },
+  "uece-2016-2-f2-chemistry-q09": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2016/uece-2016-2-f2-chemistry-q09-fig-01.png",
+        "width": 282,
+        "height": 149
+      }
+    ],
+    "crops": []
+  },
+  "uece-2016-2-f2-mathematics-q08": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2016/uece-2016-2-f2-mathematics-q08-fig-01.png",
+        "width": 342,
+        "height": 156
+      }
+    ],
+    "crops": []
+  },
+  "uece-2017-1-f2-chemistry-q01": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2017/uece-2017-1-f2-chemistry-q01-fig-01.png",
+        "width": 216,
+        "height": 144
+      }
+    ],
+    "crops": []
+  },
+  "uece-2017-1-f2-mathematics-q07": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2017/uece-2017-1-f2-mathematics-q07-fig-01.png",
+        "width": 247,
+        "height": 111
+      }
+    ],
+    "crops": []
+  },
+  "uece-2017-1-f2-mathematics-q09": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2017/uece-2017-1-f2-mathematics-q09-fig-01.png",
+        "width": 247,
+        "height": 111
+      }
+    ],
+    "crops": []
+  },
+  "uece-2018-1-f2-mathematics-q10": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2018/uece-2018-1-f2-mathematics-q10-fig-01.png",
+        "width": 240,
+        "height": 111
+      }
+    ],
+    "crops": []
+  },
+  "uece-2018-1-f2-mathematics-q16": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2018/uece-2018-1-f2-mathematics-q16-fig-01.png",
+        "width": 341,
+        "height": 116
+      }
+    ],
+    "crops": []
+  },
+  "uece-2018-1-f2-mathematics-q20": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2018/uece-2018-1-f2-mathematics-q20-fig-01.png",
+        "width": 299,
+        "height": 110
+      }
+    ],
+    "crops": []
+  },
+  "uece-2018-2-f1-chemistry-q48": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2018/uece-2018-2-f1-chemistry-q48-fig-01.png",
+        "width": 252,
+        "height": 148
+      }
+    ],
+    "crops": []
+  },
+  "uece-2019-1-f2-mathematics-q14": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2019/uece-2019-1-f2-mathematics-q14-fig-01.png",
+        "width": 216,
+        "height": 118
+      }
+    ],
+    "crops": []
+  },
+  "uece-2019-2-f2-mathematics-q04": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2019/uece-2019-2-f2-mathematics-q04-fig-01.png",
+        "width": 323,
+        "height": 113
+      }
+    ],
+    "crops": []
+  },
+  "uece-2019-2-f2-mathematics-q09": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2019/uece-2019-2-f2-mathematics-q09-fig-01.png",
+        "width": 360,
+        "height": 145
+      }
+    ],
+    "crops": []
+  },
+  "uece-2019-2-f2-mathematics-q11": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2019/uece-2019-2-f2-mathematics-q11-fig-01.png",
+        "width": 212,
+        "height": 114
+      }
+    ],
+    "crops": []
+  },
+  "uece-2020-1-f1-mathematics-q17": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2020/uece-2020-1-f1-mathematics-q17-fig-01.png",
+        "width": 297,
+        "height": 122
+      }
+    ],
+    "crops": []
+  },
+  "uece-2020-1-f2-mathematics-q12": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2020/uece-2020-1-f2-mathematics-q12-fig-01.png",
+        "width": 229,
+        "height": 112
+      }
+    ],
+    "crops": []
+  },
+  "uece-2020-1-f2-mathematics-q15": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2020/uece-2020-1-f2-mathematics-q15-fig-01.png",
+        "width": 314,
+        "height": 133
+      }
+    ],
+    "crops": []
+  },
+  "uece-2020-1-f2-philosophy-q16": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2020/uece-2020-1-f2-philosophy-q16-fig-01.png",
+        "width": 272,
+        "height": 167
+      }
+    ],
+    "crops": []
+  },
+  "uece-2020-2-f2-chemistry-q12": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2020/uece-2020-2-f2-chemistry-q12-fig-01.png",
+        "width": 362,
+        "height": 293
+      }
+    ],
+    "crops": []
+  },
+  "uece-2020-2-f2-chemistry-q16": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2020/uece-2020-2-f2-chemistry-q16-fig-01.png",
+        "width": 225,
+        "height": 225
+      }
+    ],
+    "crops": []
+  },
+  "uece-2021-1-f1-mathematics-q15": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2021/uece-2021-1-f1-mathematics-q15-fig-01.png",
+        "width": 377,
+        "height": 137
+      }
+    ],
+    "crops": []
+  },
+  "uece-2021-1-f1-mathematics-q17": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2021/uece-2021-1-f1-mathematics-q17-fig-01.png",
+        "width": 320,
+        "height": 182
+      }
+    ],
+    "crops": []
+  },
+  "uece-2021-1-f1-mathematics-q20": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2021/uece-2021-1-f1-mathematics-q20-fig-01.png",
+        "width": 292,
+        "height": 134
+      }
+    ],
+    "crops": []
+  },
+  "uece-2021-1-f2-mathematics-q20": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2021/uece-2021-1-f2-mathematics-q20-fig-01.png",
+        "width": 350,
+        "height": 108
+      }
+    ],
+    "crops": []
+  },
+  "uece-2023-1-f2-chemistry-q05": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2023/uece-2023-1-f2-chemistry-q05-fig-01.png",
+        "width": 333,
+        "height": 136
+      }
+    ],
+    "crops": []
+  },
+  "uece-2023-2-f1-physics-q42": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2023/uece-2023-2-f1-physics-q42-fig-01.png",
+        "width": 260,
+        "height": 164
+      }
+    ],
+    "crops": []
+  },
+  "uece-2023-2-f2-history-q17": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2023/uece-2023-2-f2-history-q17-fig-01.png",
+        "width": 530,
+        "height": 264
+      }
+    ],
+    "crops": []
+  },
+  "uece-2023-2-f2-mathematics-q11": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2023/uece-2023-2-f2-mathematics-q11-fig-01.png",
+        "width": 285,
+        "height": 156
+      }
+    ],
+    "crops": []
+  },
+  "uece-2023-2-f2-mathematics-q15": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2023/uece-2023-2-f2-mathematics-q15-fig-01.png",
+        "width": 296,
+        "height": 173
+      }
+    ],
+    "crops": []
+  },
+  "uece-2023-2-f2-mathematics-q17": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2023/uece-2023-2-f2-mathematics-q17-fig-01.png",
+        "width": 300,
+        "height": 127
+      }
+    ],
+    "crops": []
+  },
+  "uece-2023-2-f2-physics-q02": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2023/uece-2023-2-f2-physics-q02-fig-01.png",
+        "width": 191,
+        "height": 116
+      }
+    ],
+    "crops": []
+  },
+  "uece-2016-2-f2-mathematics-q10": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2016/uece-2016-2-f2-mathematics-q10-fig-01.png",
+        "width": 530,
+        "height": 193
+      }
+    ],
+    "crops": []
+  },
+  "uece-2017-2-f2-biology-q04": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2017/uece-2017-2-f2-biology-q04-fig-01.png",
+        "width": 530,
+        "height": 931
+      }
+    ],
+    "crops": []
+  },
+  "uece-2019-1-f2-chemistry-q03": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2019/uece-2019-1-f2-chemistry-q03-fig-01.png",
+        "width": 530,
+        "height": 145
+      }
+    ],
+    "crops": []
+  },
+  "uece-2019-2-f2-mathematics-q05": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2019/uece-2019-2-f2-mathematics-q05-fig-01.png",
+        "width": 530,
+        "height": 182
+      }
+    ],
+    "crops": []
+  },
+  "uece-2020-1-f1-mathematics-q21": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2020/uece-2020-1-f1-mathematics-q21-fig-01.png",
+        "width": 530,
+        "height": 214
+      }
+    ],
+    "crops": []
+  },
+  "uece-2020-1-f2-chemistry-q16": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2020/uece-2020-1-f2-chemistry-q16-fig-01.png",
+        "width": 530,
+        "height": 608
+      }
+    ],
+    "crops": []
+  },
+  "uece-2020-2-f1-chemistry-q52": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2020/uece-2020-2-f1-chemistry-q52-fig-01.png",
+        "width": 530,
+        "height": 311
+      }
+    ],
+    "crops": []
+  },
+  "uece-2020-2-f2-mathematics-q17": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2020/uece-2020-2-f2-mathematics-q17-fig-01.png",
+        "width": 530,
+        "height": 227
+      }
+    ],
+    "crops": []
+  },
+  "uece-2021-1-f1-chemistry-q54": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2021/uece-2021-1-f1-chemistry-q54-fig-01.png",
+        "width": 530,
+        "height": 170
+      }
+    ],
+    "crops": []
+  },
+  "uece-2021-1-f2-mathematics-q16": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2021/uece-2021-1-f2-mathematics-q16-fig-01.png",
+        "width": 530,
+        "height": 157
+      }
+    ],
+    "crops": []
+  },
+  "uece-2022-1-f2-mathematics-q09": {
+    "shared": [],
+    "figures": [
+      {
+        "url": "/question-assets/figures/2022/uece-2022-1-f2-mathematics-q09-fig-01.png",
+        "width": 530,
+        "height": 106
+      }
+    ],
+    "crops": []
+  },
+  "uece-2017-1-f2-chemistry-q19": {
+    "shared": [],
+    "figures": [],
+    "crops": [
+      {
+        "url": "/question-assets/crops/2017/uece-2017-1-f2-chemistry-q19-part-01.png",
+        "width": 530,
+        "height": 1054
+      }
+    ]
+  },
+  "uece-2017-2-f2-chemistry-q16": {
+    "shared": [],
+    "figures": [],
+    "crops": [
+      {
+        "url": "/question-assets/crops/2017/uece-2017-2-f2-chemistry-q16-part-01.png",
+        "width": 530,
+        "height": 585
+      }
+    ]
+  },
+  "uece-2018-1-f2-chemistry-q14": {
+    "shared": [],
+    "figures": [],
+    "crops": [
+      {
+        "url": "/question-assets/crops/2018/uece-2018-1-f2-chemistry-q14-part-01.png",
+        "width": 530,
+        "height": 660
+      }
+    ]
+  }
+}

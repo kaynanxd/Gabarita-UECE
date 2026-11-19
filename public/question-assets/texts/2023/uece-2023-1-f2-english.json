@@ -1,0 +1,591 @@
+{
+  "paperId": "uece-2023-1-f2-english",
+  "subject": "english",
+  "texts": [
+    {
+      "id": "uece-2023-1-f2-english-t1",
+      "label": "Texto 1",
+      "title": "A Neurologist’s Tips to Protect Your Memory",
+      "lines": [
+        {
+          "number": 1,
+          "text": "As we age, our memory declines. This is an"
+        },
+        {
+          "number": 2,
+          "text": "ingrained assumption for many of us; however,"
+        },
+        {
+          "number": 3,
+          "text": "according to neuroscientist Dr. Richard Restak, a"
+        },
+        {
+          "number": 4,
+          "text": "neurologist and clinical professor at George"
+        },
+        {
+          "number": 5,
+          "text": "Washington Hospital University School of Medicine"
+        },
+        {
+          "number": 6,
+          "text": "and Health, decline is not inevitable."
+        },
+        {
+          "number": 7,
+          "text": "The author of more than 20 books on the mind,"
+        },
+        {
+          "number": 8,
+          "text": "Restak has decades’ worth of experience in guiding"
+        },
+        {
+          "number": 9,
+          "text": "patients with memory problems. “The Complete"
+        },
+        {
+          "number": 10,
+          "text": "Guide to Memory: The Science of Strengthening Your"
+        },
+        {
+          "number": 11,
+          "text": "Mind,” Restak’s latest book, includes tools such as"
+        },
+        {
+          "number": 12,
+          "text": "mental exercises, sleep habits and diet that can help"
+        },
+        {
+          "number": 13,
+          "text": "boost memory."
+        },
+        {
+          "number": 14,
+          "text": "Yet, Restak ventures beyond this familiar"
+        },
+        {
+          "number": 15,
+          "text": "territory, considering every facet of memory — how"
+        },
+        {
+          "number": 16,
+          "text": "memory is connected to creative thinking,"
+        },
+        {
+          "number": 17,
+          "text": "technology’s impact on memory, how memory"
+        },
+        {
+          "number": 18,
+          "text": "shapes identity. “The point of the book is to"
+        },
+        {
+          "number": 19,
+          "text": "overcome the everyday problems of memory,”"
+        },
+        {
+          "number": 20,
+          "text": "Restak said. Especially working memory, which falls"
+        },
+        {
+          "number": 21,
+          "text": "between immediate recall and long-term memory,"
+        },
+        {
+          "number": 22,
+          "text": "and is tied to intelligence, concentration and"
+        },
+        {
+          "number": 23,
+          "text": "achievement. According to Restak, this is the most"
+        },
+        {
+          "number": 24,
+          "text": "critical type of memory, and exercises to strengthen"
+        },
+        {
+          "number": 25,
+          "text": "it should be practiced daily. But bolstering all"
+        },
+        {
+          "number": 26,
+          "text": "memory skills, he added, is key to warding off later"
+        },
+        {
+          "number": 27,
+          "text": "memory issues. Memory decline is not inevitable"
+        },
+        {
+          "number": 28,
+          "text": "with aging, Restak argues in the book."
+        },
+        {
+          "number": 29,
+          "text": "Ultimately, “we are what we can remember,”"
+        },
+        {
+          "number": 30,
+          "text": "he said. Here are some of Restak’s tips for developing"
+        },
+        {
+          "number": 31,
+          "text": "and maintaining a healthy memory."
+        },
+        {
+          "number": 32,
+          "text": "Pay more attention."
+        },
+        {
+          "number": 33,
+          "text": "Some memory lapses are actually attention"
+        },
+        {
+          "number": 34,
+          "text": "problems, not memory problems. For instance, if"
+        },
+        {
+          "number": 35,
+          "text": "you’ve forgotten the name of someone you met at a"
+        },
+        {
+          "number": 36,
+          "text": "cocktail party, it could be because you were talking"
+        },
+        {
+          "number": 37,
+          "text": "with several people at the time and you didn’t"
+        },
+        {
+          "number": 38,
+          "text": "properly pay attention when you heard it."
+        },
+        {
+          "number": 39,
+          "text": "“Inattention is the biggest cause for memory"
+        },
+        {
+          "number": 40,
+          "text": "difficulties,” Dr. Restak said. “It means you didn’t"
+        },
+        {
+          "number": 41,
+          "text": "properly encode the memory.” One way to pay"
+        },
+        {
+          "number": 42,
+          "text": "attention when you learn new information, like a"
+        },
+        {
+          "number": 43,
+          "text": "name, is to visualize the word. Having a picture"
+        },
+        {
+          "number": 44,
+          "text": "associated with the word, Restak said, can improve"
+        },
+        {
+          "number": 45,
+          "text": "recall. For instance, he recently had to memorize the"
+        },
+        {
+          "number": 46,
+          "text": "name of a doctor, Dr. King, (an easy example, he"
+        },
+        {
+          "number": 47,
+          "text": "acknowledged). So, he pictured a male doctor “in a"
+        },
+        {
+          "number": 48,
+          "text": "white coat with a crown on his head and a scepter"
+        },
+        {
+          "number": 49,
+          "text": "instead of a stethoscope in his hand.”"
+        },
+        {
+          "number": 50,
+          "text": "Find regular everyday memory challenges."
+        },
+        {
+          "number": 51,
+          "text": "There are many memory exercises that you can"
+        },
+        {
+          "number": 52,
+          "text": "integrate into everyday life. Dr. Restak suggested"
+        },
+        {
+          "number": 53,
+          "text": "composing a grocery list and memorizing it. When"
+        },
+        {
+          "number": 54,
+          "text": "you get to the store, don’t automatically pull out"
+        },
+        {
+          "number": 55,
+          "text": "your list (or your phone) — instead, pick up"
+        },
+        {
+          "number": 56,
+          "text": "everything according to your memory. “Try to see the"
+        },
+        {
+          "number": 57,
+          "text": "items in your mind,” he said, and only consult the list"
+        },
+        {
+          "number": 58,
+          "text": "at the end, if necessary. If you’re not going to the"
+        },
+        {
+          "number": 59,
+          "text": "store, try memorizing a recipe. He added that"
+        },
+        {
+          "number": 60,
+          "text": "frequent cooking is actually a great way to improve"
+        },
+        {
+          "number": 61,
+          "text": "working memory."
+        },
+        {
+          "number": 62,
+          "text": "Once in a while, get in the car without turning"
+        },
+        {
+          "number": 63,
+          "text": "on your GPS, and try to navigate through the streets"
+        },
+        {
+          "number": 64,
+          "text": "from memory. A small 2020 study suggested that"
+        },
+        {
+          "number": 65,
+          "text": "people who used a GPS more frequently over time"
+        },
+        {
+          "number": 66,
+          "text": "showed a steeper cognitive decline in spatial memory"
+        },
+        {
+          "number": 67,
+          "text": "three years later."
+        },
+        {
+          "number": 68,
+          "text": "Play games."
+        },
+        {
+          "number": 69,
+          "text": "Games like bridge and chess are great for"
+        },
+        {
+          "number": 70,
+          "text": "memory, but so is a simpler game, said Dr. Restak."
+        },
+        {
+          "number": 71,
+          "text": "For instance, Dr. Restak’s “favorite working memory"
+        },
+        {
+          "number": 72,
+          "text": "game” is Twenty Questions — in which a group (or a"
+        },
+        {
+          "number": 73,
+          "text": "single person) thinks of a person, place or object, and"
+        },
+        {
+          "number": 74,
+          "text": "the other person, the questioner, asks 20 questions"
+        },
+        {
+          "number": 75,
+          "text": "with a yes or no answer. Because to succeed, he said,"
+        },
+        {
+          "number": 76,
+          "text": "the questioner must hold all of the previous answers"
+        },
+        {
+          "number": 77,
+          "text": "in memory in order to guess the correct answer."
+        },
+        {
+          "number": 78,
+          "text": "Another of Restak’s tried-and-true memory"
+        },
+        {
+          "number": 79,
+          "text": "exercises simply requires a pen and paper or audio"
+        },
+        {
+          "number": 80,
+          "text": "recorder. First, recall all of the US presidents, starting"
+        },
+        {
+          "number": 81,
+          "text": "with Biden and going back to, say, Franklin Roosevelt,"
+        },
+        {
+          "number": 82,
+          "text": "writing or recording them. Then, do the same, from"
+        },
+        {
+          "number": 83,
+          "text": "F.D.R. to Biden. Next, name only the Democratic"
+        },
+        {
+          "number": 84,
+          "text": "presidents, and only the Republican ones. Last, name"
+        },
+        {
+          "number": 85,
+          "text": "them in alphabetical order. If you prefer, try it with"
+        },
+        {
+          "number": 86,
+          "text": "players on your favorite sports team or your favorite"
+        },
+        {
+          "number": 87,
+          "text": "authors. The point is to engage your working"
+        },
+        {
+          "number": 88,
+          "text": "memory, “maintaining information and moving it"
+        },
+        {
+          "number": 89,
+          "text": "around in your mind,” Restak wrote."
+        },
+        {
+          "number": 90,
+          "text": "Read more novels."
+        },
+        {
+          "number": 91,
+          "text": "One early indicator of memory issues,"
+        },
+        {
+          "number": 92,
+          "text": "according to Dr. Restak, is giving up on fiction."
+        },
+        {
+          "number": 93,
+          "text": "“People, when they begin to have memory"
+        },
+        {
+          "number": 94,
+          "text": "difficulties, tend to switch to reading nonfiction,” he"
+        },
+        {
+          "number": 95,
+          "text": "said."
+        },
+        {
+          "number": 96,
+          "text": "Over his decades of treating patients, Dr."
+        },
+        {
+          "number": 97,
+          "text": "Restak has noticed that fiction requires active"
+        },
+        {
+          "number": 98,
+          "text": "engagement with the text, starting at the beginning"
+        },
+        {
+          "number": 99,
+          "text": "and working through to the end. “You have to"
+        },
+        {
+          "number": 100,
+          "text": "remember what the character did on page 3, by the"
+        },
+        {
+          "number": 101,
+          "text": "time you get to page 11,” he said."
+        },
+        {
+          "number": 102,
+          "text": "Beware of technology."
+        },
+        {
+          "number": 103,
+          "text": "Among Dr. Restak’s new sins of memory, two"
+        },
+        {
+          "number": 104,
+          "text": "are associated with technology."
+        },
+        {
+          "number": 105,
+          "text": "First is what he calls “technological distortion.”"
+        },
+        {
+          "number": 106,
+          "text": "Storing everything on your phone means that “you"
+        },
+        {
+          "number": 107,
+          "text": "don’t know it,” Dr. Restak said, which can erode our"
+        },
+        {
+          "number": 108,
+          "text": "own mental abilities. “Why bother to focus,"
+        },
+        {
+          "number": 109,
+          "text": "concentrate and apply effort to visualize something"
+        },
+        {
+          "number": 110,
+          "text": "when a cellphone camera can do all the work for"
+        },
+        {
+          "number": 111,
+          "text": "you?” he wrote."
+        },
+        {
+          "number": 112,
+          "text": "The second way our relationship with"
+        },
+        {
+          "number": 113,
+          "text": "technology is detrimental for memory is because it"
+        },
+        {
+          "number": 114,
+          "text": "often takes our focus away from the task at hand. “In"
+        },
+        {
+          "number": 115,
+          "text": "our day, the greatest impediment of memory is"
+        },
+        {
+          "number": 116,
+          "text": "distraction,” Dr. Restak wrote. Many of these tools"
+        },
+        {
+          "number": 117,
+          "text": "have been designed with the aim of addicting the"
+        },
+        {
+          "number": 118,
+          "text": "person using them. As a result, we are often"
+        },
+        {
+          "number": 119,
+          "text": "distracted by them. People today can check their"
+        },
+        {
+          "number": 120,
+          "text": "email while streaming Netflix, talking with a friend or"
+        },
+        {
+          "number": 121,
+          "text": "walking down the street. All of this impedes our"
+        },
+        {
+          "number": 122,
+          "text": "ability to focus on the present moment, which is"
+        },
+        {
+          "number": 123,
+          "text": "critical for encoding memories."
+        },
+        {
+          "number": 124,
+          "text": "Determine whether there is cause for concern."
+        },
+        {
+          "number": 125,
+          "text": "Throughout his career, Dr. Restak has been"
+        },
+        {
+          "number": 126,
+          "text": "asked by dozens of patients how they can improve"
+        },
+        {
+          "number": 127,
+          "text": "their memory. But not all memory lapses are"
+        },
+        {
+          "number": 128,
+          "text": "problematic. For instance — not remembering where"
+        },
+        {
+          "number": 129,
+          "text": "you parked your car in a crowded lot is pretty"
+        },
+        {
+          "number": 130,
+          "text": "normal. Forgetting how you arrived at the parking lot"
+        },
+        {
+          "number": 131,
+          "text": "in the first place, however, indicates potential"
+        },
+        {
+          "number": 132,
+          "text": "memory issues."
+        },
+        {
+          "number": 133,
+          "text": "There is no simple solution to knowing what"
+        },
+        {
+          "number": 134,
+          "text": "should be of concern, Dr. Restak said — much of it is"
+        },
+        {
+          "number": 135,
+          "text": "context-dependent. For instance, it’s normal to"
+        },
+        {
+          "number": 136,
+          "text": "forget the room number of your hotel, but not the"
+        },
+        {
+          "number": 137,
+          "text": "address of your apartment. If you’re concerned, it’s"
+        },
+        {
+          "number": 138,
+          "text": "best to consult with a medical expert."
+        },
+        {
+          "number": null,
+          "text": "Adapted from: https://www.nytimes.com/2022/07/06/"
+        }
+      ],
+      "questionIds": [
+        "uece-2023-1-f2-english-q01",
+        "uece-2023-1-f2-english-q02",
+        "uece-2023-1-f2-english-q03",
+        "uece-2023-1-f2-english-q04",
+        "uece-2023-1-f2-english-q05",
+        "uece-2023-1-f2-english-q06",
+        "uece-2023-1-f2-english-q07",
+        "uece-2023-1-f2-english-q08",
+        "uece-2023-1-f2-english-q09",
+        "uece-2023-1-f2-english-q10",
+        "uece-2023-1-f2-english-q11",
+        "uece-2023-1-f2-english-q12",
+        "uece-2023-1-f2-english-q13",
+        "uece-2023-1-f2-english-q14",
+        "uece-2023-1-f2-english-q15",
+        "uece-2023-1-f2-english-q16",
+        "uece-2023-1-f2-english-q17",
+        "uece-2023-1-f2-english-q18",
+        "uece-2023-1-f2-english-q19",
+        "uece-2023-1-f2-english-q20"
+      ]
+    }
+  ]
+}

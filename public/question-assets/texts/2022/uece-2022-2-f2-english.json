@@ -1,0 +1,503 @@
+{
+  "paperId": "uece-2022-2-f2-english",
+  "subject": "english",
+  "texts": [
+    {
+      "id": "uece-2022-2-f2-english-t1",
+      "label": "Texto 1",
+      "title": "T E X T",
+      "lines": [
+        {
+          "number": null,
+          "text": "The Story Paradox"
+        },
+        {
+          "number": null,
+          "text": "Scott McLemee reviews Jonathan Gottschall’s The"
+        },
+        {
+          "number": null,
+          "text": "Story Paradox: How Our Love of Storytelling Builds"
+        },
+        {
+          "number": null,
+          "text": "Societies and Tears Them Down."
+        },
+        {
+          "number": 1,
+          "text": "Rarely does anyone read a work of"
+        },
+        {
+          "number": 2,
+          "text": "social criticism for the plot. But in the case"
+        },
+        {
+          "number": 3,
+          "text": "of Jonathan Gottschall’s The Story Paradox:"
+        },
+        {
+          "number": 4,
+          "text": "How Our Love of Storytelling Builds"
+        },
+        {
+          "number": 5,
+          "text": "Societies and Tears Them Down (Basic"
+        },
+        {
+          "number": 6,
+          "text": "Books), we have a sort of whodunit: Who is"
+        },
+        {
+          "number": 7,
+          "text": "ultimately responsible for the new world"
+        },
+        {
+          "number": 8,
+          "text": "disorder? The storytellers, as it happens—"
+        },
+        {
+          "number": 9,
+          "text": "although that turns out to be a very broad"
+        },
+        {
+          "number": 10,
+          "text": "category of suspects."
+        },
+        {
+          "number": 11,
+          "text": "Gottschall, a research fellow in"
+        },
+        {
+          "number": 12,
+          "text": "English at Washington & Jefferson College in"
+        },
+        {
+          "number": 13,
+          "text": "Pennsylvania, is also author of The"
+        },
+        {
+          "number": 14,
+          "text": "Storytelling Animal: How Stories Make us"
+        },
+        {
+          "number": 15,
+          "text": "Human (Mariner Books, 2012), aspects of"
+        },
+        {
+          "number": 16,
+          "text": "which are reprised in the new book. The"
+        },
+        {
+          "number": 17,
+          "text": "basic argument runs like so: Humans are by"
+        },
+        {
+          "number": 18,
+          "text": "no means the strongest of the primates, or"
+        },
+        {
+          "number": 19,
+          "text": "the most nimble or hardy, and our"
+        },
+        {
+          "number": 20,
+          "text": "altogether improbable rise as a species"
+        },
+        {
+          "number": 21,
+          "text": "owes almost everything to having evolved a"
+        },
+        {
+          "number": 22,
+          "text": "capacity to accumulate and transfer"
+        },
+        {
+          "number": 23,
+          "text": "information over time. And in that regard,"
+        },
+        {
+          "number": 24,
+          "text": "storytelling may have been catalytic. Being"
+        },
+        {
+          "number": 25,
+          "text": "able to transmit the message “one of the"
+        },
+        {
+          "number": 26,
+          "text": "ancestors ate those berries and died” counts"
+        },
+        {
+          "number": 27,
+          "text": "as a definite evolutionary advantage, one"
+        },
+        {
+          "number": 28,
+          "text": "that must have developed long before the"
+        },
+        {
+          "number": 29,
+          "text": "cognitive power required to formulate so"
+        },
+        {
+          "number": 30,
+          "text": "complex a concept as “poison.”"
+        },
+        {
+          "number": 31,
+          "text": "An enormous portion of humanity’s"
+        },
+        {
+          "number": 32,
+          "text": "mental bandwidth is devoted to producing,"
+        },
+        {
+          "number": 33,
+          "text": "consuming and processing narratives of all"
+        },
+        {
+          "number": 34,
+          "text": "kinds: long and short, serious and trivial,"
+        },
+        {
+          "number": 35,
+          "text": "complex and simple. Whole professions and"
+        },
+        {
+          "number": 36,
+          "text": "industries specialize in factual or"
+        },
+        {
+          "number": 37,
+          "text": "imaginative narratives and the many shades"
+        },
+        {
+          "number": 38,
+          "text": "in between. As an alternative to the self-"
+        },
+        {
+          "number": 39,
+          "text": "bestowed title of Homo sapiens (“wise"
+        },
+        {
+          "number": 40,
+          "text": "person”), Gottschall proposes our species"
+        },
+        {
+          "number": 41,
+          "text": "might better be called Homo fictus (“story"
+        },
+        {
+          "number": 42,
+          "text": "person”). The suggested change in"
+        },
+        {
+          "number": 43,
+          "text": "nomenclature will likely go unheeded, but"
+        },
+        {
+          "number": 44,
+          "text": "the point seems valid: humans are both the"
+        },
+        {
+          "number": 45,
+          "text": "creators and the products of narrative"
+        },
+        {
+          "number": 46,
+          "text": "communication."
+        },
+        {
+          "number": 47,
+          "text": "The Story Paradox expands upon"
+        },
+        {
+          "number": 48,
+          "text": "this notion by emphasizing that narrative’s"
+        },
+        {
+          "number": 49,
+          "text": "tool-like aspects are not limited to its"
+        },
+        {
+          "number": 50,
+          "text": "usefulness in transmitting experience."
+        },
+        {
+          "number": 51,
+          "text": "Through the skills of the teller or the power"
+        },
+        {
+          "number": 52,
+          "text": "of the tale itself, narrative engrosses not"
+        },
+        {
+          "number": 53,
+          "text": "just the individual listener (or reader) but"
+        },
+        {
+          "number": 54,
+          "text": "groups—even whole populations—creating a"
+        },
+        {
+          "number": 55,
+          "text": "sort of coordinated social attention that"
+        },
+        {
+          "number": 56,
+          "text": "influences human thought and behavior."
+        },
+        {
+          "number": 57,
+          "text": "Gottschall returns to his point about the"
+        },
+        {
+          "number": 58,
+          "text": "presumable long-term evolutionary"
+        },
+        {
+          "number": 59,
+          "text": "advantages: “Human groups with strong"
+        },
+        {
+          "number": 60,
+          "text": "fantasies that bound them together into"
+        },
+        {
+          "number": 61,
+          "text": "well-functioning collectives would have"
+        },
+        {
+          "number": 62,
+          "text": "outcompeted human groups that lacked"
+        },
+        {
+          "number": 63,
+          "text": "them,” he writes. “And we, the"
+        },
+        {
+          "number": 64,
+          "text": "grandchildren of these ancient storytellers,"
+        },
+        {
+          "number": 65,
+          "text": "have inherited the earth.”"
+        },
+        {
+          "number": 66,
+          "text": "Here the full significance of the"
+        },
+        {
+          "number": 67,
+          "text": "book’s title comes into view. While"
+        },
+        {
+          "number": 68,
+          "text": "storytelling is an occasion for shared"
+        },
+        {
+          "number": 69,
+          "text": "engrossment, the most compelling"
+        },
+        {
+          "number": 70,
+          "text": "narratives—whether real or fictional—"
+        },
+        {
+          "number": 71,
+          "text": "involve conflict. (Everyone knows that “they"
+        },
+        {
+          "number": 72,
+          "text": "lived happily ever after” means the story is"
+        },
+        {
+          "number": 73,
+          "text": "over.) “That people gravitate most naturally"
+        },
+        {
+          "number": 74,
+          "text": "to tales of social conflict,” writes Gottschall,"
+        },
+        {
+          "number": 75,
+          "text": "“is supported not just by the relative"
+        },
+        {
+          "number": 76,
+          "text": "prevalence of these stories but also by"
+        },
+        {
+          "number": 77,
+          "text": "research showing that even little children"
+        },
+        {
+          "number": 78,
+          "text": "are far more attracted to stories of social"
+        },
+        {
+          "number": 79,
+          "text": "conflict as opposed to other kinds.” And"
+        },
+        {
+          "number": 80,
+          "text": "while tales of conflict do not automatically"
+        },
+        {
+          "number": 81,
+          "text": "resolve themselves into a showdown"
+        },
+        {
+          "number": 82,
+          "text": "between good and evil, the total defeat of a"
+        },
+        {
+          "number": 83,
+          "text": "villain does tend to gratify audiences of all"
+        },
+        {
+          "number": 84,
+          "text": "ages. There must be some blockbuster"
+        },
+        {
+          "number": 85,
+          "text": "movie that ends with a reasoned"
+        },
+        {
+          "number": 86,
+          "text": "compromise between people with diverging"
+        },
+        {
+          "number": 87,
+          "text": "conceptions of the common good, though"
+        },
+        {
+          "number": 88,
+          "text": "none springs to mind."
+        },
+        {
+          "number": 89,
+          "text": "Fairly recently on the timeline of"
+        },
+        {
+          "number": 90,
+          "text": "human development, another factor has"
+        },
+        {
+          "number": 91,
+          "text": "intervened to make the situation more"
+        },
+        {
+          "number": 92,
+          "text": "precarious: a number of incredibly effective"
+        },
+        {
+          "number": 93,
+          "text": "systems for storytelling over long distances,"
+        },
+        {
+          "number": 94,
+          "text": "with much of it available more or less on"
+        },
+        {
+          "number": 95,
+          "text": "demand. Any evolutionary advantage once"
+        },
+        {
+          "number": 96,
+          "text": "attached to being able to benefit from the"
+        },
+        {
+          "number": 97,
+          "text": "wisdom of the tribe about potential dangers"
+        },
+        {
+          "number": null,
+          "text": "6"
+        },
+        {
+          "number": 98,
+          "text": "in the world has morphed into the capacity"
+        },
+        {
+          "number": 99,
+          "text": "to find, absorb and share whatever stories"
+        },
+        {
+          "number": 100,
+          "text": "click with our own worst fears and meanest"
+        },
+        {
+          "number": 101,
+          "text": "impulses. As if that were not worrying"
+        },
+        {
+          "number": 102,
+          "text": "enough, Gottschall refers to efforts to"
+        },
+        {
+          "number": 103,
+          "text": "weaponize narratives and their delivery"
+        },
+        {
+          "number": 104,
+          "text": "systems, with Russian social media"
+        },
+        {
+          "number": 105,
+          "text": "shenanigans in the 2016 election as an"
+        },
+        {
+          "number": 106,
+          "text": "example. The Story Paradox leaves the"
+        },
+        {
+          "number": 107,
+          "text": "reader in the position of a character at the"
+        },
+        {
+          "number": 108,
+          "text": "end of an episode of an old-fashioned"
+        },
+        {
+          "number": 109,
+          "text": "serial—hanging from a cliff and afraid to"
+        },
+        {
+          "number": 110,
+          "text": "look down."
+        },
+        {
+          "number": null,
+          "text": "From:https://www.insidehighered.com/views/2021/11/19"
+        },
+        {
+          "number": null,
+          "text": "Q U E S T I O N S"
+        }
+      ],
+      "questionIds": [
+        "uece-2022-2-f2-english-q01",
+        "uece-2022-2-f2-english-q02",
+        "uece-2022-2-f2-english-q03",
+        "uece-2022-2-f2-english-q04",
+        "uece-2022-2-f2-english-q05",
+        "uece-2022-2-f2-english-q06",
+        "uece-2022-2-f2-english-q07",
+        "uece-2022-2-f2-english-q08",
+        "uece-2022-2-f2-english-q09",
+        "uece-2022-2-f2-english-q10",
+        "uece-2022-2-f2-english-q11",
+        "uece-2022-2-f2-english-q12",
+        "uece-2022-2-f2-english-q13",
+        "uece-2022-2-f2-english-q14",
+        "uece-2022-2-f2-english-q15",
+        "uece-2022-2-f2-english-q16",
+        "uece-2022-2-f2-english-q17",
+        "uece-2022-2-f2-english-q18",
+        "uece-2022-2-f2-english-q19",
+        "uece-2022-2-f2-english-q20"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "paperId": "uece-2022-2-f1-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2022-2-f1-french-t1",
+      "label": "Texto 1",
+      "title": "T E X T E",
+      "lines": [
+        {
+          "number": null,
+          "text": "Lettre à un ami – La vie intérieure"
+        },
+        {
+          "number": null,
+          "text": "Très cher Jean,"
+        },
+        {
+          "number": 1,
+          "text": "Tu t’es décidé à m’écrire, me dis-tu,"
+        },
+        {
+          "number": 2,
+          "text": "parce que tu t’interroges sur le sens de ta vie"
+        },
+        {
+          "number": 3,
+          "text": "et que tu voudrais avoir davantage de temps"
+        },
+        {
+          "number": 4,
+          "text": "pour toi-même, pour repenser à ce qui est"
+        },
+        {
+          "number": 5,
+          "text": "essentiel d’être vécu."
+        },
+        {
+          "number": 6,
+          "text": "Je crois que tes questions expriment"
+        },
+        {
+          "number": 7,
+          "text": "une exigence profonde de notre esprit: celle"
+        },
+        {
+          "number": 8,
+          "text": "de la vie intérieure. Tôt ou tard, cette"
+        },
+        {
+          "number": 9,
+          "text": "sollicitation se fait vivre en chacun de nous,"
+        },
+        {
+          "number": 10,
+          "text": "car nous ne vivons pas seulement"
+        },
+        {
+          "number": 11,
+          "text": "d’extériorité, en nous projetant hors de nous-"
+        },
+        {
+          "number": 12,
+          "text": "mêmes, dans une continuelle fugue où"
+        },
+        {
+          "number": 13,
+          "text": "l’intensité des émotions passe pour la"
+        },
+        {
+          "number": 14,
+          "text": "plénitude de la vie. Il y a aujourd’hui une"
+        },
+        {
+          "number": 15,
+          "text": "certaine rhétorique du “dehors” qui oublie que"
+        },
+        {
+          "number": 16,
+          "text": "l’homme est aussi, et avant tout, un “dedans”."
+        },
+        {
+          "number": 17,
+          "text": "Pour cela nous avons recours à des"
+        },
+        {
+          "number": 18,
+          "text": "expressions comme “conscience” ou “for"
+        },
+        {
+          "number": 19,
+          "text": "intérieur”, des mots qui désignent cette"
+        },
+        {
+          "number": 20,
+          "text": "dimension intérieure, profonde, invisible et"
+        },
+        {
+          "number": 21,
+          "text": "donc fugitive mais très réelle de notre être."
+        },
+        {
+          "number": 22,
+          "text": "Cette réalité m’apprend que je ne suis pas"
+        },
+        {
+          "number": 23,
+          "text": "totalement clair ni évident pour moi-même,"
+        },
+        {
+          "number": 24,
+          "text": "que je suis également un mystère et que je ne"
+        },
+        {
+          "number": 25,
+          "text": "me connais pas parfaitement. Or pour vivre en"
+        },
+        {
+          "number": 26,
+          "text": "plenitude, nous avons à prendre au sérieux"
+        },
+        {
+          "number": 27,
+          "text": "cette dimension, car elle fait partie de nous."
+        },
+        {
+          "number": 28,
+          "text": "La vie intérieure s’exprime avant tout"
+        },
+        {
+          "number": 29,
+          "text": "lorsqu’on se pose des questions, comme tu l’as"
+        },
+        {
+          "number": 30,
+          "text": "toi-même fait par ta lettre. Derrière tes"
+        },
+        {
+          "number": 31,
+          "text": "différentes questions, je distingue l’unique"
+        },
+        {
+          "number": 32,
+          "text": "interrogation fondamentale: “Qui suis-je?” Elle"
+        },
+        {
+          "number": 33,
+          "text": "ne sera jamais rendue caduque par les progrès"
+        },
+        {
+          "number": 34,
+          "text": "de la science ou de la technologie, car elle est"
+        },
+        {
+          "number": 35,
+          "text": "essentielle à l’homme pour qu’il devienne"
+        },
+        {
+          "number": 36,
+          "text": "homme."
+        },
+        {
+          "number": 37,
+          "text": "C’est cette demande fondamentale qui"
+        },
+        {
+          "number": 38,
+          "text": "t’ouvrira la voie vers la vie intérieure, c’est-à-"
+        },
+        {
+          "number": 39,
+          "text": "dire, vers le travail qui consiste à prendre au"
+        },
+        {
+          "number": 40,
+          "text": "sérieux ta propre unicité. Cette question reste"
+        },
+        {
+          "number": 41,
+          "text": "inépuisable, elle accompagnera toute notre vie"
+        },
+        {
+          "number": 42,
+          "text": "dans ses diverses phases et ses articulations"
+        },
+        {
+          "number": 43,
+          "text": "essentielles. Il faut réfléchir fortement à cela,"
+        },
+        {
+          "number": 44,
+          "text": "mon cher Jean, tant que durera notre vie."
+        },
+        {
+          "number": null,
+          "text": "Très amicalement."
+        },
+        {
+          "number": null,
+          "text": "Extrait adapté de l’article “Qu’est-ce que la vie"
+        },
+        {
+          "number": null,
+          "text": "intérieure?” in Panorama nº 402, page 4."
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte répondez aux"
+        },
+        {
+          "number": null,
+          "text": "questions suivantes:"
+        }
+      ],
+      "questionIds": [
+        "uece-2022-2-f1-french-q78",
+        "uece-2022-2-f1-french-q79",
+        "uece-2022-2-f1-french-q80",
+        "uece-2022-2-f1-french-q81",
+        "uece-2022-2-f1-french-q82",
+        "uece-2022-2-f1-french-q83",
+        "uece-2022-2-f1-french-q84",
+        "uece-2022-2-f1-french-q85"
+      ]
+    }
+  ]
+}

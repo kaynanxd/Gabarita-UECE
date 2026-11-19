@@ -1,0 +1,203 @@
+{
+  "paperId": "uece-2023-1-f1-french",
+  "subject": "french",
+  "texts": [
+    {
+      "id": "uece-2023-1-f1-french-t1",
+      "label": "Texto 1",
+      "title": "T E X T E",
+      "lines": [
+        {
+          "number": null,
+          "text": "L’importance de l’éducation dans la société"
+        },
+        {
+          "number": 1,
+          "text": "Formé à partir du mot latin ex-ducere qui signifie"
+        },
+        {
+          "number": 2,
+          "text": "conduire ou encore guider, l’éducation, c’est l’art de"
+        },
+        {
+          "number": 3,
+          "text": "former une personne en développant ses qualités"
+        },
+        {
+          "number": 4,
+          "text": "physiques, intellectuelles et morales, de façon à lui"
+        },
+        {
+          "number": 5,
+          "text": "permettre d’affronter sa vie personnelle et sociale avec"
+        },
+        {
+          "number": 6,
+          "text": "une personnalité suffisamment épanouie. L’éducation fait"
+        },
+        {
+          "number": 7,
+          "text": "de l’homme et de la femme des sujets aspirant à"
+        },
+        {
+          "number": 8,
+          "text": "communiquer avec leurs semblables et les membres d’une"
+        },
+        {
+          "number": 9,
+          "text": "société préalablement existante. L’être humain est le seul"
+        },
+        {
+          "number": 10,
+          "text": "doté de raison, il est en même temps un être sociable et"
+        },
+        {
+          "number": 11,
+          "text": "socialisé. Les innovations éducatives de l’homme et de la"
+        },
+        {
+          "number": 12,
+          "text": "femme, leur capacité intellectuelle ne font en effet que"
+        },
+        {
+          "number": 13,
+          "text": "prouver leur importance et leur grandeur éducative."
+        },
+        {
+          "number": 14,
+          "text": "Élément moteur du développement humain et social,"
+        },
+        {
+          "number": 15,
+          "text": "l’éducation joue un rôle essentiel au sein de la société."
+        },
+        {
+          "number": 16,
+          "text": "On peut affirmer que l’éducation nous ouvre sur la"
+        },
+        {
+          "number": 17,
+          "text": "civilisation et sur toute l’humanité. Elle est la base de la"
+        },
+        {
+          "number": 18,
+          "text": "société, car elle encourage la perfectibilité humaine. Elle"
+        },
+        {
+          "number": 19,
+          "text": "fait sortir l’homme de l’état des origines pour connaître la"
+        },
+        {
+          "number": 20,
+          "text": "perfection de ses facultés. L’éducation est le moteur qui"
+        },
+        {
+          "number": 21,
+          "text": "assure la transformation intégrale d’une société. Elle est la"
+        },
+        {
+          "number": 22,
+          "text": "clé du progrès et aide l’homme à avoir l’amour du travail,"
+        },
+        {
+          "number": 23,
+          "text": "car le travail de son côté anobli l’être humain, le milieu"
+        },
+        {
+          "number": 24,
+          "text": "ambiant, ainsi que la nature. L’éducation a le rôle de"
+        },
+        {
+          "number": 25,
+          "text": "mener l’individu à l’excellence. Elle conduit l’homme au"
+        },
+        {
+          "number": 26,
+          "text": "bien et, visant le bien commun de la société, elle aide à"
+        },
+        {
+          "number": 27,
+          "text": "coopérer à l’œuvre d’humanisation."
+        },
+        {
+          "number": 28,
+          "text": "Dans son rôle de faire apprendre à penser, à"
+        },
+        {
+          "number": 29,
+          "text": "vouloir, à vivre pour soi-même ainsi que pour"
+        },
+        {
+          "number": 30,
+          "text": "l’épanouissement des autres, elle aide les personnes à"
+        },
+        {
+          "number": 31,
+          "text": "prendre conscience d’elles-mêmes, de leurs devoirs et de"
+        },
+        {
+          "number": 32,
+          "text": "leurs responsabilités. Nous ne pouvons pas en effet"
+        },
+        {
+          "number": 33,
+          "text": "échapper à l’action de la société dans laquelle nous"
+        },
+        {
+          "number": 34,
+          "text": "naissons et vivons. Personne ne peut éviter de recevoir"
+        },
+        {
+          "number": 35,
+          "text": "une éducation comme droit universel. Elle doit se"
+        },
+        {
+          "number": 36,
+          "text": "proposer, comme but, le développement de l’initiative"
+        },
+        {
+          "number": 37,
+          "text": "personnelle et la réalisation de la liberté humaine. En"
+        },
+        {
+          "number": 38,
+          "text": "éduquant les autres hommes l’homme s’éduque lui-même"
+        },
+        {
+          "number": 39,
+          "text": "et chemine vers l’excellence, la vertu, la compétence et la"
+        },
+        {
+          "number": 40,
+          "text": "capacité  d’atteindre le bien être social."
+        },
+        {
+          "number": null,
+          "text": "Texte extrait et adapté de https://www.logoi.fr/limportance-de-leducation-"
+        },
+        {
+          "number": null,
+          "text": "dans-la-societe/"
+        },
+        {
+          "number": null,
+          "text": "Après la lecture attentive du texte, répondez aux questions"
+        },
+        {
+          "number": null,
+          "text": "suivantes."
+        }
+      ],
+      "questionIds": [
+        "uece-2023-1-f1-french-q78",
+        "uece-2023-1-f1-french-q79",
+        "uece-2023-1-f1-french-q80",
+        "uece-2023-1-f1-french-q81",
+        "uece-2023-1-f1-french-q82",
+        "uece-2023-1-f1-french-q83",
+        "uece-2023-1-f1-french-q84",
+        "uece-2023-1-f1-french-q85"
+      ]
+    }
+  ]
+}

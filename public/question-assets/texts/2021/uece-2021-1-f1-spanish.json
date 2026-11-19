@@ -1,0 +1,323 @@
+{
+  "paperId": "uece-2021-1-f1-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2021-1-f1-spanish-t1",
+      "label": "Texto 1",
+      "title": "T E X T O",
+      "lines": [
+        {
+          "number": null,
+          "text": "INMIGRACIÓN A LA ARGENTINA"
+        },
+        {
+          "number": 1,
+          "text": "Tomada la decisión, se emprende la"
+        },
+        {
+          "number": 2,
+          "text": "travesía. Primero, por las oficinas que otorgan"
+        },
+        {
+          "number": 3,
+          "text": "el permiso de embarque. No viajaba el que"
+        },
+        {
+          "number": 4,
+          "text": "quería, sino el que conseguía la autorización"
+        },
+        {
+          "number": 5,
+          "text": "imprescindible para embarcar. A aquellos"
+        },
+        {
+          "number": 6,
+          "text": "inmigrantes se les exigió: 1- ser"
+        },
+        {
+          "number": 7,
+          "text": "preferentemente europeos; 2- ser"
+        },
+        {
+          "number": 8,
+          "text": "de sana y robusta constitución, exenta de"
+        },
+        {
+          "number": 9,
+          "text": "enfermedades y malformaciones que alteraran"
+        },
+        {
+          "number": 10,
+          "text": "su capacidad presente o futura de trabajar; 3-"
+        },
+        {
+          "number": 11,
+          "text": "asegurar que no venían a practicar la"
+        },
+        {
+          "number": 12,
+          "text": "mendicidad, y la mujer adulta, a ejercer la"
+        },
+        {
+          "number": 13,
+          "text": "prostitución; 4- declarar su religión; 5- viajar"
+        },
+        {
+          "number": 14,
+          "text": "en segunda o tercera clase; 6- residir en zonas"
+        },
+        {
+          "number": 15,
+          "text": "determinadas."
+        },
+        {
+          "number": 16,
+          "text": "Un defecto físico podía impedir la salida"
+        },
+        {
+          "number": 17,
+          "text": "de un viajero, como fue el caso de una"
+        },
+        {
+          "number": 18,
+          "text": "asturiana hacia América: “Cuando tenían todo"
+        },
+        {
+          "number": 19,
+          "text": "arreglado para viajar, y ya no había retorno, el"
+        },
+        {
+          "number": 20,
+          "text": "cónsul argentino se puso meticuloso con la"
+        },
+        {
+          "number": 21,
+          "text": "visa. Despachaba a cientos de asturianos por"
+        },
+        {
+          "number": 22,
+          "text": "hora y se daba el lujo de poner objeciones"
+        },
+        {
+          "number": 23,
+          "text": "ridículas. Eran tan ridículas que parecía el cebo"
+        },
+        {
+          "number": 24,
+          "text": "de alguna coima. El cónsul detectó un dedo"
+        },
+        {
+          "number": 25,
+          "text": "mocho en la mano izquierda de Valentina y"
+        },
+        {
+          "number": 26,
+          "text": "decretó que esa lesión la hacía inútil para el"
+        },
+        {
+          "number": 27,
+          "text": "trabajo, y por tanto inviable para emigrar. Sin"
+        },
+        {
+          "number": 28,
+          "text": "dinero, sin tiempo y sin chances, Marcial"
+        },
+        {
+          "number": 29,
+          "text": "recurrió a su prima, que era cocinera del"
+        },
+        {
+          "number": 30,
+          "text": "Gobernador, y este fue magnánimo y"
+        },
+        {
+          "number": 31,
+          "text": "ejecutivo. El cónsul reculó y firmó los papeles"
+        },
+        {
+          "number": 32,
+          "text": "a regañadientes, y el buque de carga Entre"
+        },
+        {
+          "number": 33,
+          "text": "Ríos los llevó a la otra orilla del mundo”"
+        },
+        {
+          "number": 34,
+          "text": "escribe Jorge Fernández Díaz en un periódico."
+        },
+        {
+          "number": 35,
+          "text": "María Rosa Lojo evoca la partida de su"
+        },
+        {
+          "number": 36,
+          "text": "padre en Mínima autobiografía de una"
+        },
+        {
+          "number": 37,
+          "text": "exiliada hija: “Antonio Lojo Ventoso, su"
+        },
+        {
+          "number": 38,
+          "text": "padre, era uno de esos exiliados. Para él ya"
+        },
+        {
+          "number": 39,
+          "text": "había pasado lo peor: el riesgo de"
+        },
+        {
+          "number": 40,
+          "text": "fusilamiento, la cárcel, la “redención de penas"
+        },
+        {
+          "number": 41,
+          "text": "por el trabajo”. Cedió a un hermano sus"
+        },
+        {
+          "number": 42,
+          "text": "derechos sobre las fincas que le tocaban, hizo"
+        },
+        {
+          "number": 43,
+          "text": "las valijas y cruzó el océano. Dejaba"
+        },
+        {
+          "number": 44,
+          "text": "inmediatamente truncados los estudios que"
+        },
+        {
+          "number": 45,
+          "text": "había iniciado cuando el mundo era otro, el"
+        },
+        {
+          "number": 46,
+          "text": "sueño de convertirse en oficial de la Marina de"
+        },
+        {
+          "number": 47,
+          "text": "la República. Dejaba negocios equivocados y"
+        },
+        {
+          "number": 48,
+          "text": "proyectos irrealizables. Dejaba también"
+        },
+        {
+          "number": 49,
+          "text": "(aunque de eso me enteré después de su"
+        },
+        {
+          "number": 50,
+          "text": "muerte: era un hombre pudoroso) una cierta"
+        },
+        {
+          "number": 51,
+          "text": "reputación juvenil de “mala cabeza”, y de"
+        },
+        {
+          "number": 52,
+          "text": "play-boy coruñés, que fascinaba a las"
+        },
+        {
+          "number": 53,
+          "text": "muchachitas y escandalizaba a sus madres."
+        },
+        {
+          "number": 54,
+          "text": "Dejaba una España que para sus ojos había"
+        },
+        {
+          "number": 55,
+          "text": "retrocedido siglos en el tiempo, donde no"
+        },
+        {
+          "number": 56,
+          "text": "cabía la dimensión de su deseo. El futuro"
+        },
+        {
+          "number": 57,
+          "text": "estaba afuera. Había resuelto que en las"
+        },
+        {
+          "number": 58,
+          "text": "nuevas tierras haría otra cosa, y sería, casi"
+        },
+        {
+          "number": 59,
+          "text": "otra persona."
+        },
+        {
+          "number": 60,
+          "text": "“A los emigrantes de alguna manera, los"
+        },
+        {
+          "number": 61,
+          "text": "acompañaba la esperanza, aún teñida del"
+        },
+        {
+          "number": 62,
+          "text": "dolor de dejar atrás pasado, historia, familia,"
+        },
+        {
+          "number": 63,
+          "text": "amigos, afectos y recuerdos” escribe Silvia"
+        },
+        {
+          "number": 64,
+          "text": "Fesquet en La Tierra de uno. “El dolor no era"
+        },
+        {
+          "number": 65,
+          "text": "poco, pero el equipaje que cargaban -liviano,"
+        },
+        {
+          "number": 66,
+          "text": "muy liviano estaba amarrado con sueños,"
+        },
+        {
+          "number": 67,
+          "text": "ilusiones y mucha esperanza: la de encontrar"
+        },
+        {
+          "number": 68,
+          "text": "amparo o un destino mejor, la de volver a esa"
+        },
+        {
+          "number": 69,
+          "text": "tierra que, por razones distintas, ahora los"
+        },
+        {
+          "number": 70,
+          "text": "expulsaba”."
+        },
+        {
+          "number": null,
+          "text": "21"
+        },
+        {
+          "number": null,
+          "text": "Texto adaptado de:"
+        },
+        {
+          "number": null,
+          "text": "http://argentinauniversal.info"
+        },
+        {
+          "number": null,
+          "text": "Q U E S T I O N E S"
+        }
+      ],
+      "questionIds": [
+        "uece-2021-1-f1-spanish-q78",
+        "uece-2021-1-f1-spanish-q79",
+        "uece-2021-1-f1-spanish-q80",
+        "uece-2021-1-f1-spanish-q81",
+        "uece-2021-1-f1-spanish-q82",
+        "uece-2021-1-f1-spanish-q83",
+        "uece-2021-1-f1-spanish-q84",
+        "uece-2021-1-f1-spanish-q85"
+      ]
+    }
+  ]
+}

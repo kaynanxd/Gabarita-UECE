@@ -1,0 +1,455 @@
+{
+  "paperId": "uece-2019-1-f1-english",
+  "subject": "english",
+  "texts": [
+    {
+      "id": "uece-2019-1-f1-english-t1",
+      "label": "Texto 1",
+      "title": "T E X T",
+      "lines": [
+        {
+          "number": null,
+          "text": "Can you learn in your sleep?"
+        },
+        {
+          "number": null,
+          "text": "Sleep is known to be crucial for learning and"
+        },
+        {
+          "number": null,
+          "text": "memory formation. What's more, scientists have even"
+        },
+        {
+          "number": null,
+          "text": "managed to pick out specific memories and"
+        },
+        {
+          "number": null,
+          "text": "consolidate them during sleep. However, the exact"
+        },
+        {
+          "number": null,
+          "text": "mechanisms behind this were unknown — until now."
+        },
+        {
+          "number": null,
+          "text": "Those among us who grew up with the"
+        },
+        {
+          "number": null,
+          "text": "popular cartoon \"Dexter's Laboratory\" might"
+        },
+        {
+          "number": null,
+          "text": "remember the famous episode wherein Dexter's"
+        },
+        {
+          "number": null,
+          "text": "trying to learn French overnight. He creates a device"
+        },
+        {
+          "number": null,
+          "text": "that helps him to learn in his sleep by playing French"
+        },
+        {
+          "number": null,
+          "text": "phrases to him. Of course, since the show is a"
+        },
+        {
+          "number": null,
+          "text": "comedy, Dexter's record gets stuck on the phrase"
+        },
+        {
+          "number": null,
+          "text": "\"Omelette du fromage\" and the next day he's"
+        },
+        {
+          "number": null,
+          "text": "incapable of saying anything else. This is, of course, a"
+        },
+        {
+          "number": null,
+          "text": "problem that puts him through a series of hilarious"
+        },
+        {
+          "number": null,
+          "text": "situations."
+        },
+        {
+          "number": null,
+          "text": "The idea that we can learn in our sleep has"
+        },
+        {
+          "number": null,
+          "text": "captivated the minds of artists and scientists alike;"
+        },
+        {
+          "number": null,
+          "text": "the possibility that one day we could all drastically"
+        },
+        {
+          "number": null,
+          "text": "improve our productivity by learning in our sleep is"
+        },
+        {
+          "number": null,
+          "text": "very appealing. But could such a scenario ever"
+        },
+        {
+          "number": null,
+          "text": "become a reality?"
+        },
+        {
+          "number": null,
+          "text": "New research seems to suggest so, and"
+        },
+        {
+          "number": null,
+          "text": "scientists in general are moving closer to"
+        },
+        {
+          "number": null,
+          "text": "understanding precisely what goes on in the brain"
+        },
+        {
+          "number": null,
+          "text": "when we sleep and how the restful state affects"
+        },
+        {
+          "number": null,
+          "text": "learning and memory formation."
+        },
+        {
+          "number": null,
+          "text": "For instance, previous studies have shown"
+        },
+        {
+          "number": null,
+          "text": "that non-rapid eye movement (non-REM) sleep — or"
+        },
+        {
+          "number": null,
+          "text": "dreamless sleep — is crucial for consolidating"
+        },
+        {
+          "number": null,
+          "text": "memories. It has also been shown that sleep spindles,"
+        },
+        {
+          "number": null,
+          "text": "or sudden spikes in oscillatory brain activity that can"
+        },
+        {
+          "number": null,
+          "text": "be seen on an electroencephalogram (EEG) during the"
+        },
+        {
+          "number": null,
+          "text": "second stage of non-REM sleep, are key for this"
+        },
+        {
+          "number": null,
+          "text": "memory consolidation. Scientists were also able to"
+        },
+        {
+          "number": null,
+          "text": "specifically target certain memories and reactivate, or"
+        },
+        {
+          "number": null,
+          "text": "strengthen, them by using auditory cues."
+        },
+        {
+          "number": null,
+          "text": "However, the mechanism behind such"
+        },
+        {
+          "number": null,
+          "text": "achievements remained mysterious until now."
+        },
+        {
+          "number": null,
+          "text": "Researchers were also unaware if such mechanisms"
+        },
+        {
+          "number": null,
+          "text": "would help with memorizing new information."
+        },
+        {
+          "number": null,
+          "text": "Therefore, a team of researchers set out to"
+        },
+        {
+          "number": null,
+          "text": "investigate. Scott Cairney, from the University of York"
+        },
+        {
+          "number": null,
+          "text": "in the United Kingdom, co-led the research with"
+        },
+        {
+          "number": null,
+          "text": "Bernhard Staresina, who works at the University of"
+        },
+        {
+          "number": null,
+          "text": "Birmingham, also in the U.K. Their findings were"
+        },
+        {
+          "number": null,
+          "text": "published in the journal Current Biology."
+        },
+        {
+          "number": null,
+          "text": "Cairney explains the motivation for the"
+        },
+        {
+          "number": null,
+          "text": "research, saying, \"We are quite certain that memories"
+        },
+        {
+          "number": null,
+          "text": "are reactivated in the brain during sleep, but we don't"
+        },
+        {
+          "number": null,
+          "text": "know the neural processes that underpin this"
+        },
+        {
+          "number": null,
+          "text": "phenomenon.\" \"Sleep spindles,\" he continues, \"have"
+        },
+        {
+          "number": null,
+          "text": "been linked to the benefits of sleep for memory in"
+        },
+        {
+          "number": null,
+          "text": "previous research, so we wanted to investigate"
+        },
+        {
+          "number": null,
+          "text": "whether these brain waves mediate reactivation. If"
+        },
+        {
+          "number": null,
+          "text": "they support memory reactivation, we further"
+        },
+        {
+          "number": null,
+          "text": "reasoned that it could be possible to decipher memory"
+        },
+        {
+          "number": null,
+          "text": "signals at the time that these spindles took place.\""
+        },
+        {
+          "number": null,
+          "text": "To test their hypotheses, Cairney and his"
+        },
+        {
+          "number": null,
+          "text": "colleagues asked 46 participants \"to learn"
+        },
+        {
+          "number": null,
+          "text": "associations between words and pictures of objects or"
+        },
+        {
+          "number": null,
+          "text": "scenes before a nap.\" Afterward, some of the"
+        },
+        {
+          "number": null,
+          "text": "participants took a 90-minute nap, whereas others"
+        },
+        {
+          "number": null,
+          "text": "stayed awake. To those who napped, \"Half of the"
+        },
+        {
+          "number": null,
+          "text": "words were [...] replayed during the nap to trigger"
+        },
+        {
+          "number": null,
+          "text": "the reactivation of the newly learned picture"
+        },
+        {
+          "number": null,
+          "text": "memories,\" explains Cairney."
+        },
+        {
+          "number": null,
+          "text": "\"When the participants woke after a good"
+        },
+        {
+          "number": null,
+          "text": "period of sleep,\" he says, \"we presented them again"
+        },
+        {
+          "number": null,
+          "text": "with the words and asked them to recall the object"
+        },
+        {
+          "number": null,
+          "text": "and scene pictures. We found that their memory was"
+        },
+        {
+          "number": null,
+          "text": "better for the pictures that were connected to the"
+        },
+        {
+          "number": null,
+          "text": "words that were presented in sleep, compared to"
+        },
+        {
+          "number": null,
+          "text": "those words that weren't,\" Cairney reports."
+        },
+        {
+          "number": null,
+          "text": "Using an EEG machine, the researchers were"
+        },
+        {
+          "number": null,
+          "text": "also able to see that playing the associated words to"
+        },
+        {
+          "number": null,
+          "text": "reactivate memories triggered sleep spindles in the"
+        },
+        {
+          "number": null,
+          "text": "participants' brains. More specifically, the EEG sleep"
+        },
+        {
+          "number": null,
+          "text": "spindle patterns \"told\" the researchers whether the"
+        },
+        {
+          "number": null,
+          "text": "participants were processing memories related to"
+        },
+        {
+          "number": null,
+          "text": "objects or memories related to scenes."
+        },
+        {
+          "number": null,
+          "text": "\"Our data suggest that spindles facilitate"
+        },
+        {
+          "number": null,
+          "text": "processing of relevant memory features during sleep"
+        },
+        {
+          "number": null,
+          "text": "and that this process boosts memory consolidation,\""
+        },
+        {
+          "number": null,
+          "text": "says Staresina. \"While it has been shown previously,\""
+        },
+        {
+          "number": null,
+          "text": "he continues, \"that targeted memory reactivation can"
+        },
+        {
+          "number": null,
+          "text": "boost memory consolidation during sleep, we now"
+        },
+        {
+          "number": null,
+          "text": "show that sleep spindles might represent the key"
+        },
+        {
+          "number": null,
+          "text": "underlying mechanism.\""
+        },
+        {
+          "number": null,
+          "text": "Cairney adds, \"When you are awake you"
+        },
+        {
+          "number": null,
+          "text": "learn new things, but when you are asleep you refine"
+        },
+        {
+          "number": null,
+          "text": "them, making it easier to retrieve them and apply"
+        },
+        {
+          "number": null,
+          "text": "them correctly when you need them the most. This is"
+        },
+        {
+          "number": null,
+          "text": "important for how we learn but also for how we might"
+        },
+        {
+          "number": null,
+          "text": "help retain healthy brain functions.\""
+        },
+        {
+          "number": null,
+          "text": "22"
+        },
+        {
+          "number": null,
+          "text": "Staresina suggests that this newly gained"
+        },
+        {
+          "number": null,
+          "text": "knowledge could lead to effective strategies for"
+        },
+        {
+          "number": null,
+          "text": "boosting memory while sleeping."
+        },
+        {
+          "number": null,
+          "text": "So, though learning things from scratch à la"
+        },
+        {
+          "number": null,
+          "text": "\"Dexter's Lab\" may take a while to become a reality,"
+        },
+        {
+          "number": null,
+          "text": "we can safely say that our brains continue to learn"
+        },
+        {
+          "number": null,
+          "text": "while we sleep, and that researchers just got a lot"
+        },
+        {
+          "number": null,
+          "text": "closer to understanding why this happens."
+        },
+        {
+          "number": null,
+          "text": "From:"
+        },
+        {
+          "number": null,
+          "text": "https://www.medicalnewstoday.com/articles/Mar/2018"
+        },
+        {
+          "number": null,
+          "text": "QUESTIONS"
+        }
+      ],
+      "questionIds": [
+        "uece-2019-1-f1-english-q73",
+        "uece-2019-1-f1-english-q74",
+        "uece-2019-1-f1-english-q75",
+        "uece-2019-1-f1-english-q76",
+        "uece-2019-1-f1-english-q77",
+        "uece-2019-1-f1-english-q78",
+        "uece-2019-1-f1-english-q79",
+        "uece-2019-1-f1-english-q80"
+      ]
+    }
+  ]
+}

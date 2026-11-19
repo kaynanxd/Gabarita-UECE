@@ -1,0 +1,312 @@
+{
+  "paperId": "uece-2021-1-f2-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2021-1-f2-spanish-t1",
+      "label": "Texto 1",
+      "title": null,
+      "lines": [
+        {
+          "number": null,
+          "text": "Las vacaciones de verano ya no son lo que eran"
+        },
+        {
+          "number": 1,
+          "text": "La crisis ha cambiado la forma de viajar"
+        },
+        {
+          "number": 2,
+          "text": "de los jóvenes. Disponer de poco dinero y"
+        },
+        {
+          "number": 3,
+          "text": "tiempo para las vacaciones les ha obligado a"
+        },
+        {
+          "number": 4,
+          "text": "volverse mucho más planificadores y a tener"
+        },
+        {
+          "number": 5,
+          "text": "que escoger el destino por su presupuesto y"
+        },
+        {
+          "number": 6,
+          "text": "no por sus deseos. Estas son las principales"
+        },
+        {
+          "number": 7,
+          "text": "conclusiones del II Barómetro de opinión “Las"
+        },
+        {
+          "number": 8,
+          "text": "vacaciones de los jóvenes españoles” realizado"
+        },
+        {
+          "number": 9,
+          "text": "por Ron Brugal a dos mil jóvenes españoles de"
+        },
+        {
+          "number": 10,
+          "text": "18 a 35 años."
+        },
+        {
+          "number": 11,
+          "text": "Siete de cada diez jóvenes consultados"
+        },
+        {
+          "number": 12,
+          "text": "afirman que se irán unos días de vacaciones,"
+        },
+        {
+          "number": 13,
+          "text": "aunque tendrán que hacerlo con un"
+        },
+        {
+          "number": 14,
+          "text": "presupuesto muy reducido: el 52% lo hará con"
+        },
+        {
+          "number": 15,
+          "text": "menos de 300 euros, el 19% con menos de"
+        },
+        {
+          "number": 16,
+          "text": "500 euros, el 12% con menos de 700 euros,"
+        },
+        {
+          "number": 17,
+          "text": "un 8% con menos de 1000 euros y sólo un 9%"
+        },
+        {
+          "number": 18,
+          "text": "invertirá más de 1000 euros en las vacaciones"
+        },
+        {
+          "number": 19,
+          "text": "de este año. El 30% restante de jóvenes no"
+        },
+        {
+          "number": 20,
+          "text": "dispone de presupuesto vacacional y tendrá"
+        },
+        {
+          "number": 21,
+          "text": "que quedarse en casa. De estos jóvenes,"
+        },
+        {
+          "number": 22,
+          "text": "además, casi la mitad lleva más de dos años"
+        },
+        {
+          "number": 23,
+          "text": "sin disfrutar de unos días de descanso."
+        },
+        {
+          "number": null,
+          "text": "Extraído de"
+        },
+        {
+          "number": null,
+          "text": "www.diariofemenino.com"
+        },
+        {
+          "number": null,
+          "text": "Q U E S T I O N E S"
+        }
+      ],
+      "questionIds": [
+        "uece-2021-1-f2-spanish-q01",
+        "uece-2021-1-f2-spanish-q02",
+        "uece-2021-1-f2-spanish-q03",
+        "uece-2021-1-f2-spanish-q04",
+        "uece-2021-1-f2-spanish-q05",
+        "uece-2021-1-f2-spanish-q06",
+        "uece-2021-1-f2-spanish-q07",
+        "uece-2021-1-f2-spanish-q08",
+        "uece-2021-1-f2-spanish-q09",
+        "uece-2021-1-f2-spanish-q10"
+      ]
+    },
+    {
+      "id": "uece-2021-1-f2-spanish-t2",
+      "label": "Texto 2",
+      "title": "Turismo astronómico en Chile",
+      "lines": [
+        {
+          "number": 24,
+          "text": "Los aficionados al astroturismo no"
+        },
+        {
+          "number": 25,
+          "text": "pueden dejar de visitar la zona norte de"
+        },
+        {
+          "number": 26,
+          "text": "Chile, que reúne un tercio de los"
+        },
+        {
+          "number": 27,
+          "text": "telescopios que hoy existen en el planeta y"
+        },
+        {
+          "number": 28,
+          "text": "que se ha posicionado como polo mundial"
+        },
+        {
+          "number": 29,
+          "text": "en esta materia, principalmente por las"
+        },
+        {
+          "number": 30,
+          "text": "condiciones climáticas (la sequedad del aire"
+        },
+        {
+          "number": 31,
+          "text": "ofrece cielos limpios, con más de 300"
+        },
+        {
+          "number": 32,
+          "text": "noches despejadas al año) y la estabilidad"
+        },
+        {
+          "number": 33,
+          "text": "institucional de ese País."
+        },
+        {
+          "number": 34,
+          "text": "Por estas razones se construirá en el"
+        },
+        {
+          "number": 35,
+          "text": "cerro Armazones de Chile, a 3060 metros"
+        },
+        {
+          "number": 36,
+          "text": "de altura, otro importante centro"
+        },
+        {
+          "number": 37,
+          "text": "astronómico, el European Extremely Large"
+        },
+        {
+          "number": 38,
+          "text": "Telescope (E-ELT), el telescopio más"
+        },
+        {
+          "number": 39,
+          "text": "grande del mundo que permitirá la"
+        },
+        {
+          "number": 40,
+          "text": "búsqueda de nuevos planetas y estrellas,"
+        },
+        {
+          "number": 41,
+          "text": "así como también la captura de imágenes"
+        },
+        {
+          "number": 42,
+          "text": "para poder descifrar si existe vida en otros"
+        },
+        {
+          "number": 43,
+          "text": "lugares del universo."
+        },
+        {
+          "number": 44,
+          "text": "No sólo los científicos pueden"
+        },
+        {
+          "number": 45,
+          "text": "disfrutar de los limpios cielos chilenos y la"
+        },
+        {
+          "number": 46,
+          "text": "contemplación del universo, también en tu"
+        },
+        {
+          "number": 47,
+          "text": "viaje a Chile podrás visitar los"
+        },
+        {
+          "number": 48,
+          "text": "observatorios astronómicos turísticos en el"
+        },
+        {
+          "number": 49,
+          "text": "valle del Elquí en cercanías de La Serena y"
+        },
+        {
+          "number": 50,
+          "text": "Ovalle."
+        },
+        {
+          "number": 51,
+          "text": "En las ciudades cercanas a los"
+        },
+        {
+          "number": 52,
+          "text": "observatorios hay agencias de turismo que"
+        },
+        {
+          "number": 53,
+          "text": "se encargan de los “viajes estelares” e"
+        },
+        {
+          "number": 54,
+          "text": "incluyen transporte, comida, el equipo"
+        },
+        {
+          "number": 55,
+          "text": "necesario y visitas guiadas por astrónomos"
+        },
+        {
+          "number": 56,
+          "text": "principiantes, además de charlas"
+        },
+        {
+          "number": 57,
+          "text": "educativas sobre el universo y las galaxias."
+        },
+        {
+          "number": 58,
+          "text": "Para terminar el día, puedes dormir"
+        },
+        {
+          "number": 59,
+          "text": "en una cabaña equipada con un telescopio"
+        },
+        {
+          "number": 60,
+          "text": "sólo para ti y con una inmensa ventana en"
+        },
+        {
+          "number": 61,
+          "text": "el techo, para así dormir literalmente bajo"
+        },
+        {
+          "number": 62,
+          "text": "las estrellas."
+        },
+        {
+          "number": null,
+          "text": "Extraído de www.todoviajewub.com"
+        }
+      ],
+      "questionIds": [
+        "uece-2021-1-f2-spanish-q11",
+        "uece-2021-1-f2-spanish-q12",
+        "uece-2021-1-f2-spanish-q13",
+        "uece-2021-1-f2-spanish-q14",
+        "uece-2021-1-f2-spanish-q15",
+        "uece-2021-1-f2-spanish-q16",
+        "uece-2021-1-f2-spanish-q17",
+        "uece-2021-1-f2-spanish-q18",
+        "uece-2021-1-f2-spanish-q19",
+        "uece-2021-1-f2-spanish-q20"
+      ]
+    }
+  ]
+}

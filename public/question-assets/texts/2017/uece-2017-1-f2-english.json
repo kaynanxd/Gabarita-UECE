@@ -1,0 +1,731 @@
+{
+  "paperId": "uece-2017-1-f2-english",
+  "subject": "english",
+  "texts": [
+    {
+      "id": "uece-2017-1-f2-english-t1",
+      "label": "Texto 1",
+      "title": "T E X T",
+      "lines": [
+        {
+          "number": 1,
+          "text": "Can public health officials force"
+        },
+        {
+          "number": 2,
+          "text": "Americans to break their soda habit?"
+        },
+        {
+          "number": 3,
+          "text": "The answer may come soon from the"
+        },
+        {
+          "number": 4,
+          "text": "University of California, San Francisco, a"
+        },
+        {
+          "number": 5,
+          "text": "health sciences center that has more than"
+        },
+        {
+          "number": 6,
+          "text": "24,000 employees on its sprawling campus."
+        },
+        {
+          "number": 7,
+          "text": "Last year, U.C.S.F. removed sugar-sweetened"
+        },
+        {
+          "number": 8,
+          "text": "beverages from every store, food truck and"
+        },
+        {
+          "number": 9,
+          "text": "vending machine on its campus. Even"
+        },
+        {
+          "number": 10,
+          "text": "popular fast-food chains on the campus, like"
+        },
+        {
+          "number": 11,
+          "text": "Subway and Panda Express, have stopped"
+        },
+        {
+          "number": 12,
+          "text": "selling Sprite, Coca-Cola and their sugary"
+        },
+        {
+          "number": 13,
+          "text": "brethren at the university’s request."
+        },
+        {
+          "number": 14,
+          "text": "The institution is believed to be one of"
+        },
+        {
+          "number": 15,
+          "text": "the largest employers to remove sugary"
+        },
+        {
+          "number": 16,
+          "text": "drinks from the workplace. With sugary sodas"
+        },
+        {
+          "number": 17,
+          "text": "now a rare sight on campus, the university"
+        },
+        {
+          "number": 18,
+          "text": "found that it had the perfect conditions to"
+        },
+        {
+          "number": 19,
+          "text": "study what happens when people who were"
+        },
+        {
+          "number": 20,
+          "text": "drinking large amounts of sugar during their"
+        },
+        {
+          "number": 21,
+          "text": "workday suddenly stop."
+        },
+        {
+          "number": 22,
+          "text": "Researchers there have enrolled 214 of"
+        },
+        {
+          "number": 23,
+          "text": "the school’s employees into a rigorous study,"
+        },
+        {
+          "number": 24,
+          "text": "collecting blood samples to see if there have"
+        },
+        {
+          "number": 25,
+          "text": "been any major metabolic changes in the"
+        },
+        {
+          "number": 26,
+          "text": "people who lowered their soda intake. While"
+        },
+        {
+          "number": 27,
+          "text": "they expect to publish complete results soon,"
+        },
+        {
+          "number": 28,
+          "text": "early indicators are promising."
+        },
+        {
+          "number": 29,
+          "text": "Since the policy went into effect a"
+        },
+        {
+          "number": 30,
+          "text": "year ago, the university says it has recorded a"
+        },
+        {
+          "number": 31,
+          "text": "significant drop in soft drink consumption"
+        },
+        {
+          "number": 32,
+          "text": "among its employees, particularly service"
+        },
+        {
+          "number": 33,
+          "text": "workers, who were the biggest consumers. A"
+        },
+        {
+          "number": 34,
+          "text": "university survey of 2,500 employees found"
+        },
+        {
+          "number": 35,
+          "text": "that some service workers and support staff"
+        },
+        {
+          "number": 36,
+          "text": "members had been drinking up to a liter of"
+        },
+        {
+          "number": 37,
+          "text": "soda at work and at home each day, or almost"
+        },
+        {
+          "number": 38,
+          "text": "three cans. Six months after the policy went"
+        },
+        {
+          "number": 39,
+          "text": "into effect, these workers had reduced their"
+        },
+        {
+          "number": 40,
+          "text": "consumption by about a quarter."
+        },
+        {
+          "number": 41,
+          "text": "“We’re a public health institution, and"
+        },
+        {
+          "number": 42,
+          "text": "there’s something not right about us making"
+        },
+        {
+          "number": 43,
+          "text": "money off of products that we know are"
+        },
+        {
+          "number": 44,
+          "text": "making people sick,” said Laura Schmidt, a"
+        },
+        {
+          "number": 45,
+          "text": "professor at the medical school who"
+        },
+        {
+          "number": 46,
+          "text": "spearheaded the beverage initiative. “How"
+        },
+        {
+          "number": 47,
+          "text": "dare we profit off of a product that our own"
+        },
+        {
+          "number": 48,
+          "text": "doctors say causes metabolic disease?”"
+        },
+        {
+          "number": 49,
+          "text": "The university’s experiment comes at a"
+        },
+        {
+          "number": 50,
+          "text": "time of growing battles over policies aimed"
+        },
+        {
+          "number": 51,
+          "text": "at curbing soda consumption. On Tuesday,"
+        },
+        {
+          "number": 52,
+          "text": "three cities in Northern California and one in"
+        },
+        {
+          "number": 53,
+          "text": "Colorado will be voting on whether to tax soft"
+        },
+        {
+          "number": 54,
+          "text": "drinks. The cities of Berkeley and Philadelphia"
+        },
+        {
+          "number": 55,
+          "text": "have already approved taxes on sugary"
+        },
+        {
+          "number": 56,
+          "text": "beverages. One recent study found that the"
+        },
+        {
+          "number": 57,
+          "text": "Berkeley tax was working: In low-income"
+        },
+        {
+          "number": 58,
+          "text": "areas, sugary drink consumption fell and"
+        },
+        {
+          "number": 59,
+          "text": "water consumption rose after the tax went"
+        },
+        {
+          "number": 60,
+          "text": "into effect. Last month, the World Health"
+        },
+        {
+          "number": 61,
+          "text": "Organization urged countries around the world"
+        },
+        {
+          "number": 62,
+          "text": "to impose a tax on sugary drinks, presenting"
+        },
+        {
+          "number": 63,
+          "text": "research that showed just a 20 percent"
+        },
+        {
+          "number": 64,
+          "text": "increase in soda prices would result in a"
+        },
+        {
+          "number": 65,
+          "text": "proportionate reduction in their consumption."
+        },
+        {
+          "number": 66,
+          "text": "The beverage industry has been fighting"
+        },
+        {
+          "number": 67,
+          "text": "back, spending millions on ad campaigns"
+        },
+        {
+          "number": 68,
+          "text": "against the proposed taxes in California and"
+        },
+        {
+          "number": 69,
+          "text": "Colorado, which it calls a regressive “grocery"
+        },
+        {
+          "number": 70,
+          "text": "tax” that hurts the poor. In September, the"
+        },
+        {
+          "number": 71,
+          "text": "industry filed a lawsuit against Philadelphia,"
+        },
+        {
+          "number": 72,
+          "text": "calling its soda tax illegal."
+        },
+        {
+          "number": 73,
+          "text": "As the fights over soda taxes play out,"
+        },
+        {
+          "number": 74,
+          "text": "many hospitals and health organizations have"
+        },
+        {
+          "number": 75,
+          "text": "taken matters into their own hands, banning"
+        },
+        {
+          "number": 76,
+          "text": "sugary drinks from their own workplaces."
+        },
+        {
+          "number": 77,
+          "text": "Nationwide, at least 30 medical centers have"
+        },
+        {
+          "number": 78,
+          "text": "restricted the sale of soda and full-calorie"
+        },
+        {
+          "number": 79,
+          "text": "sports drinks, including the Cleveland Clinic in"
+        },
+        {
+          "number": 80,
+          "text": "Ohio and the University of Michigan Health"
+        },
+        {
+          "number": 81,
+          "text": "System."
+        },
+        {
+          "number": 82,
+          "text": "U.C.S.F.’s policy may be the most far-"
+        },
+        {
+          "number": 83,
+          "text": "reaching. It applies not only to its medical"
+        },
+        {
+          "number": 84,
+          "text": "center, but the entire university, including the"
+        },
+        {
+          "number": 85,
+          "text": "aforementioned 24,000 employees and its"
+        },
+        {
+          "number": 86,
+          "text": "8,500 visitors and patients each year. Visitors"
+        },
+        {
+          "number": 87,
+          "text": "to the campus now will find only bottled"
+        },
+        {
+          "number": 88,
+          "text": "water, diet drinks, unsweetened teas, and in"
+        },
+        {
+          "number": 89,
+          "text": "some cases 100 percent fruit juice with no"
+        },
+        {
+          "number": 90,
+          "text": "added sugar."
+        },
+        {
+          "number": 91,
+          "text": "Michael Flanders, an assistant specialist"
+        },
+        {
+          "number": 92,
+          "text": "in the medical center’s division of hematology"
+        },
+        {
+          "number": 93,
+          "text": "and oncology, said he had been consuming"
+        },
+        {
+          "number": 94,
+          "text": "“tons” of added sugar daily from San"
+        },
+        {
+          "number": 95,
+          "text": "Pellegrino Limonatas and other sugary drinks."
+        },
+        {
+          "number": 96,
+          "text": "But when the policy went into effect and the"
+        },
+        {
+          "number": 97,
+          "text": "drinks disappeared, sparkling water became"
+        },
+        {
+          "number": 98,
+          "text": "his drink of choice."
+        },
+        {
+          "number": 99,
+          "text": "“It took my taste buds a couple months"
+        },
+        {
+          "number": 100,
+          "text": "to adjust, but I’ve come to genuinely enjoy"
+        },
+        {
+          "number": 101,
+          "text": "black coffee and unflavored fizzy water,” he"
+        },
+        {
+          "number": 102,
+          "text": "said. “Soda and sugary coffee drinks now"
+        },
+        {
+          "number": 103,
+          "text": "seem overwhelmingly sweet.”"
+        },
+        {
+          "number": 104,
+          "text": "But while the university says it hopes its"
+        },
+        {
+          "number": 105,
+          "text": "policy will become a model for other large"
+        },
+        {
+          "number": 106,
+          "text": "employers to follow, the beverage industry"
+        },
+        {
+          "number": 107,
+          "text": "argues that the strategy is flawed. It points"
+        },
+        {
+          "number": 108,
+          "text": "out that obesity rates have been climbing"
+        },
+        {
+          "number": 109,
+          "text": "even as America’s soda intake has declined in"
+        },
+        {
+          "number": 110,
+          "text": "recent years. And it says that focusing blame"
+        },
+        {
+          "number": 111,
+          "text": "on soda alone, rather than calories from all"
+        },
+        {
+          "number": 112,
+          "text": "foods, is misguided."
+        },
+        {
+          "number": 113,
+          "text": "But Ms. Schmidt said it doesn’t make"
+        },
+        {
+          "number": 114,
+          "text": "sense for doctors to urge patients to cut back"
+        },
+        {
+          "number": 115,
+          "text": "on sweetened beverages while a university"
+        },
+        {
+          "number": 116,
+          "text": "medical center continues to sell those same"
+        },
+        {
+          "number": 117,
+          "text": "drinks."
+        },
+        {
+          "number": 118,
+          "text": "Getting the university to stop selling"
+        },
+        {
+          "number": 119,
+          "text": "sugary drinks was surprisingly easy, Ms."
+        },
+        {
+          "number": 120,
+          "text": "Schmidt and her colleagues say. The school’s"
+        },
+        {
+          "number": 121,
+          "text": "chancellor, after some initial reluctance,"
+        },
+        {
+          "number": 122,
+          "text": "decided that the goal was important, and"
+        },
+        {
+          "number": 123,
+          "text": "many faculty members supported the idea."
+        },
+        {
+          "number": 124,
+          "text": "The university’s beverage supplier then"
+        },
+        {
+          "number": 125,
+          "text": "agreed to stock the campus stores and"
+        },
+        {
+          "number": null,
+          "text": "7"
+        },
+        {
+          "number": 126,
+          "text": "cafeterias with mostly water and zero-calorie"
+        },
+        {
+          "number": 127,
+          "text": "drinks. One exception was made for 100"
+        },
+        {
+          "number": 128,
+          "text": "percent fruit juices, which have natural but"
+        },
+        {
+          "number": 129,
+          "text": "not added sugars."
+        },
+        {
+          "number": 130,
+          "text": "The policy was announced last July and"
+        },
+        {
+          "number": 131,
+          "text": "phased in over a four-month period as the"
+        },
+        {
+          "number": 132,
+          "text": "university handed out pamphlets and other"
+        },
+        {
+          "number": 133,
+          "text": "educational materials to students and staff"
+        },
+        {
+          "number": 134,
+          "text": "members."
+        },
+        {
+          "number": 135,
+          "text": "“We educated everyone and explained"
+        },
+        {
+          "number": 136,
+          "text": "to people how harmful sugar sweetened"
+        },
+        {
+          "number": 137,
+          "text": "beverages can be to health,” said Leeane"
+        },
+        {
+          "number": 138,
+          "text": "Jensen, the director of well-being at the"
+        },
+        {
+          "number": 139,
+          "text": "university. “People got it right away, and they"
+        },
+        {
+          "number": 140,
+          "text": "were all in support of it.”"
+        },
+        {
+          "number": 141,
+          "text": "Robert W. Jones, who owns two Subway"
+        },
+        {
+          "number": 142,
+          "text": "franchises on the campus, said that when the"
+        },
+        {
+          "number": 143,
+          "text": "school asked him to stop selling soda, he"
+        },
+        {
+          "number": 144,
+          "text": "worried that it would upset his customers. Mr."
+        },
+        {
+          "number": 145,
+          "text": "Jones said that his beverage sales declined by"
+        },
+        {
+          "number": 146,
+          "text": "about 10 percent in the first two months after"
+        },
+        {
+          "number": 147,
+          "text": "the soda was removed, but that he recovered"
+        },
+        {
+          "number": 148,
+          "text": "most of the business through sales of diet"
+        },
+        {
+          "number": 149,
+          "text": "drinks and bottled water."
+        },
+        {
+          "number": 150,
+          "text": "Whether the policy will have any"
+        },
+        {
+          "number": 151,
+          "text": "measurable impact on health remains to be"
+        },
+        {
+          "number": 152,
+          "text": "seen. Elissa Epel, the associate director of the"
+        },
+        {
+          "number": 153,
+          "text": "university’s Nutrition and Obesity Research"
+        },
+        {
+          "number": 154,
+          "text": "Center, said she and her colleagues want to"
+        },
+        {
+          "number": 155,
+          "text": "find out if employees who manage to reduce"
+        },
+        {
+          "number": 156,
+          "text": "their overall sugary drink intake saw any"
+        },
+        {
+          "number": 157,
+          "text": "impact on things like weight loss, liver health,"
+        },
+        {
+          "number": 158,
+          "text": "insulin resistance and telomeres, the stretches"
+        },
+        {
+          "number": 159,
+          "text": "of DNA that are linked to longevity."
+        },
+        {
+          "number": 160,
+          "text": "One employee who is enrolled in the"
+        },
+        {
+          "number": 161,
+          "text": "study, Kristine Obiniana, an analyst at the"
+        },
+        {
+          "number": 162,
+          "text": "medical center, said she had been consuming"
+        },
+        {
+          "number": 163,
+          "text": "as many as three sugary drinks per day. Ms."
+        },
+        {
+          "number": 164,
+          "text": "Obiniana said that when the policy first went"
+        },
+        {
+          "number": 165,
+          "text": "into effect last year, she found herself"
+        },
+        {
+          "number": 166,
+          "text": "bringing ginger ale, Dr. Pepper and Capri Sun"
+        },
+        {
+          "number": 167,
+          "text": "juices to work.  Eventually, she stopped"
+        },
+        {
+          "number": 168,
+          "text": "bringing soda to work and started drinking"
+        },
+        {
+          "number": 169,
+          "text": "water, tea and zero-calorie flavored drinks"
+        },
+        {
+          "number": 170,
+          "text": "instead. She has lost five pounds and hopes to"
+        },
+        {
+          "number": 171,
+          "text": "lose at least 20 more."
+        },
+        {
+          "number": null,
+          "text": "www.nytimes.com/nov/03/2016"
+        },
+        {
+          "number": null,
+          "text": "Q U E S T I O N S"
+        }
+      ],
+      "questionIds": [
+        "uece-2017-1-f2-english-q01",
+        "uece-2017-1-f2-english-q02",
+        "uece-2017-1-f2-english-q03",
+        "uece-2017-1-f2-english-q04",
+        "uece-2017-1-f2-english-q05",
+        "uece-2017-1-f2-english-q06",
+        "uece-2017-1-f2-english-q07",
+        "uece-2017-1-f2-english-q08",
+        "uece-2017-1-f2-english-q09",
+        "uece-2017-1-f2-english-q10",
+        "uece-2017-1-f2-english-q11",
+        "uece-2017-1-f2-english-q12",
+        "uece-2017-1-f2-english-q13",
+        "uece-2017-1-f2-english-q14",
+        "uece-2017-1-f2-english-q15",
+        "uece-2017-1-f2-english-q16",
+        "uece-2017-1-f2-english-q17",
+        "uece-2017-1-f2-english-q18",
+        "uece-2017-1-f2-english-q19",
+        "uece-2017-1-f2-english-q20"
+      ]
+    }
+  ]
+}

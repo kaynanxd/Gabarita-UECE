@@ -1,0 +1,1143 @@
+{
+  "paperId": "uece-2019-2-f2-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2019-2-f2-portuguese-t1",
+      "label": "TEXTO 1",
+      "title": "Poluição das águas continentais",
+      "lines": [
+        {
+          "number": 1,
+          "text": "A poluição das águas continentais,"
+        },
+        {
+          "number": 2,
+          "text": "principalmente nos grandes centros urbanos,"
+        },
+        {
+          "number": 3,
+          "text": "é cada vez mais alarmante."
+        },
+        {
+          "number": 4,
+          "text": "As perspectivas futuras para as"
+        },
+        {
+          "number": 5,
+          "text": "águas continentais são bastante negativas."
+        },
+        {
+          "number": 6,
+          "text": "Muitos são os estudos que buscam"
+        },
+        {
+          "number": 7,
+          "text": "contemplar informações sobre a quantidade"
+        },
+        {
+          "number": 8,
+          "text": "e qualidade da água disponível. A ONU"
+        },
+        {
+          "number": 9,
+          "text": "(Organização das Nações Unidas) elaborou"
+        },
+        {
+          "number": 10,
+          "text": "uma série de estudos para obter um parecer"
+        },
+        {
+          "number": 11,
+          "text": "concreto da real situação no quadro hídrico"
+        },
+        {
+          "number": 12,
+          "text": "do planeta e ficou comprovado que, com"
+        },
+        {
+          "number": 13,
+          "text": "o passar do tempo, o comprometimento das"
+        },
+        {
+          "number": 14,
+          "text": "águas para o consumo humano, para a"
+        },
+        {
+          "number": 15,
+          "text": "manutenção de animais e para a irrigação na"
+        },
+        {
+          "number": 16,
+          "text": "agricultura ocorre de forma crescente."
+        },
+        {
+          "number": 17,
+          "text": "Atualmente, vários fatores e"
+        },
+        {
+          "number": 18,
+          "text": "seguimentos distintos contribuem para o"
+        },
+        {
+          "number": 19,
+          "text": "processo de escassez desse recurso"
+        },
+        {
+          "number": 20,
+          "text": "indispensável a todo ser vivo, dentre os"
+        },
+        {
+          "number": 21,
+          "text": "principais estão: a atividade industrial, que"
+        },
+        {
+          "number": 22,
+          "text": "utiliza os rios para escoar os seus rejeitos; as"
+        },
+        {
+          "number": 23,
+          "text": "mineradoras; a agricultura, que faz uso de"
+        },
+        {
+          "number": 24,
+          "text": "diversos insumos agrícolas (fertilizantes,"
+        },
+        {
+          "number": 25,
+          "text": "inseticidas, herbicidas e etc.), com intuito de"
+        },
+        {
+          "number": 26,
+          "text": "aumentar a produção, a fim de atender o"
+        },
+        {
+          "number": 27,
+          "text": "mercado externo, ou seja, exportação; entre"
+        },
+        {
+          "number": 28,
+          "text": "outros."
+        },
+        {
+          "number": 29,
+          "text": "Uma parte dos insumos agrícolas é"
+        },
+        {
+          "number": 30,
+          "text": "levada pela enxurrada da chuva, que chega a"
+        },
+        {
+          "number": 31,
+          "text": "rios e córregos, inserindo várias substâncias"
+        },
+        {
+          "number": 32,
+          "text": "tóxicas. Essas mesmas substâncias são"
+        },
+        {
+          "number": 33,
+          "text": "absorvidas pelo solo e atingem o lençol"
+        },
+        {
+          "number": 34,
+          "text": "freático."
+        },
+        {
+          "number": 35,
+          "text": "Das substâncias comumente"
+        },
+        {
+          "number": 36,
+          "text": "encontradas como agentes poluidores estão:"
+        },
+        {
+          "number": 37,
+          "text": "restos de petróleo e derivados, chumbo,"
+        },
+        {
+          "number": 38,
+          "text": "mercúrio e metais pesados, que são"
+        },
+        {
+          "number": 39,
+          "text": "largamente usados em indústrias e na"
+        },
+        {
+          "number": 40,
+          "text": "extração de minérios."
+        },
+        {
+          "number": 41,
+          "text": "Outro centro de difusão de poluição"
+        },
+        {
+          "number": 42,
+          "text": "são os centros urbanos, que, diariamente,"
+        },
+        {
+          "number": 43,
+          "text": "em todo o planeta e, principalmente nos"
+        },
+        {
+          "number": 44,
+          "text": "países pobres, lançam esgotos domésticos"
+        },
+        {
+          "number": 45,
+          "text": "sem nenhum tipo de tratamento. O esgoto"
+        },
+        {
+          "number": 46,
+          "text": "atinge rios e córregos, além do lençol"
+        },
+        {
+          "number": 47,
+          "text": "freático, que estão nas proximidades das"
+        },
+        {
+          "number": 48,
+          "text": "cidades. Isso acontece em vários lugares, no"
+        },
+        {
+          "number": 49,
+          "text": "entanto, a incidência é mais comum em"
+        },
+        {
+          "number": 50,
+          "text": "pequenas cidades que não possuem centros"
+        },
+        {
+          "number": 51,
+          "text": "de tratamento do esgoto doméstico."
+        },
+        {
+          "number": 52,
+          "text": "O desmatamento é um fator direto"
+        },
+        {
+          "number": 53,
+          "text": "que agrava a questão da escassez da água,"
+        },
+        {
+          "number": 54,
+          "text": "uma vez que ao retirar a cobertura vegetal"
+        },
+        {
+          "number": 55,
+          "text": "para a ocupação urbana ou rural, o solo fica"
+        },
+        {
+          "number": 56,
+          "text": "exposto à água da chuva e vento. Com isso,"
+        },
+        {
+          "number": 57,
+          "text": "o solo vai sendo depositado nos mananciais,"
+        },
+        {
+          "number": 58,
+          "text": "provocando o assoreamento dos rios, esse"
+        },
+        {
+          "number": 59,
+          "text": "processo promove mudanças climáticas e"
+        },
+        {
+          "number": 60,
+          "text": "compromete a vida aquática."
+        },
+        {
+          "number": 61,
+          "text": "Os garimpos, que têm suas"
+        },
+        {
+          "number": 62,
+          "text": "atividades às margens de rios, provocam a"
+        },
+        {
+          "number": 63,
+          "text": "dispersão de minerais pesados, como o"
+        },
+        {
+          "number": 64,
+          "text": "mercúrio, poluindo as águas que são"
+        },
+        {
+          "number": 65,
+          "text": "consumidas por comunidades."
+        },
+        {
+          "number": 66,
+          "text": "Os portos realizam limpeza de cinco"
+        },
+        {
+          "number": 67,
+          "text": "em cinco anos, jogando uma imensa"
+        },
+        {
+          "number": 68,
+          "text": "quantidade de dejetos; os aterros sanitários"
+        },
+        {
+          "number": 69,
+          "text": "são grandes agentes poluidores de águas,"
+        },
+        {
+          "number": 70,
+          "text": "principalmente do lençol freático, pois"
+        },
+        {
+          "number": 71,
+          "text": "milhões de toneladas de lixo acumulados"
+        },
+        {
+          "number": 72,
+          "text": "liberam um líquido (chorume) que é"
+        },
+        {
+          "number": 73,
+          "text": "absorvido pelo solo e atinge as reservas"
+        },
+        {
+          "number": 74,
+          "text": "subterrâneas de água."
+        },
+        {
+          "number": null,
+          "text": "Adaptado de FREITAS, Eduardo de. Poluição de Águas"
+        },
+        {
+          "number": null,
+          "text": "Continentais. Brasil Escola. Disponível em:"
+        },
+        {
+          "number": null,
+          "text": "<https://brasilescola.uol.com.br/geografia/poluicao-aguas-"
+        },
+        {
+          "number": null,
+          "text": "continentais.htm>. Acesso em: 20 de maio de 2019."
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f2-portuguese-q01",
+        "uece-2019-2-f2-portuguese-q02",
+        "uece-2019-2-f2-portuguese-q03",
+        "uece-2019-2-f2-portuguese-q04",
+        "uece-2019-2-f2-portuguese-q05"
+      ]
+    },
+    {
+      "id": "uece-2019-2-f2-portuguese-t2",
+      "label": "TEXTO 2",
+      "title": "meio ambiente",
+      "lines": [
+        {
+          "number": null,
+          "text": "Conheça 5 atitudes simples para preservar o"
+        },
+        {
+          "number": 75,
+          "text": "É possível mudar muito fazendo atitudes"
+        },
+        {
+          "number": 76,
+          "text": "simples em seu cotidiano."
+        },
+        {
+          "number": 77,
+          "text": "Não é mais nenhum segredo que as"
+        },
+        {
+          "number": 78,
+          "text": "mudanças climáticas e agressão ao meio"
+        },
+        {
+          "number": 79,
+          "text": "ambiente estão entre as ameaças mais"
+        },
+        {
+          "number": 80,
+          "text": "graves à humanidade e, se nada for feito,"
+        },
+        {
+          "number": 81,
+          "text": "em poucos séculos, a Terra como"
+        },
+        {
+          "number": 82,
+          "text": "conhecemos pode deixar de existir. Mas"
+        },
+        {
+          "number": 83,
+          "text": "[...] pouca gente parece perceber ou"
+        },
+        {
+          "number": 84,
+          "text": "compreender o que pode fazer de fato para"
+        },
+        {
+          "number": 85,
+          "text": "mudar a situação. Não é preciso muito:"
+        },
+        {
+          "number": 86,
+          "text": "atitudes simples no dia a dia podem ajudar"
+        },
+        {
+          "number": 87,
+          "text": "a minimizar os danos causados no meio"
+        },
+        {
+          "number": 88,
+          "text": "ambiente."
+        },
+        {
+          "number": 89,
+          "text": "Economize energia"
+        },
+        {
+          "number": 90,
+          "text": "Comece trocando as lâmpadas por modelos"
+        },
+        {
+          "number": 91,
+          "text": "eficientes. [...]. Em seguida, preste atenção"
+        },
+        {
+          "number": 92,
+          "text": "para não deixar luzes acesas em cômodos"
+        },
+        {
+          "number": 93,
+          "text": "que não estão sendo utilizados e desligue o"
+        },
+        {
+          "number": 94,
+          "text": "computador durante a noite. Nas tarefas"
+        },
+        {
+          "number": 95,
+          "text": "domésticas, busque ser mais eficiente, por"
+        },
+        {
+          "number": 96,
+          "text": "exemplo, esperando acumular roupas o"
+        },
+        {
+          "number": 97,
+          "text": "suficiente para encher uma máquina antes"
+        },
+        {
+          "number": 98,
+          "text": "de lavá-las."
+        },
+        {
+          "number": 99,
+          "text": "Economize papel"
+        },
+        {
+          "number": 100,
+          "text": "Evite impressões desnecessárias: ingressos"
+        },
+        {
+          "number": 101,
+          "text": "(quando há a opção de e-ticket), extratos"
+        },
+        {
+          "number": 102,
+          "text": "de banco, via da compra no cartão, contas"
+        },
+        {
+          "number": 103,
+          "text": "que podem ser pagas online… [...] Ao usar"
+        },
+        {
+          "number": 104,
+          "text": "papel para anotações, certifique-se de usá-"
+        },
+        {
+          "number": 105,
+          "text": "lo por completo antes de reciclar. E, na hora"
+        },
+        {
+          "number": 106,
+          "text": "de dar presentes, experimente reutilizar"
+        },
+        {
+          "number": 107,
+          "text": "papéis antigos ou buscar novas formas"
+        },
+        {
+          "number": 108,
+          "text": "criativas de embrulhá-los."
+        },
+        {
+          "number": 109,
+          "text": "Tenha um dia vegetariano"
+        },
+        {
+          "number": 110,
+          "text": "Você não precisa parar de comer carne,"
+        },
+        {
+          "number": 111,
+          "text": "mas experimente deixar de consumir carne"
+        },
+        {
+          "number": 112,
+          "text": "por somente um dia. São necessários 9,5"
+        },
+        {
+          "number": 113,
+          "text": "mil litros de água para produzir cada meio"
+        },
+        {
+          "number": 114,
+          "text": "quilo de carne, e cada hambúrguer que vem"
+        },
+        {
+          "number": 115,
+          "text": "de animais que pastam em áreas"
+        },
+        {
+          "number": 116,
+          "text": "desmatadas causou a destruição de cinco"
+        },
+        {
+          "number": 117,
+          "text": "metros quadrados de floresta."
+        },
+        {
+          "number": 118,
+          "text": "Desligue a torneira"
+        },
+        {
+          "number": 119,
+          "text": "Só de desligar a torneira ao escovar os"
+        },
+        {
+          "number": 120,
+          "text": "dentes, por exemplo, é possível economizar"
+        },
+        {
+          "number": 121,
+          "text": "18 litros de água por dia. Experimente fazer"
+        },
+        {
+          "number": 122,
+          "text": "o mesmo quando for ensaboar as mãos ou"
+        },
+        {
+          "number": 123,
+          "text": "as louças na pia na hora de lavá-las para"
+        },
+        {
+          "number": 124,
+          "text": "economizar ainda mais."
+        },
+        {
+          "number": 125,
+          "text": "Reduza o consumo de plástico"
+        },
+        {
+          "number": 126,
+          "text": "Você já deve ter ouvido falar da ilha de"
+        },
+        {
+          "number": 127,
+          "text": "plástico no Pacífico. Ela é formada por 4"
+        },
+        {
+          "number": null,
+          "text": "8"
+        },
+        {
+          "number": 128,
+          "text": "milhões de toneladas de plástico [...]."
+        },
+        {
+          "number": 129,
+          "text": "Reduzir o consumo de plástico no dia a dia"
+        },
+        {
+          "number": 130,
+          "text": "é fundamental para reverter este cenário."
+        },
+        {
+          "number": 131,
+          "text": "Muitas cidades brasileiras já aboliram a"
+        },
+        {
+          "number": 132,
+          "text": "sacola plástica no supermercado [...]."
+        },
+        {
+          "number": 133,
+          "text": "Tenha a própria garrafinha para quando"
+        },
+        {
+          "number": 134,
+          "text": "precisar tomar água: cerca de 90% das"
+        },
+        {
+          "number": 135,
+          "text": "garrafas de plástico não são recicladas e"
+        },
+        {
+          "number": 136,
+          "text": "acabam em aterros. E, se for usar copos"
+        },
+        {
+          "number": 137,
+          "text": "plásticos, [...] adote a técnica de marcar o"
+        },
+        {
+          "number": 138,
+          "text": "nome com uma caneta em vez de jogá-lo"
+        },
+        {
+          "number": 139,
+          "text": "no lixo cada vez que for tomar algo."
+        },
+        {
+          "number": null,
+          "text": "Adaptado de MARASCIULO, Marília. Conheça 5 atitudes"
+        },
+        {
+          "number": null,
+          "text": "simples para preservar o meio ambiente. Revista Galileu."
+        },
+        {
+          "number": null,
+          "text": "Disponível em:"
+        },
+        {
+          "number": null,
+          "text": "https://revistagalileu.globo.com/Ciencia/Meio-"
+        },
+        {
+          "number": null,
+          "text": "Ambiente/noticia/2019/01/conheca-5-atitudes-simples-"
+        },
+        {
+          "number": null,
+          "text": "para-preservar-o-meio-ambiente.html. 2019."
+        },
+        {
+          "number": null,
+          "text": "Acesso em: 20 de maio de 2019."
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f2-portuguese-q06",
+        "uece-2019-2-f2-portuguese-q07",
+        "uece-2019-2-f2-portuguese-q08",
+        "uece-2019-2-f2-portuguese-q09",
+        "uece-2019-2-f2-portuguese-q10"
+      ]
+    },
+    {
+      "id": "uece-2019-2-f2-portuguese-t3",
+      "label": "TEXTO 3",
+      "title": "9",
+      "lines": [
+        {
+          "number": null,
+          "text": "O Açúcar"
+        },
+        {
+          "number": null,
+          "text": "Ferreira Gullar"
+        },
+        {
+          "number": 140,
+          "text": "O branco açúcar que adoçará meu café"
+        },
+        {
+          "number": 141,
+          "text": "nesta manhã de Ipanema"
+        },
+        {
+          "number": 142,
+          "text": "não foi produzido por mim"
+        },
+        {
+          "number": 143,
+          "text": "nem surgiu dentro do açucareiro por"
+        },
+        {
+          "number": 144,
+          "text": "milagre."
+        },
+        {
+          "number": 145,
+          "text": "Vejo-o puro"
+        },
+        {
+          "number": 146,
+          "text": "e afável ao paladar"
+        },
+        {
+          "number": 147,
+          "text": "como beijo de moça, água"
+        },
+        {
+          "number": 148,
+          "text": "na pele, flor"
+        },
+        {
+          "number": 149,
+          "text": "que se dissolve na boca. Mas este açúcar"
+        },
+        {
+          "number": 150,
+          "text": "não foi feito por mim."
+        },
+        {
+          "number": 151,
+          "text": "Este açúcar veio"
+        },
+        {
+          "number": 152,
+          "text": "da mercearia da esquina e tampouco o fez o"
+        },
+        {
+          "number": 153,
+          "text": "Oliveira,"
+        },
+        {
+          "number": 154,
+          "text": "dono da mercearia."
+        },
+        {
+          "number": 155,
+          "text": "Este açúcar veio"
+        },
+        {
+          "number": 156,
+          "text": "de uma usina de açúcar em Pernambuco"
+        },
+        {
+          "number": 157,
+          "text": "ou no Estado do Rio"
+        },
+        {
+          "number": 158,
+          "text": "e tampouco o fez o dono da usina."
+        },
+        {
+          "number": 159,
+          "text": "Este açúcar era cana"
+        },
+        {
+          "number": 160,
+          "text": "e veio dos canaviais extensos"
+        },
+        {
+          "number": 161,
+          "text": "que não nascem por acaso"
+        },
+        {
+          "number": 162,
+          "text": "no regaço do vale."
+        },
+        {
+          "number": 163,
+          "text": "Em lugares distantes, onde não há hospital"
+        },
+        {
+          "number": 164,
+          "text": "nem escola,"
+        },
+        {
+          "number": 165,
+          "text": "homens que não sabem ler e morrem de"
+        },
+        {
+          "number": 166,
+          "text": "fome"
+        },
+        {
+          "number": 167,
+          "text": "aos 27 anos"
+        },
+        {
+          "number": 168,
+          "text": "plantaram e colheram a cana"
+        },
+        {
+          "number": 169,
+          "text": "que viraria açúcar."
+        },
+        {
+          "number": 170,
+          "text": "Em usinas escuras,"
+        },
+        {
+          "number": 171,
+          "text": "homens de vida amarga"
+        },
+        {
+          "number": 172,
+          "text": "e dura"
+        },
+        {
+          "number": 173,
+          "text": "produziram este açúcar"
+        },
+        {
+          "number": 174,
+          "text": "branco e puro"
+        },
+        {
+          "number": 175,
+          "text": "com que adoço meu café esta manhã em"
+        },
+        {
+          "number": 176,
+          "text": "Ipanema."
+        },
+        {
+          "number": null,
+          "text": "GULLAR, Ferreira. Toda Poesia. Rio de Janeiro: Civilização"
+        },
+        {
+          "number": null,
+          "text": "Brasileira, 1980. p.277-278."
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f2-portuguese-q11",
+        "uece-2019-2-f2-portuguese-q12",
+        "uece-2019-2-f2-portuguese-q13",
+        "uece-2019-2-f2-portuguese-q14",
+        "uece-2019-2-f2-portuguese-q15"
+      ]
+    },
+    {
+      "id": "uece-2019-2-f2-portuguese-t4",
+      "label": "TEXTO 4",
+      "title": "anos antes da Lei Áurea",
+      "lines": [
+        {
+          "number": null,
+          "text": "Dragão do Mar fez Ceará abolir a escravidão 4"
+        },
+        {
+          "number": null,
+          "text": "Maria Fernanda Garcia"
+        },
+        {
+          "number": 177,
+          "text": "O Brasil comemora no dia 13 de maio a"
+        },
+        {
+          "number": 178,
+          "text": "abolição da escravidão no país, oficializada"
+        },
+        {
+          "number": 179,
+          "text": "pela Lei Áurea, em 1888. O que muitos"
+        },
+        {
+          "number": 180,
+          "text": "desconhecem é que o estado do Ceará"
+        },
+        {
+          "number": 181,
+          "text": "aboliu a escravidão quatro anos antes da"
+        },
+        {
+          "number": 182,
+          "text": "Lei Áurea. Em 25 de março de 1884, o"
+        },
+        {
+          "number": 183,
+          "text": "presidente da província, Sátiro de Oliveira"
+        },
+        {
+          "number": 184,
+          "text": "Dias, declarou a libertação de todos os"
+        },
+        {
+          "number": 185,
+          "text": "escravos do Ceará, tornando o estado o"
+        },
+        {
+          "number": 186,
+          "text": "primeiro a abolir a escravidão no país."
+        },
+        {
+          "number": 187,
+          "text": "Isso foi possível graças a Francisco"
+        },
+        {
+          "number": 188,
+          "text": "José do Nascimento, também conhecido"
+        },
+        {
+          "number": 189,
+          "text": "como Dragão do Mar ou Chico da Matilde."
+        },
+        {
+          "number": 190,
+          "text": "Homem de origem humilde, jangadeiro e"
+        },
+        {
+          "number": 191,
+          "text": "abolicionista, teve participação ativa no"
+        },
+        {
+          "number": 192,
+          "text": "Movimento Abolicionista no Ceará."
+        },
+        {
+          "number": 193,
+          "text": "Francisco José era chefe dos"
+        },
+        {
+          "number": 194,
+          "text": "jangadeiros e, em 1881, convenceu os"
+        },
+        {
+          "number": 195,
+          "text": "colegas jangadeiros a se recusarem a"
+        },
+        {
+          "number": 196,
+          "text": "transportar para os navios negreiros"
+        },
+        {
+          "number": 197,
+          "text": "os escravos vendidos para o sul do Brasil."
+        },
+        {
+          "number": 198,
+          "text": "A ação repercutiu no país e somada às"
+        },
+        {
+          "number": 199,
+          "text": "ações dos outros abolicionistas do Ceará,"
+        },
+        {
+          "number": 200,
+          "text": "que pertenciam à elite econômica e"
+        },
+        {
+          "number": 201,
+          "text": "intelectual do estado, levou ao fim da"
+        },
+        {
+          "number": 202,
+          "text": "escravidão no Ceará."
+        },
+        {
+          "number": 203,
+          "text": "A ação iniciada pelo Dragão do Mar foi"
+        },
+        {
+          "number": 204,
+          "text": "tão importante que Angelo Agostini"
+        },
+        {
+          "number": 205,
+          "text": "(desenhista ítalo-brasileiro) registrou o fato"
+        },
+        {
+          "number": 206,
+          "text": "na capa da Revista Illustrada, com uma"
+        },
+        {
+          "number": 207,
+          "text": "ilustração alegórica de Francisco"
+        },
+        {
+          "number": 208,
+          "text": "Nascimento, com a seguinte legenda: “À"
+        },
+        {
+          "number": 209,
+          "text": "testa dos jangadeiros cearenses,"
+        },
+        {
+          "number": 210,
+          "text": "Nascimento impede o tráfico dos escravos"
+        },
+        {
+          "number": 211,
+          "text": "da província do Ceará vendidos para o sul”."
+        },
+        {
+          "number": 212,
+          "text": "Francisco José do Nascimento virou um"
+        },
+        {
+          "number": 213,
+          "text": "símbolo da resistência popular cearense"
+        },
+        {
+          "number": 214,
+          "text": "contra a escravidão e foi homenageado pelo"
+        },
+        {
+          "number": 215,
+          "text": "governo do Ceará, com seu nome dado ao"
+        },
+        {
+          "number": 216,
+          "text": "Centro Dragão do Mar de Arte e Cultura,"
+        },
+        {
+          "number": 217,
+          "text": "pelo que ele e seus colegas realizaram em"
+        },
+        {
+          "number": 218,
+          "text": "nome da liberdade, em 1881, na Praia de"
+        },
+        {
+          "number": 219,
+          "text": "Iracema. Francisco faleceu em Fortaleza em"
+        },
+        {
+          "number": 220,
+          "text": "05 de março de 1914."
+        },
+        {
+          "number": null,
+          "text": "GARCIA, Maria Fernanda. Dragão do Mar fez Ceará abolir a"
+        },
+        {
+          "number": null,
+          "text": "escravidão 4 anos antes da Lei Áurea. Observatório do"
+        },
+        {
+          "number": null,
+          "text": "Terceiro Setor. 2018. Disponível em:"
+        },
+        {
+          "number": null,
+          "text": "https://observatorio3setor.org.br/carrossel/dragao-do-"
+        },
+        {
+          "number": null,
+          "text": "mar-fez-ceara-abolir-a-escravidao-4-anos-antes-da-lei-"
+        },
+        {
+          "number": null,
+          "text": "aurea/ Acesso em: 09 de maio de 2019."
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f2-portuguese-q16",
+        "uece-2019-2-f2-portuguese-q17",
+        "uece-2019-2-f2-portuguese-q18",
+        "uece-2019-2-f2-portuguese-q19"
+      ]
+    },
+    {
+      "id": "uece-2019-2-f2-portuguese-t5",
+      "label": "TEXTO 5",
+      "title": "Grito Negro",
+      "lines": [
+        {
+          "number": 221,
+          "text": "Eu sou carvão!"
+        },
+        {
+          "number": 222,
+          "text": "E tu arrancas-me brutalmente do chão"
+        },
+        {
+          "number": 223,
+          "text": "e me fazes tua mina, patrão."
+        },
+        {
+          "number": 224,
+          "text": "Eu sou carvão!"
+        },
+        {
+          "number": 225,
+          "text": "E tu acendes-me, patrão,"
+        },
+        {
+          "number": 226,
+          "text": "para te servir eternamente como força motriz"
+        },
+        {
+          "number": 227,
+          "text": "mas eternamente não, patrão."
+        },
+        {
+          "number": 228,
+          "text": "Eu sou carvão e tenho que arder sim;"
+        },
+        {
+          "number": 229,
+          "text": "queimar tudo com a força da minha"
+        },
+        {
+          "number": 230,
+          "text": "combustão."
+        },
+        {
+          "number": 231,
+          "text": "Eu sou carvão;"
+        },
+        {
+          "number": 232,
+          "text": "tenho que arder na exploração"
+        },
+        {
+          "number": 233,
+          "text": "arder até às cinzas da maldição"
+        },
+        {
+          "number": 234,
+          "text": "arder vivo como alcatrão, meu irmão,"
+        },
+        {
+          "number": 235,
+          "text": "até não ser mais a tua mina, patrão."
+        },
+        {
+          "number": 236,
+          "text": "Eu sou carvão."
+        },
+        {
+          "number": 237,
+          "text": "Tenho que arder"
+        },
+        {
+          "number": 238,
+          "text": "Queimar tudo com o fogo da minha"
+        },
+        {
+          "number": 239,
+          "text": "combustão."
+        },
+        {
+          "number": 240,
+          "text": "Sim!"
+        },
+        {
+          "number": 241,
+          "text": "Eu sou o teu carvão, patrão."
+        },
+        {
+          "number": null,
+          "text": "CRAVEIRINHA, José João. Karingana Ua Karingana."
+        },
+        {
+          "number": null,
+          "text": "(Era uma vez). Lisboa: Edições 70, 1982."
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f2-portuguese-q20"
+      ]
+    }
+  ]
+}

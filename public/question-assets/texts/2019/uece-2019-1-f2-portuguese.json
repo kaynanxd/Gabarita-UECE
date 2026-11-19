@@ -1,0 +1,786 @@
+{
+  "paperId": "uece-2019-1-f2-portuguese",
+  "subject": "portuguese",
+  "texts": [
+    {
+      "id": "uece-2019-1-f2-portuguese-t1",
+      "label": "TEXTO 1",
+      "title": "O Bicho",
+      "lines": [
+        {
+          "number": null,
+          "text": "Manuel Bandeira"
+        },
+        {
+          "number": 1,
+          "text": "Vi ontem um bicho"
+        },
+        {
+          "number": 2,
+          "text": "Na imundície do pátio"
+        },
+        {
+          "number": 3,
+          "text": "Catando comida entre os detritos."
+        },
+        {
+          "number": 4,
+          "text": "Quando achava alguma coisa,"
+        },
+        {
+          "number": 5,
+          "text": "Não examinava nem cheirava:"
+        },
+        {
+          "number": 6,
+          "text": "Engolia com voracidade."
+        },
+        {
+          "number": 7,
+          "text": "O bicho não era um cão,"
+        },
+        {
+          "number": 8,
+          "text": "Não era um gato,"
+        },
+        {
+          "number": 9,
+          "text": "Não era um rato."
+        },
+        {
+          "number": 10,
+          "text": "O bicho, meu Deus, era um homem."
+        },
+        {
+          "number": null,
+          "text": "BANDEIRA, M. Poesias completas. 4. ed. Rio de Janeiro:"
+        },
+        {
+          "number": null,
+          "text": "José Olympio, 1986."
+        }
+      ],
+      "questionIds": [
+        "uece-2019-1-f2-portuguese-q01",
+        "uece-2019-1-f2-portuguese-q02",
+        "uece-2019-1-f2-portuguese-q03",
+        "uece-2019-1-f2-portuguese-q04",
+        "uece-2019-1-f2-portuguese-q05"
+      ]
+    },
+    {
+      "id": "uece-2019-1-f2-portuguese-t2",
+      "label": "TEXTO 2",
+      "title": "para reduzir fome no mundo",
+      "lines": [
+        {
+          "number": null,
+          "text": "ONU pede combate a desperdício de alimento"
+        },
+        {
+          "number": null,
+          "text": "Com um quarto do que se perde em escala global"
+        },
+        {
+          "number": null,
+          "text": "seria possível alimentar todas as vítimas de fome"
+        },
+        {
+          "number": null,
+          "text": "crônica do planeta; Brasil foi premiado por ações de"
+        },
+        {
+          "number": null,
+          "text": "combate à subnutrição."
+        },
+        {
+          "number": 11,
+          "text": "A Organização das Nações Unidas para a"
+        },
+        {
+          "number": 12,
+          "text": "Alimentação e a Agricultura (FAO) alertou"
+        },
+        {
+          "number": 13,
+          "text": "hoje (16), Dia Mundial da Alimentação, que o"
+        },
+        {
+          "number": 14,
+          "text": "desperdício ainda é uma das principais"
+        },
+        {
+          "number": 15,
+          "text": "razões da fome no mundo. Segundo a"
+        },
+        {
+          "number": 16,
+          "text": "entidade, um terço dos alimentos produzidos"
+        },
+        {
+          "number": 17,
+          "text": "no mundo por ano é desperdiçado – o"
+        },
+        {
+          "number": 18,
+          "text": "equivalente a 1,3 bilhão de toneladas e mais"
+        },
+        {
+          "number": 19,
+          "text": "de US$ 750 bilhões."
+        },
+        {
+          "number": 20,
+          "text": "Para o responsável pela infraestrutura rural"
+        },
+        {
+          "number": 21,
+          "text": "da FAO, Robert van Otterdijk, com um quarto"
+        },
+        {
+          "number": 22,
+          "text": "do total desperdiçado seria possível"
+        },
+        {
+          "number": 23,
+          "text": "alimentar todas as vítimas de fome crônica"
+        },
+        {
+          "number": 24,
+          "text": "no mundo, que equivale a 842 milhões de"
+        },
+        {
+          "number": 25,
+          "text": "pessoas, segundo dados recentes da"
+        },
+        {
+          "number": 26,
+          "text": "instituição."
+        },
+        {
+          "number": 27,
+          "text": "Segundo o especialista, “reduzir à metade"
+        },
+        {
+          "number": 28,
+          "text": "esse desperdício, bastaria para aumentar a"
+        },
+        {
+          "number": 29,
+          "text": "produção alimentar mundial em 32% e para"
+        },
+        {
+          "number": 30,
+          "text": "conseguir dar comida a 9 bilhões de pessoas,"
+        },
+        {
+          "number": 31,
+          "text": "a população mundial prevista em 2050”."
+        },
+        {
+          "number": 32,
+          "text": "Peritos da ONU calculam que será necessário"
+        },
+        {
+          "number": 33,
+          "text": "aumentar em 60% da produção de alimentos"
+        },
+        {
+          "number": 34,
+          "text": "para dar conta das necessidades futuras da"
+        },
+        {
+          "number": 35,
+          "text": "humanidade, um patamar insustentável para"
+        },
+        {
+          "number": 36,
+          "text": "o planeta."
+        },
+        {
+          "number": 37,
+          "text": "Para a coordenadora de um relatório da FAO"
+        },
+        {
+          "number": 38,
+          "text": "sobre os custos do desperdício alimentar,"
+        },
+        {
+          "number": 39,
+          "text": "Mathilde Iweins, “as superfícies agrícolas"
+        },
+        {
+          "number": 40,
+          "text": "utilizadas para a produção de alimentos que"
+        },
+        {
+          "number": 41,
+          "text": "não serão utilizados equivalem às do Canadá"
+        },
+        {
+          "number": 42,
+          "text": "e da Índia, em conjunto”."
+        },
+        {
+          "number": 43,
+          "text": "As principais razões do desperdício são, nos"
+        },
+        {
+          "number": 44,
+          "text": "países industrializados, o excesso de normas"
+        },
+        {
+          "number": 45,
+          "text": "e regras, devido a preocupações sanitárias"
+        },
+        {
+          "number": 46,
+          "text": "ou estéticas e, nos países em"
+        },
+        {
+          "number": 47,
+          "text": "desenvolvimento, as reduzidas capacidades"
+        },
+        {
+          "number": 48,
+          "text": "de armazenamento e de acesso ao mercado."
+        },
+        {
+          "number": 49,
+          "text": "O diretor da FAO na Ásia e Pacífico, Hiroyuki"
+        },
+        {
+          "number": 50,
+          "text": "Konuma, alertou que a inflação também é"
+        },
+        {
+          "number": 51,
+          "text": "uma barreira. “Os altos preços, que são 50%"
+        },
+        {
+          "number": 52,
+          "text": "maiores em termos reais comparativamente"
+        },
+        {
+          "number": 53,
+          "text": "há dez anos, aumentam a vulnerabilidade"
+        },
+        {
+          "number": 54,
+          "text": "dos pobres”, disse."
+        },
+        {
+          "number": 55,
+          "text": "Segundo a FAO pelo menos 2 bilhões de"
+        },
+        {
+          "number": 56,
+          "text": "pessoas são vítimas da subnutrição, no"
+        },
+        {
+          "number": 57,
+          "text": "mundo, 60% delas na região Ásia-Pacífico."
+        },
+        {
+          "number": 58,
+          "text": "Em todo o planeta, uma em cada oito"
+        },
+        {
+          "number": 59,
+          "text": "pessoas e uma em cada quatro crianças com"
+        },
+        {
+          "number": 60,
+          "text": "menos de cinco anos é vítima de má"
+        },
+        {
+          "number": 61,
+          "text": "nutrição. Ao todo, 165 milhões de crianças"
+        },
+        {
+          "number": null,
+          "text": "7"
+        },
+        {
+          "number": 62,
+          "text": "nunca desenvolveram seu potencial"
+        },
+        {
+          "number": 63,
+          "text": "intelectual e físico devido à carência de"
+        },
+        {
+          "number": 64,
+          "text": "nutrientes."
+        },
+        {
+          "number": 65,
+          "text": "Em um relatório publicado em junho, a FAO"
+        },
+        {
+          "number": 66,
+          "text": "avaliou que o custo da subnutrição e das"
+        },
+        {
+          "number": 67,
+          "text": "carências em micronutrientes representam"
+        },
+        {
+          "number": 68,
+          "text": "de 2% a 3% do Produto Interno Bruto (PIB)"
+        },
+        {
+          "number": 69,
+          "text": "mundial, ou seja, entre US$ 1,4 bilhão e US$"
+        },
+        {
+          "number": 70,
+          "text": "2,1 bilhões. “Conseguir o maior número"
+        },
+        {
+          "number": 71,
+          "text": "possível de alimentos de cada gota de água,"
+        },
+        {
+          "number": 72,
+          "text": "porção de terreno, partícula de fertilizantes e"
+        },
+        {
+          "number": 73,
+          "text": "minuto de trabalho poupa recursos para o"
+        },
+        {
+          "number": 74,
+          "text": "futuro e torna os sistemas mais"
+        },
+        {
+          "number": 75,
+          "text": "sustentáveis”, lembrou a organização em"
+        },
+        {
+          "number": 76,
+          "text": "nota."
+        },
+        {
+          "number": 77,
+          "text": "Além das pessoas com problemas de"
+        },
+        {
+          "number": 78,
+          "text": "subnutrição, outras 1,4 bilhão estão com"
+        },
+        {
+          "number": 79,
+          "text": "excesso de peso, incluindo 500 milhões de"
+        },
+        {
+          "number": 80,
+          "text": "obesos. A organização destacou a"
+        },
+        {
+          "number": 81,
+          "text": "importância de uma dieta equilibrada para"
+        },
+        {
+          "number": 82,
+          "text": "combater o aumento da obesidade e garantir"
+        },
+        {
+          "number": 83,
+          "text": "a saúde das populações."
+        },
+        {
+          "number": null,
+          "text": "Notícia adaptada do portal Rede Brasil Atual"
+        },
+        {
+          "number": null,
+          "text": "publicada 16/10/2013 às 11h18min. Disponível em:"
+        },
+        {
+          "number": null,
+          "text": "https://www.redebrasilatual.com.br/cidadania/2013/10/on"
+        },
+        {
+          "number": null,
+          "text": "u-pede-reducao-do desperdicio-de-alimento-para-reduzir-"
+        },
+        {
+          "number": null,
+          "text": "fome-no-mundo-5807.html. Acesso: 10.11.2018."
+        }
+      ],
+      "questionIds": [
+        "uece-2019-1-f2-portuguese-q06",
+        "uece-2019-1-f2-portuguese-q07",
+        "uece-2019-1-f2-portuguese-q08",
+        "uece-2019-1-f2-portuguese-q09",
+        "uece-2019-1-f2-portuguese-q10"
+      ]
+    },
+    {
+      "id": "uece-2019-1-f2-portuguese-t3",
+      "label": "TEXTO 3",
+      "title": "Comida",
+      "lines": [
+        {
+          "number": null,
+          "text": "Titãs"
+        },
+        {
+          "number": 84,
+          "text": "Bebida é água"
+        },
+        {
+          "number": 85,
+          "text": "Comida é pasto"
+        },
+        {
+          "number": 86,
+          "text": "Você tem sede de quê?"
+        },
+        {
+          "number": 87,
+          "text": "Você tem fome de quê?"
+        },
+        {
+          "number": 88,
+          "text": "A gente não quer só comida"
+        },
+        {
+          "number": 89,
+          "text": "A gente quer comida, diversão e arte"
+        },
+        {
+          "number": 90,
+          "text": "A gente não quer só comida"
+        },
+        {
+          "number": 91,
+          "text": "A gente quer saída para qualquer parte"
+        },
+        {
+          "number": 92,
+          "text": "A gente não quer só comida"
+        },
+        {
+          "number": 93,
+          "text": "A gente quer bebida, diversão, balé"
+        },
+        {
+          "number": 94,
+          "text": "A gente não quer só comida"
+        },
+        {
+          "number": 95,
+          "text": "A gente quer a vida como a vida quer"
+        },
+        {
+          "number": 96,
+          "text": "Bebida é água"
+        },
+        {
+          "number": 97,
+          "text": "Comida é pasto"
+        },
+        {
+          "number": 98,
+          "text": "Você tem sede de quê?"
+        },
+        {
+          "number": 99,
+          "text": "Você tem fome de quê?"
+        },
+        {
+          "number": 100,
+          "text": "A gente não quer só comer"
+        },
+        {
+          "number": 101,
+          "text": "A gente quer comer e quer fazer amor"
+        },
+        {
+          "number": 102,
+          "text": "A gente não quer só comer"
+        },
+        {
+          "number": 103,
+          "text": "A gente quer prazer pra aliviar a dor"
+        },
+        {
+          "number": 104,
+          "text": "A gente não quer só dinheiro"
+        },
+        {
+          "number": 105,
+          "text": "A gente quer dinheiro e felicidade"
+        },
+        {
+          "number": 106,
+          "text": "A gente não quer só dinheiro"
+        },
+        {
+          "number": 107,
+          "text": "A gente quer inteiro e não pela metade"
+        },
+        {
+          "number": 108,
+          "text": "Diversão e arte"
+        },
+        {
+          "number": 109,
+          "text": "para qualquer parte"
+        },
+        {
+          "number": 110,
+          "text": "diversão, balé"
+        },
+        {
+          "number": 111,
+          "text": "como a vida quer..."
+        },
+        {
+          "number": 112,
+          "text": "Desejo, necessidade, vontade"
+        },
+        {
+          "number": 113,
+          "text": "necessidade, desejo"
+        },
+        {
+          "number": 114,
+          "text": "necessidade, vontade"
+        },
+        {
+          "number": 115,
+          "text": "necessidade!"
+        },
+        {
+          "number": null,
+          "text": "ANTUNES, Arnaldo; FROMER, Marcelo; BRITO, Sergio."
+        },
+        {
+          "number": null,
+          "text": "Comida. Intérprete: Titãs. In: Titãs. Jesus não tem dentes"
+        },
+        {
+          "number": null,
+          "text": "no país dos banguelas. Rio de Janeiro: WEA. 1 disco"
+        },
+        {
+          "number": null,
+          "text": "sonoro (LP). Lado A, faixa 2. 1987."
+        }
+      ],
+      "questionIds": [
+        "uece-2019-1-f2-portuguese-q11",
+        "uece-2019-1-f2-portuguese-q12",
+        "uece-2019-1-f2-portuguese-q13",
+        "uece-2019-1-f2-portuguese-q14",
+        "uece-2019-1-f2-portuguese-q15"
+      ]
+    },
+    {
+      "id": "uece-2019-1-f2-portuguese-t4",
+      "label": "TEXTO 4",
+      "title": "[...]",
+      "lines": [
+        {
+          "number": 116,
+          "text": "Uma noite de inverno, gelada e nevoenta,"
+        },
+        {
+          "number": 117,
+          "text": "cercava a criaturinha. Silêncio completo,"
+        },
+        {
+          "number": 118,
+          "text": "nenhum sinal de vida nos arredores. O galo"
+        },
+        {
+          "number": 119,
+          "text": "velho não cantava no poleiro, nem Fabiano"
+        },
+        {
+          "number": 120,
+          "text": "roncava na cama de varas. Estes sons não"
+        },
+        {
+          "number": 121,
+          "text": "interessavam Baleia, mas quando o galo"
+        },
+        {
+          "number": 122,
+          "text": "batia as asas e Fabiano se virava,"
+        },
+        {
+          "number": 123,
+          "text": "emanações familiares revelavam-lhe a"
+        },
+        {
+          "number": 124,
+          "text": "presença deles. Agora parecia que a"
+        },
+        {
+          "number": 125,
+          "text": "fazenda se tinha despovoado."
+        },
+        {
+          "number": 126,
+          "text": "Baleia respirava depressa, a boca aberta, os"
+        },
+        {
+          "number": 127,
+          "text": "queixos desgovernados, a língua pendente"
+        },
+        {
+          "number": 128,
+          "text": "e insensível. Não sabia o que tinha"
+        },
+        {
+          "number": 129,
+          "text": "sucedido. O estrondo, a pancada que"
+        },
+        {
+          "number": 130,
+          "text": "recebera no quarto e a viagem difícil no"
+        },
+        {
+          "number": 131,
+          "text": "barreiro ao fim do pátio desvaneciam-se no"
+        },
+        {
+          "number": 132,
+          "text": "seu espírito."
+        },
+        {
+          "number": 133,
+          "text": "Provavelmente estava na cozinha, entre as"
+        },
+        {
+          "number": 134,
+          "text": "pedras que serviam de trempe. Antes de se"
+        },
+        {
+          "number": 135,
+          "text": "deitar, sinhá Vitória retirava dali os carvões"
+        },
+        {
+          "number": 136,
+          "text": "e a cinza, varria com um molho de"
+        },
+        {
+          "number": 137,
+          "text": "vassourinha o chão queimado, e aquilo"
+        },
+        {
+          "number": 138,
+          "text": "ficava um bom lugar para cachorro"
+        },
+        {
+          "number": 139,
+          "text": "descansar. O calor afugentava as pulgas, a"
+        },
+        {
+          "number": 140,
+          "text": "terra se amaciava. E, findos os cochilos,"
+        },
+        {
+          "number": 141,
+          "text": "numerosos preás corriam e saltavam, um"
+        },
+        {
+          "number": 142,
+          "text": "formigueiro de preás invadia a cozinha."
+        },
+        {
+          "number": 143,
+          "text": "A tremura subia, deixava a barriga e"
+        },
+        {
+          "number": 144,
+          "text": "chegava ao peito de Baleia. Do outro peito"
+        },
+        {
+          "number": 145,
+          "text": "para trás era tudo insensibilidade e"
+        },
+        {
+          "number": 146,
+          "text": "esquecimento. Mas o resto do corpo se"
+        },
+        {
+          "number": 147,
+          "text": "arrepiava, espinhos de mandacaru"
+        },
+        {
+          "number": 148,
+          "text": "penetravam na carne meio comida pela"
+        },
+        {
+          "number": 149,
+          "text": "doença."
+        },
+        {
+          "number": 150,
+          "text": "Baleia encostava a cabecinha fatigada na"
+        },
+        {
+          "number": 151,
+          "text": "pedra. A pedra estava fria, certamente"
+        },
+        {
+          "number": 152,
+          "text": "sinhá Vitória tinha deixado o fogo apagar-se"
+        },
+        {
+          "number": 153,
+          "text": "muito cedo."
+        },
+        {
+          "number": 154,
+          "text": "Baleia queria dormir. Acordaria feliz, num"
+        },
+        {
+          "number": 155,
+          "text": "mundo cheio de preás. E lamberia as mãos"
+        },
+        {
+          "number": 156,
+          "text": "de Fabiano, um Fabiano enorme. As"
+        },
+        {
+          "number": 157,
+          "text": "crianças se espojariam com ela, rolariam"
+        },
+        {
+          "number": 158,
+          "text": "com ela num pátio enorme, num chiqueiro"
+        },
+        {
+          "number": 159,
+          "text": "enorme. O mundo ficaria todo cheio de"
+        },
+        {
+          "number": 160,
+          "text": "preás, gordos, enormes."
+        },
+        {
+          "number": null,
+          "text": "RAMOS, Graciliano. Vidas secas, 82ª ed. Rio de Janeiro:"
+        },
+        {
+          "number": null,
+          "text": "Record. 2001. p. 85-91."
+        }
+      ],
+      "questionIds": [
+        "uece-2019-1-f2-portuguese-q16",
+        "uece-2019-1-f2-portuguese-q17",
+        "uece-2019-1-f2-portuguese-q18",
+        "uece-2019-1-f2-portuguese-q19",
+        "uece-2019-1-f2-portuguese-q20"
+      ]
+    }
+  ]
+}

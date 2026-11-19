@@ -1,0 +1,435 @@
+{
+  "paperId": "uece-2017-2-f1-english",
+  "subject": "english",
+  "texts": [
+    {
+      "id": "uece-2017-2-f1-english-t1",
+      "label": "Texto 1",
+      "title": "T E X T",
+      "lines": [
+        {
+          "number": null,
+          "text": "If all of the children who currently are"
+        },
+        {
+          "number": null,
+          "text": "sedentary started exercising every day, societies"
+        },
+        {
+          "number": null,
+          "text": "could save enormous amounts of money in the"
+        },
+        {
+          "number": null,
+          "text": "coming decades and have healthier citizens as a"
+        },
+        {
+          "number": null,
+          "text": "whole, according to a remarkable new study. In the"
+        },
+        {
+          "number": null,
+          "text": "United States alone, we could expect to save more"
+        },
+        {
+          "number": null,
+          "text": "than $120 billion every year in health care and"
+        },
+        {
+          "number": null,
+          "text": "associated expenses. The study is the first to use"
+        },
+        {
+          "number": null,
+          "text": "sophisticated computer simulations to arrive at a"
+        },
+        {
+          "number": null,
+          "text": "literal and sobering societal price tag for allowing"
+        },
+        {
+          "number": null,
+          "text": "our children to be sedentary."
+        },
+        {
+          "number": null,
+          "text": "Inactivity is, of course, widespread among"
+        },
+        {
+          "number": null,
+          "text": "young people today. Recent research shows that in"
+        },
+        {
+          "number": null,
+          "text": "the United States and Europe, physical activity"
+        },
+        {
+          "number": null,
+          "text": "tends to peak at about age 7 for both boys and"
+        },
+        {
+          "number": null,
+          "text": "girls and tail off continually throughout"
+        },
+        {
+          "number": null,
+          "text": "adolescence. More than two-thirds of children in the"
+        },
+        {
+          "number": null,
+          "text": "United States rarely exercise at all."
+        },
+        {
+          "number": null,
+          "text": "The immediate health consequences for"
+        },
+        {
+          "number": null,
+          "text": "inactive children and their families are worrisome."
+        },
+        {
+          "number": null,
+          "text": "Childhood obesity, which is linked to lack of"
+        },
+        {
+          "number": null,
+          "text": "exercise, is common, as is the incidence of Type 2"
+        },
+        {
+          "number": null,
+          "text": "diabetes and other health problems related to being"
+        },
+        {
+          "number": null,
+          "text": "overweight among children as young as 6."
+        },
+        {
+          "number": null,
+          "text": "But the long-term financial costs of"
+        },
+        {
+          "number": null,
+          "text": "inactivity in the young, both for them and society"
+        },
+        {
+          "number": null,
+          "text": "as a whole, have never been quantified. So for the"
+        },
+        {
+          "number": null,
+          "text": "new study, which was published this week in Health"
+        },
+        {
+          "number": null,
+          "text": "Affairs, researchers with the Global Obesity"
+        },
+        {
+          "number": null,
+          "text": "Prevention Center at Johns Hopkins University in"
+        },
+        {
+          "number": null,
+          "text": "Baltimore and other institutions decided to create a"
+        },
+        {
+          "number": null,
+          "text": "bogglingly complex computer model of what the"
+        },
+        {
+          "number": null,
+          "text": "future could look like if we do or do not get more of"
+        },
+        {
+          "number": null,
+          "text": "our children moving."
+        },
+        {
+          "number": null,
+          "text": "The researchers began by gathering as"
+        },
+        {
+          "number": null,
+          "text": "much public data as is currently available about the"
+        },
+        {
+          "number": null,
+          "text": "20"
+        },
+        {
+          "number": null,
+          "text": "health, weight and physical activity patterns of all"
+        },
+        {
+          "number": null,
+          "text": "31.7 million American children now aged 8 to 11,"
+        },
+        {
+          "number": null,
+          "text": "using large-scale databases from the Census"
+        },
+        {
+          "number": null,
+          "text": "Bureau, the Centers for Disease Control and"
+        },
+        {
+          "number": null,
+          "text": "Prevention, and other groups."
+        },
+        {
+          "number": null,
+          "text": "The researchers fed this information into a"
+        },
+        {
+          "number": null,
+          "text": "computerized modeling program that created an"
+        },
+        {
+          "number": null,
+          "text": "electronic avatar for every American child today. In"
+        },
+        {
+          "number": null,
+          "text": "line with reality, two-thirds of these children were"
+        },
+        {
+          "number": null,
+          "text": "programmed to rarely exercise and many were"
+        },
+        {
+          "number": null,
+          "text": "overweight or obese."
+        },
+        {
+          "number": null,
+          "text": "The scientists then had the simulated"
+        },
+        {
+          "number": null,
+          "text": "children grow up. Using estimations about how"
+        },
+        {
+          "number": null,
+          "text": "calorie intake and activity patterns affect body"
+        },
+        {
+          "number": null,
+          "text": "weight, the program changed each virtual child’s"
+        },
+        {
+          "number": null,
+          "text": "body day-by-day and year-by-year into adulthood."
+        },
+        {
+          "number": null,
+          "text": "Most became increasingly overweight."
+        },
+        {
+          "number": null,
+          "text": "As the simulated children became adults,"
+        },
+        {
+          "number": null,
+          "text": "the scientists then modeled each one’s health,"
+        },
+        {
+          "number": null,
+          "text": "based on obesity-associated risks for heart disease,"
+        },
+        {
+          "number": null,
+          "text": "diabetes, stroke and cancer, and also the probable"
+        },
+        {
+          "number": null,
+          "text": "financial price of dealing with those diseases"
+        },
+        {
+          "number": null,
+          "text": "(adjusted for future inflation), both in terms of"
+        },
+        {
+          "number": null,
+          "text": "direct expenses for hospitalizations, drugs and so"
+        },
+        {
+          "number": null,
+          "text": "on, and lost productivity because of someone’s"
+        },
+        {
+          "number": null,
+          "text": "being ill."
+        },
+        {
+          "number": null,
+          "text": "The results were staggering. According to"
+        },
+        {
+          "number": null,
+          "text": "the computer model, the costs of today’s 8- to 11-"
+        },
+        {
+          "number": null,
+          "text": "year-olds being inactive and consequently"
+        },
+        {
+          "number": null,
+          "text": "overweight would be almost $3 trillion in medical"
+        },
+        {
+          "number": null,
+          "text": "expenses and lost productivity every year once the"
+        },
+        {
+          "number": null,
+          "text": "children reached adulthood and for decades until"
+        },
+        {
+          "number": null,
+          "text": "their deaths."
+        },
+        {
+          "number": null,
+          "text": "But when the researchers tweaked"
+        },
+        {
+          "number": null,
+          "text": "children’s activity levels within their model, the"
+        },
+        {
+          "number": null,
+          "text": "numbers began to look quite different. If they"
+        },
+        {
+          "number": null,
+          "text": "presumed that, in an imaginary America, half of all"
+        },
+        {
+          "number": null,
+          "text": "children exercised vigorously for about 25 minutes"
+        },
+        {
+          "number": null,
+          "text": "three times a week, such as during active recess or"
+        },
+        {
+          "number": null,
+          "text": "sports or, more ambitiously, ran around and moved"
+        },
+        {
+          "number": null,
+          "text": "for at least an hour every day, which is the amount"
+        },
+        {
+          "number": null,
+          "text": "of youth exercise recommended by the C.D.C.,"
+        },
+        {
+          "number": null,
+          "text": "their virtual lives were transformed."
+        },
+        {
+          "number": null,
+          "text": "Most obviously, the incidence of childhood"
+        },
+        {
+          "number": null,
+          "text": "obesity fell by more than 4 percent, a change that"
+        },
+        {
+          "number": null,
+          "text": "resonated throughout the simulated children’s lives"
+        },
+        {
+          "number": null,
+          "text": "and society. There were about half a million fewer"
+        },
+        {
+          "number": null,
+          "text": "cases of adult-onset heart disease, diabetes, cancer"
+        },
+        {
+          "number": null,
+          "text": "and strokes in this simulation, and the society-wide"
+        },
+        {
+          "number": null,
+          "text": "costs associated with these illnesses dropped by"
+        },
+        {
+          "number": null,
+          "text": "about $32 billion every year if the children romped"
+        },
+        {
+          "number": null,
+          "text": "about for 25 minutes three times per week and by"
+        },
+        {
+          "number": null,
+          "text": "almost $37 billion if they moved for an hour every"
+        },
+        {
+          "number": null,
+          "text": "day."
+        },
+        {
+          "number": null,
+          "text": "The impacts were even more substantial"
+        },
+        {
+          "number": null,
+          "text": "when the researchers assumed that 100 percent of"
+        },
+        {
+          "number": null,
+          "text": "the children who are now sedentary got regular"
+        },
+        {
+          "number": null,
+          "text": "exercise. In this scenario, the annual total costs"
+        },
+        {
+          "number": null,
+          "text": "during adulthood from obesity-associated medical"
+        },
+        {
+          "number": null,
+          "text": "expenses and lost productivity plummeted by about"
+        },
+        {
+          "number": null,
+          "text": "$62 billion when children were active three times a"
+        },
+        {
+          "number": null,
+          "text": "week and by more than $120 billion every year"
+        },
+        {
+          "number": null,
+          "text": "when all of the virtual children played and moved"
+        },
+        {
+          "number": null,
+          "text": "for at least an hour each day."
+        },
+        {
+          "number": null,
+          "text": "From: https://www.nytimes.com May 3, 2017"
+        },
+        {
+          "number": null,
+          "text": "Q U E S T I O N S"
+        }
+      ],
+      "questionIds": [
+        "uece-2017-2-f1-english-q63",
+        "uece-2017-2-f1-english-q64",
+        "uece-2017-2-f1-english-q65",
+        "uece-2017-2-f1-english-q66",
+        "uece-2017-2-f1-english-q67",
+        "uece-2017-2-f1-english-q68",
+        "uece-2017-2-f1-english-q69",
+        "uece-2017-2-f1-english-q70"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "paperId": "uece-2020-1-f2-english",
+  "subject": "english",
+  "texts": [
+    {
+      "id": "uece-2020-1-f2-english-t1",
+      "label": "TEXTO",
+      "title": null,
+      "lines": [
+        {
+          "number": null,
+          "text": "The Future Of Work: 5 Important Ways Jobs"
+        },
+        {
+          "number": null,
+          "text": "Will Change In The 4th Industrial Revolution"
+        },
+        {
+          "number": 1,
+          "text": "In many respects, the future of"
+        },
+        {
+          "number": 2,
+          "text": "work is already here. Amid the headlines"
+        },
+        {
+          "number": 3,
+          "text": "exclaiming the predicted loss of jobs due"
+        },
+        {
+          "number": 4,
+          "text": "to automation and other changes brought"
+        },
+        {
+          "number": 5,
+          "text": "by artificial intelligence (AI), machine"
+        },
+        {
+          "number": 6,
+          "text": "learning and autonomous systems, it’s"
+        },
+        {
+          "number": 7,
+          "text": "clear that the way we work and live is"
+        },
+        {
+          "number": 8,
+          "text": "transforming. This evolution can be"
+        },
+        {
+          "number": 9,
+          "text": "unnerving. Since we know change is"
+        },
+        {
+          "number": 10,
+          "text": "inevitable, let’s look at how work will"
+        },
+        {
+          "number": 11,
+          "text": "likely change and some ideas for how to"
+        },
+        {
+          "number": 12,
+          "text": "prepare for it."
+        },
+        {
+          "number": 13,
+          "text": "At least 30% of the activities"
+        },
+        {
+          "number": 14,
+          "text": "associated with the majority of"
+        },
+        {
+          "number": 15,
+          "text": "occupations in the United States could be"
+        },
+        {
+          "number": 16,
+          "text": "automated, which includes even"
+        },
+        {
+          "number": 17,
+          "text": "knowledge tasks that were previously"
+        },
+        {
+          "number": 18,
+          "text": "thought to be safe according to a"
+        },
+        {
+          "number": 19,
+          "text": "McKinsey Global Institute report. This"
+        },
+        {
+          "number": 20,
+          "text": "echoes what executives see as well and"
+        },
+        {
+          "number": 21,
+          "text": "prompted Rick Jensen, Chief Talent"
+        },
+        {
+          "number": 22,
+          "text": "Officer at Intuit to say, “The workforce is"
+        },
+        {
+          "number": 23,
+          "text": "changing massively.” Here are just a few"
+        },
+        {
+          "number": 24,
+          "text": "of the ways:"
+        },
+        {
+          "number": 25,
+          "text": "Within an organization, positions"
+        },
+        {
+          "number": 26,
+          "text": "will be more fluid, and a strict"
+        },
+        {
+          "number": 27,
+          "text": "organizational chart will likely be tossed"
+        },
+        {
+          "number": 28,
+          "text": "in favor of more project-based teams."
+        },
+        {
+          "number": 29,
+          "text": "This is especially appealing to Generation"
+        },
+        {
+          "number": 30,
+          "text": "Z employees since 75% of Generation Z"
+        },
+        {
+          "number": 31,
+          "text": "employees would be interested in having"
+        },
+        {
+          "number": 32,
+          "text": "multiple roles in one place of"
+        },
+        {
+          "number": 33,
+          "text": "employment. The “gig” economy will"
+        },
+        {
+          "number": 34,
+          "text": "continue to expand where professionals"
+        },
+        {
+          "number": 35,
+          "text": "sign on as contractors or freelancers and"
+        },
+        {
+          "number": 36,
+          "text": "then move on to the next gig."
+        },
+        {
+          "number": 37,
+          "text": "Thanks to mobile technology and"
+        },
+        {
+          "number": 38,
+          "text": "readily available internet access, remote"
+        },
+        {
+          "number": 39,
+          "text": "workers are already common. Employees"
+        },
+        {
+          "number": 40,
+          "text": "won’t need to be in the same location."
+        },
+        {
+          "number": 41,
+          "text": "This will make it easier for the next"
+        },
+        {
+          "number": 42,
+          "text": "generation workers to choose to live"
+        },
+        {
+          "number": 43,
+          "text": "anywhere, rather than find a job and then"
+        },
+        {
+          "number": 44,
+          "text": "move to a city with that job."
+        },
+        {
+          "number": 45,
+          "text": "People will need something more"
+        },
+        {
+          "number": 46,
+          "text": "than a paycheck as a motivation to work."
+        },
+        {
+          "number": 47,
+          "text": "Many want to work for an organization"
+        },
+        {
+          "number": 48,
+          "text": "with a mission and purpose they believe"
+        },
+        {
+          "number": 49,
+          "text": "in. They will also want different incentives"
+        },
+        {
+          "number": 50,
+          "text": "such as personal development"
+        },
+        {
+          "number": 51,
+          "text": "opportunities, the latest tech gadgets to"
+        },
+        {
+          "number": 52,
+          "text": "facilitate their work-from-anywhere"
+        },
+        {
+          "number": 53,
+          "text": "ambitions, and more."
+        },
+        {
+          "number": 54,
+          "text": "Not only will employees want to"
+        },
+        {
+          "number": 55,
+          "text": "learn throughout their career, but they"
+        },
+        {
+          "number": 56,
+          "text": "will also need to learn new skills."
+        },
+        {
+          "number": 57,
+          "text": "Technology will continue to evolve the"
+        },
+        {
+          "number": 58,
+          "text": "role humans play in the workforce, so"
+        },
+        {
+          "number": 59,
+          "text": "everyone will be required to adapt their"
+        },
+        {
+          "number": 60,
+          "text": "skills throughout their working lives."
+        },
+        {
+          "number": 61,
+          "text": "Artificial intelligence algorithms"
+        },
+        {
+          "number": 62,
+          "text": "and intelligent machines will be co-"
+        },
+        {
+          "number": 63,
+          "text": "workers to humans. The human workforce"
+        },
+        {
+          "number": 64,
+          "text": "will need to develop a level of comfort"
+        },
+        {
+          "number": 65,
+          "text": "and acceptance for how man and machine"
+        },
+        {
+          "number": 66,
+          "text": "can collaborate using the best that both"
+        },
+        {
+          "number": 67,
+          "text": "bring to the workplace."
+        },
+        {
+          "number": 68,
+          "text": "Even though we can’t predict all"
+        },
+        {
+          "number": 69,
+          "text": "the changes that will occur in the future,"
+        },
+        {
+          "number": 70,
+          "text": "we do have a fair amount of certainty that"
+        },
+        {
+          "number": 71,
+          "text": "there are some things people can do to"
+        },
+        {
+          "number": 72,
+          "text": "prepare for it. Rather than succumb to the"
+        },
+        {
+          "number": 73,
+          "text": "doomsday predictions that “robots will"
+        },
+        {
+          "number": 74,
+          "text": "take over all the jobs,” a more optimistic"
+        },
+        {
+          "number": 75,
+          "text": "outlook is one where humans get the"
+        },
+        {
+          "number": 76,
+          "text": "opportunity to do work that demands"
+        },
+        {
+          "number": 77,
+          "text": "their creativity, imagination, social and"
+        },
+        {
+          "number": 78,
+          "text": "emotional intelligence, and passion."
+        },
+        {
+          "number": 79,
+          "text": "Individuals will need to act and"
+        },
+        {
+          "number": 80,
+          "text": "engage in lifelong learning, so they are"
+        },
+        {
+          "number": 81,
+          "text": "adaptable when the changes happen. The"
+        },
+        {
+          "number": 82,
+          "text": "lifespan for any given skill set is"
+        },
+        {
+          "number": 83,
+          "text": "shrinking, so it will be imperative for"
+        },
+        {
+          "number": 84,
+          "text": "individuals to continue to invest in"
+        },
+        {
+          "number": 85,
+          "text": "acquiring new skills. The shift to lifelong"
+        },
+        {
+          "number": 86,
+          "text": "learning needs to happen now because"
+        },
+        {
+          "number": 87,
+          "text": "the changes are already happening."
+        },
+        {
+          "number": 88,
+          "text": "In addition, employees will need"
+        },
+        {
+          "number": 89,
+          "text": "to shape their own career path. Gone are"
+        },
+        {
+          "number": 90,
+          "text": "the days when a career trajectory is"
+        },
+        {
+          "number": 91,
+          "text": "outlined at one company with predictable"
+        },
+        {
+          "number": 92,
+          "text": "climbs up the corporate ladder. Therefore,"
+        },
+        {
+          "number": 93,
+          "text": "employees should pursue a diverse set of"
+        },
+        {
+          "number": 94,
+          "text": "work experiences and take the initiative"
+        },
+        {
+          "number": 95,
+          "text": "to shape their own career paths."
+        },
+        {
+          "number": 96,
+          "text": "Individuals will need to step into"
+        },
+        {
+          "number": 97,
+          "text": "the opportunity that pursuing your"
+        },
+        {
+          "number": 98,
+          "text": "passion provides rather than shrink back"
+        },
+        {
+          "number": 99,
+          "text": "to what had resulted in success in the"
+        },
+        {
+          "number": 100,
+          "text": "past. This shift in work opens the"
+        },
+        {
+          "number": 101,
+          "text": "possibility to achieve more of our"
+        },
+        {
+          "number": 102,
+          "text": "potential. We need to begin to think of"
+        },
+        {
+          "number": 103,
+          "text": "work as more than a paycheck."
+        },
+        {
+          "number": 104,
+          "text": "Employers need to think"
+        },
+        {
+          "number": 105,
+          "text": "differently about how they recruit and"
+        },
+        {
+          "number": 106,
+          "text": "hire new employees. Companies need to"
+        },
+        {
+          "number": 107,
+          "text": "review a prospective employee’s potential"
+        },
+        {
+          "number": 108,
+          "text": "and assess skills that are less likely to be"
+        },
+        {
+          "number": 109,
+          "text": "automated any time soon, including"
+        },
+        {
+          "number": 110,
+          "text": "emotional intelligence, critical thinking,"
+        },
+        {
+          "number": 111,
+          "text": "creativity, and problem-solving skills."
+        },
+        {
+          "number": 112,
+          "text": "Another way employers will need"
+        },
+        {
+          "number": 113,
+          "text": "to adjust operations is to create a"
+        },
+        {
+          "number": 114,
+          "text": "structure and culture that honors lifelong"
+        },
+        {
+          "number": 115,
+          "text": "learning, and that celebrates creativity."
+        },
+        {
+          "number": 116,
+          "text": "It's time for employers to assess their"
+        },
+        {
+          "number": 117,
+          "text": "benefit and incentive programs to ensure"
+        },
+        {
+          "number": 118,
+          "text": "they are providing the motivation the"
+        },
+        {
+          "number": 119,
+          "text": "next generation of employees will want in"
+        },
+        {
+          "number": 120,
+          "text": "order to attract the best talent."
+        },
+        {
+          "number": 121,
+          "text": "While nothing is certain, it's"
+        },
+        {
+          "number": null,
+          "text": "7"
+        },
+        {
+          "number": 122,
+          "text": "important for every human to begin"
+        },
+        {
+          "number": 123,
+          "text": "taking steps in the direction to prepare"
+        },
+        {
+          "number": 124,
+          "text": "for a future where machines become"
+        },
+        {
+          "number": 125,
+          "text": "colleagues. If we don't begin to adapt to"
+        },
+        {
+          "number": 126,
+          "text": "the changes today, it will be challenging"
+        },
+        {
+          "number": 127,
+          "text": "to catch up later."
+        },
+        {
+          "number": null,
+          "text": "Fonte:"
+        },
+        {
+          "number": null,
+          "text": "https://www.forbes.com/2019/07/15"
+        },
+        {
+          "number": null,
+          "text": "Q U E S T I O N S"
+        }
+      ],
+      "questionIds": [
+        "uece-2020-1-f2-english-q01",
+        "uece-2020-1-f2-english-q02",
+        "uece-2020-1-f2-english-q03",
+        "uece-2020-1-f2-english-q04",
+        "uece-2020-1-f2-english-q05",
+        "uece-2020-1-f2-english-q06",
+        "uece-2020-1-f2-english-q07",
+        "uece-2020-1-f2-english-q08",
+        "uece-2020-1-f2-english-q09",
+        "uece-2020-1-f2-english-q10",
+        "uece-2020-1-f2-english-q11",
+        "uece-2020-1-f2-english-q12",
+        "uece-2020-1-f2-english-q13",
+        "uece-2020-1-f2-english-q14",
+        "uece-2020-1-f2-english-q15",
+        "uece-2020-1-f2-english-q16",
+        "uece-2020-1-f2-english-q17",
+        "uece-2020-1-f2-english-q18",
+        "uece-2020-1-f2-english-q19",
+        "uece-2020-1-f2-english-q20"
+      ]
+    }
+  ]
+}

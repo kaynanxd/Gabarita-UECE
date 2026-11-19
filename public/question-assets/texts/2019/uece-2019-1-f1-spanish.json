@@ -1,0 +1,339 @@
+{
+  "paperId": "uece-2019-1-f1-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2019-1-f1-spanish-t1",
+      "label": "Texto 1",
+      "title": "T E X T O",
+      "lines": [
+        {
+          "number": null,
+          "text": "Los neandertales respiraban"
+        },
+        {
+          "number": null,
+          "text": "de modo diferente"
+        },
+        {
+          "number": null,
+          "text": "Judith de Jorge"
+        },
+        {
+          "number": 1,
+          "text": "El Homo sapiens, la especie a la que"
+        },
+        {
+          "number": 2,
+          "text": "pertenecemos, coexistió durante miles de"
+        },
+        {
+          "number": 3,
+          "text": "años en Europa y Asia con otra también"
+        },
+        {
+          "number": 4,
+          "text": "inteligente y sofisticada. Eran"
+        },
+        {
+          "number": 5,
+          "text": "los neandertales, de cuyo genoma todos,"
+        },
+        {
+          "number": 6,
+          "text": "excepto los africanos, llevamos una"
+        },
+        {
+          "number": 7,
+          "text": "pequeña parte como herencia. Estos"
+        },
+        {
+          "number": 8,
+          "text": "parientes, que desaparecieron hace unos"
+        },
+        {
+          "number": 9,
+          "text": "40.000 años por causas aún desconocidas,"
+        },
+        {
+          "number": 10,
+          "text": "son los más cercanos que jamás hayamos"
+        },
+        {
+          "number": 11,
+          "text": "tenido. Muy parecidos sí, pero también"
+        },
+        {
+          "number": 12,
+          "text": "distintos. Su aspecto morfológico variaba"
+        },
+        {
+          "number": 13,
+          "text": "del de cualquiera de nosotros y,"
+        },
+        {
+          "number": 14,
+          "text": "probablemente, si uno de ellos apareciera"
+        },
+        {
+          "number": 15,
+          "text": "sentado en un vagón del metro no pasaría"
+        },
+        {
+          "number": 16,
+          "text": "desapercibido para el resto de los viajeros."
+        },
+        {
+          "number": 17,
+          "text": "Eran robustos, fuertes, achaparrados... Su"
+        },
+        {
+          "number": 18,
+          "text": "frente estaba inclinada hacia atrás y tenían"
+        },
+        {
+          "number": 19,
+          "text": "grandes arcos supraorbitarios y una nariz"
+        },
+        {
+          "number": 20,
+          "text": "exageradamente grande y ancha."
+        },
+        {
+          "number": 21,
+          "text": "Ahora, un equipo de investigadores liderado"
+        },
+        {
+          "number": 22,
+          "text": "por Asier Gómez-Olivencia, investigador"
+        },
+        {
+          "number": 23,
+          "text": "Ikerbasque en la Universidad del País Vasco"
+        },
+        {
+          "number": 24,
+          "text": "(UPV/EHU) y Ella Been, del Ono Academic"
+        },
+        {
+          "number": 25,
+          "text": "College de Tel Aviv, ha descubierto"
+        },
+        {
+          "number": 26,
+          "text": "importantes diferencias anatómicas que"
+        },
+        {
+          "number": 27,
+          "text": "distinguían a los neandertales. Gracias a la"
+        },
+        {
+          "number": 28,
+          "text": "detallada reconstrucción virtual de la caja"
+        },
+        {
+          "number": 29,
+          "text": "torácica más completa de uno de los suyos"
+        },
+        {
+          "number": 30,
+          "text": "desenterrada hasta la fecha, los científicos"
+        },
+        {
+          "number": 31,
+          "text": "han concluido que respiraban de forma"
+        },
+        {
+          "number": 32,
+          "text": "diferente a la nuestra, con mayor"
+        },
+        {
+          "number": 33,
+          "text": "intervención del diafragma, y que su"
+        },
+        {
+          "number": 34,
+          "text": "capacidad pulmonar era superior."
+        },
+        {
+          "number": 35,
+          "text": "Además, el estudio echa por tierra el mito"
+        },
+        {
+          "number": 36,
+          "text": "del neandertal cheposo y encorvado: su"
+        },
+        {
+          "number": 37,
+          "text": "columna vertebral era más recta y estable,"
+        },
+        {
+          "number": 38,
+          "text": "por lo que caminaban más erguidos que"
+        },
+        {
+          "number": 39,
+          "text": "nosotros. Las conclusiones, fruto de un"
+        },
+        {
+          "number": 40,
+          "text": "trabajo de más de diez años, aparecen"
+        },
+        {
+          "number": 41,
+          "text": "publicadas este martes en la prestigiosa"
+        },
+        {
+          "number": 42,
+          "text": "revista “Nature Communications”."
+        },
+        {
+          "number": 43,
+          "text": "Para crear su modelo de tórax 3D, los"
+        },
+        {
+          "number": 44,
+          "text": "investigadores analizaron el esqueleto de"
+        },
+        {
+          "number": 45,
+          "text": "un joven individuo llamado Kebara 2,"
+        },
+        {
+          "number": 46,
+          "text": "descubierto en Monte Carmelo (Israel) y"
+        },
+        {
+          "number": 47,
+          "text": "guardado actualmente en la Universidad de"
+        },
+        {
+          "number": 48,
+          "text": "Tel Aviv. También conocido como Moisés,"
+        },
+        {
+          "number": 49,
+          "text": "murió hace aproximadamente 60.000 años."
+        },
+        {
+          "number": 50,
+          "text": "Los restos no conservan el cráneo, que"
+        },
+        {
+          "number": 51,
+          "text": "quizás fue retirado como consecuencia de"
+        },
+        {
+          "number": 52,
+          "text": "un ritual funerario. En cambio, preservan"
+        },
+        {
+          "number": 53,
+          "text": "todas las vértebras y las costillas, así como"
+        },
+        {
+          "number": 54,
+          "text": "otras regiones anatómicas frágiles como la"
+        },
+        {
+          "number": 55,
+          "text": "pelvis o el hueso hioides (situado en el"
+        },
+        {
+          "number": 56,
+          "text": "cuello, donde se insertan algunos de los"
+        },
+        {
+          "number": 57,
+          "text": "músculos de la lengua)."
+        },
+        {
+          "number": 58,
+          "text": "Tras su meticulosa reconstrucción, para la"
+        },
+        {
+          "number": 59,
+          "text": "que escanearon cada una de las vértebras y"
+        },
+        {
+          "number": 60,
+          "text": "todos los fragmentos de costillas, los"
+        },
+        {
+          "number": 61,
+          "text": "investigadores pudieron confirmar las"
+        },
+        {
+          "number": 62,
+          "text": "llamativas diferencias entre el tórax"
+        },
+        {
+          "number": 63,
+          "text": "neandertal y el de un humano moderno. “Es"
+        },
+        {
+          "number": 64,
+          "text": "más ancho en la parte inferior, lo que está"
+        },
+        {
+          "number": 65,
+          "text": "relacionado con una pelvis también más"
+        },
+        {
+          "number": 66,
+          "text": "ancha, y la posición de la columna"
+        },
+        {
+          "number": 67,
+          "text": "vertebral, muy metida dentro del tórax,"
+        },
+        {
+          "number": 68,
+          "text": "indica que es más estable”, explica Gómez-"
+        },
+        {
+          "number": 69,
+          "text": "Olivencia a ABC. Es decir, aunque la"
+        },
+        {
+          "number": 70,
+          "text": "diferencia no era muy grande, caminaban"
+        },
+        {
+          "number": 71,
+          "text": "más rectos que nosotros. Algunos"
+        },
+        {
+          "number": 72,
+          "text": "investigadores creen que daban pasos más"
+        },
+        {
+          "number": 73,
+          "text": "cortos y que la manera en la que se movían"
+        },
+        {
+          "number": 74,
+          "text": "pudo suponer una ventaja en los terrenos"
+        },
+        {
+          "number": 75,
+          "text": "abruptos."
+        },
+        {
+          "number": null,
+          "text": "Periódico ABC – España"
+        }
+      ],
+      "questionIds": [
+        "uece-2019-1-f1-spanish-q73",
+        "uece-2019-1-f1-spanish-q74",
+        "uece-2019-1-f1-spanish-q75",
+        "uece-2019-1-f1-spanish-q76",
+        "uece-2019-1-f1-spanish-q77",
+        "uece-2019-1-f1-spanish-q78",
+        "uece-2019-1-f1-spanish-q79",
+        "uece-2019-1-f1-spanish-q80"
+      ]
+    }
+  ]
+}

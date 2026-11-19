@@ -1,0 +1,419 @@
+{
+  "paperId": "uece-2019-2-f1-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2019-2-f1-spanish-t1",
+      "label": "Texto 1",
+      "title": "T E X T O",
+      "lines": [
+        {
+          "number": null,
+          "text": "La cueva más grande del planeta"
+        },
+        {
+          "number": null,
+          "text": "explorada por el hombre"
+        },
+        {
+          "number": 1,
+          "text": "Una década después de su"
+        },
+        {
+          "number": 2,
+          "text": "descubrimiento en las junglas"
+        },
+        {
+          "number": 3,
+          "text": "vietnamitas, Son Doong, la cueva más"
+        },
+        {
+          "number": 4,
+          "text": "grande del planeta, sigue sorprendiendo a"
+        },
+        {
+          "number": 5,
+          "text": "sus exploradores, que han descubierto un"
+        },
+        {
+          "number": 6,
+          "text": "pasadizo sumergido que la conecta con otra"
+        },
+        {
+          "number": 7,
+          "text": "cueva y aumenta así su fabuloso tamaño."
+        },
+        {
+          "number": 8,
+          "text": "Desde que recorrieron Son Doong por"
+        },
+        {
+          "number": 9,
+          "text": "primera vez en 2009 y certificaron que era"
+        },
+        {
+          "number": 10,
+          "text": "la cueva más grande jamás explorada, el"
+        },
+        {
+          "number": 11,
+          "text": "equipo de espeleólogos británicos liderado"
+        },
+        {
+          "number": 12,
+          "text": "por Howard Limbert había observado un río"
+        },
+        {
+          "number": 13,
+          "text": "que chocaba con una pared de la cueva y"
+        },
+        {
+          "number": 14,
+          "text": "reaparecía en otra gruta cercana."
+        },
+        {
+          "number": null,
+          "text": "19"
+        },
+        {
+          "number": 15,
+          "text": "“Estábamos convencidos de que el río"
+        },
+        {
+          "number": 16,
+          "text": "que desaparecía en Son Doong era el"
+        },
+        {
+          "number": 17,
+          "text": "mismo que reaparecía en la cueva de Hang"
+        },
+        {
+          "number": 18,
+          "text": "Tung, a 600 metros”, dice a Efe Debora"
+        },
+        {
+          "number": 19,
+          "text": "Limbert, integrante de la expedición y"
+        },
+        {
+          "number": 20,
+          "text": "asesora de Oxalis, la empresa que desde"
+        },
+        {
+          "number": 21,
+          "text": "2013 organiza tours dentro de la cueva."
+        },
+        {
+          "number": 22,
+          "text": "Parte de la respuesta a aquella vieja"
+        },
+        {
+          "number": 23,
+          "text": "hipótesis llegó este mes, cuando los"
+        },
+        {
+          "number": 24,
+          "text": "buceadores expertos Christopher Jewell,"
+        },
+        {
+          "number": 25,
+          "text": "Jason Mallinson, John Volanthen y Richard"
+        },
+        {
+          "number": 26,
+          "text": "Stanton descubrieron un paso que en teoría"
+        },
+        {
+          "number": 27,
+          "text": "conecta con la cueva de Hang Tung."
+        },
+        {
+          "number": 28,
+          "text": "Sus expectativas de exploración se"
+        },
+        {
+          "number": 29,
+          "text": "vieron sin embargo rebajadas al comprobar"
+        },
+        {
+          "number": 30,
+          "text": "que el pasadizo no está a unos 25 metros"
+        },
+        {
+          "number": 31,
+          "text": "de profundidad, como habían estimado en"
+        },
+        {
+          "number": 32,
+          "text": "un principio, sino mucho más abajo, a al"
+        },
+        {
+          "number": 33,
+          "text": "menos 93 metros (por debajo del nivel del"
+        },
+        {
+          "number": 34,
+          "text": "mar), lo que dificulta su acceso."
+        },
+        {
+          "number": 35,
+          "text": "Los buceadores, conocidos por su"
+        },
+        {
+          "number": 36,
+          "text": "participación en el rescate de doce niños en"
+        },
+        {
+          "number": 37,
+          "text": "una cueva de Tailandia el pasado junio,"
+        },
+        {
+          "number": 38,
+          "text": "solo pudieron bajar hasta 77 metros por no"
+        },
+        {
+          "number": 39,
+          "text": "disponer de equipos de helio comprimido,"
+        },
+        {
+          "number": 40,
+          "text": "pero sus mediciones con plomadas"
+        },
+        {
+          "number": 41,
+          "text": "confirman la existencia del túnel"
+        },
+        {
+          "number": 42,
+          "text": "subacuático."
+        },
+        {
+          "number": 43,
+          "text": "“Tienen que volver con equipos nuevos"
+        },
+        {
+          "number": 44,
+          "text": "para introducirse en el pasadizo e intentar"
+        },
+        {
+          "number": 45,
+          "text": "llegar a la otra cueva. No sabemos si"
+        },
+        {
+          "number": 46,
+          "text": "podrán hacerlo este año antes de que"
+        },
+        {
+          "number": 47,
+          "text": "comiencen las lluvias (entre mayo y junio)"
+        },
+        {
+          "number": 48,
+          "text": "o habrá que esperar al año que viene”, dice"
+        },
+        {
+          "number": 49,
+          "text": "Limbert."
+        },
+        {
+          "number": 50,
+          "text": "De certificarse la conexión, la cueva"
+        },
+        {
+          "number": 51,
+          "text": "adyacente pasaría a ser parte de Son"
+        },
+        {
+          "number": 52,
+          "text": "Doong, lo que agrandaría sus ya"
+        },
+        {
+          "number": 53,
+          "text": "descomunales dimensiones (más de 9"
+        },
+        {
+          "number": 54,
+          "text": "kilómetros de largo, con una cavidad de"
+        },
+        {
+          "number": 55,
+          "text": "200 metros de alto y 175 metros de ancho"
+        },
+        {
+          "number": 56,
+          "text": "en la que cabría un edificio de 40 pisos)."
+        },
+        {
+          "number": 57,
+          "text": "“Ya podemos decir que Son Doong era"
+        },
+        {
+          "number": 58,
+          "text": "más grande de lo que era. Normalmente se"
+        },
+        {
+          "number": 59,
+          "text": "cuenta desde la superficie del agua, pero"
+        },
+        {
+          "number": 60,
+          "text": "dada la existencia del túnel, se cuentan"
+        },
+        {
+          "number": 61,
+          "text": "esos 93 metros de profundidad. La duda es"
+        },
+        {
+          "number": 62,
+          "text": "si también incluye la otra cueva y eso no se"
+        },
+        {
+          "number": 63,
+          "text": "puede certificar hasta que alguien pase de"
+        },
+        {
+          "number": 64,
+          "text": "una a otra por el túnel\", explica la"
+        },
+        {
+          "number": 65,
+          "text": "espeleóloga."
+        },
+        {
+          "number": 66,
+          "text": "Aunque Limbert está segura de que"
+        },
+        {
+          "number": 67,
+          "text": "existen cuevas mayores en la Tierra, Son"
+        },
+        {
+          "number": 68,
+          "text": "Doong es la más grande explorada por el"
+        },
+        {
+          "number": 69,
+          "text": "ser humano, con un volumen total de 38,5"
+        },
+        {
+          "number": 70,
+          "text": "millones de metros cúbicos, muy por"
+        },
+        {
+          "number": 71,
+          "text": "encima de la llamada Cueva del Ciervo"
+        },
+        {
+          "number": 72,
+          "text": "(Deer Cave) en Malasia."
+        },
+        {
+          "number": 73,
+          "text": "Los folletos turísticos la describen"
+        },
+        {
+          "number": 74,
+          "text": "como un universo único, con clima propio,"
+        },
+        {
+          "number": 75,
+          "text": "una zona de selva en las zonas donde el"
+        },
+        {
+          "number": 76,
+          "text": "techo está agrietado y estalagmitas de"
+        },
+        {
+          "number": 77,
+          "text": "hasta 80 metros de alto, las más altas que"
+        },
+        {
+          "number": 78,
+          "text": "se conocen."
+        },
+        {
+          "number": 79,
+          "text": "La cueva fue descubierta en 1991 por"
+        },
+        {
+          "number": 80,
+          "text": "el lugareño Ho Khanh, que se refugió de"
+        },
+        {
+          "number": 81,
+          "text": "una tormenta en su interior e, inconsciente"
+        },
+        {
+          "number": 82,
+          "text": "de su importancia, no memorizó su"
+        },
+        {
+          "number": 83,
+          "text": "ubicación."
+        },
+        {
+          "number": 84,
+          "text": "El relato de Khanh fue imprescindible"
+        },
+        {
+          "number": 85,
+          "text": "para los espeleólogos británicos que en"
+        },
+        {
+          "number": 86,
+          "text": "2009 exploraron Son Doong y la certificaron"
+        },
+        {
+          "number": 87,
+          "text": "como la mayor cueva del planeta."
+        },
+        {
+          "number": 88,
+          "text": "La región del parque nacional de Phong"
+        },
+        {
+          "number": 89,
+          "text": "Nha, donde en 2016 se rodaron partes de la"
+        },
+        {
+          "number": 90,
+          "text": "superproducción de Hollywood Kong: la isla"
+        },
+        {
+          "number": 91,
+          "text": "calavera, es un paraíso para los"
+        },
+        {
+          "number": 92,
+          "text": "espeleólogos, que estiman que apenas se"
+        },
+        {
+          "number": 93,
+          "text": "han explorado un 30 por ciento de las"
+        },
+        {
+          "number": 94,
+          "text": "cuevas en esta región de jungla montañosa."
+        },
+        {
+          "number": null,
+          "text": "https://www.abc.es › viajar › asia"
+        },
+        {
+          "number": null,
+          "text": "Q U E S T I O N E S"
+        }
+      ],
+      "questionIds": [
+        "uece-2019-2-f1-spanish-q73",
+        "uece-2019-2-f1-spanish-q74",
+        "uece-2019-2-f1-spanish-q75",
+        "uece-2019-2-f1-spanish-q76",
+        "uece-2019-2-f1-spanish-q77",
+        "uece-2019-2-f1-spanish-q78",
+        "uece-2019-2-f1-spanish-q79",
+        "uece-2019-2-f1-spanish-q80"
+      ]
+    }
+  ]
+}

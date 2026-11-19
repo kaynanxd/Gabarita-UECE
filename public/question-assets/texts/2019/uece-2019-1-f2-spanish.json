@@ -1,0 +1,272 @@
+{
+  "paperId": "uece-2019-1-f2-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2019-1-f2-spanish-t1",
+      "label": "Texto 1",
+      "title": null,
+      "lines": [
+        {
+          "number": 1,
+          "text": "Hola Marta, ¿cómo va todo por Madrid?"
+        },
+        {
+          "number": 2,
+          "text": "Espero que estés bien, feliz con los"
+        },
+        {
+          "number": 3,
+          "text": "preparativos para tu boda. La verdad es que"
+        },
+        {
+          "number": 4,
+          "text": "cuando me dijiste que te casabas, no me lo"
+        },
+        {
+          "number": 5,
+          "text": "podía creer. Marta, la chica que decía que"
+        },
+        {
+          "number": 6,
+          "text": "nunca se casaría, que quería ser libre… pero"
+        },
+        {
+          "number": 7,
+          "text": "bueno, supongo que todos cambiamos. Te"
+        },
+        {
+          "number": 8,
+          "text": "entiendo, Juan es un chico estupendo y si"
+        },
+        {
+          "number": 9,
+          "text": "quieres formar una familia, es normal que te"
+        },
+        {
+          "number": 10,
+          "text": "cases."
+        },
+        {
+          "number": 11,
+          "text": "Te escribo para darte una mala noticia: no"
+        },
+        {
+          "number": 12,
+          "text": "voy a poder asistir a la boda. El 12 de"
+        },
+        {
+          "number": 13,
+          "text": "septiembre voy a estar en Estados Unidos,"
+        },
+        {
+          "number": 14,
+          "text": "me han concedido una beca para estudiar en"
+        },
+        {
+          "number": 15,
+          "text": "Boston en un centro de investigación. Es la"
+        },
+        {
+          "number": 16,
+          "text": "oportunidad de mi vida y, desgraciadamente,"
+        },
+        {
+          "number": 17,
+          "text": "el curso empieza el 13. Perdóname, no sabes"
+        },
+        {
+          "number": 18,
+          "text": "la pena que me da no poder estar en Madrid."
+        },
+        {
+          "number": 19,
+          "text": "Os he comprado un pequeño regalo. Solo"
+        },
+        {
+          "number": 20,
+          "text": "tienes que ir a buscarlo en la tienda de"
+        },
+        {
+          "number": 21,
+          "text": "muebles del padre de Marcos; puedes ir a"
+        },
+        {
+          "number": 22,
+          "text": "partir del día 3."
+        },
+        {
+          "number": 23,
+          "text": "Bueno, te dejo. Espero que pases el mejor"
+        },
+        {
+          "number": 24,
+          "text": "día de tu vida. Dale muchos recuerdos a Juan"
+        },
+        {
+          "number": 25,
+          "text": "y a tu familia."
+        },
+        {
+          "number": 26,
+          "text": "Nos vemos en Navidad. Te deseo lo mejor."
+        },
+        {
+          "number": 27,
+          "text": "Besos,"
+        },
+        {
+          "number": 28,
+          "text": "Paco"
+        }
+      ],
+      "questionIds": [
+        "uece-2019-1-f2-spanish-q01",
+        "uece-2019-1-f2-spanish-q02",
+        "uece-2019-1-f2-spanish-q03",
+        "uece-2019-1-f2-spanish-q04",
+        "uece-2019-1-f2-spanish-q05",
+        "uece-2019-1-f2-spanish-q06",
+        "uece-2019-1-f2-spanish-q07",
+        "uece-2019-1-f2-spanish-q08",
+        "uece-2019-1-f2-spanish-q09",
+        "uece-2019-1-f2-spanish-q10"
+      ]
+    },
+    {
+      "id": "uece-2019-1-f2-spanish-t2",
+      "label": "Texto 2",
+      "title": null,
+      "lines": [
+        {
+          "number": 29,
+          "text": "Hola Daniel:"
+        },
+        {
+          "number": 30,
+          "text": "¿Qué tal? ¿Cómo estás? Estaba en casa"
+        },
+        {
+          "number": 31,
+          "text": "aburrido y he pensado escribirte para"
+        },
+        {
+          "number": 32,
+          "text": "contarte mi fin de semana. El viernes por la"
+        },
+        {
+          "number": 33,
+          "text": "noche fui a una fiesta de cumpleaños, ¿te"
+        },
+        {
+          "number": 34,
+          "text": "acuerdas de María? Cumplió dieciocho años y"
+        },
+        {
+          "number": 35,
+          "text": "organizó una fiesta increíble."
+        },
+        {
+          "number": 36,
+          "text": "Allí conocí a una chica muy interesante, se"
+        },
+        {
+          "number": 37,
+          "text": "llama Ari y es argentina. Al día siguiente"
+        },
+        {
+          "number": 38,
+          "text": "quedé con ella para almorzar en mi casa."
+        },
+        {
+          "number": 39,
+          "text": "Preparé mi famosa tortilla de patatas y creo"
+        },
+        {
+          "number": 40,
+          "text": "que le encantó. Estábamos tan bien juntos"
+        },
+        {
+          "number": 41,
+          "text": "que no nos separamos en todo el día."
+        },
+        {
+          "number": 42,
+          "text": "Después de comer fuimos al cine para ver la"
+        },
+        {
+          "number": 43,
+          "text": "última película de Bardem y, al salir, nos"
+        },
+        {
+          "number": 44,
+          "text": "encontramos a Javi y a Elena. Total, que nos"
+        },
+        {
+          "number": 45,
+          "text": "fuimos a cenar con ellos a un restaurante"
+        },
+        {
+          "number": 46,
+          "text": "japonés."
+        },
+        {
+          "number": 47,
+          "text": "El domingo había quedado con mis padres"
+        },
+        {
+          "number": 48,
+          "text": "para comer. Fuimos a un restaurante muy"
+        },
+        {
+          "number": 49,
+          "text": "elegante que han abierto en la Gran Vía. El"
+        },
+        {
+          "number": 50,
+          "text": "resto del día lo pasé en el sofá de mi piso"
+        },
+        {
+          "number": 51,
+          "text": "pensando en Ari. Estoy muy emocionado,"
+        },
+        {
+          "number": 52,
+          "text": "creo que he encontrado a la chica de mis"
+        },
+        {
+          "number": 53,
+          "text": "sueños. Bueno Daniel, te dejo, he quedado"
+        },
+        {
+          "number": 54,
+          "text": "con ella dentro de una hora y tengo que"
+        },
+        {
+          "number": 55,
+          "text": "ponerme guapo."
+        },
+        {
+          "number": 56,
+          "text": "Hasta pronto."
+        },
+        {
+          "number": 57,
+          "text": "Alonso."
+        }
+      ],
+      "questionIds": [
+        "uece-2019-1-f2-spanish-q11",
+        "uece-2019-1-f2-spanish-q12",
+        "uece-2019-1-f2-spanish-q13",
+        "uece-2019-1-f2-spanish-q14",
+        "uece-2019-1-f2-spanish-q15",
+        "uece-2019-1-f2-spanish-q16",
+        "uece-2019-1-f2-spanish-q17",
+        "uece-2019-1-f2-spanish-q18",
+        "uece-2019-1-f2-spanish-q19",
+        "uece-2019-1-f2-spanish-q20"
+      ]
+    }
+  ]
+}

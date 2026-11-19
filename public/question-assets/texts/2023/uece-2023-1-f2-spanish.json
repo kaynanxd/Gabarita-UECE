@@ -1,0 +1,308 @@
+{
+  "paperId": "uece-2023-1-f2-spanish",
+  "subject": "spanish",
+  "texts": [
+    {
+      "id": "uece-2023-1-f2-spanish-t1",
+      "label": "Texto 01",
+      "title": null,
+      "lines": [
+        {
+          "number": 1,
+          "text": "Los niños de la escuela infantil Casa Menuda,"
+        },
+        {
+          "number": 2,
+          "text": "de San Sebastián de los Reyes, van a ser espiados"
+        },
+        {
+          "number": 3,
+          "text": "mientras juegan. Una cámara de vídeo, situada en un"
+        },
+        {
+          "number": 4,
+          "text": "lugar estratégico del patio de recreo, grabará sus"
+        },
+        {
+          "number": 5,
+          "text": "movimientos y los transmitirá a través de internet"
+        },
+        {
+          "number": 6,
+          "text": "para que los padres puedan ver qué hacen y cómo se"
+        },
+        {
+          "number": 7,
+          "text": "encuentran sus retoños durante su ausencia. Esta"
+        },
+        {
+          "number": 8,
+          "text": "iniciativa, que lleva por nombre Babynet, llenará de"
+        },
+        {
+          "number": 9,
+          "text": "tranquilidad a muchas familias que ya no tendrán que"
+        },
+        {
+          "number": 10,
+          "text": "preocuparse por si su hijo habrá comido, habrá"
+        },
+        {
+          "number": 11,
+          "text": "dormido la siesta o se divertirá con sus amiguitos. A"
+        },
+        {
+          "number": 12,
+          "text": "partir de ahora ya no tendrán que llamar por"
+        },
+        {
+          "number": 13,
+          "text": "teléfono. Bastará con que se conecten a la Red."
+        },
+        {
+          "number": 14,
+          "text": "Uno de los propietarios de la escuela, Jorge"
+        },
+        {
+          "number": 15,
+          "text": "Pérez, comenta que es una buena forma de"
+        },
+        {
+          "number": 16,
+          "text": "involucrar a los padres en la educación de los niños"
+        },
+        {
+          "number": 17,
+          "text": "porque podrán ver qué tipo de actividades"
+        },
+        {
+          "number": 18,
+          "text": "realizamos. Esta ciberguardería será un regalo del"
+        },
+        {
+          "number": 19,
+          "text": "cielo para los niños extranjeros que pueda haber en"
+        },
+        {
+          "number": 20,
+          "text": "las escuelas, así los niños que tengan familiares fuera"
+        },
+        {
+          "number": 21,
+          "text": "de España podrán verlos sin moverse de su casa."
+        },
+        {
+          "number": null,
+          "text": "Pruebas de nível (Paula Gozalo y María Martín)"
+        }
+      ],
+      "questionIds": [
+        "uece-2023-1-f2-spanish-q01",
+        "uece-2023-1-f2-spanish-q02",
+        "uece-2023-1-f2-spanish-q03",
+        "uece-2023-1-f2-spanish-q04",
+        "uece-2023-1-f2-spanish-q05",
+        "uece-2023-1-f2-spanish-q06",
+        "uece-2023-1-f2-spanish-q07"
+      ]
+    },
+    {
+      "id": "uece-2023-1-f2-spanish-t2",
+      "label": "Texto 02",
+      "title": null,
+      "lines": [
+        {
+          "number": 1,
+          "text": "Cuando nos invitaron a las VII Jornadas de"
+        },
+        {
+          "number": 2,
+          "text": "Turismo de Canarias, sin haber visto ni hojeado la"
+        },
+        {
+          "number": 3,
+          "text": "programación de los actos de estas Jornadas,"
+        },
+        {
+          "number": 4,
+          "text": "pensamos que, durante los ocho días que iba a durar"
+        },
+        {
+          "number": 5,
+          "text": "este evento, podríamos disfrutar al máximo de las"
+        },
+        {
+          "number": 6,
+          "text": "excelentes instalaciones y servicios de sus complejos"
+        },
+        {
+          "number": 7,
+          "text": "hoteleros, así como de los baños en sus aguas"
+        },
+        {
+          "number": 8,
+          "text": "cristalinas y de los paseos por sus magníficas playas,"
+        },
+        {
+          "number": 9,
+          "text": "que son el emblema de Canarias."
+        },
+        {
+          "number": 10,
+          "text": "Pues bien, nada más leer el programa de"
+        },
+        {
+          "number": 11,
+          "text": "actividades de estas jornadas, pudimos comprobar"
+        },
+        {
+          "number": 12,
+          "text": "que el itinerario sería diferente y que el baño se"
+        },
+        {
+          "number": 13,
+          "text": "quedaría para otra ocasión. A cambio se nos ofreció la"
+        },
+        {
+          "number": 14,
+          "text": "posibilidad de descubrir “la otra” parte de estas islas,"
+        },
+        {
+          "number": 15,
+          "text": "su “turismo interior”. Y no se nos defraudó, muy al"
+        },
+        {
+          "number": 16,
+          "text": "contrario, en el amplio recorrido que hicimos, todo"
+        },
+        {
+          "number": 17,
+          "text": "nos cautivó y maravilló: su entorno, la belleza de sus"
+        },
+        {
+          "number": 18,
+          "text": "paisajes, sus atractivos y originales municipios llenos"
+        },
+        {
+          "number": 19,
+          "text": "de historia y de riqueza cultural…"
+        },
+        {
+          "number": 20,
+          "text": "Nuestro primer destino fue Gran Canaria, isla"
+        },
+        {
+          "number": 21,
+          "text": "que se encuentra en la zona atlántica de la"
+        },
+        {
+          "number": 22,
+          "text": "Macronesia, a unos 210 Km del puerto más cercano de"
+        },
+        {
+          "number": 23,
+          "text": "la costa africana y a 1250 Km de Cádiz, el puerto"
+        },
+        {
+          "number": 24,
+          "text": "continental europeo más próximo. De origen"
+        },
+        {
+          "number": 25,
+          "text": "volcánico, la característica más señalada de la isla es"
+        },
+        {
+          "number": 26,
+          "text": "su redondez, solo interrumpida por un apéndice en su"
+        },
+        {
+          "number": 27,
+          "text": "extremo noroeste: la península Isleta, telón de fondo"
+        },
+        {
+          "number": 28,
+          "text": "panorámico de la capital de la isla, Las Palmas de Gran"
+        },
+        {
+          "number": 29,
+          "text": "Canaria."
+        },
+        {
+          "number": 30,
+          "text": "Desde el aeropuerto de Gran Canaria nos"
+        },
+        {
+          "number": 31,
+          "text": "trasladamos al municipio de Puerto Rico, en la parte"
+        },
+        {
+          "number": 32,
+          "text": "oeste de la isla. Allí nos embarcamos en un catamarán"
+        },
+        {
+          "number": 33,
+          "text": "e hicimos un recorrido por el litoral de los municipios"
+        },
+        {
+          "number": 34,
+          "text": "de Puerto Rico, Puerto Mogán, Veneguera etc."
+        },
+        {
+          "number": 35,
+          "text": "Observamos los contrastes de sus orillas y de sus"
+        },
+        {
+          "number": 36,
+          "text": "acantilados, y nos sorprendió la arquitectura"
+        },
+        {
+          "number": 37,
+          "text": "escalonada de sus edificios enclavados en la montaña,"
+        },
+        {
+          "number": 38,
+          "text": "que les proporciona excelentes vistas al mar."
+        },
+        {
+          "number": 39,
+          "text": "Desde el Puerto Mogán nos internamos 8 Km"
+        },
+        {
+          "number": 40,
+          "text": "por carretera, hasta llegar al fértil Valle del Mogán, de"
+        },
+        {
+          "number": 41,
+          "text": "maravilloso microclima subtropical, con temperaturas"
+        },
+        {
+          "number": 42,
+          "text": "suaves y constantes durante todo el año, considerado"
+        },
+        {
+          "number": 43,
+          "text": "por UNESCO como el mejor del mundo."
+        },
+        {
+          "number": null,
+          "text": "www.elalmanaque.com/turismo/canarias"
+        }
+      ],
+      "questionIds": [
+        "uece-2023-1-f2-spanish-q08",
+        "uece-2023-1-f2-spanish-q09",
+        "uece-2023-1-f2-spanish-q10",
+        "uece-2023-1-f2-spanish-q11",
+        "uece-2023-1-f2-spanish-q12",
+        "uece-2023-1-f2-spanish-q13",
+        "uece-2023-1-f2-spanish-q14",
+        "uece-2023-1-f2-spanish-q15",
+        "uece-2023-1-f2-spanish-q16",
+        "uece-2023-1-f2-spanish-q17",
+        "uece-2023-1-f2-spanish-q18",
+        "uece-2023-1-f2-spanish-q19",
+        "uece-2023-1-f2-spanish-q20"
+      ]
+    }
+  ]
+}
