@@ -4,6 +4,63 @@
   "texts": [
     {
       "id": "uece-2020-2-f2-portuguese-t1",
+      "label": "TEXTO 1",
+      "title": "Pronominais",
+      "lines": [
+        {
+          "number": 1,
+          "text": "Dê-me um cigarro"
+        },
+        {
+          "number": 2,
+          "text": "Diz a gramática"
+        },
+        {
+          "number": 3,
+          "text": "Do professor e do aluno"
+        },
+        {
+          "number": 4,
+          "text": "E do mulato sabido"
+        },
+        {
+          "number": 5,
+          "text": "Mas o bom negro e o bom branco"
+        },
+        {
+          "number": 6,
+          "text": "Da Nação Brasileira"
+        },
+        {
+          "number": 7,
+          "text": "Dizem todos os dias"
+        },
+        {
+          "number": 8,
+          "text": "Deixa disso camarada"
+        },
+        {
+          "number": 9,
+          "text": "Me dá um cigarro."
+        },
+        {
+          "number": null,
+          "text": "ANDRADE, Oswald. Obras completas."
+        },
+        {
+          "number": null,
+          "text": "Rio de Janeiro: Civilização Brasileira, 1972."
+        }
+      ],
+      "questionIds": [
+        "uece-2020-2-f2-portuguese-q01",
+        "uece-2020-2-f2-portuguese-q02",
+        "uece-2020-2-f2-portuguese-q03",
+        "uece-2020-2-f2-portuguese-q04"
+      ]
+    },
+    {
+      "id": "uece-2020-2-f2-portuguese-t2",
       "label": "TEXTO 2",
       "title": "Samba do Arnesto",
       "lines": [
@@ -92,7 +149,7 @@
       ]
     },
     {
-      "id": "uece-2020-2-f2-portuguese-t2",
+      "id": "uece-2020-2-f2-portuguese-t3",
       "label": "TEXTO 3",
       "title": "Meu Caro Amigo",
       "lines": [
@@ -301,7 +358,7 @@
       ]
     },
     {
-      "id": "uece-2020-2-f2-portuguese-t3",
+      "id": "uece-2020-2-f2-portuguese-t4",
       "label": "TEXTO 4",
       "title": "9",
       "lines": [
@@ -428,7 +485,7 @@
       ]
     },
     {
-      "id": "uece-2020-2-f2-portuguese-t4",
+      "id": "uece-2020-2-f2-portuguese-t5",
       "label": "TEXTO 5",
       "title": "tem QI mais baixo que seus antecessores",
       "lines": [
@@ -711,7 +768,7 @@
       ]
     },
     {
-      "id": "uece-2020-2-f2-portuguese-t5",
+      "id": "uece-2020-2-f2-portuguese-t6",
       "label": "TEXTO 6",
       "title": "O Poeta da Roça",
       "lines": [

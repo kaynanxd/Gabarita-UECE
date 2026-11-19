@@ -9,6 +9,57 @@
       "lines": [
         {
           "number": null,
+          "text": "O texto 1 desta prova consta, como prefácio, da 2ª"
+        },
+        {
+          "number": null,
+          "text": "edição do romance Janelas Fechadas, do maranhense"
+        },
+        {
+          "number": null,
+          "text": "Josué Montello, publicado pela primeira vez em 1941."
+        },
+        {
+          "number": null,
+          "text": "Foi escrito por Tristão de Athayde (Alceu Amoroso"
+        },
+        {
+          "number": null,
+          "text": "Lima), que compõe uma crítica na qual desenvolve"
+        },
+        {
+          "number": null,
+          "text": "ideias originais, como uma aproximação entre"
+        },
+        {
+          "number": null,
+          "text": "Benzinho, protagonista do romance de Montello, e"
+        },
+        {
+          "number": null,
+          "text": "Capitu."
+        }
+      ],
+      "questionIds": [
+        "uece-2017-1-f1-portuguese-q01",
+        "uece-2017-1-f1-portuguese-q02",
+        "uece-2017-1-f1-portuguese-q03",
+        "uece-2017-1-f1-portuguese-q04",
+        "uece-2017-1-f1-portuguese-q05",
+        "uece-2017-1-f1-portuguese-q06",
+        "uece-2017-1-f1-portuguese-q07",
+        "uece-2017-1-f1-portuguese-q08",
+        "uece-2017-1-f1-portuguese-q09",
+        "uece-2017-1-f1-portuguese-q12"
+      ]
+    },
+    {
+      "id": "uece-2017-1-f1-portuguese-t2",
+      "label": "Texto 1",
+      "title": null,
+      "lines": [
+        {
+          "number": null,
           "text": "Uma Capitu Nordestina"
         },
         {
@@ -353,7 +404,50 @@
       ]
     },
     {
-      "id": "uece-2017-1-f1-portuguese-t2",
+      "id": "uece-2017-1-f1-portuguese-t3",
+      "label": "Texto 3",
+      "title": null,
+      "lines": [
+        {
+          "number": null,
+          "text": "A partir dos anos 20, com os estudos"
+        },
+        {
+          "number": null,
+          "text": "desenvolvidos por Bakhtin e seu grupo, a língua"
+        },
+        {
+          "number": null,
+          "text": "passou a ser vista como um fenômeno social e"
+        },
+        {
+          "number": null,
+          "text": "os enunciados passaram a ser considerados"
+        },
+        {
+          "number": null,
+          "text": "como uma grande rede responsiva: cada"
+        },
+        {
+          "number": null,
+          "text": "enunciado responde a enunciado anterior e, ao"
+        },
+        {
+          "number": null,
+          "text": "mesmo tempo, espera resposta de um outro"
+        },
+        {
+          "number": null,
+          "text": "enunciado posterior."
+        }
+      ],
+      "questionIds": [
+        "uece-2017-1-f1-portuguese-q10",
+        "uece-2017-1-f1-portuguese-q11"
+      ]
+    },
+    {
+      "id": "uece-2017-1-f1-portuguese-t4",
       "label": "Texto 2",
       "title": "Super-Homem",
       "lines": [
@@ -460,8 +554,7 @@
       ],
       "questionIds": [
         "uece-2017-1-f1-portuguese-q10",
-        "uece-2017-1-f1-portuguese-q11",
-        "uece-2017-1-f1-portuguese-q12"
+        "uece-2017-1-f1-portuguese-q11"
       ]
     }
   ]

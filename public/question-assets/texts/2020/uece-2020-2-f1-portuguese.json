@@ -103,7 +103,115 @@
     },
     {
       "id": "uece-2020-2-f1-portuguese-t2",
-      "label": "Texto 2",
+      "label": "TEXTO 2",
+      "title": "Ai Que Saudades da Amélia",
+      "lines": [
+        {
+          "number": 19,
+          "text": "Nunca vi fazer tanta exigência"
+        },
+        {
+          "number": 20,
+          "text": "Nem fazer o que você me faz"
+        },
+        {
+          "number": 21,
+          "text": "Você não sabe o que é consciência"
+        },
+        {
+          "number": 22,
+          "text": "Nem vê que eu sou um pobre rapaz"
+        },
+        {
+          "number": 23,
+          "text": "Você só pensa em luxo e riqueza"
+        },
+        {
+          "number": 24,
+          "text": "Tudo que você vê você quer"
+        },
+        {
+          "number": 25,
+          "text": "Ai, meu Deus, que saudade da Amélia"
+        },
+        {
+          "number": 26,
+          "text": "Aquilo sim é que era mulher"
+        },
+        {
+          "number": 27,
+          "text": "Às vezes passava fome ao meu lado"
+        },
+        {
+          "number": 28,
+          "text": "E achava bonito não ter o que comer"
+        },
+        {
+          "number": 29,
+          "text": "E quando me via contrariado"
+        },
+        {
+          "number": 30,
+          "text": "Dizia: Meu filho, que se há de fazer"
+        },
+        {
+          "number": 31,
+          "text": "Amélia não tinha a menor vaidade"
+        },
+        {
+          "number": 32,
+          "text": "Amélia é que era mulher de verdade"
+        },
+        {
+          "number": 33,
+          "text": "Amélia não tinha a menor vaidade"
+        },
+        {
+          "number": 34,
+          "text": "Amélia é que era mulher de verdade"
+        },
+        {
+          "number": 35,
+          "text": "Às vezes passava fome ao meu lado"
+        },
+        {
+          "number": 36,
+          "text": "E achava bonito não ter o que comer"
+        },
+        {
+          "number": 37,
+          "text": "E quando me via contrariado"
+        },
+        {
+          "number": 38,
+          "text": "Dizia: Meu filho, que se há de fazer"
+        },
+        {
+          "number": null,
+          "text": "Composição: ALVES, Ataulfo /LAGO, Mario."
+        },
+        {
+          "number": null,
+          "text": "Ai Que Saudades da Amélia. Captado de"
+        },
+        {
+          "number": null,
+          "text": "https://www.vagalume.com.br/mario-lago/ai-que-"
+        },
+        {
+          "number": null,
+          "text": "saudades-da-amelia.html"
+        }
+      ],
+      "questionIds": [
+        "uece-2020-2-f1-portuguese-q07",
+        "uece-2020-2-f1-portuguese-q08",
+        "uece-2020-2-f1-portuguese-q09"
+      ]
+    },
+    {
+      "id": "uece-2020-2-f1-portuguese-t3",
+      "label": "Texto 3",
       "title": "Desconstruindo Amélia",
       "lines": [
         {
@@ -206,8 +314,8 @@
       ]
     },
     {
-      "id": "uece-2020-2-f1-portuguese-t3",
-      "label": "Texto 3",
+      "id": "uece-2020-2-f1-portuguese-t4",
+      "label": "Texto 4",
       "title": "Covid-19 é pauta de sessão na",
       "lines": [
         {

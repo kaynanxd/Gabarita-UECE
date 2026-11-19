@@ -680,6 +680,50 @@
     {
       "id": "uece-2022-2-f1-portuguese-t3",
       "label": "Texto 3",
+      "title": null,
+      "lines": [
+        {
+          "number": null,
+          "text": "Em 2022, comemora-se o centenário da Semana"
+        },
+        {
+          "number": null,
+          "text": "de Arte Moderna, manifestação artístico-cultural"
+        },
+        {
+          "number": null,
+          "text": "que ocorreu entre os dias 13 e 18 de fevereiro"
+        },
+        {
+          "number": null,
+          "text": "de 1922, no Teatro Municipal de São Paulo."
+        },
+        {
+          "number": null,
+          "text": "Durante a abertura, Ronald de Carvalho leu o"
+        },
+        {
+          "number": null,
+          "text": "poema “Os sapos”, de Manuel Bandeira. Leia o"
+        },
+        {
+          "number": null,
+          "text": "referido poema para responder às questões de"
+        },
+        {
+          "number": null,
+          "text": "números 10 a 12."
+        }
+      ],
+      "questionIds": [
+        "uece-2022-2-f1-portuguese-q10",
+        "uece-2022-2-f1-portuguese-q11",
+        "uece-2022-2-f1-portuguese-q12"
+      ]
+    },
+    {
+      "id": "uece-2022-2-f1-portuguese-t4",
+      "label": "Texto 3",
       "title": "Os sapos",
       "lines": [
         {

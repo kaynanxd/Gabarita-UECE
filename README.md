@@ -165,7 +165,7 @@ public/question-assets/
 ├── manifest.json   # Índice por questionId: { figures, crops }
 ├── figures/        # 67 figuras de enunciados (mapas, charges, gráficos, tabelas)
 ├── crops/          # 3 recortes de questões de Química com alternativas visuais
-└── texts/          # 206 textos-base compartilhados (135 provas de Línguas, 1.948 questões em index.json)
+└── texts/          # 214 textos-base compartilhados (135 provas de Línguas, 1.948 questões em index.json)
 ```
 
 - **Ordem de exibição na interface:** Texto de apoio (com numeração de linhas preservada) -> Enunciado -> Figuras/recortes -> Alternativas.

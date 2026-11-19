@@ -213,6 +213,84 @@
     {
       "id": "uece-2017-1-f2-portuguese-t2",
       "label": "Texto 2",
+      "title": null,
+      "lines": [
+        {
+          "number": null,
+          "text": "Subsídio para a leitura do Texto 2"
+        },
+        {
+          "number": null,
+          "text": "Pedro Américo, pintor brasileiro nascido na Paraíba,"
+        },
+        {
+          "number": null,
+          "text": "foi um grande cultivador da arte acadêmica. Viveu"
+        },
+        {
+          "number": null,
+          "text": "sob a proteção de D. Pedro II, que lhe financiou"
+        },
+        {
+          "number": null,
+          "text": "cursos na Europa. O Imperador Brasileiro foi um"
+        },
+        {
+          "number": null,
+          "text": "verdadeiro Mecenas (indivíduo rico que protege"
+        },
+        {
+          "number": null,
+          "text": "artistas, homens de letras ou de ciências,"
+        },
+        {
+          "number": null,
+          "text": "proporcionando-lhes recursos financeiros para que"
+        },
+        {
+          "number": null,
+          "text": "possam dedicar-se, sem preocupações outras, às"
+        },
+        {
+          "number": null,
+          "text": "artes e às ciências). Foi por encomenda de D. Pedro"
+        },
+        {
+          "number": null,
+          "text": "II que ele pintou, em 1888, o quadro que"
+        },
+        {
+          "number": null,
+          "text": "homenageia D. Pedro I, pelo ato de proclamar a"
+        },
+        {
+          "number": null,
+          "text": "independência política do Brasil. A pintura recebeu o"
+        },
+        {
+          "number": null,
+          "text": "nome de Independência ou Morte, sendo mais"
+        },
+        {
+          "number": null,
+          "text": "conhecida, no entanto, como O Grito do Ipiranga. É"
+        },
+        {
+          "number": null,
+          "text": "um quadro que todo estudante brasileiro reconhece."
+        }
+      ],
+      "questionIds": [
+        "uece-2017-1-f2-portuguese-q16",
+        "uece-2017-1-f2-portuguese-q17",
+        "uece-2017-1-f2-portuguese-q18",
+        "uece-2017-1-f2-portuguese-q19",
+        "uece-2017-1-f2-portuguese-q20"
+      ]
+    },
+    {
+      "id": "uece-2017-1-f2-portuguese-t3",
+      "label": "Texto 2",
       "title": "O GRITO",
       "lines": [
         {

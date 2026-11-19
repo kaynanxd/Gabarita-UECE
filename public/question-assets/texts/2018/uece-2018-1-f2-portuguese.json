@@ -863,6 +863,165 @@
     },
     {
       "id": "uece-2018-1-f2-portuguese-t5",
+      "label": "TEXTO 5",
+      "title": "Os Velhos",
+      "lines": [
+        {
+          "number": null,
+          "text": "Carlos Drummond de Andrade"
+        },
+        {
+          "number": 184,
+          "text": "Todos nasceram velhos — desconfio."
+        },
+        {
+          "number": 185,
+          "text": "Em casas mais velhas que a velhice,"
+        },
+        {
+          "number": 186,
+          "text": "em ruas que existiram sempre — sempre"
+        },
+        {
+          "number": 187,
+          "text": "assim como estão hoje"
+        },
+        {
+          "number": 188,
+          "text": "e não deixarão nunca de estar:"
+        },
+        {
+          "number": 189,
+          "text": "soturnas e paradas e indeléveis"
+        },
+        {
+          "number": 190,
+          "text": "mesmo no desmoronar do Juízo Final."
+        },
+        {
+          "number": 191,
+          "text": "Os mais velhos têm 100, 200 anos"
+        },
+        {
+          "number": 192,
+          "text": "e lá se perde a conta."
+        },
+        {
+          "number": 193,
+          "text": "Os mais novos dos novos,"
+        },
+        {
+          "number": 194,
+          "text": "não menos de 50 — enormidade."
+        },
+        {
+          "number": 195,
+          "text": "Nenhum olha para mim."
+        },
+        {
+          "number": 196,
+          "text": "A velhice o proíbe. Quem autorizou"
+        },
+        {
+          "number": 197,
+          "text": "existirem meninos neste largo municipal?"
+        },
+        {
+          "number": 198,
+          "text": "Quem infringiu a lei da eternidade"
+        },
+        {
+          "number": 199,
+          "text": "que não permite recomeçar a vida?"
+        },
+        {
+          "number": 200,
+          "text": "Ignoram-me. Não sou. Tenho vontade"
+        },
+        {
+          "number": 201,
+          "text": "de ser também um velho desde sempre."
+        },
+        {
+          "number": 202,
+          "text": "Assim conversarão"
+        },
+        {
+          "number": 203,
+          "text": "comigo sobre coisas"
+        },
+        {
+          "number": 204,
+          "text": "seladas em cofre de subentendidos"
+        },
+        {
+          "number": 205,
+          "text": "a conversa infindável de monossílabos,"
+        },
+        {
+          "number": 206,
+          "text": "resmungos,"
+        },
+        {
+          "number": 207,
+          "text": "tosse conclusiva."
+        },
+        {
+          "number": 208,
+          "text": "Nem me veem passar. Não me dão"
+        },
+        {
+          "number": 209,
+          "text": "confiança."
+        },
+        {
+          "number": 210,
+          "text": "Confiança! Confiança!"
+        },
+        {
+          "number": 211,
+          "text": "Dádiva impensável"
+        },
+        {
+          "number": 212,
+          "text": "nos semblantes fechados,"
+        },
+        {
+          "number": 213,
+          "text": "nos felpudos redingotes,"
+        },
+        {
+          "number": 214,
+          "text": "nos chapéus autoritários,"
+        },
+        {
+          "number": 215,
+          "text": "nas barbas de milénios."
+        },
+        {
+          "number": 216,
+          "text": "Sigo, seco e só, atravessando"
+        },
+        {
+          "number": 217,
+          "text": "a floresta de velhos."
+        },
+        {
+          "number": null,
+          "text": "ANDRADE, Carlos Drummond. Boitempo II. São"
+        },
+        {
+          "number": null,
+          "text": "Paulo: Record.1986."
+        }
+      ],
+      "questionIds": [
+        "uece-2018-1-f2-portuguese-q16",
+        "uece-2018-1-f2-portuguese-q17"
+      ]
+    },
+    {
+      "id": "uece-2018-1-f2-portuguese-t6",
       "label": "TEXTO 6",
       "title": "Velhas Árvores",
       "lines": [
@@ -949,7 +1108,7 @@
       ]
     },
     {
-      "id": "uece-2018-1-f2-portuguese-t6",
+      "id": "uece-2018-1-f2-portuguese-t7",
       "label": "TEXTO 7",
       "title": "A velha contrabandista",
       "lines": [

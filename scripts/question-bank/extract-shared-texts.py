@@ -305,22 +305,38 @@ def extract_texts_for_paper(paper_id: str, subject: str, qs: list[dict], occurre
         if sub_lines:
             split_blocks.append({"lines": sub_lines, "before_q_num": blk["before_q_num"]})
 
-    # Discard tiny noise blocks (< 4 lines) BEFORE computing question ranges
-    split_blocks = [blk for blk in split_blocks if len(blk["lines"]) >= 4]
+    # Discard tiny noise blocks (< 4 lines) and pure instruction blocks before Texto 1
+    def is_instruction_only(blk: dict) -> bool:
+        if any(l["line_num"] is not None for l in blk["lines"]):
+            return False
+        joined = " ".join(l["text"].strip().lower() for l in blk["lines"])
+        return ("caro candidato" in joined or "prezado" in joined) and len(blk["lines"]) <= 12
+
+    filtered_blocks: list[dict] = []
+    for idx, blk in enumerate(split_blocks):
+        if len(blk["lines"]) < 4:
+            continue
+        if is_instruction_only(blk) and any(
+            other is not blk and other["before_q_num"] == blk["before_q_num"] and len(other["lines"]) >= 4
+            for other in split_blocks
+        ):
+            continue
+        filtered_blocks.append(blk)
+    split_blocks = filtered_blocks
 
     # Convert blocks to clean text objects
     texts: list[dict] = []
     for t_idx, blk in enumerate(split_blocks, start=1):
         blines = blk["lines"]
 
-        label = f"Texto {t_idx}"
+        explicit_label = None
         title = None
         body_lines = []
 
         for k, l in enumerate(blines):
             t = l["text"].strip()
             if l["line_num"] is None and k <= 5 and TEXT_LABEL_RE.match(t):
-                label = t
+                explicit_label = t
                 continue
             if l["line_num"] is None and k <= 6 and title is None and len(t) < 80 and not t.endswith(".") and (l["x0"] - l["col_left"] > 35):
                 title = t
@@ -330,9 +346,9 @@ def extract_texts_for_paper(paper_id: str, subject: str, qs: list[dict], occurre
         while body_lines and body_lines[-1]["number"] is None and re.match(r"^\d{1,2}$", body_lines[-1]["text"]):
             body_lines.pop()
 
-        # Determine which questions belong to this text (from before_q_num up to next block's before_q_num)
+        # Determine which questions belong to this text (from before_q_num up to next strictly greater before_q_num)
         start_q = blk["before_q_num"]
-        next_q = split_blocks[t_idx]["before_q_num"] if t_idx < len(split_blocks) else 9999
+        next_q = next((b["before_q_num"] for b in split_blocks[t_idx:] if b["before_q_num"] > start_q), 9999)
         linked_qids = [
             q_num_to_id[num]
             for num in sorted(q_num_to_id)
@@ -343,8 +359,7 @@ def extract_texts_for_paper(paper_id: str, subject: str, qs: list[dict], occurre
             continue
 
         seq_num = len(texts) + 1
-        if label == f"Texto {t_idx}":
-            label = f"Texto {seq_num}"
+        label = explicit_label or f"Texto {seq_num}"
 
         texts.append({
             "id": f"{paper_id}-t{seq_num}",
@@ -353,6 +368,32 @@ def extract_texts_for_paper(paper_id: str, subject: str, qs: list[dict], occurre
             "lines": body_lines,
             "questionIds": linked_qids,
         })
+
+    # Re-link questions that explicitly cite a single "Texto X" different from their positional block
+    roman_map = {"I": "1", "II": "2", "III": "3", "IV": "4"}
+    label_num_re = re.compile(r"(\d+|I{1,3}|IV)\b", re.IGNORECASE)
+    text_by_norm_num: dict[str, dict] = {}
+    def norm_label_num(raw_val: str) -> str:
+        up = raw_val.upper()
+        return roman_map[up] if up in roman_map else str(int(up))
+
+    for t in texts:
+        m = label_num_re.search(t["label"])
+        if m:
+            text_by_norm_num.setdefault(norm_label_num(m.group(1)), t)
+
+    if len(text_by_norm_num) >= 2:
+        for q in qs_sorted:
+            refs = {norm_label_num(m) for m in TEXT_REF_RE.findall(q["statement"])}
+            if len(refs) == 1:
+                wanted = next(iter(refs))
+                target_t = text_by_norm_num.get(wanted)
+                if target_t and q["id"] not in target_t["questionIds"]:
+                    for t in texts:
+                        if q["id"] in t["questionIds"]:
+                            t["questionIds"].remove(q["id"])
+                    target_t["questionIds"].append(q["id"])
+                    target_t["questionIds"].sort(key=lambda qid: occurrences[qid]["number"])
 
     return {"paperId": paper_id, "subject": subject, "texts": texts}
 
