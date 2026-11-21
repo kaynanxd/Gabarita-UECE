@@ -134,16 +134,14 @@ Gabarita-UECE/
 │   │   ├── praticar/               # Simulados e modo treino
 │   │   ├── api/
 │   │   │   ├── health/             # Endpoint de healthcheck da API
-│   │   │   ├── questions/          # Endpoint de consulta de questões
-│   │   │   └── validation/         # Endpoint da pesquisa de escuta ativa
+│   │   │   └── questions/          # Endpoint de consulta de questões
 │   │   ├── globals.css             # Design tokens e classes globais
 │   │   ├── layout.tsx              # Root Layout e metadados SEO
 │   │   └── page.tsx                # Landing Page da plataforma
 │   ├── components/                 # Componentes de interface reutilizáveis
 │   │   ├── ArchiveQuestionViewer.tsx # Visualizador de questões no Acervo
 │   │   ├── PracticeApp.tsx         # Aplicação interativa de simulados/treino
-│   │   ├── QuestionVisuals.tsx     # Renderização de textos de apoio, figuras e recortes
-│   │   └── ValidationForm.tsx      # Formulário de escuta dos vestibulandos
+│   │   └── QuestionVisuals.tsx     # Renderização de textos de apoio, figuras e recortes
 │   └── lib/
 │       ├── prisma.ts               # Singleton do Prisma Client
 │       └── question-bank.ts        # Loader do acervo e mapeamento de assets visuais

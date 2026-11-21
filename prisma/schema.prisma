@@ -170,20 +170,3 @@ enum EssayStatus {
   COMPLETED
   FAILED
 }
-
-// -------------------------------------------------------------
-// 4. Validação & Escuta Inicial (Projeto de Extensão)
-// -------------------------------------------------------------
-model ValidationLead {
-  id                 String    @id @default(cuid())
-  name               String
-  email              String
-  phone              String?
-  studyRoutine       String?   @db.Text // Como estuda atualmente
-  biggestDifficulty  String?   @db.Text // Maior dificuldade na UECE
-  willingToInterview Boolean   @default(false)
-
-  createdAt          DateTime  @default(now())
-
-  @@map("validation_leads")
-}
